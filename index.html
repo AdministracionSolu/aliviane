@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aliviane · Páginas web para negocios</title>
+<meta name="description" content="Hacemos la página web de su negocio con su ubicación, su teléfono y sus servicios. Usted la ve terminada antes de contratar.">
+<link rel="canonical" href="https://www.aliviane.mx/">
+<meta property="og:title" content="Aliviane · Páginas web para negocios">
+<meta property="og:description" content="Hacemos la página web de su negocio. Usted la ve terminada antes de contratar.">
+<meta property="og:image" content="https://www.aliviane.mx/img/trabajos/laola.jpg">
+<meta property="og:url" content="https://www.aliviane.mx/">
+<meta property="og:locale" content="es_MX">
+<link rel="icon" href="img/icono.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --fondo: #f7f4ee;
+    --tinta: #1e2422;
+    --suave: #59615d;
+    --acento: #b4532a;
+    --acento-oscuro: #8f3f1e;
+    --borde: #ddd6ca;
+    --blanco: #ffffff;
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--fondo);
+    color: var(--tinta);
+    font: 400 17px/1.6 "Public Sans", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  img { max-width: 100%; display: block; }
+  .ancho { width: min(1120px, 100% - 32px); margin-inline: auto; }
+
+  header { padding: 22px 0; }
+  header .ancho { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .marca { font: 600 24px/1 "Fraunces", Georgia, serif; text-decoration: none; letter-spacing: -0.01em; }
+  nav { display: flex; gap: 24px; font-size: 15px; }
+  nav a { text-decoration: none; color: var(--suave); }
+  nav a:hover { color: var(--tinta); }
+
+  h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; letter-spacing: -0.015em; margin: 0; }
+  h1 { font-size: clamp(38px, 6vw, 68px); line-height: 1.05; max-width: 15ch; }
+  h2 { font-size: clamp(28px, 3.6vw, 40px); line-height: 1.15; }
+  h3 { font-size: 21px; line-height: 1.25; }
+  .previo { color: var(--acento); font-weight: 500; font-size: 15px; margin: 0 0 18px; }
+
+  .portada { padding: 72px 0 96px; }
+  .portada p.lead { font-size: 20px; color: var(--suave); max-width: 34em; margin: 24px 0 36px; }
+  .botones { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .boton {
+    display: inline-block; padding: 14px 24px; border-radius: 6px;
+    background: var(--acento); color: var(--blanco); text-decoration: none; font-weight: 600;
+  }
+  .boton:hover { background: var(--acento-oscuro); }
+  .liga { font-weight: 500; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+
+  section { padding: 72px 0; }
+  .encabezado { max-width: 40em; margin-bottom: 44px; }
+  .encabezado p { color: var(--suave); margin: 14px 0 0; }
+
+  .trabajos { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 48px 32px; }
+  .trabajo img { aspect-ratio: 16 / 10; width: 100%; height: auto; object-fit: cover; object-position: top; border: 1px solid var(--borde); border-radius: 6px; background: var(--blanco); }
+  .trabajo h3 { margin-top: 18px; }
+  .trabajo p { margin: 6px 0 0; color: var(--suave); font-size: 16px; }
+  .trabajo a.sitio { display: inline-block; margin-top: 8px; font-size: 15px; color: var(--acento); text-decoration: none; font-weight: 500; }
+  .trabajo a.sitio:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+  .oscuro { background: var(--tinta); color: #f2eee6; }
+  .oscuro .encabezado p, .oscuro .servicio p { color: #b9bdb6; }
+  .servicios { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 40px 48px; }
+  .servicio p { margin: 8px 0 0; font-size: 16px; }
+
+  .pasos { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 40px 48px; counter-reset: paso; }
+  .paso::before {
+    counter-increment: paso; content: counter(paso);
+    display: block; font: 600 40px/1 "Fraunces", Georgia, serif; color: var(--acento); margin-bottom: 14px;
+  }
+  .paso p { margin: 8px 0 0; color: var(--suave); font-size: 16px; }
+
+  .contacto { padding: 96px 0 112px; }
+  .contacto h2 { max-width: 16ch; }
+  .contacto p { color: var(--suave); margin: 16px 0 32px; font-size: 19px; }
+
+  footer { padding: 28px 0 40px; color: var(--suave); font-size: 14px; }
+
+  @media (max-width: 640px) {
+    body { font-size: 16px; }
+    nav { gap: 16px; font-size: 14px; }
+    nav a.ocultable { display: none; }
+    .portada { padding: 40px 0 64px; }
+    .portada p.lead { font-size: 18px; }
+    section { padding: 56px 0; }
+    .trabajos { grid-template-columns: 1fr; gap: 40px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="ancho">
+    <a class="marca" href="/">Aliviane</a>
+    <nav>
+      <a href="#trabajos">Trabajos</a>
+      <a class="ocultable" href="#servicios">Qué hacemos</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="portada">
+    <div class="ancho">
+      <p class="previo">Páginas web y sistemas para negocios</p>
+      <h1>Su negocio en Google con una página propia</h1>
+      <p class="lead">Hacemos la página de su negocio con su ubicación, su teléfono y sus servicios. Usted la ve terminada antes de contratar.</p>
+      <div class="botones">
+        <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Escríbanos</a>
+        <a class="liga" href="#trabajos">Ver trabajos</a>
+      </div>
+    </div>
+  </div>
+
+  <section id="trabajos">
+    <div class="ancho">
+      <div class="encabezado">
+        <h2>Negocios que hemos construido</h2>
+        <p>Sitios y sistemas que hoy usan clientes reales.</p>
+      </div>
+      <div class="trabajos">
+        <article class="trabajo">
+          <img src="img/trabajos/laola.jpg" alt="Página de La Ola, restaurante de mariscos" loading="lazy" width="1200" height="750">
+          <h3>La Ola</h3>
+          <p>Restaurante de mariscos con cuatro sucursales. Página, menú en línea y programa de lealtad</p>
+          <a class="sitio" href="https://laola.mx" target="_blank" rel="noopener">laola.mx</a>
+        </article>
+        <article class="trabajo">
+          <img src="img/trabajos/solu.jpg" alt="Página de Solú, créditos para personas y negocios" loading="lazy" width="1200" height="750">
+          <h3>Solú</h3>
+          <p>Créditos para personas y negocios. Página y solicitud de crédito en línea</p>
+          <a class="sitio" href="https://solufintech.com" target="_blank" rel="noopener">solufintech.com</a>
+        </article>
+        <article class="trabajo">
+          <img src="img/trabajos/signsolu.jpg" alt="Página de SignSolú, firma electrónica" loading="lazy" width="1200" height="750">
+          <h3>SignSolú</h3>
+          <p>Firma electrónica de contratos. Plataforma con clientes en 13 países</p>
+          <a class="sitio" href="https://signsolu.com" target="_blank" rel="noopener">signsolu.com</a>
+        </article>
+        <article class="trabajo">
+          <img src="img/trabajos/makatea.jpg" alt="Página de Makatea, cobranza por WhatsApp" loading="lazy" width="1200" height="750">
+          <h3>Makatea</h3>
+          <p>Cobranza por WhatsApp. Los recordatorios salen del número del propio negocio</p>
+          <a class="sitio" href="https://makatea.ai" target="_blank" rel="noopener">makatea.ai</a>
+        </article>
+        <article class="trabajo">
+          <img src="img/trabajos/agroqs.jpg" alt="Página de Agroqs, cotizaciones para negocios agrícolas" loading="lazy" width="1200" height="750">
+          <h3>Agroqs</h3>
+          <p>Cotizaciones para negocios agrícolas. Catálogo y seguimiento por WhatsApp</p>
+          <a class="sitio" href="https://agroqs.com" target="_blank" rel="noopener">agroqs.com</a>
+        </article>
+        <article class="trabajo">
+          <img src="img/trabajos/avelina.jpg" alt="Página de Avelina, cantautora" loading="lazy" width="1200" height="750">
+          <h3>Avelina</h3>
+          <p>Cantautora sonorense. Página con su música, videos y diario</p>
+          <a class="sitio" href="https://avelina.com.mx" target="_blank" rel="noopener">avelina.com.mx</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="servicios" class="oscuro">
+    <div class="ancho">
+      <div class="encabezado">
+        <h2>Lo que hacemos para su negocio</h2>
+        <p>Empezamos por la página. Lo demás se suma cuando lo necesite.</p>
+      </div>
+      <div class="servicios">
+        <div class="servicio">
+          <h3>Página web</h3>
+          <p>Con su dirección, horario, mapa y botón para llamar</p>
+        </div>
+        <div class="servicio">
+          <h3>Ficha de Google</h3>
+          <p>Damos de alta o corregimos su perfil en Google Maps</p>
+        </div>
+        <div class="servicio">
+          <h3>Botón de WhatsApp</h3>
+          <p>Sus clientes le escriben directo desde la página</p>
+        </div>
+        <div class="servicio">
+          <h3>Menú o catálogo en línea</h3>
+          <p>Sus productos y precios en una liga que puede compartir</p>
+        </div>
+        <div class="servicio">
+          <h3>Programa de lealtad</h3>
+          <p>Tarjeta de puntos por WhatsApp, como la que usa La Ola</p>
+        </div>
+        <div class="servicio">
+          <h3>Sistemas a la medida</h3>
+          <p>Cotizaciones, cobranza o reportes de sus sucursales</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="como">
+    <div class="ancho">
+      <div class="encabezado">
+        <h2>Usted ve su página antes de contratar</h2>
+      </div>
+      <div class="pasos">
+        <div class="paso">
+          <h3>Armamos una muestra</h3>
+          <p>Usamos los datos públicos de su negocio en Google.</p>
+        </div>
+        <div class="paso">
+          <h3>Usted la revisa</h3>
+          <p>Nos dice qué cambiar y nos manda sus fotos.</p>
+        </div>
+        <div class="paso">
+          <h3>La publicamos a su nombre</h3>
+          <p>Con su propio dominio, por ejemplo sunegocio.mx.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="contacto" id="contacto">
+    <div class="ancho">
+      <h2>Platiquemos de su negocio</h2>
+      <p>Escríbanos a diego@aliviane.mx y le mandamos una muestra.</p>
+      <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Escribir a Aliviane</a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="ancho">Aliviane · México · 2026</div>
+</footer>
+
+</body>
+</html>

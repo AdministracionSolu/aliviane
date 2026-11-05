@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /sitios/
+Sitemap: https://www.aliviane.mx/sitemap.xml
