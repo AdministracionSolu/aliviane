@@ -3,247 +3,547 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Aliviane · Páginas web para negocios</title>
-<meta name="description" content="Hacemos la página web de su negocio con su ubicación, su teléfono y sus servicios. Usted la ve terminada antes de contratar.">
+<title>Aliviane · Estudio de páginas web</title>
+<meta name="description" content="Estudio de páginas web en México. Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.">
 <link rel="canonical" href="https://www.aliviane.mx/">
-<meta property="og:title" content="Aliviane · Páginas web para negocios">
-<meta property="og:description" content="Hacemos la página web de su negocio. Usted la ve terminada antes de contratar.">
-<meta property="og:image" content="https://www.aliviane.mx/img/trabajos/laola.jpg">
+<meta name="theme-color" content="#0c0b0a">
+<meta property="og:title" content="Aliviane · Estudio de páginas web">
+<meta property="og:description" content="Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.">
+<meta property="og:image" content="https://www.aliviane.mx/img/trabajos/makatea.jpg">
 <meta property="og:url" content="https://www.aliviane.mx/">
 <meta property="og:locale" content="es_MX">
 <link rel="icon" href="img/icono.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
 <style>
   :root {
-    --fondo: #f7f4ee;
-    --tinta: #1e2422;
-    --suave: #59615d;
-    --acento: #b4532a;
-    --acento-oscuro: #8f3f1e;
-    --borde: #ddd6ca;
-    --blanco: #ffffff;
-    color-scheme: light;
+    --negro: #0c0b0a;
+    --negro-2: #151412;
+    --negro-3: #1d1b19;
+    --crema: #ede6da;
+    --gris: #8f887d;
+    --gris-2: #5f5a53;
+    --ambar: #e8a33d;
+    --serif: "Instrument Serif", Georgia, serif;
+    --sans: "Instrument Sans", system-ui, sans-serif;
+    --curva: cubic-bezier(.2, .7, .1, 1);
+    color-scheme: dark;
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
   body {
-    margin: 0;
-    background: var(--fondo);
-    color: var(--tinta);
-    font: 400 17px/1.6 "Public Sans", system-ui, sans-serif;
-    -webkit-font-smoothing: antialiased;
+    margin: 0; background: var(--negro); color: var(--crema);
+    font: 400 17px/1.6 var(--sans); -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
   }
-  a { color: inherit; }
-  img { max-width: 100%; display: block; }
-  .ancho { width: min(1120px, 100% - 32px); margin-inline: auto; }
+  a { color: inherit; text-decoration: none; }
+  img { display: block; max-width: 100%; }
+  em { font-family: var(--serif); font-style: italic; font-weight: 400; letter-spacing: -0.01em; }
+  .ancho { width: min(1280px, 100% - 32px); margin-inline: auto; }
+  ::selection { background: var(--ambar); color: var(--negro); }
 
-  header { padding: 22px 0; }
-  header .ancho { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
-  .marca { font: 600 24px/1 "Fraunces", Georgia, serif; text-decoration: none; letter-spacing: -0.01em; }
-  nav { display: flex; gap: 24px; font-size: 15px; }
-  nav a { text-decoration: none; color: var(--suave); }
-  nav a:hover { color: var(--tinta); }
+  /* Encabezado */
+  .barra {
+    position: fixed; inset: 0 0 auto; z-index: 20; padding: 22px 0;
+    transition: background .4s, padding .4s, transform .5s var(--curva);
+  }
+  .barra.con-fondo { background: rgba(12, 11, 10, .82); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); padding: 14px 0; }
+  .barra.oculta { transform: translateY(-100%); }
+  .barra .ancho { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+  .marca { font: 400 30px/1 var(--serif); letter-spacing: -0.02em; display: flex; align-items: baseline; gap: 2px; }
+  .marca i { width: 7px; height: 7px; background: var(--ambar); border-radius: 50%; display: inline-block; }
+  .barra nav { display: flex; gap: 32px; font-size: 15px; color: var(--gris); }
+  .barra nav a { transition: color .25s; }
+  .barra nav a:hover { color: var(--crema); }
+  .cotizar { font-size: 15px; font-weight: 500; border-bottom: 1px solid var(--crema); padding-bottom: 2px; }
 
-  h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; letter-spacing: -0.015em; margin: 0; }
-  h1 { font-size: clamp(38px, 6vw, 68px); line-height: 1.05; max-width: 15ch; }
-  h2 { font-size: clamp(28px, 3.6vw, 40px); line-height: 1.15; }
-  h3 { font-size: 21px; line-height: 1.25; }
-  .previo { color: var(--acento); font-weight: 500; font-size: 15px; margin: 0 0 18px; }
+  /* Portada */
+  .portada { min-height: 100svh; display: flex; flex-direction: column; justify-content: flex-end; padding: 140px 0 56px; position: relative; }
+  .previo { color: var(--ambar); font-size: 15px; font-weight: 500; margin: 0 0 28px; }
+  h1 {
+    font-weight: 400; font-size: clamp(50px, 8.6vw, 140px); line-height: .98; letter-spacing: -0.045em; margin: 0;
+  }
+  h1 .linea { display: block; overflow: hidden; padding-bottom: .06em; }
+  h1 .linea > span { display: inline-block; transform: translateY(105%); animation: subir 1.1s var(--curva) forwards; }
+  h1 .linea:nth-child(2) > span { animation-delay: .12s; }
+  h1 .linea:nth-child(3) > span { animation-delay: .24s; }
+  @keyframes subir { to { transform: none; } }
+  .trazo { position: relative; display: inline-block; }
+  .trazo svg { position: absolute; left: -2%; bottom: -.08em; width: 104%; height: .32em; overflow: visible; }
+  .trazo path { fill: none; stroke: var(--ambar); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 600; stroke-dashoffset: 600; animation: dibujar 1.4s .9s var(--curva) forwards; }
+  @keyframes dibujar { to { stroke-dashoffset: 0; } }
 
-  .portada { padding: 72px 0 96px; }
-  .portada p.lead { font-size: 20px; color: var(--suave); max-width: 34em; margin: 24px 0 36px; }
-  .botones { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .portada-pie { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: end; margin-top: 56px; }
+  .portada-pie p { color: var(--gris); font-size: 20px; line-height: 1.55; margin: 0; max-width: 30em; }
+  .acciones { display: flex; gap: 28px; align-items: center; justify-content: flex-end; flex-wrap: wrap; }
   .boton {
-    display: inline-block; padding: 14px 24px; border-radius: 6px;
-    background: var(--acento); color: var(--blanco); text-decoration: none; font-weight: 600;
+    display: inline-flex; align-items: center; gap: 12px; background: var(--crema); color: var(--negro);
+    padding: 17px 26px; border-radius: 4px; font-weight: 500; font-size: 16px;
+    transition: background .3s, transform .3s var(--curva);
   }
-  .boton:hover { background: var(--acento-oscuro); }
-  .liga { font-weight: 500; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+  .boton:hover { background: var(--ambar); transform: translateY(-2px); }
+  .boton .flecha { transition: transform .3s var(--curva); }
+  .boton:hover .flecha { transform: translateX(4px); }
+  .liga { font-weight: 500; border-bottom: 1px solid var(--gris-2); padding-bottom: 3px; transition: border-color .3s; }
+  .liga:hover { border-color: var(--crema); }
+  .datos { display: flex; gap: 40px; flex-wrap: wrap; margin-top: 64px; font-size: 14px; color: var(--gris); }
+  .datos b { color: var(--crema); font-weight: 500; }
 
-  section { padding: 72px 0; }
-  .encabezado { max-width: 40em; margin-bottom: 44px; }
-  .encabezado p { color: var(--suave); margin: 14px 0 0; }
+  /* Cinta de nombres */
+  .cinta { padding: 40px 0; overflow: hidden; background: var(--negro-2); }
+  .cinta-pista { display: flex; width: max-content; animation: correr 38s linear infinite; }
+  .cinta span { font: italic 400 clamp(40px, 6vw, 84px)/1 var(--serif); color: var(--gris-2); padding-right: 64px; white-space: nowrap; transition: color .3s; }
+  .cinta span:hover { color: var(--crema); }
+  .cinta span::after { content: "·"; color: var(--ambar); padding-left: 64px; font-style: normal; }
+  @keyframes correr { to { transform: translateX(-50%); } }
 
-  .trabajos { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 48px 32px; }
-  .trabajo img { aspect-ratio: 16 / 10; width: 100%; height: auto; object-fit: cover; object-position: top; border: 1px solid var(--borde); border-radius: 6px; background: var(--blanco); }
-  .trabajo h3 { margin-top: 18px; }
-  .trabajo p { margin: 6px 0 0; color: var(--suave); font-size: 16px; }
-  .trabajo a.sitio { display: inline-block; margin-top: 8px; font-size: 15px; color: var(--acento); text-decoration: none; font-weight: 500; }
-  .trabajo a.sitio:hover { text-decoration: underline; text-underline-offset: 3px; }
+  /* Secciones */
+  section { padding: 140px 0; }
+  .titulo-seccion { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: end; margin-bottom: 96px; }
+  h2 { font-weight: 400; font-size: clamp(40px, 5.6vw, 84px); line-height: 1.02; letter-spacing: -0.04em; margin: 0; }
+  .titulo-seccion p { color: var(--gris); font-size: 19px; margin: 0; max-width: 26em; }
 
-  .oscuro { background: var(--tinta); color: #f2eee6; }
-  .oscuro .encabezado p, .oscuro .servicio p { color: #b9bdb6; }
-  .servicios { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 40px 48px; }
-  .servicio p { margin: 8px 0 0; font-size: 16px; }
-
-  .pasos { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 40px 48px; counter-reset: paso; }
-  .paso::before {
-    counter-increment: paso; content: counter(paso);
-    display: block; font: 600 40px/1 "Fraunces", Georgia, serif; color: var(--acento); margin-bottom: 14px;
+  /* Trabajos */
+  .proyecto { margin-bottom: 160px; }
+  .proyecto:last-child { margin-bottom: 0; }
+  .proyecto-cabeza { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; flex-wrap: wrap; margin-bottom: 28px; }
+  .proyecto h3 { font-weight: 400; font-size: clamp(36px, 4.4vw, 64px); letter-spacing: -0.035em; line-height: 1; margin: 0; }
+  .etiquetas { display: flex; gap: 22px; color: var(--gris); font-size: 14px; flex-wrap: wrap; }
+  .escena { position: relative; }
+  .ventana { background: var(--negro-3); border-radius: 8px; overflow: hidden; }
+  .ventana-barra { display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; font-size: 13px; color: var(--gris); }
+  .ventana-barra .controles { display: flex; gap: 18px; font-size: 13px; color: var(--gris-2); letter-spacing: 0; }
+  .ventana-pantalla { overflow: hidden; aspect-ratio: 16 / 10; }
+  .ventana-pantalla img { width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform 1.2s var(--curva); }
+  .proyecto:hover .ventana-pantalla img { transform: scale(1.025); }
+  .celular {
+    position: absolute; right: 4%; bottom: -14%; width: clamp(130px, 17%, 230px);
+    background: #050505; border-radius: 30px; padding: 8px; will-change: transform;
   }
-  .paso p { margin: 8px 0 0; color: var(--suave); font-size: 16px; }
+  .celular img { border-radius: 23px; aspect-ratio: 446 / 760; object-fit: cover; object-position: top; width: 100%; height: auto; }
+  .proyecto-pie { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; margin-top: 44px; align-items: start; }
+  .proyecto-pie p { margin: 0; color: var(--gris); font-size: 17px; max-width: 34em; }
+  .proyecto-pie .resultado { color: var(--crema); margin-bottom: 10px; }
+  .proyecto-pie .resultado b { color: var(--ambar); font-weight: 500; margin-right: 10px; }
+  .proyecto-pie .visitar { justify-self: end; font-weight: 500; border-bottom: 1px solid var(--gris-2); padding-bottom: 3px; transition: border-color .3s; }
+  .proyecto-pie .visitar:hover { border-color: var(--crema); }
 
-  .contacto { padding: 96px 0 112px; }
-  .contacto h2 { max-width: 16ch; }
-  .contacto p { color: var(--suave); margin: 16px 0 32px; font-size: 19px; }
+  /* Proceso */
+  .proceso { background: var(--crema); color: var(--negro); }
+  .proceso-rejilla { display: grid; grid-template-columns: 1fr 1.2fr; gap: 80px; }
+  .proceso .fijo { position: sticky; top: 120px; }
+  .proceso .nota { color: #6b645a; font-size: 19px; margin: 28px 0 0; max-width: 22em; }
+  .paso { padding: 0 0 72px; }
+  .paso:last-child { padding-bottom: 0; }
+  .paso .num { font: italic 400 72px/1 var(--serif); color: #b27a26; display: block; margin-bottom: 18px; }
+  .paso h3 { font-weight: 500; font-size: 28px; letter-spacing: -0.02em; margin: 0 0 10px; }
+  .paso p { margin: 0; color: #5d564c; font-size: 18px; max-width: 28em; }
 
-  footer { padding: 28px 0 40px; color: var(--suave); font-size: 14px; }
+  /* Paquetes */
+  .paquetes { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .paquete { background: var(--negro-2); border-radius: 8px; padding: 48px; display: flex; flex-direction: column; transition: background .4s; }
+  .paquete:hover { background: var(--negro-3); }
+  .paquete.destacado { background: var(--crema); color: var(--negro); }
+  .paquete .tipo { font-size: 15px; color: var(--gris); margin: 0 0 32px; }
+  .paquete.destacado .tipo { color: #6b645a; }
+  .paquete h3 { font-weight: 400; font-size: 40px; letter-spacing: -0.03em; margin: 0 0 8px; line-height: 1.05; }
+  .precio { font: 400 clamp(56px, 6vw, 88px)/1 var(--sans); letter-spacing: -0.05em; margin: 28px 0 6px; }
+  .precio small { font-size: 18px; letter-spacing: 0; color: var(--gris); margin-left: 6px; }
+  .paquete.destacado .precio small { color: #6b645a; }
+  .paquete ul { list-style: none; padding: 0; margin: 36px 0 44px; display: grid; gap: 14px; }
+  .paquete li { display: flex; gap: 14px; font-size: 17px; }
+  .paquete li::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--ambar); margin-top: 10px; flex: none; }
+  .paquete .boton { margin-top: auto; align-self: flex-start; }
+  .paquete.destacado .boton { background: var(--negro); color: var(--crema); }
+  .paquete.destacado .boton:hover { background: var(--ambar); color: var(--negro); }
+  .letra-chica { color: var(--gris); font-size: 15px; margin: 32px 0 0; }
 
-  @media (max-width: 640px) {
+  /* Preguntas */
+  .preguntas { display: grid; grid-template-columns: 1fr 1.4fr; gap: 80px; }
+  details { padding: 26px 0; }
+  details + details { margin-top: 4px; }
+  summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; gap: 24px; font-size: 22px; letter-spacing: -0.015em; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; font-size: 28px; line-height: 1; color: var(--ambar); transition: transform .35s var(--curva); }
+  details[open] summary::after { transform: rotate(45deg); }
+  details p { color: var(--gris); margin: 14px 0 0; font-size: 18px; max-width: 36em; }
+
+  /* Cierre */
+  .cierre { padding: 160px 0 120px; }
+  .cierre h2 { font-size: clamp(54px, 9.6vw, 160px); line-height: .95; letter-spacing: -0.05em; }
+  .cierre-pie { display: flex; justify-content: space-between; align-items: end; gap: 32px; flex-wrap: wrap; margin-top: 64px; }
+  .correo { font: italic 400 clamp(28px, 3.4vw, 48px)/1.1 var(--serif); border-bottom: 1px solid var(--gris-2); padding-bottom: 6px; transition: color .3s, border-color .3s; }
+  .correo:hover { color: var(--ambar); border-color: var(--ambar); }
+  footer { padding: 40px 0 48px; color: var(--gris-2); font-size: 14px; }
+  footer .ancho { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+
+  /* Aparecer al hacer scroll */
+  .rev { opacity: 0; transform: translateY(36px); transition: opacity 1s var(--curva), transform 1.1s var(--curva); }
+  .rev.visto { opacity: 1; transform: none; }
+
+  @media (max-width: 900px) {
+    .barra nav { display: none; }
+    .portada-pie, .titulo-seccion, .proyecto-pie, .proceso-rejilla, .preguntas, .paquetes { grid-template-columns: 1fr; }
+    .acciones { justify-content: flex-start; }
+    .proyecto-pie .visitar { justify-self: start; }
+    .proceso .fijo { position: static; }
+    .proceso-rejilla { gap: 48px; }
+    section { padding: 96px 0; }
+    .titulo-seccion { margin-bottom: 56px; }
+    .proyecto { margin-bottom: 120px; }
+    .paquete { padding: 32px 24px; }
+  }
+  @media (max-width: 560px) {
     body { font-size: 16px; }
-    nav { gap: 16px; font-size: 14px; }
-    nav a.ocultable { display: none; }
-    .portada { padding: 40px 0 64px; }
-    .portada p.lead { font-size: 18px; }
-    section { padding: 56px 0; }
-    .trabajos { grid-template-columns: 1fr; gap: 40px; }
+    .portada { padding: 120px 0 40px; }
+    .portada-pie p { font-size: 18px; }
+    .datos { gap: 14px 28px; margin-top: 44px; }
+    .celular { width: 31%; right: 3%; bottom: -18%; border-radius: 18px; padding: 5px; }
+    .celular img { border-radius: 14px; }
+    .ventana-barra .url { font-size: 12px; }
+    .proyecto-pie { margin-top: 64px; }
+    summary { font-size: 19px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+    h1 .linea > span { transform: none; }
+    .trazo path { stroke-dashoffset: 0; }
+    .rev { opacity: 1; transform: none; }
   }
 </style>
 </head>
 <body>
 
-<header>
+<header class="barra" id="barra">
   <div class="ancho">
-    <a class="marca" href="/">Aliviane</a>
+    <a class="marca" href="#inicio" aria-label="Aliviane, inicio">aliviane<i></i></a>
     <nav>
       <a href="#trabajos">Trabajos</a>
-      <a class="ocultable" href="#servicios">Qué hacemos</a>
-      <a href="#contacto">Contacto</a>
+      <a href="#proceso">Proceso</a>
+      <a href="#paquetes">Paquetes</a>
+      <a href="#preguntas">Preguntas</a>
     </nav>
+    <a class="cotizar" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Cotizar</a>
   </div>
 </header>
 
-<main>
+<main id="inicio">
   <div class="portada">
     <div class="ancho">
-      <p class="previo">Páginas web y sistemas para negocios</p>
-      <h1>Su negocio en Google con una página propia</h1>
-      <p class="lead">Hacemos la página de su negocio con su ubicación, su teléfono y sus servicios. Usted la ve terminada antes de contratar.</p>
-      <div class="botones">
-        <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Escríbanos</a>
-        <a class="liga" href="#trabajos">Ver trabajos</a>
+      <p class="previo">Estudio de páginas web en México</p>
+      <h1>
+        <span class="linea"><span>La página web</span></span>
+        <span class="linea"><span>que su negocio</span></span>
+        <span class="linea"><span>ya <em class="trazo">merece<svg viewBox="0 0 300 30" preserveAspectRatio="none" aria-hidden="true"><path d="M4 20 C 60 6, 120 26, 170 14 S 260 6, 296 18"/></svg></em></span></span>
+      </h1>
+      <div class="portada-pie">
+        <p>Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.</p>
+        <div class="acciones">
+          <a class="boton" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Pedir mi muestra <span class="flecha">→</span></a>
+          <a class="liga" href="#trabajos">Ver trabajos</a>
+        </div>
       </div>
+      <div class="datos">
+        <span><b>Muestra</b> antes de contratar</span>
+        <span><b>Desde $1,000</b> pesos</span>
+        <span><b>Su dominio</b> a su nombre</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="cinta" aria-hidden="true">
+    <div class="cinta-pista">
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span>
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span>
     </div>
   </div>
 
   <section id="trabajos">
     <div class="ancho">
-      <div class="encabezado">
-        <h2>Negocios que hemos construido</h2>
-        <p>Sitios y sistemas que hoy usan clientes reales.</p>
+      <div class="titulo-seccion rev">
+        <h2>Lo que ya está <em>en línea</em></h2>
+        <p>Cada sitio se diseñó para su marca y para quien lo abre desde el celular.</p>
       </div>
-      <div class="trabajos">
-        <article class="trabajo">
-          <img src="img/trabajos/laola.jpg" alt="Página de La Ola, restaurante de mariscos" loading="lazy" width="1200" height="750">
-          <h3>La Ola</h3>
-          <p>Restaurante de mariscos con cuatro sucursales. Página, menú en línea y programa de lealtad</p>
-          <a class="sitio" href="https://laola.mx" target="_blank" rel="noopener">laola.mx</a>
-        </article>
-        <article class="trabajo">
-          <img src="img/trabajos/solu.jpg" alt="Página de Solú, créditos para personas y negocios" loading="lazy" width="1200" height="750">
-          <h3>Solú</h3>
-          <p>Créditos para personas y negocios. Página y solicitud de crédito en línea</p>
-          <a class="sitio" href="https://solufintech.com" target="_blank" rel="noopener">solufintech.com</a>
-        </article>
-        <article class="trabajo">
-          <img src="img/trabajos/signsolu.jpg" alt="Página de SignSolú, firma electrónica" loading="lazy" width="1200" height="750">
-          <h3>SignSolú</h3>
-          <p>Firma electrónica de contratos. Plataforma con clientes en 13 países</p>
-          <a class="sitio" href="https://signsolu.com" target="_blank" rel="noopener">signsolu.com</a>
-        </article>
-        <article class="trabajo">
-          <img src="img/trabajos/makatea.jpg" alt="Página de Makatea, cobranza por WhatsApp" loading="lazy" width="1200" height="750">
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
           <h3>Makatea</h3>
-          <p>Cobranza por WhatsApp. Los recordatorios salen del número del propio negocio</p>
-          <a class="sitio" href="https://makatea.ai" target="_blank" rel="noopener">makatea.ai</a>
-        </article>
-        <article class="trabajo">
-          <img src="img/trabajos/agroqs.jpg" alt="Página de Agroqs, cotizaciones para negocios agrícolas" loading="lazy" width="1200" height="750">
+          <div class="etiquetas"><span>Software</span><span>Cobranza</span><span>Español, inglés y portugués</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">makatea.ai</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/makatea.jpg" alt="Página de Makatea en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/makatea-movil.jpg" alt="Página de Makatea en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Recordatorios de pago que salen del WhatsApp del propio negocio</p>
+            <p>Software de cobranza recurrente. Sitio en tres idiomas, precios por país y cuenta que se abre sin hablar con nadie.</p>
+          </div>
+          <a class="visitar" href="https://makatea.ai" target="_blank" rel="noopener">makatea.ai ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
+          <h3>La Ola</h3>
+          <div class="etiquetas"><span>Restaurante</span><span>Cuatro sucursales</span><span>Lealtad</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">laola.mx</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/laola.jpg" alt="Página de La Ola en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/laola-movil.jpg" alt="Página de La Ola en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Menú, eventos y programa de lealtad de cuatro sucursales en un solo sitio</p>
+            <p>Restaurante de mariscos con música en vivo. El cliente se inscribe a la lealtad desde su mesa con un código QR.</p>
+          </div>
+          <a class="visitar" href="https://laola.mx" target="_blank" rel="noopener">laola.mx ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
+          <h3>SignSolú</h3>
+          <div class="etiquetas"><span>Software</span><span>Firma electrónica</span><span>Plantillas</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">signsolu.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/signsolu.jpg" alt="Página de SignSolú en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/signsolu-movil.jpg" alt="Página de SignSolú en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Contratos que se firman desde el celular, con clientes en 13 países</p>
+            <p>Plataforma para preparar, mandar y firmar contratos. Biblioteca de plantillas y guías en tres idiomas.</p>
+          </div>
+          <a class="visitar" href="https://signsolu.com" target="_blank" rel="noopener">signsolu.com ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
           <h3>Agroqs</h3>
-          <p>Cotizaciones para negocios agrícolas. Catálogo y seguimiento por WhatsApp</p>
-          <a class="sitio" href="https://agroqs.com" target="_blank" rel="noopener">agroqs.com</a>
-        </article>
-        <article class="trabajo">
-          <img src="img/trabajos/avelina.jpg" alt="Página de Avelina, cantautora" loading="lazy" width="1200" height="750">
+          <div class="etiquetas"><span>Agroinsumos</span><span>Cotizaciones</span><span>WhatsApp</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">agroqs.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/agroqs.jpg" alt="Página de Agroqs en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/agroqs-movil.jpg" alt="Página de Agroqs en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Cotizaciones con la marca del negocio que se mandan por WhatsApp en minutos</p>
+            <p>Sistema para negocios agrícolas. Catálogo con precios de contado y de cosecha, y aviso cuando el cliente abre la cotización.</p>
+          </div>
+          <a class="visitar" href="https://agroqs.com" target="_blank" rel="noopener">agroqs.com ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
+          <h3>Solú</h3>
+          <div class="etiquetas"><span>Créditos</span><span>Solicitud en línea</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">solufintech.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/solu.jpg" alt="Página de Solú en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/solu-movil.jpg" alt="Página de Solú en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Solicitud de crédito desde el celular, sin papeleo ni visita a sucursal</p>
+            <p>Créditos para personas y negocios. El cliente pide su primer crédito o renueva con un clic.</p>
+          </div>
+          <a class="visitar" href="https://solufintech.com" target="_blank" rel="noopener">solufintech.com ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
           <h3>Avelina</h3>
-          <p>Cantautora sonorense. Página con su música, videos y diario</p>
-          <a class="sitio" href="https://avelina.com.mx" target="_blank" rel="noopener">avelina.com.mx</a>
-        </article>
-      </div>
+          <div class="etiquetas"><span>Música</span><span>Cantautora</span><span>Español e inglés</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">avelina.com.mx</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/avelina.jpg" alt="Página de Avelina en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/avelina-movil.jpg" alt="Página de Avelina en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado"><b>Resultado</b>Un sitio con la personalidad de la artista</p>
+            <p>Cantautora sonorense. Música, videos, diario y álbum en un sitio bilingüe que ella misma actualiza.</p>
+          </div>
+          <a class="visitar" href="https://avelina.com.mx" target="_blank" rel="noopener">avelina.com.mx ↗</a>
+        </div>
+      </article>
     </div>
   </section>
 
-  <section id="servicios" class="oscuro">
-    <div class="ancho">
-      <div class="encabezado">
-        <h2>Lo que hacemos para su negocio</h2>
-        <p>Empezamos por la página. Lo demás se suma cuando lo necesite.</p>
+  <section class="proceso" id="proceso">
+    <div class="ancho proceso-rejilla">
+      <div class="fijo">
+        <h2>Usted ve su página <em>antes</em> de contratar</h2>
+        <p class="nota">Primero le mostramos el trabajo. Después usted decide.</p>
       </div>
-      <div class="servicios">
-        <div class="servicio">
-          <h3>Página web</h3>
-          <p>Con su dirección, horario, mapa y botón para llamar</p>
-        </div>
-        <div class="servicio">
-          <h3>Ficha de Google</h3>
-          <p>Damos de alta o corregimos su perfil en Google Maps</p>
-        </div>
-        <div class="servicio">
-          <h3>Botón de WhatsApp</h3>
-          <p>Sus clientes le escriben directo desde la página</p>
-        </div>
-        <div class="servicio">
-          <h3>Menú o catálogo en línea</h3>
-          <p>Sus productos y precios en una liga que puede compartir</p>
-        </div>
-        <div class="servicio">
-          <h3>Programa de lealtad</h3>
-          <p>Tarjeta de puntos por WhatsApp, como la que usa La Ola</p>
-        </div>
-        <div class="servicio">
-          <h3>Sistemas a la medida</h3>
-          <p>Cotizaciones, cobranza o reportes de sus sucursales</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="como">
-    <div class="ancho">
-      <div class="encabezado">
-        <h2>Usted ve su página antes de contratar</h2>
-      </div>
-      <div class="pasos">
-        <div class="paso">
+      <div>
+        <div class="paso rev">
+          <span class="num">01</span>
           <h3>Armamos una muestra</h3>
-          <p>Usamos los datos públicos de su negocio en Google.</p>
+          <p>Usamos los datos públicos de su negocio en Google. Se la mandamos para que la vea en su celular.</p>
         </div>
-        <div class="paso">
-          <h3>Usted la revisa</h3>
-          <p>Nos dice qué cambiar y nos manda sus fotos.</p>
+        <div class="paso rev">
+          <span class="num">02</span>
+          <h3>Usted la ajusta</h3>
+          <p>Nos dice qué cambiar y nos manda sus fotos, su logo y su horario.</p>
         </div>
-        <div class="paso">
+        <div class="paso rev">
+          <span class="num">03</span>
           <h3>La publicamos a su nombre</h3>
-          <p>Con su propio dominio, por ejemplo sunegocio.mx.</p>
+          <p>Con su propio dominio, por ejemplo sunegocio.mx. La damos de alta en Google junto a su ficha de Maps.</p>
+        </div>
+        <div class="paso rev">
+          <span class="num">04</span>
+          <h3>Más secciones cuando las necesite</h3>
+          <p>Menú en línea, citas, catálogo o programa de lealtad. Se suman cuando los necesite.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <div class="contacto" id="contacto">
+  <section id="paquetes">
     <div class="ancho">
-      <h2>Platiquemos de su negocio</h2>
-      <p>Escríbanos a diego@aliviane.mx y le mandamos una muestra.</p>
-      <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Escribir a Aliviane</a>
+      <div class="titulo-seccion rev">
+        <h2>Dos paquetes, <em>precio fijo</em></h2>
+        <p>Sabe cuánto va a pagar antes de empezar. Sin cobros por hora.</p>
+      </div>
+      <div class="paquetes">
+        <div class="paquete rev">
+          <p class="tipo">Para empezar</p>
+          <h3>Landing page</h3>
+          <div class="precio">$1,000<small>MXN</small></div>
+          <ul>
+            <li>Una página diseñada para su giro</li>
+            <li>Botón para llamar y para WhatsApp</li>
+            <li>Mapa, dirección y horario</li>
+            <li>Lista para verse bien en el celular</li>
+          </ul>
+          <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20landing%20page">Quiero mi landing <span class="flecha">→</span></a>
+        </div>
+        <div class="paquete destacado rev">
+          <p class="tipo">Para vender más</p>
+          <h3>Sitio web funcional</h3>
+          <div class="precio">$5,000<small>MXN</small></div>
+          <ul>
+            <li>Varias secciones con su información completa</li>
+            <li>Menú, catálogo o agenda de citas</li>
+            <li>Formulario de contacto y galería de fotos</li>
+            <li>Todo lo de la landing page</li>
+          </ul>
+          <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20un%20sitio%20web%20funcional">Quiero mi sitio <span class="flecha">→</span></a>
+        </div>
+      </div>
+      <p class="letra-chica rev">Precios en pesos mexicanos. Cotizamos también en dólares. El dominio se paga aparte y queda registrado a su nombre.</p>
+    </div>
+  </section>
+
+  <section id="preguntas">
+    <div class="ancho preguntas">
+      <h2 class="rev">Preguntas <em>frecuentes</em></h2>
+      <div class="rev">
+        <details>
+          <summary>¿Cuánto tardan en tenerla lista?</summary>
+          <p>La muestra ya está hecha cuando hablamos. Con sus fotos y sus cambios la terminamos en pocos días.</p>
+        </details>
+        <details>
+          <summary>¿Necesito saber de computación?</summary>
+          <p>No. Nosotros la publicamos y la conectamos con su dominio. Usted sólo nos dice qué quiere.</p>
+        </details>
+        <details>
+          <summary>¿El dominio queda a mi nombre?</summary>
+          <p>Sí. Se registra a nombre de su negocio. El sitio es suyo.</p>
+        </details>
+        <details>
+          <summary>¿Puedo pedir cambios después?</summary>
+          <p>Sí. Nos escribe con lo que quiere cambiar y le decimos cuándo queda.</p>
+        </details>
+        <details>
+          <summary>¿Mi negocio va a salir en Google?</summary>
+          <p>La damos de alta en Google y la ligamos a la ficha de su negocio en Maps. Así quien lo busca encuentra su página.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <div class="cierre" id="contacto">
+    <div class="ancho">
+      <h2 class="rev">¿Hacemos la de <em>su negocio?</em></h2>
+      <div class="cierre-pie rev">
+        <a class="correo" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">diego@aliviane.mx</a>
+        <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Pedir mi muestra <span class="flecha">→</span></a>
+      </div>
     </div>
   </div>
 </main>
 
 <footer>
-  <div class="ancho">Aliviane · México · 2026</div>
+  <div class="ancho">
+    <span>aliviane · Estudio de páginas web · México</span>
+    <span>© 2026</span>
+  </div>
 </footer>
 
+<script>
+  // Encabezado: fondo al bajar, se esconde al bajar rápido y vuelve al subir
+  const barra = document.getElementById('barra');
+  let ultimo = 0;
+  addEventListener('scroll', () => {
+    const y = scrollY;
+    barra.classList.toggle('con-fondo', y > 40);
+    barra.classList.toggle('oculta', y > 400 && y > ultimo + 4);
+    if (y < ultimo - 4) barra.classList.remove('oculta');
+    ultimo = y;
+  }, { passive: true });
+
+  const quieto = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Aparecer al entrar en pantalla
+  const obs = new IntersectionObserver((es) => es.forEach(e => {
+    if (e.isIntersecting) { e.target.classList.add('visto'); obs.unobserve(e.target); }
+  }), { rootMargin: '0px 0px -12% 0px' });
+  document.querySelectorAll('.rev').forEach(el => obs.observe(el));
+
+  // El celular se mueve un poco más lento que la ventana
+  if (!quieto) {
+    const celulares = [...document.querySelectorAll('[data-paralaje]')];
+    let pendiente = false;
+    const mover = () => {
+      pendiente = false;
+      const alto = innerHeight;
+      celulares.forEach(c => {
+        const r = c.parentElement.getBoundingClientRect();
+        if (r.bottom < -200 || r.top > alto + 200) return;
+        const avance = (r.top + r.height / 2 - alto / 2) / alto;
+        c.style.transform = `translateY(${(avance * 70).toFixed(1)}px)`;
+      });
+    };
+    addEventListener('scroll', () => { if (!pendiente) { pendiente = true; requestAnimationFrame(mover); } }, { passive: true });
+    mover();
+  }
+</script>
 </body>
 </html>
