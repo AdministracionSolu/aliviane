@@ -56,7 +56,7 @@
   .cotizar { font-size: 15px; font-weight: 500; border-bottom: 1px solid var(--crema); padding-bottom: 2px; }
 
   /* Portada */
-  .portada { min-height: 100svh; display: flex; flex-direction: column; justify-content: flex-end; padding: 140px 0 56px; position: relative; }
+  .portada { min-height: 86svh; display: flex; flex-direction: column; justify-content: flex-end; padding: 130px 0 48px; position: relative; }
   .previo { color: var(--gris); font-size: 15px; font-weight: 500; margin: 0 0 28px; }
   h1 {
     font-weight: 500; font-size: clamp(48px, 8.2vw, 132px); line-height: .98; letter-spacing: -0.05em; margin: 0;
@@ -67,7 +67,7 @@
   h1 .linea:nth-child(3) > span { animation-delay: .24s; }
   @keyframes subir { to { transform: none; } }
 
-  .portada-pie { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: end; margin-top: 56px; }
+  .portada-pie { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: end; margin-top: 40px; }
   .portada-pie p { color: var(--gris); font-size: 20px; line-height: 1.55; margin: 0; max-width: 30em; }
   .acciones { display: flex; gap: 28px; align-items: center; justify-content: flex-end; flex-wrap: wrap; }
   .boton {
@@ -80,83 +80,82 @@
   .boton:hover .flecha { transform: translateX(4px); }
   .liga { font-weight: 500; border-bottom: 1px solid var(--gris-2); padding-bottom: 3px; transition: border-color .3s; }
   .liga:hover { border-color: var(--crema); }
-  .datos { display: flex; gap: 40px; flex-wrap: wrap; margin-top: 64px; font-size: 14px; color: var(--gris); }
+  .datos { display: flex; gap: 40px; flex-wrap: wrap; margin-top: 44px; font-size: 14px; color: var(--gris); }
   .datos b { color: var(--crema); font-weight: 500; }
 
   /* Cinta de nombres */
-  .cinta { padding: 40px 0; overflow: hidden; background: var(--negro-2); }
+  .cinta { padding: 22px 0; overflow: hidden; background: var(--negro-2); }
   .cinta-pista { display: flex; width: max-content; animation: correr 38s linear infinite; }
-  .cinta span { font: 500 clamp(36px, 5vw, 72px)/1 var(--sans); letter-spacing: -0.04em; color: var(--gris-2); padding-right: 64px; white-space: nowrap; transition: color .3s; }
+  .cinta span { font: 500 clamp(26px, 3.4vw, 48px)/1 var(--sans); letter-spacing: -0.04em; color: var(--gris-2); padding-right: 64px; white-space: nowrap; transition: color .3s; }
   .cinta span:hover { color: var(--crema); }
   .cinta span::after { content: "/"; color: var(--gris-2); padding-left: 64px; font-weight: 400; }
   @keyframes correr { to { transform: translateX(-50%); } }
 
   /* Secciones */
-  section { padding: 140px 0; }
-  .titulo-seccion { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: end; margin-bottom: 96px; }
+  section { padding: 88px 0; }
+  .titulo-seccion { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: end; margin-bottom: 44px; }
   h2 { font-weight: 500; font-size: clamp(38px, 5.4vw, 80px); line-height: 1.02; letter-spacing: -0.045em; margin: 0; }
   .titulo-seccion p { color: var(--gris); font-size: 19px; margin: 0; max-width: 26em; }
 
   /* Trabajos */
-  .proyecto { margin-bottom: 160px; }
-  .proyecto:last-child { margin-bottom: 0; }
-  .proyecto-cabeza { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; flex-wrap: wrap; margin-bottom: 28px; }
-  .proyecto h3 { font-weight: 500; font-size: clamp(36px, 4.4vw, 64px); letter-spacing: -0.035em; line-height: 1; margin: 0; }
-  .etiquetas { display: flex; gap: 22px; color: var(--gris); font-size: 14px; flex-wrap: wrap; }
+  .trabajos { display: grid; grid-template-columns: 1fr 1fr; gap: 56px 32px; }
+  .proyecto { min-width: 0; }
+  .proyecto-cabeza { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
+  .proyecto h3 { font-weight: 500; font-size: clamp(26px, 2.4vw, 34px); letter-spacing: -0.03em; line-height: 1; margin: 0; }
+  .etiquetas { display: flex; gap: 14px; color: var(--gris); font-size: 13px; flex-wrap: wrap; }
   .escena { position: relative; }
   .ventana { background: var(--negro-3); border-radius: 8px; overflow: hidden; }
-  .ventana-barra { display: flex; align-items: center; justify-content: space-between; padding: 10px 16px; font-size: 13px; color: var(--gris); }
+  .ventana-barra { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; font-size: 12px; color: var(--gris); }
   .ventana-barra .controles { display: flex; gap: 18px; font-size: 13px; color: var(--gris-2); letter-spacing: 0; }
   .ventana-pantalla { overflow: hidden; aspect-ratio: 16 / 10; }
   .ventana-pantalla img { width: 100%; height: 100%; object-fit: cover; object-position: top; filter: grayscale(1) contrast(1.04); transition: transform 1.2s var(--curva), filter .9s ease; }
   .proyecto.activo img, .proyecto:hover img { filter: none; }
   .proyecto:hover .ventana-pantalla img { transform: scale(1.025); }
   .celular {
-    position: absolute; right: 4%; bottom: -14%; width: clamp(130px, 17%, 230px);
-    background: #050505; border-radius: 30px; padding: 8px; will-change: transform;
+    position: absolute; right: 4%; bottom: -10%; width: 21%;
+    background: #050505; border-radius: 20px; padding: 5px; will-change: transform;
   }
-  .celular img { filter: grayscale(1) contrast(1.04); transition: filter .9s ease; border-radius: 23px; aspect-ratio: 446 / 760; object-fit: cover; object-position: top; width: 100%; height: auto; }
-  .proyecto-pie { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; margin-top: 44px; align-items: start; }
-  .proyecto-pie p { margin: 0; color: var(--gris); font-size: 17px; max-width: 34em; }
-  .proyecto-pie .resultado { color: var(--crema); margin-bottom: 10px; }
+  .celular img { filter: grayscale(1) contrast(1.04); transition: filter .9s ease; border-radius: 15px; aspect-ratio: 446 / 760; object-fit: cover; object-position: top; width: 100%; height: auto; }
+  .proyecto-pie { display: flex; justify-content: space-between; gap: 24px; margin-top: 30px; align-items: baseline; }
+  .proyecto-pie p { margin: 0; color: var(--gris); font-size: 15px; max-width: 30em; }
+  .proyecto-pie .resultado { color: var(--crema); }
   .proyecto-pie .resultado b { color: var(--gris); font-weight: 500; margin-right: 10px; }
-  .proyecto-pie .visitar { justify-self: end; font-weight: 500; border-bottom: 1px solid var(--gris-2); padding-bottom: 3px; transition: border-color .3s; }
+  .proyecto-pie .visitar { flex: none; font-size: 15px; font-weight: 500; border-bottom: 1px solid var(--gris-2); padding-bottom: 3px; transition: border-color .3s; }
   .proyecto-pie .visitar:hover { border-color: var(--crema); }
 
   /* Proceso */
   .proceso { background: var(--crema); color: var(--negro); }
-  .proceso-rejilla { display: grid; grid-template-columns: 1fr 1.2fr; gap: 80px; }
-  .proceso .fijo { position: sticky; top: 120px; }
-  .proceso .nota { color: #6b6b6b; font-size: 19px; margin: 28px 0 0; max-width: 22em; }
-  .paso { padding: 0 0 72px; }
-  .paso:last-child { padding-bottom: 0; }
+  .proceso-rejilla { display: grid; grid-template-columns: 1fr; gap: 44px; }
+  .pasos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; }
+  .proceso .fijo { display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px; align-items: end; }
+  .proceso .nota { color: #6b6b6b; font-size: 19px; margin: 0; max-width: 22em; }
+  .paso { padding: 0; }
   .paso .num { font: 500 15px/1 var(--sans); color: #8c8c8c; display: block; margin-bottom: 18px; }
-  .paso h3 { font-weight: 500; font-size: 28px; letter-spacing: -0.02em; margin: 0 0 10px; }
-  .paso p { margin: 0; color: #5a5a5a; font-size: 18px; max-width: 28em; }
+  .paso h3 { font-weight: 500; font-size: 22px; letter-spacing: -0.02em; margin: 0 0 10px; }
+  .paso p { margin: 0; color: #5a5a5a; font-size: 16px; }
 
   /* Paquetes */
   .paquetes { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
-  .paquete { background: var(--negro-2); border-radius: 8px; padding: 48px; display: flex; flex-direction: column; transition: background .4s; }
+  .paquete { background: var(--negro-2); border-radius: 8px; padding: 36px; display: flex; flex-direction: column; transition: background .4s; }
   .paquete:hover { background: var(--negro-3); }
   .paquete.destacado { background: var(--crema); color: var(--negro); }
-  .paquete .tipo { font-size: 15px; color: var(--gris); margin: 0 0 32px; }
+  .paquete .tipo { font-size: 15px; color: var(--gris); margin: 0 0 18px; }
   .paquete.destacado .tipo { color: #6b6b6b; }
   .paquete h3 { font-weight: 500; font-size: 40px; letter-spacing: -0.03em; margin: 0 0 8px; line-height: 1.05; }
-  .precio { font: 500 clamp(56px, 6vw, 88px)/1 var(--sans); letter-spacing: -0.055em; margin: 28px 0 6px; }
+  .precio { font: 500 clamp(56px, 6vw, 88px)/1 var(--sans); letter-spacing: -0.055em; margin: 18px 0 4px; }
   .precio small { font-size: 18px; letter-spacing: 0; color: var(--gris); margin-left: 6px; }
   .paquete.destacado .precio small { color: #6b6b6b; }
-  .paquete ul { list-style: none; padding: 0; margin: 36px 0 44px; display: grid; gap: 14px; }
+  .paquete ul { list-style: none; padding: 0; margin: 24px 0 30px; display: grid; gap: 10px; }
   .paquete li { display: flex; gap: 14px; font-size: 17px; }
   .paquete li::before { content: ""; width: 5px; height: 5px; background: var(--gris); margin-top: 11px; flex: none; }
   .paquete .boton { margin-top: auto; align-self: flex-start; }
   .paquete.destacado .boton { background: var(--negro); color: var(--crema); }
   .paquete.destacado .boton:hover { background: #333; color: var(--crema); }
-  .letra-chica { color: var(--gris); font-size: 15px; margin: 32px 0 0; }
+  .letra-chica { color: var(--gris); font-size: 15px; margin: 22px 0 0; }
 
   /* Preguntas */
-  .preguntas { display: grid; grid-template-columns: 1fr 1.4fr; gap: 80px; }
-  details { padding: 26px 0; }
-  details + details { margin-top: 4px; }
+  .preguntas { display: grid; grid-template-columns: 1fr 1.4fr; gap: 64px; }
+  details { padding: 16px 0; }
   summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; gap: 24px; font-size: 22px; letter-spacing: -0.015em; }
   summary::-webkit-details-marker { display: none; }
   summary::after { content: "+"; font-size: 28px; line-height: 1; color: var(--gris); transition: transform .35s var(--curva); }
@@ -164,9 +163,9 @@
   details p { color: var(--gris); margin: 14px 0 0; font-size: 18px; max-width: 36em; }
 
   /* Cierre */
-  .cierre { padding: 160px 0 120px; }
-  .cierre h2 { font-size: clamp(50px, 9vw, 150px); line-height: .95; letter-spacing: -0.055em; }
-  .cierre-pie { display: flex; justify-content: space-between; align-items: end; gap: 32px; flex-wrap: wrap; margin-top: 64px; }
+  .cierre { padding: 96px 0 72px; }
+  .cierre h2 { font-size: clamp(46px, 7.4vw, 120px); line-height: .95; letter-spacing: -0.055em; }
+  .cierre-pie { display: flex; justify-content: space-between; align-items: end; gap: 32px; flex-wrap: wrap; margin-top: 40px; }
   .correo { font: 500 clamp(26px, 3.2vw, 44px)/1.1 var(--sans); letter-spacing: -0.03em; border-bottom: 1px solid var(--gris-2); padding-bottom: 6px; transition: color .3s, border-color .3s; }
   .correo:hover { border-color: var(--crema); }
   footer { padding: 40px 0 48px; color: var(--gris-2); font-size: 14px; }
@@ -178,14 +177,13 @@
 
   @media (max-width: 900px) {
     .barra nav { display: none; }
-    .portada-pie, .titulo-seccion, .proyecto-pie, .proceso-rejilla, .preguntas, .paquetes { grid-template-columns: 1fr; }
+    .portada-pie, .titulo-seccion, .proceso-rejilla, .preguntas, .paquetes, .trabajos, .proceso .fijo { grid-template-columns: 1fr; }
+    .pasos { grid-template-columns: 1fr 1fr; gap: 28px 20px; }
     .acciones { justify-content: flex-start; }
-    .proyecto-pie .visitar { justify-self: start; }
-    .proceso .fijo { position: static; }
     .proceso-rejilla { gap: 48px; }
-    section { padding: 96px 0; }
-    .titulo-seccion { margin-bottom: 56px; }
-    .proyecto { margin-bottom: 120px; }
+    section { padding: 64px 0; }
+    .titulo-seccion { margin-bottom: 32px; }
+    .preguntas { gap: 20px; }
     .paquete { padding: 32px 24px; }
   }
   @media (max-width: 560px) {
@@ -193,10 +191,11 @@
     .portada { padding: 120px 0 40px; }
     .portada-pie p { font-size: 18px; }
     .datos { gap: 14px 28px; margin-top: 44px; }
-    .celular { width: 31%; right: 3%; bottom: -18%; border-radius: 18px; padding: 5px; }
-    .celular img { border-radius: 14px; }
+    .celular { width: 26%; right: 3%; bottom: -12%; border-radius: 16px; padding: 4px; }
+    .celular img { border-radius: 12px; }
     .ventana-barra .url { font-size: 12px; }
-    .proyecto-pie { margin-top: 64px; }
+    .proyecto-pie { margin-top: 28px; }
+    .pasos { grid-template-columns: 1fr; }
     summary { font-size: 19px; }
   }
   @media (prefers-reduced-motion: reduce) {
@@ -259,6 +258,7 @@
         <p>Cada sitio se diseñó para su marca y para quien lo abre desde el celular.</p>
       </div>
 
+      <div class="trabajos">
       <article class="proyecto">
         <div class="proyecto-cabeza rev">
           <h3>Makatea</h3>
@@ -273,8 +273,7 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Recordatorios de pago que salen del WhatsApp del propio negocio</p>
-            <p>Software de cobranza recurrente. Sitio en tres idiomas, precios por país y cuenta que se abre sin hablar con nadie.</p>
+            <p class="resultado">Recordatorios de pago que salen del WhatsApp del propio negocio</p>
           </div>
           <a class="visitar" href="https://makatea.ai" target="_blank" rel="noopener">makatea.ai ↗</a>
         </div>
@@ -294,8 +293,7 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Menú, eventos y programa de lealtad de cuatro sucursales en un solo sitio</p>
-            <p>Restaurante de mariscos con música en vivo. El cliente se inscribe a la lealtad desde su mesa con un código QR.</p>
+            <p class="resultado">Menú, eventos y programa de lealtad de cuatro sucursales en un solo sitio</p>
           </div>
           <a class="visitar" href="https://laola.mx" target="_blank" rel="noopener">laola.mx ↗</a>
         </div>
@@ -315,8 +313,7 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Contratos que se firman desde el celular, con clientes en 13 países</p>
-            <p>Plataforma para preparar, mandar y firmar contratos. Biblioteca de plantillas y guías en tres idiomas.</p>
+            <p class="resultado">Contratos que se firman desde el celular, con clientes en 13 países</p>
           </div>
           <a class="visitar" href="https://signsolu.com" target="_blank" rel="noopener">signsolu.com ↗</a>
         </div>
@@ -336,8 +333,7 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Cotizaciones con la marca del negocio que se mandan por WhatsApp en minutos</p>
-            <p>Sistema para negocios agrícolas. Catálogo con precios de contado y de cosecha, y aviso cuando el cliente abre la cotización.</p>
+            <p class="resultado">Cotizaciones con la marca del negocio que se mandan por WhatsApp en minutos</p>
           </div>
           <a class="visitar" href="https://agroqs.com" target="_blank" rel="noopener">agroqs.com ↗</a>
         </div>
@@ -357,8 +353,7 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Solicitud de crédito desde el celular, sin papeleo ni visita a sucursal</p>
-            <p>Créditos para personas y negocios. El cliente pide su primer crédito o renueva con un clic.</p>
+            <p class="resultado">Solicitud de crédito desde el celular, sin papeleo ni visita a sucursal</p>
           </div>
           <a class="visitar" href="https://solufintech.com" target="_blank" rel="noopener">solufintech.com ↗</a>
         </div>
@@ -378,12 +373,12 @@
         </div>
         <div class="proyecto-pie rev">
           <div>
-            <p class="resultado"><b>Resultado</b>Un sitio con la personalidad de la artista</p>
-            <p>Cantautora sonorense. Música, videos, diario y álbum en un sitio bilingüe que ella misma actualiza.</p>
+            <p class="resultado">Un sitio con la personalidad de la artista</p>
           </div>
           <a class="visitar" href="https://avelina.com.mx" target="_blank" rel="noopener">avelina.com.mx ↗</a>
         </div>
       </article>
+      </div>
     </div>
   </section>
 
@@ -393,7 +388,7 @@
         <h2>Usted ve su página <em>antes</em> de contratar</h2>
         <p class="nota">Primero le mostramos el trabajo. Después usted decide.</p>
       </div>
-      <div>
+      <div class="pasos">
         <div class="paso rev">
           <span class="num">01</span>
           <h3>Armamos una muestra</h3>
@@ -536,7 +531,7 @@
         const r = c.parentElement.getBoundingClientRect();
         if (r.bottom < -200 || r.top > alto + 200) return;
         const avance = (r.top + r.height / 2 - alto / 2) / alto;
-        c.style.transform = `translateY(${(avance * 70).toFixed(1)}px)`;
+        c.style.transform = `translateY(${(avance * 40).toFixed(1)}px)`;
       });
     };
     addEventListener('scroll', () => { if (!pendiente) { pendiente = true; requestAnimationFrame(mover); } }, { passive: true });
