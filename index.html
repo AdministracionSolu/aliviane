@@ -9,7 +9,7 @@
 <meta name="theme-color" content="#0c0b0a">
 <meta property="og:title" content="Aliviane · Estudio de páginas web">
 <meta property="og:description" content="Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.">
-<meta property="og:image" content="https://www.aliviane.mx/img/trabajos/makatea.jpg">
+<meta property="og:image" content="https://www.aliviane.mx/img/trabajos/makatea.jpg?v=3">
 <meta property="og:url" content="https://www.aliviane.mx/">
 <meta property="og:locale" content="es_MX">
 <link rel="icon" href="img/icono.svg" type="image/svg+xml">
@@ -59,7 +59,7 @@
   .portada { min-height: 86svh; display: flex; flex-direction: column; justify-content: flex-end; padding: 130px 0 48px; position: relative; }
   .previo { color: var(--gris); font-size: 15px; font-weight: 500; margin: 0 0 28px; }
   h1 {
-    font-weight: 500; font-size: clamp(48px, 8.2vw, 132px); line-height: .98; letter-spacing: -0.05em; margin: 0;
+    font-weight: 500; font-size: clamp(44px, 5.9vw, 98px); line-height: .98; letter-spacing: -0.05em; margin: 0;
   }
   h1 .linea { display: block; overflow: hidden; padding-bottom: .06em; }
   h1 .linea > span { display: inline-block; transform: translateY(105%); animation: subir 1.1s var(--curva) forwards; }
@@ -67,9 +67,47 @@
   h1 .linea:nth-child(3) > span { animation-delay: .24s; }
   @keyframes subir { to { transform: none; } }
 
-  .portada-pie { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: end; margin-top: 40px; }
+  .portada-rejilla { display: grid; grid-template-columns: 1.05fr 1fr; gap: 56px; align-items: end; }
+  .portada-texto { min-width: 0; }
+  .portada-pie { display: grid; grid-template-columns: 1fr; gap: 28px; margin-top: 32px; }
   .portada-pie p { color: var(--gris); font-size: 20px; line-height: 1.55; margin: 0; max-width: 30em; }
-  .acciones { display: flex; gap: 28px; align-items: center; justify-content: flex-end; flex-wrap: wrap; }
+  .acciones { display: flex; gap: 28px; align-items: center; flex-wrap: wrap; }
+
+  /* La landing que se construye sola */
+  .obra { min-width: 0; }
+  .obra-ventana { background: #fff; border-radius: 8px; overflow: hidden; color: #111; }
+  .obra-barra { display: flex; justify-content: space-between; align-items: center; padding: 9px 14px; background: #e9e9e7; font-size: 12px; color: #555; }
+  .obra-barra .controles { display: flex; gap: 16px; color: #888; }
+  .obra-url { display: flex; align-items: center; gap: 1px; min-height: 16px; }
+  .obra-cursor { width: 1px; height: 13px; background: #555; animation: parpadeo 1s steps(2) infinite; }
+  .obra.lista .obra-cursor { display: none; }
+  @keyframes parpadeo { 50% { opacity: 0; } }
+  .obra-pagina { padding: 16px 20px 20px; font-family: var(--sans); }
+  .o-nav { display: flex; align-items: center; gap: 14px; font-size: 11px; }
+  .o-logo { font-weight: 700; font-size: 14px; letter-spacing: -0.02em; }
+  .o-links { display: flex; gap: 12px; margin-left: auto; color: #555; }
+  .o-cta { background: #111; color: #fff; padding: 5px 10px; border-radius: 3px; }
+  .o-hero { display: grid; grid-template-columns: 1.1fr 1fr; gap: 16px; margin-top: 22px; align-items: center; }
+  .o-texto { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+  .o-kicker { font-size: 10px; color: #777; }
+  .o-titulo { font-size: clamp(18px, 1.7vw, 25px); font-weight: 600; line-height: 1.08; letter-spacing: -0.03em; }
+  .o-sub { font-size: 11px; color: #666; line-height: 1.45; }
+  .o-botones { display: flex; gap: 6px; margin-top: 4px; }
+  .o-b1, .o-b2 { font-size: 10px; padding: 6px 10px; border-radius: 3px; }
+  .o-b1 { background: #111; color: #fff; }
+  .o-b2 { border: 1px solid #111; }
+  .o-foto { aspect-ratio: 1 / 1; border-radius: 6px; overflow: hidden; }
+  .o-tarjetas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 16px; }
+  .o-tarjeta { font-size: 10px; font-weight: 500; }
+  .o-tarjeta img { aspect-ratio: 4 / 3; border-radius: 5px; margin-bottom: 5px; }
+  .obra-pagina img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(1); transition: filter 1.2s ease, opacity .6s ease; }
+  .obra.lista .obra-pagina img { filter: none; }
+  /* Antes de su paso cada pieza es un bloque gris */
+  .o-el { transition: background .45s ease, color .45s ease, border-color .45s ease, opacity .45s ease; }
+  .o-el:not(.ok) { color: transparent !important; background: #e4e4e2 !important; border-color: transparent !important; border-radius: 3px; }
+  .o-el:not(.ok) img { opacity: 0; }
+  .obra-estado { display: flex; justify-content: space-between; margin-top: 14px; font-size: 13px; color: var(--gris); }
+  .obra.lista #obra-paso { color: var(--crema); }
   .boton {
     display: inline-flex; align-items: center; gap: 12px; background: var(--crema); color: var(--negro);
     padding: 17px 26px; border-radius: 4px; font-weight: 500; font-size: 16px;
@@ -100,6 +138,8 @@
   /* Trabajos */
   .trabajos { display: grid; grid-template-columns: 1fr 1fr; gap: 56px 32px; }
   .proyecto { min-width: 0; }
+  .proyecto.ancho-completo { grid-column: 1 / -1; }
+  .proyecto.ancho-completo .celular { width: 15%; }
   .proyecto-cabeza { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
   .proyecto h3 { font-weight: 500; font-size: clamp(26px, 2.4vw, 34px); letter-spacing: -0.03em; line-height: 1; margin: 0; }
   .etiquetas { display: flex; gap: 14px; color: var(--gris); font-size: 13px; flex-wrap: wrap; }
@@ -177,7 +217,7 @@
 
   @media (max-width: 900px) {
     .barra nav { display: none; }
-    .portada-pie, .titulo-seccion, .proceso-rejilla, .preguntas, .paquetes, .trabajos, .proceso .fijo { grid-template-columns: 1fr; }
+    .portada-rejilla, .portada-pie, .titulo-seccion, .proceso-rejilla, .preguntas, .paquetes, .trabajos, .proceso .fijo { grid-template-columns: 1fr; }
     .pasos { grid-template-columns: 1fr 1fr; gap: 28px 20px; }
     .acciones { justify-content: flex-start; }
     .proceso-rejilla { gap: 48px; }
@@ -198,6 +238,7 @@
     .pasos { grid-template-columns: 1fr; }
     summary { font-size: 19px; }
   }
+  @media (max-width: 900px) { .portada-rejilla { gap: 40px; } .obra { order: 2; } }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
     h1 .linea > span { transform: none; }
@@ -223,6 +264,8 @@
 <main id="inicio">
   <div class="portada">
     <div class="ancho">
+      <div class="portada-rejilla">
+      <div class="portada-texto">
       <p class="previo">Estudio de páginas web en México</p>
       <h1>
         <span class="linea"><span>La página web</span></span>
@@ -241,13 +284,43 @@
         <span><b>Desde $1,000</b> pesos</span>
         <span><b>Su dominio</b> a su nombre</span>
       </div>
+      </div>
+
+      <div class="obra" id="obra" aria-hidden="true">
+        <div class="obra-ventana">
+          <div class="obra-barra"><span class="obra-url"><span id="obra-url"></span><i class="obra-cursor"></i></span><span class="controles"><span>─</span><span>□</span><span>✕</span></span></div>
+          <div class="obra-pagina">
+            <div class="o-nav">
+              <span class="o-el o-logo" data-paso="1">El Faro</span>
+              <span class="o-links"><span class="o-el" data-paso="1">Menú</span><span class="o-el" data-paso="1">Sucursales</span><span class="o-el" data-paso="1">Pedidos</span></span>
+              <span class="o-el o-cta" data-paso="1">Reservar</span>
+            </div>
+            <div class="o-hero">
+              <div class="o-texto">
+                <span class="o-el o-kicker" data-paso="2">Mariscos del Pacífico</span>
+                <span class="o-el o-titulo" data-paso="2">Frescos todos los días, servidos a su mesa</span>
+                <span class="o-el o-sub" data-paso="3">Aguachiles, tostadas y pescado zarandeado con receta de la casa.</span>
+                <span class="o-botones"><span class="o-el o-b1" data-paso="5">Ver el menú</span><span class="o-el o-b2" data-paso="5">Pedir a domicilio</span></span>
+              </div>
+              <div class="o-el o-foto" data-paso="4"><img src="img/obra-1.jpg" alt=""></div>
+            </div>
+            <div class="o-tarjetas">
+              <div class="o-el o-tarjeta" data-paso="6"><img src="img/obra-2.jpg" alt=""><span>Vaso loco</span></div>
+              <div class="o-el o-tarjeta" data-paso="7"><img src="img/obra-3.jpg" alt=""><span>Paté de camarón</span></div>
+              <div class="o-el o-tarjeta" data-paso="8"><img src="img/obra-4.jpg" alt=""><span>Callo de hacha</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="obra-estado"><span id="obra-paso">Armando la estructura</span><span id="obra-pct">0%</span></div>
+      </div>
+      </div>
     </div>
   </div>
 
   <div class="cinta" aria-hidden="true">
     <div class="cinta-pista">
-      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span>
-      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span>
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span>
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span>
     </div>
   </div>
 
@@ -259,7 +332,7 @@
       </div>
 
       <div class="trabajos">
-      <article class="proyecto">
+      <article class="proyecto ancho-completo">
         <div class="proyecto-cabeza rev">
           <h3>Makatea</h3>
           <div class="etiquetas"><span>Software</span><span>Cobranza</span><span>Español, inglés y portugués</span></div>
@@ -267,9 +340,9 @@
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">makatea.ai</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/makatea.jpg" alt="Página de Makatea en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/makatea.jpg?v=3" alt="Página de Makatea en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/makatea-movil.jpg" alt="Página de Makatea en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/makatea-movil.jpg?v=3" alt="Página de Makatea en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -287,9 +360,9 @@
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">laola.mx</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/laola.jpg" alt="Página de La Ola en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/laola.jpg?v=3" alt="Página de La Ola en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/laola-movil.jpg" alt="Página de La Ola en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/laola-movil.jpg?v=3" alt="Página de La Ola en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -307,9 +380,9 @@
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">signsolu.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/signsolu.jpg" alt="Página de SignSolú en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/signsolu.jpg?v=3" alt="Página de SignSolú en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/signsolu-movil.jpg" alt="Página de SignSolú en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/signsolu-movil.jpg?v=3" alt="Página de SignSolú en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -321,15 +394,35 @@
 
       <article class="proyecto">
         <div class="proyecto-cabeza rev">
+          <h3>Comprafin</h3>
+          <div class="etiquetas"><span>Restaurantes</span><span>Compras</span><span>Proveedores</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">comprafin.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/comprafin.jpg?v=3" alt="Página de Comprafin en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/comprafin-movil.jpg?v=3" alt="Página de Comprafin en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado">Los precios del día de cada proveedor, comparados en una sola tabla</p>
+          </div>
+          <a class="visitar" href="https://comprafin.com" target="_blank" rel="noopener">comprafin.com ↗</a>
+        </div>
+      </article>
+
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
           <h3>Agroqs</h3>
           <div class="etiquetas"><span>Agroinsumos</span><span>Cotizaciones</span><span>WhatsApp</span></div>
         </div>
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">agroqs.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/agroqs.jpg" alt="Página de Agroqs en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/agroqs.jpg?v=3" alt="Página de Agroqs en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/agroqs-movil.jpg" alt="Página de Agroqs en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/agroqs-movil.jpg?v=3" alt="Página de Agroqs en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -347,9 +440,9 @@
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">solufintech.com</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/solu.jpg" alt="Página de Solú en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/solu.jpg?v=3" alt="Página de Solú en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/solu-movil.jpg" alt="Página de Solú en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/solu-movil.jpg?v=3" alt="Página de Solú en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -367,9 +460,9 @@
         <div class="escena rev">
           <div class="ventana">
             <div class="ventana-barra"><span class="url">avelina.com.mx</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
-            <div class="ventana-pantalla"><img src="img/trabajos/avelina.jpg" alt="Página de Avelina en computadora" loading="lazy" width="1600" height="1000"></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/avelina.jpg?v=3" alt="Página de Avelina en computadora" loading="lazy" width="1600" height="1000"></div>
           </div>
-          <div class="celular" data-paralaje><img src="img/trabajos/avelina-movil.jpg" alt="Página de Avelina en celular" loading="lazy" width="446" height="760"></div>
+          <div class="celular" data-paralaje><img src="img/trabajos/avelina-movil.jpg?v=3" alt="Página de Avelina en celular" loading="lazy" width="446" height="760"></div>
         </div>
         <div class="proyecto-pie rev">
           <div>
@@ -397,7 +490,7 @@
         <div class="paso rev">
           <span class="num">02</span>
           <h3>Usted la ajusta</h3>
-          <p>Nos dice qué cambiar y nos manda sus fotos, su logo y su horario.</p>
+          <p>Nos dice qué cambiar y nos manda sus fotos y su logo.</p>
         </div>
         <div class="paso rev">
           <span class="num">03</span>
@@ -426,8 +519,8 @@
           <div class="precio">$1,000<small>MXN</small></div>
           <ul>
             <li>Una página diseñada para su giro</li>
-            <li>Botón para llamar y para WhatsApp</li>
-            <li>Mapa, dirección y horario</li>
+            <li>Sus servicios y fotos en un solo lugar</li>
+            <li>Botón directo a su WhatsApp</li>
             <li>Lista para verse bien en el celular</li>
           </ul>
           <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20landing%20page">Quiero mi landing <span class="flecha">→</span></a>
@@ -514,6 +607,36 @@
     if (e.isIntersecting) { e.target.classList.add('visto'); obs.unobserve(e.target); }
   }), { rootMargin: '0px 0px -12% 0px' });
   document.querySelectorAll('.rev').forEach(el => obs.observe(el));
+
+  // La landing de la portada se arma en unos 6 segundos y vuelve a empezar
+  (() => {
+    const obra = document.getElementById('obra');
+    const url = document.getElementById('obra-url'), paso = document.getElementById('obra-paso'), pct = document.getElementById('obra-pct');
+    const piezas = [...obra.querySelectorAll('[data-paso]')];
+    const dominio = 'mariscoselfaro.mx';
+    const etapas = [[0, 'Armando la estructura'], [1, 'Armando la estructura'], [2, 'Escribiendo los textos'], [3, 'Escribiendo los textos'],
+      [4, 'Acomodando las fotos'], [5, 'Conectando los botones'], [6, 'Agregando el menú'], [7, 'Agregando el menú'], [8, 'Agregando el menú']];
+    const DUR = 6000;
+    let timers = [];
+    const mostrar = (n) => { piezas.forEach(p => p.classList.toggle('ok', +p.dataset.paso <= n)); };
+    function construir() {
+      timers.forEach(clearTimeout); timers = [];
+      obra.classList.remove('lista'); mostrar(0); url.textContent = ''; pct.textContent = '0%'; paso.textContent = etapas[0][1];
+      [...dominio].forEach((c, i) => timers.push(setTimeout(() => { url.textContent += c; }, 150 + i * 45)));
+      for (let n = 1; n <= 8; n++) timers.push(setTimeout(() => { mostrar(n); paso.textContent = etapas[n][1]; }, 700 + (n - 1) * 640));
+      const t0 = performance.now();
+      const contar = (t) => { const v = Math.min(100, Math.round((t - t0) / DUR * 100)); pct.textContent = v + '%'; if (v < 100) requestAnimationFrame(contar); };
+      requestAnimationFrame(contar);
+      timers.push(setTimeout(() => { obra.classList.add('lista'); paso.textContent = 'Página publicada'; pct.textContent = '100%'; }, DUR));
+      timers.push(setTimeout(construir, DUR + 9000));
+    }
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      url.textContent = dominio; mostrar(8); obra.classList.add('lista'); paso.textContent = 'Página publicada'; pct.textContent = '100%';
+    } else {
+      let empezo = false;
+      new IntersectionObserver((es) => { if (!empezo && es[0].isIntersecting) { empezo = true; setTimeout(construir, 300); } }, { threshold: 0.35 }).observe(obra);
+    }
+  })();
 
   // El proyecto que está a media pantalla se ve a color; los demás en gris
   const centro = new IntersectionObserver((es) => es.forEach(e => e.target.classList.toggle('activo', e.isIntersecting)),
