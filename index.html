@@ -12,7 +12,9 @@
 <meta property="og:image" content="https://www.aliviane.mx/img/trabajos/makatea.jpg?v=3">
 <meta property="og:url" content="https://www.aliviane.mx/">
 <meta property="og:locale" content="es_MX">
-<link rel="icon" href="img/icono.svg" type="image/svg+xml">
+<link rel="icon" href="img/icono.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="img/favicon-32.png?v=2" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png?v=2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -49,7 +51,8 @@
   .barra.con-fondo { background: rgba(12, 11, 10, .82); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); padding: 14px 0; }
   .barra.oculta { transform: translateY(-100%); }
   .barra .ancho { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
-  .marca { font: 700 22px/1 var(--sans); letter-spacing: -0.03em; }
+  .marca { font: 700 22px/1 var(--sans); letter-spacing: -0.03em; display: inline-flex; align-items: center; gap: 4px; }
+  .marca svg { width: 30px; height: 30px; margin-left: -4px; }
   .barra nav { display: flex; gap: 32px; font-size: 15px; color: var(--gris); }
   .barra nav a { transition: color .25s; }
   .barra nav a:hover { color: var(--crema); }
@@ -250,7 +253,7 @@
 
 <header class="barra" id="barra">
   <div class="ancho">
-    <a class="marca" href="#inicio" aria-label="Aliviane, inicio">aliviane</a>
+    <a class="marca" href="#inicio" aria-label="Aliviane, inicio"><svg viewBox="0 0 64 64" aria-hidden="true"><rect x="16.5" y="20" width="25" height="26" rx="8" fill="none" stroke="currentColor" stroke-width="7"/><rect x="38" y="16.5" width="7.5" height="33" rx="1" fill="currentColor"/></svg>aliviane</a>
     <nav>
       <a href="#trabajos">Trabajos</a>
       <a href="#proceso">Proceso</a>
@@ -319,8 +322,8 @@
 
   <div class="cinta" aria-hidden="true">
     <div class="cinta-pista">
-      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span>
-      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span>
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span><span>Pilsi</span>
+      <span>La Ola</span><span>Solú</span><span>SignSolú</span><span>Makatea</span><span>Agroqs</span><span>Avelina</span><span>Comprafin</span><span>Pilsi</span>
     </div>
   </div>
 
@@ -332,7 +335,7 @@
       </div>
 
       <div class="trabajos">
-      <article class="proyecto ancho-completo">
+      <article class="proyecto">
         <div class="proyecto-cabeza rev">
           <h3>Makatea</h3>
           <div class="etiquetas"><span>Software</span><span>Cobranza</span><span>Español, inglés y portugués</span></div>
@@ -469,6 +472,25 @@
             <p class="resultado">Un sitio con la personalidad de la artista</p>
           </div>
           <a class="visitar" href="https://avelina.com.mx" target="_blank" rel="noopener">avelina.com.mx ↗</a>
+        </div>
+      </article>
+      <article class="proyecto">
+        <div class="proyecto-cabeza rev">
+          <h3>Pilsi</h3>
+          <div class="etiquetas"><span>Talento creativo</span><span>Directorio</span><span>Talleres</span></div>
+        </div>
+        <div class="escena rev">
+          <div class="ventana">
+            <div class="ventana-barra"><span class="url">pilsi.art</span><span class="controles" aria-hidden="true"><span>─</span><span>□</span><span>✕</span></span></div>
+            <div class="ventana-pantalla"><img src="img/trabajos/pilsi.jpg?v=3" alt="Página de Pilsi en computadora" loading="lazy" width="1600" height="1000"></div>
+          </div>
+          <div class="celular" data-paralaje><img src="img/trabajos/pilsi-movil.jpg?v=3" alt="Página de Pilsi en celular" loading="lazy" width="446" height="760"></div>
+        </div>
+        <div class="proyecto-pie rev">
+          <div>
+            <p class="resultado">Un directorio donde quien busca talento creativo encuentra a quien lo hace</p>
+          </div>
+          <a class="visitar" href="https://pilsi.art" target="_blank" rel="noopener">pilsi.art ↗</a>
         </div>
       </article>
       </div>
