@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Grupo Sardinero Leon · Distribuidora en Mulegé</title>
+<meta name="description" content="Grupo Sardinero León comercializa producto del mar de Baja California Sur. Escríbanos para cotizar por volumen.">
+<meta property="og:title" content="Grupo Sardinero Leon">
+<meta property="og:description" content="Grupo Sardinero León comercializa producto del mar de Baja California Sur. Escríbanos para cotizar por volumen.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --acento: #8a4b1f;
+    --fondo: #fbfaf7;
+    --tinta: #1d1b18;
+    --suave: color-mix(in srgb, var(--tinta) 62%, var(--fondo));
+    --tenue: color-mix(in srgb, var(--tinta) 6%, var(--fondo));
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--tinta); font: 400 17px/1.65 "Public Sans", system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  .ancho { width: min(1180px, 100% - 32px); margin-inline: auto; }
+  h1, h2, h3 { font-family: "Archivo", Georgia, serif; font-weight: 500; margin: 0; letter-spacing: -0.02em; }
+
+  .aviso { background: var(--tinta); color: var(--fondo); font-size: 14px; padding: 10px 0; }
+  .aviso .ancho { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; justify-content: space-between; }
+  .aviso a { color: var(--fondo); font-weight: 600; }
+
+  header { padding: 24px 0; }
+  header .ancho { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
+  .marca { font-family: "Archivo", Georgia, serif; font-size: 22px; font-weight: 600; text-decoration: none; }
+  header .tel { text-decoration: none; font-weight: 500; }
+
+  /* Portada en dos columnas: título grande y ficha del negocio */
+  .portada { padding: 64px 0 80px; display: grid; grid-template-columns: 1.6fr 1fr; gap: 64px; align-items: end; }
+  .previo { color: var(--acento); font-size: 15px; font-weight: 600; margin: 0 0 22px; }
+  h1 { font-size: clamp(42px, 6.8vw, 96px); line-height: 1; letter-spacing: -0.03em; }
+  .ficha { background: var(--tenue); border-radius: 6px; padding: 28px; }
+  .ficha .lead { margin: 0 0 24px; font-size: 18px; }
+  .ficha .renglon { display: flex; justify-content: space-between; gap: 16px; font-size: 15px; padding: 7px 0; }
+  .ficha .renglon span:first-child { color: var(--suave); }
+  .ficha .renglon span:last-child { text-align: right; }
+  .botones { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+  .boton { display: inline-block; padding: 14px 20px; border-radius: 4px; font-weight: 600; text-decoration: none; font-size: 16px; }
+  .boton.lleno { background: var(--acento); color: #fff; }
+  .boton.hueco { border: 1.5px solid var(--tinta); }
+
+  section { padding: 80px 0; }
+  .doble { display: grid; grid-template-columns: 1fr 1.7fr; gap: 64px; }
+  h2 { font-size: clamp(30px, 3.6vw, 46px); line-height: 1.08; }
+  .servicios { display: grid; gap: 34px; }
+  .servicio h3 { font-size: 26px; }
+  .servicio p { margin: 6px 0 0; color: var(--suave); }
+
+  .sobre { background: var(--tinta); color: var(--fondo); }
+  .sobre .previo { color: color-mix(in srgb, var(--acento) 55%, #fff); }
+  .sobre p.grande { font: 400 clamp(24px, 3vw, 38px)/1.3 "Archivo", Georgia, serif; max-width: 26em; margin: 0; letter-spacing: -0.015em; }
+
+  .mapa { width: 100%; aspect-ratio: 16 / 7; border: 0; border-radius: 6px; margin-top: 28px; }
+  .direccion { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; align-items: baseline; }
+  .direccion p { margin: 0; max-width: 36em; color: var(--suave); }
+  footer { padding: 36px 0 56px; color: var(--suave); font-size: 14px; }
+  footer a { color: var(--suave); }
+
+  .flotante { display: none; }
+  @media (max-width: 820px) {
+    body { font-size: 16px; padding-bottom: 76px; }
+    .portada, .doble { grid-template-columns: 1fr; gap: 32px; }
+    .portada { padding: 32px 0 56px; }
+    header .tel { display: none; }
+    section { padding: 56px 0; }
+    .mapa { aspect-ratio: 4 / 3; }
+    .flotante { display: flex; position: fixed; inset: auto 0 0; gap: 8px; padding: 10px 16px; background: var(--fondo); }
+    .flotante a { flex: 1; text-align: center; padding: 13px 8px; border-radius: 4px; font-weight: 600; text-decoration: none; }
+    .flotante a:first-child { background: var(--acento); color: #fff; }
+    .flotante a:last-child { border: 1.5px solid var(--tinta); }
+  }
+</style>
+</head>
+<body>
+
+<div class="aviso">
+  <div class="ancho">
+    <span>Muestra hecha por Aliviane para Grupo Sardinero Leon. Aún no es la página oficial del negocio.</span>
+    <a href="mailto:diego@aliviane.mx?subject=Quiero%20la%20p%C3%A1gina%20de%20Grupo%20Sardinero%20Leon" target="_blank" rel="noopener">Quiero esta página</a>
+  </div>
+</div>
+
+<header>
+  <div class="ancho">
+    <a class="marca" href="#">Grupo Sardinero Leon</a>
+    <a class="tel" href="tel:+526151099146">615 109 9146</a>
+  </div>
+</header>
+
+<main>
+  <div class="ancho portada">
+    <div>
+      <p class="previo">Distribuidora · Mulegé</p>
+      <h1>Sardina y producto del mar desde Bahía Tortugas</h1>
+    </div>
+    <div class="ficha">
+      <p class="lead">Grupo Sardinero León comercializa producto del mar de Baja California Sur. Escríbanos para cotizar por volumen.</p>
+      <div class="renglon"><span>Dónde</span><span>Mulegé</span></div>
+      <div class="renglon"><span>Giro</span><span>Distribuidora</span></div>
+      <div class="renglon"><span>Teléfono</span><span>615 109 9146</span></div>
+      <div class="botones"><a class="boton lleno" href="tel:+526151099146">Llamar al 615 109 9146</a>
+        <a class="boton hueco" href="https://www.google.com/maps/search/?api=1&amp;query=Grupo%20Sardinero%20Leon%20Ninguno%20Bahia%20Tortugas%2C%2023640%20Muleg%C3%A9%2C%20Baja%20California%20Sur" target="_blank" rel="noopener">Cómo llegar</a></div>
+    </div>
+  </div>
+
+  <section>
+    <div class="ancho doble">
+      <h2>Lo que distribuimos</h2>
+      <div class="servicios">
+        <div class="servicio"><h3>Sardina</h3><p>Producto de la pesca de la región</p></div>
+        <div class="servicio"><h3>Pescado al mayoreo</h3><p>Para distribuidores y plantas</p></div>
+        <div class="servicio"><h3>Venta por volumen</h3><p>Pregunte por embarques a su ciudad</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sobre">
+    <div class="ancho">
+      <p class="previo">Sobre Grupo Sardinero Leon</p>
+      <p class="grande">Grupo Sardinero León opera en Bahía Tortugas, municipio de Mulegé. Vende producto del mar a compradores al mayoreo.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="ancho">
+      <div class="direccion">
+        <h2>Cómo llegar</h2>
+        <p>Ninguno Bahia Tortugas, 23640 Mulegé, Baja California Sur · <a href="https://www.google.com/maps/search/?api=1&amp;query=Grupo%20Sardinero%20Leon%20Ninguno%20Bahia%20Tortugas%2C%2023640%20Muleg%C3%A9%2C%20Baja%20California%20Sur" target="_blank" rel="noopener">Abrir en Google Maps</a></p>
+      </div>
+      <iframe class="mapa" title="Mapa de Grupo Sardinero Leon" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=27.69438063,-114.88967257&z=16&output=embed"></iframe>
+      
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="ancho">Grupo Sardinero Leon · Mulegé · Página de muestra hecha por <a href="https://www.aliviane.mx">Aliviane</a></div>
+</footer>
+
+<div class="flotante"><a class="boton lleno" href="tel:+526151099146">Llamar</a><a class="boton hueco" href="https://www.google.com/maps/search/?api=1&amp;query=Grupo%20Sardinero%20Leon%20Ninguno%20Bahia%20Tortugas%2C%2023640%20Muleg%C3%A9%2C%20Baja%20California%20Sur">Cómo llegar</a></div>
+
+</body>
+</html>

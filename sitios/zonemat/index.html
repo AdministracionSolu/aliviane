@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Zonemat · Renta de equipo en Mexicali</title>
+<meta name="description" content="Zonemat renta maquinaria para obra en Mexicali. Escríbanos y le cotizamos el equipo.">
+<meta property="og:title" content="Zonemat">
+<meta property="og:description" content="Zonemat renta maquinaria para obra en Mexicali. Escríbanos y le cotizamos el equipo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --acento: #b45309;
+    --fondo: #f7f5f0;
+    --tinta: #1f1c17;
+    --suave: color-mix(in srgb, var(--tinta) 64%, var(--fondo));
+    --sobre-acento: #fff;
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--tinta); font: 400 17px/1.6 "Public Sans", system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  .ancho { width: min(1120px, 100% - 32px); margin-inline: auto; }
+  h1, h2, h3 { font-family: "Archivo", Georgia, serif; font-weight: 600; margin: 0; letter-spacing: -0.02em; }
+
+  .aviso { background: #111; color: #f2f2f0; font-size: 14px; padding: 10px 0; }
+  .aviso .ancho { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; justify-content: space-between; }
+  .aviso a { color: #fff; font-weight: 600; }
+
+  /* Portada: bloque de color a todo lo ancho */
+  .portada { background: var(--acento); color: var(--sobre-acento); padding: 28px 0 88px; }
+  .portada nav { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 88px; font-size: 15px; }
+  .portada nav b { font-family: "Archivo", Georgia, serif; font-size: 20px; }
+  .portada nav a { text-decoration: none; opacity: .9; }
+  .previo { font-size: 15px; font-weight: 500; opacity: .85; margin: 0 0 18px; }
+  h1 { font-size: clamp(44px, 8vw, 104px); line-height: .96; max-width: 13ch; letter-spacing: -0.035em; }
+  .portada-pie { display: grid; grid-template-columns: 1.4fr 1fr; gap: 40px; align-items: end; margin-top: 40px; }
+  .lead { font-size: 20px; margin: 0; max-width: 30em; opacity: .92; }
+  .calif { text-align: right; }
+  .calif b { display: block; font: 600 64px/1 "Archivo", Georgia, serif; letter-spacing: -0.03em; }
+  .calif span { font-size: 14px; opacity: .85; }
+  .botones { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px; }
+  .boton { display: inline-block; padding: 15px 24px; border-radius: 4px; font-weight: 600; text-decoration: none; }
+  .boton.claro { background: #fff; color: var(--tinta); }
+  .boton.borde { border: 1.5px solid rgba(255,255,255,.75); color: #fff; }
+
+  section { padding: 88px 0; }
+  .cabeza { display: grid; grid-template-columns: 1fr 1.6fr; gap: 40px; margin-bottom: 44px; align-items: end; }
+  h2 { font-size: clamp(30px, 4vw, 48px); line-height: 1.05; }
+  .cabeza p { color: var(--suave); margin: 0; max-width: 30em; }
+  .lista { display: grid; grid-template-columns: 1fr 1fr; gap: 0 56px; counter-reset: s; }
+  .item { display: grid; grid-template-columns: 56px 1fr; padding: 22px 0; }
+  .item::before { counter-increment: s; content: counter(s, decimal-leading-zero); font: 600 15px/1.9 "Public Sans", sans-serif; color: var(--acento); }
+  .item h3 { font-size: 22px; }
+  .item p { margin: 4px 0 0; color: var(--suave); font-size: 16px; }
+
+  .sobre { background: color-mix(in srgb, var(--acento) 9%, var(--fondo)); }
+  .sobre p { font: 500 clamp(22px, 2.6vw, 32px)/1.35 "Archivo", Georgia, serif; max-width: 30em; margin: 18px 0 0; letter-spacing: -0.01em; }
+  .sobre .previo { color: var(--acento); opacity: 1; }
+
+  .lugar { display: grid; grid-template-columns: 1fr 1.5fr; gap: 48px; align-items: stretch; }
+  .dato { color: var(--suave); font-size: 14px; margin: 18px 0 2px; }
+  .lugar p { margin: 0; }
+  .mapa { width: 100%; min-height: 340px; height: 100%; border: 0; border-radius: 6px; }
+  footer { padding: 36px 0 56px; color: var(--suave); font-size: 14px; }
+  footer a { color: var(--suave); }
+
+  .flotante { display: none; }
+  @media (max-width: 760px) {
+    body { font-size: 16px; padding-bottom: 76px; }
+    .portada { padding-bottom: 64px; }
+    .portada nav { margin-bottom: 56px; }
+    .portada nav a { display: none; }
+    .portada-pie, .cabeza, .lista, .lugar { grid-template-columns: 1fr; }
+    .calif { text-align: left; }
+    section { padding: 60px 0; }
+    .lead { font-size: 18px; }
+    .mapa { min-height: 280px; }
+    .flotante { display: flex; position: fixed; inset: auto 0 0; gap: 8px; padding: 10px 16px; background: var(--fondo); }
+    .flotante a { flex: 1; text-align: center; padding: 13px 8px; border-radius: 4px; font-weight: 600; text-decoration: none; }
+    .flotante a:first-child { background: var(--acento); color: #fff; }
+    .flotante a:last-child { border: 1.5px solid var(--tinta); }
+  }
+</style>
+</head>
+<body>
+
+<div class="aviso">
+  <div class="ancho">
+    <span>Muestra hecha por Aliviane para Zonemat. Aún no es la página oficial del negocio.</span>
+    <a href="mailto:diego@aliviane.mx?subject=Quiero%20la%20p%C3%A1gina%20de%20Zonemat" target="_blank" rel="noopener">Quiero esta página</a>
+  </div>
+</div>
+
+<header class="portada">
+  <div class="ancho">
+    <nav><b>Zonemat</b><a class="tel" href="tel:+526861875042">686 187 5042</a></nav>
+    <p class="previo">Renta de equipo en Mexicali</p>
+    <h1>Equipo para construcción en Mexicali</h1>
+    <div class="portada-pie">
+      <div>
+        <p class="lead">Zonemat renta maquinaria para obra en Mexicali. Escríbanos y le cotizamos el equipo.</p>
+        <div class="botones"><a class="boton claro" href="tel:+526861875042">Llamar al 686 187 5042</a>
+        <a class="boton borde" href="https://wa.me/526861875042" target="_blank" rel="noopener">WhatsApp</a>
+        <a class="boton borde" href="https://www.google.com/maps/search/?api=1&amp;query=Zonemat%20Rio%20San%20Pedro%20Mezquital%201438%20Venustiano%20Carranza%2C%2021394%20Mexicali%2C%20Baja%20California" target="_blank" rel="noopener">Cómo llegar</a></div>
+      </div>
+      
+    </div>
+  </div>
+</header>
+
+<main>
+  <section>
+    <div class="ancho">
+      <div class="cabeza">
+        <h2>Lo que rentamos</h2>
+        <p>Zonemat atiende en Mexicali.</p>
+      </div>
+      <div class="lista">
+        <div class="item"><div><h3>Maquinaria para obra</h3><p>Excavación y movimiento de tierra</p></div></div>
+        <div class="item"><div><h3>Equipo ligero</h3><p>Pregunte por el equipo disponible</p></div></div>
+        <div class="item"><div><h3>Renta por obra</h3><p>Le ajustamos el periodo a su proyecto</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sobre">
+    <div class="ancho">
+      <p class="previo">Sobre Zonemat</p>
+      <p>Zonemat trabaja en Mexicali, Baja California. Renta equipo a constructores de la ciudad.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="ancho lugar">
+      <div>
+        <h2>Cómo llegar</h2>
+        <p class="dato">Dirección</p>
+        <p>Rio San Pedro Mezquital 1438 Venustiano Carranza, 21394 Mexicali, Baja California</p>
+        
+        <p class="dato">Teléfono</p><p><a href="tel:+526861875042">686 187 5042</a></p>
+        <p class="dato">Mapa</p>
+        <p><a href="https://www.google.com/maps/search/?api=1&amp;query=Zonemat%20Rio%20San%20Pedro%20Mezquital%201438%20Venustiano%20Carranza%2C%2021394%20Mexicali%2C%20Baja%20California" target="_blank" rel="noopener">Abrir en Google Maps</a></p>
+      </div>
+      <iframe class="mapa" title="Mapa de Zonemat" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=32.60899867,-115.41475437&z=16&output=embed"></iframe>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="ancho">Zonemat · Mexicali · Página de muestra hecha por <a href="https://www.aliviane.mx">Aliviane</a></div>
+</footer>
+
+<div class="flotante"><a class="boton lleno" href="tel:+526861875042">Llamar</a><a class="boton hueco" href="https://wa.me/526861875042">WhatsApp</a></div>
+
+</body>
+</html>
