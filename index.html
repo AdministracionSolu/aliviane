@@ -76,6 +76,42 @@
   .portada-pie p { color: var(--gris); font-size: 20px; line-height: 1.55; margin: 0; max-width: 30em; }
   .acciones { display: flex; gap: 28px; align-items: center; flex-wrap: wrap; }
 
+.boton-meet { gap: 14px; padding: 14px 24px 14px 20px; text-align: left; }
+  .boton-meet .cam { width: 26px; height: 26px; flex: none; }
+  .boton-meet span { display: flex; flex-direction: column; line-height: 1.2; }
+  .boton-meet b { font-weight: 600; font-size: 17px; }
+  .boton-meet small { font-size: 13px; opacity: .65; margin-top: 3px; }
+  .boton-meet.grande { padding: 20px 30px 20px 24px; }
+  .boton-meet.grande b { font-size: 20px; }
+  .demo { display: grid; grid-template-columns: 1fr 1.15fr; gap: 56px; margin-top: 48px; align-items: start; }
+  .demo h3 { font-size: 28px; font-weight: 500; letter-spacing: -0.03em; margin: 0 0 12px; }
+  .demo-texto p { color: var(--gris); font-size: 18px; max-width: 26em; margin: 0 0 24px; }
+  .demo-texto .demo-correo { font-size: 15px; margin-top: 24px; }
+  .demo-texto .demo-correo a { color: var(--crema); }
+  .demo-form { background: var(--negro-2); border-radius: 8px; padding: 32px; display: grid; gap: 16px; }
+  .demo-form label { display: grid; gap: 6px; font-size: 14px; color: var(--gris); }
+  .demo-form label i { font-style: normal; color: var(--gris-2); }
+  .demo-form input, .demo-form select, .demo-form textarea {
+    font: 400 16px/1.4 var(--sans); color: var(--crema); background: var(--negro); border: 1px solid #2c2c2c;
+    border-radius: 4px; padding: 12px 14px; width: 100%;
+  }
+  .demo-form input:focus, .demo-form select:focus, .demo-form textarea:focus { outline: none; border-color: var(--gris); }
+  .demo-form .dos { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .demo-form button { justify-self: start; border: 0; cursor: pointer; font: inherit; font-weight: 500; margin-top: 4px; }
+  .demo-form .oculto { display: none; }
+  .demo-ok { font-size: 18px; margin: 0; }
+  [hidden] { display: none !important; }
+  @media (max-width: 900px) { .demo { grid-template-columns: 1fr; gap: 32px; } .demo-form { padding: 22px; } .demo-form .dos { grid-template-columns: 1fr; } }
+  .meet-fijo {
+    position: fixed; right: 24px; bottom: 24px; z-index: 30; display: inline-flex; align-items: center; gap: 10px;
+    background: var(--crema); color: var(--negro); padding: 13px 18px; border-radius: 4px; font-weight: 600; font-size: 15px;
+    transform: translateY(calc(100% + 48px)); transition: transform .5s var(--curva), background .3s;
+  }
+  .meet-fijo .cam { width: 20px; height: 20px; }
+  .meet-fijo.visible { transform: none; }
+  .meet-fijo:hover { background: #fff; }
+  @media (max-width: 560px) { .meet-fijo { left: 16px; right: 16px; bottom: 16px; justify-content: center; } }
+
   /* La landing que se construye sola */
   .obra { min-width: 0; }
   .obra-ventana { background: #fff; border-radius: 8px; overflow: hidden; color: #111; }
@@ -260,7 +296,7 @@
       <a href="#paquetes">Paquetes</a>
       <a href="#preguntas">Preguntas</a>
     </nav>
-    <a class="cotizar" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Cotizar</a>
+    <a class="cotizar" href="#demo">Agendar demo</a>
   </div>
 </header>
 
@@ -278,7 +314,8 @@
       <div class="portada-pie">
         <p>Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.</p>
         <div class="acciones">
-          <a class="boton" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Pedir mi muestra <span class="flecha">→</span></a>
+          <a class="boton boton-meet" href="#demo"><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 10h18M8 3v4M16 3v4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg><span><b>Agendar una demo</b><small>15 minutos con Rodrigo, sin costo</small></span></a>
+          <a class="liga" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Pedir mi muestra</a>
           <a class="liga" href="#trabajos">Ver trabajos</a>
         </div>
       </div>
@@ -591,13 +628,36 @@
   <div class="cierre" id="contacto">
     <div class="ancho">
       <h2 class="rev">¿Hacemos la de <em>su negocio?</em></h2>
-      <div class="cierre-pie rev">
-        <a class="correo" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">diego@aliviane.mx</a>
-        <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Pedir mi muestra <span class="flecha">→</span></a>
+      <div class="demo rev" id="demo">
+        <div class="demo-texto">
+          <h3>Agende una demo de 15 minutos</h3>
+          <p>Rodrigo le enseña cómo quedaría la página de su negocio y resuelve sus dudas. Es por videollamada y no tiene costo.</p>
+          <a class="boton boton-meet a-meet" href="#" target="_blank" rel="noopener" hidden><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6" width="13" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 10.5l5-3v9l-5-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg><span><b>Hablar ahora por Meet</b><small>Si Rodrigo está disponible, entra de inmediato</small></span></a>
+          <p class="demo-correo">O escríbanos a <a href="mailto:diego@aliviane.mx">diego@aliviane.mx</a></p>
+        </div>
+        <form class="demo-form" name="demo" method="POST" data-netlify="true" netlify-honeypot="sitio-web" id="form-demo">
+          <input type="hidden" name="form-name" value="demo">
+          <p class="oculto"><label>No llenar <input name="sitio-web"></label></p>
+          <label>Su nombre<input name="nombre" required autocomplete="name"></label>
+          <label>Nombre de su negocio<input name="negocio" required></label>
+          <div class="dos">
+            <label>WhatsApp o teléfono<input name="whatsapp" type="tel" required autocomplete="tel" inputmode="tel"></label>
+            <label><span>Correo <i>(opcional)</i></span><input name="correo" type="email" autocomplete="email"></label>
+          </div>
+          <div class="dos">
+            <label>¿Qué día?<select name="dia"><option>Hoy</option><option selected>Mañana</option><option>Esta semana</option><option>La próxima semana</option></select></label>
+            <label>¿A qué hora?<select name="hora"><option>9 a 12</option><option>12 a 3</option><option>3 a 7</option></select></label>
+          </div>
+          <label><span>¿Algo que debamos saber? <i>(opcional)</i></span><textarea name="comentario" rows="3"></textarea></label>
+          <button class="boton" type="submit">Agendar mi demo <span class="flecha">→</span></button>
+          <p class="demo-ok" hidden>Listo. Rodrigo le escribe para confirmar la hora de su demo.</p>
+        </form>
       </div>
     </div>
   </div>
 </main>
+
+<a class="meet-fijo" id="meet-fijo" href="#demo"><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 10h18M8 3v4M16 3v4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Agendar una demo</a>
 
 <footer>
   <div class="ancho">
@@ -607,6 +667,41 @@
 </footer>
 
 <script>
+  // Liga fija de Google Meet de Rodrigo: cambiarla sólo aquí
+  const MEET_URL = '';
+  document.querySelectorAll('.a-meet').forEach(a => {
+    if (MEET_URL) { a.href = MEET_URL; a.hidden = false; }
+  });
+  // Solicitud de demo: se guarda en Netlify y llega por correo
+  const forma = document.getElementById('form-demo');
+  forma.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const boton = forma.querySelector('button');
+    boton.disabled = true; boton.textContent = 'Enviando…';
+    try {
+      const r = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(new FormData(forma)).toString() });
+      if (!r.ok) throw new Error(r.status);
+      forma.querySelectorAll('label, .dos, button').forEach(el => el.hidden = true);
+      forma.querySelector('.demo-ok').hidden = false;
+    } catch (err) {
+      boton.disabled = false; boton.innerHTML = 'Agendar mi demo <span class="flecha">→</span>';
+      alert('No se pudo enviar. Escríbanos a diego@aliviane.mx');
+    }
+  });
+  // El botón fijo aparece cuando ya se pasó la portada y se esconde en el cierre
+  const meetFijo = document.getElementById('meet-fijo');
+  const portada = document.querySelector('.portada'), cierre = document.getElementById('contacto');
+  const vistos = new Map();
+  new IntersectionObserver(es => {
+    es.forEach(e => vistos.set(e.target, e.isIntersecting));
+    meetFijo.classList.toggle('visible', !vistos.get(portada) && !vistos.get(cierre));
+  }).observe(portada);
+  new IntersectionObserver(es => {
+    es.forEach(e => vistos.set(e.target, e.isIntersecting));
+    meetFijo.classList.toggle('visible', !vistos.get(portada) && !vistos.get(cierre));
+  }).observe(cierre);
+
   // Encabezado: fondo al bajar, se esconde al bajar rápido y vuelve al subir
   const barra = document.getElementById('barra');
   let ultimo = 0;
