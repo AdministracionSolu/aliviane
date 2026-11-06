@@ -76,6 +76,24 @@
   .portada-pie p { color: var(--gris); font-size: 20px; line-height: 1.55; margin: 0; max-width: 30em; }
   .acciones { display: flex; gap: 28px; align-items: center; flex-wrap: wrap; }
 
+.boton-meet { gap: 14px; padding: 14px 24px 14px 20px; text-align: left; }
+  .boton-meet .cam { width: 26px; height: 26px; flex: none; }
+  .boton-meet span { display: flex; flex-direction: column; line-height: 1.2; }
+  .boton-meet b { font-weight: 600; font-size: 17px; }
+  .boton-meet small { font-size: 13px; opacity: .65; margin-top: 3px; }
+  .boton-meet.grande { padding: 20px 30px 20px 24px; }
+  .boton-meet.grande b { font-size: 20px; }
+  .cierre-texto p { color: var(--gris); font-size: 19px; max-width: 26em; margin: 0 0 18px; }
+  .meet-fijo {
+    position: fixed; right: 24px; bottom: 24px; z-index: 30; display: inline-flex; align-items: center; gap: 10px;
+    background: var(--crema); color: var(--negro); padding: 13px 18px; border-radius: 4px; font-weight: 600; font-size: 15px;
+    transform: translateY(calc(100% + 48px)); transition: transform .5s var(--curva), background .3s;
+  }
+  .meet-fijo .cam { width: 20px; height: 20px; }
+  .meet-fijo.visible { transform: none; }
+  .meet-fijo:hover { background: #fff; }
+  @media (max-width: 560px) { .meet-fijo { left: 16px; right: 16px; bottom: 16px; justify-content: center; } }
+
   /* La landing que se construye sola */
   .obra { min-width: 0; }
   .obra-ventana { background: #fff; border-radius: 8px; overflow: hidden; color: #111; }
@@ -278,7 +296,8 @@
       <div class="portada-pie">
         <p>Diseñamos y publicamos el sitio de su negocio en días. Usted lo ve terminado antes de contratar.</p>
         <div class="acciones">
-          <a class="boton" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Pedir mi muestra <span class="flecha">→</span></a>
+          <a class="boton boton-meet a-meet" href="#" target="_blank" rel="noopener"><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6" width="13" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 10.5l5-3v9l-5-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg><span><b>Hablar con Rodrigo</b><small>Videollamada de 15 minutos</small></span></a>
+          <a class="liga" href="mailto:diego@aliviane.mx?subject=Cotizaci%C3%B3n%20de%20p%C3%A1gina%20web">Pedir mi muestra</a>
           <a class="liga" href="#trabajos">Ver trabajos</a>
         </div>
       </div>
@@ -592,12 +611,17 @@
     <div class="ancho">
       <h2 class="rev">¿Hacemos la de <em>su negocio?</em></h2>
       <div class="cierre-pie rev">
-        <a class="correo" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">diego@aliviane.mx</a>
-        <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">Pedir mi muestra <span class="flecha">→</span></a>
+        <div class="cierre-texto">
+          <p>Rodrigo le enseña en una videollamada cómo quedaría la página de su negocio. Son 15 minutos y no necesita instalar nada.</p>
+          <a class="correo" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20p%C3%A1gina%20para%20mi%20negocio">diego@aliviane.mx</a>
+        </div>
+        <a class="boton boton-meet grande a-meet" href="#" target="_blank" rel="noopener"><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6" width="13" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 10.5l5-3v9l-5-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg><span><b>Hablar con Rodrigo ahora</b><small>Abre una videollamada en Google Meet</small></span></a>
       </div>
     </div>
   </div>
 </main>
+
+<a class="meet-fijo a-meet" id="meet-fijo" href="#" target="_blank" rel="noopener"><svg class="cam" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="6" width="13" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 10.5l5-3v9l-5-3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>Hablar con Rodrigo</a>
 
 <footer>
   <div class="ancho">
@@ -607,6 +631,24 @@
 </footer>
 
 <script>
+  // Liga fija de Google Meet de Rodrigo: cambiarla sólo aquí
+  const MEET_URL = '';
+  document.querySelectorAll('.a-meet').forEach(a => {
+    a.href = MEET_URL || 'mailto:diego@aliviane.mx?subject=Quiero%20hablar%20con%20Rodrigo';
+  });
+  // El botón fijo aparece cuando ya se pasó la portada y se esconde en el cierre
+  const meetFijo = document.getElementById('meet-fijo');
+  const portada = document.querySelector('.portada'), cierre = document.getElementById('contacto');
+  const vistos = new Map();
+  new IntersectionObserver(es => {
+    es.forEach(e => vistos.set(e.target, e.isIntersecting));
+    meetFijo.classList.toggle('visible', !vistos.get(portada) && !vistos.get(cierre));
+  }).observe(portada);
+  new IntersectionObserver(es => {
+    es.forEach(e => vistos.set(e.target, e.isIntersecting));
+    meetFijo.classList.toggle('visible', !vistos.get(portada) && !vistos.get(cierre));
+  }).observe(cierre);
+
   // Encabezado: fondo al bajar, se esconde al bajar rápido y vuelve al subir
   const barra = document.getElementById('barra');
   let ultimo = 0;
