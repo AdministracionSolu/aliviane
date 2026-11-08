@@ -1,9 +1,13 @@
-// Lista de visitas para el taller. Sólo responde con la llave VISITAS_TOKEN (variable de Netlify).
+// Lista de visitas para el taller (scripts/visitas.py). Pide la llave en el encabezado x-llave.
+// Aquí sólo está su huella SHA-256: la llave no está en el código ni en Netlify.
 import { getStore } from "@netlify/blobs";
+import { createHash } from "node:crypto";
+
+const HUELLA = "2f543af3548a82eac9930307bfb87613b485fca1993872f09187fbcbf1e5cb3e";
 
 export default async (req) => {
-  const llave = Netlify.env.get("VISITAS_TOKEN");
-  if (!llave || req.headers.get("x-llave") !== llave) return new Response("no", { status: 403 });
+  const llave = req.headers.get("x-llave") || "";
+  if (createHash("sha256").update(llave).digest("hex") !== HUELLA) return new Response("no", { status: 403 });
   const tienda = getStore("visitas");
   const { blobs } = await tienda.list();
   const out = {};
