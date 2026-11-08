@@ -1,5 +1,7 @@
 // Cuenta cuándo se abre cada página de muestra (/sitios/<slug>/). Sin IP, sin cookies:
 // sólo cuántas veces, la primera y la última, y si fue desde celular.
+import { getStore } from "@netlify/blobs";
+
 export default async (req) => {
   const s = (new URL(req.url).searchParams.get("s") || "").toLowerCase();
   const ua = req.headers.get("user-agent") || "";
@@ -8,7 +10,6 @@ export default async (req) => {
     return vacio;
   }
   try {
-    const { getStore } = await import("@netlify/blobs");
     const tienda = getStore("visitas");
     const v = (await tienda.get(s, { type: "json" })) || { veces: 0, primera: null, ultima: null, celular: 0 };
     const ahora = new Date().toISOString();
