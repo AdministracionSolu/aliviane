@@ -1,7 +1,0 @@
-# Sitio estático en la raíz. La compilación sólo instala lo que usan las funciones (contador de visitas).
-[build]
-  publish = "."
-  command = "npm install --no-audit --no-fund"
-
-[functions]
-  node_bundler = "esbuild"
