@@ -230,6 +230,14 @@
   .paquete .boton { margin-top: auto; align-self: flex-start; }
   .paquete.destacado .boton { background: var(--negro); color: var(--crema); }
   .paquete.destacado .boton:hover { background: #333; color: var(--crema); }
+  .mensual { font-size: 16px; color: var(--gris); margin: 0; }
+  .paquete.destacado .mensual { color: #6b6b6b; }
+  .mensual b { font-weight: 500; color: var(--crema); }
+  .paquete.destacado .mensual b { color: var(--negro); }
+  .detalles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 24px; }
+  .detalle { border-top: 1px solid var(--negro-3); padding-top: 20px; }
+  .detalle h3 { font-weight: 500; font-size: 22px; letter-spacing: -0.02em; margin: 0 0 8px; }
+  .detalle p { margin: 0; color: var(--gris); font-size: 16px; }
   .letra-chica { color: var(--gris); font-size: 15px; margin: 22px 0 0; }
 
   /* Preguntas */
@@ -264,6 +272,8 @@
     .titulo-seccion { margin-bottom: 32px; }
     .preguntas { gap: 20px; }
     .paquete { padding: 32px 24px; }
+    .detalles { grid-template-columns: 1fr; gap: 0; }
+    .detalle { padding: 18px 0; }
   }
   @media (max-width: 560px) {
     body { font-size: 16px; }
@@ -332,7 +342,7 @@
           <div class="obra-pagina">
             <div class="o-nav">
               <span class="o-el o-logo" data-paso="1">El Faro</span>
-              <span class="o-links"><span class="o-el" data-paso="1">Menú</span><span class="o-el" data-paso="1">Sucursales</span><span class="o-el" data-paso="1">Pedidos</span></span>
+              <span class="o-links"><span class="o-el" data-paso="1">Menú</span><span class="o-el" data-paso="1">Sucursales</span><span class="o-el" data-paso="1">Contacto</span></span>
               <span class="o-el o-cta" data-paso="1">Reservar</span>
             </div>
             <div class="o-hero">
@@ -558,8 +568,8 @@
         </div>
         <div class="paso rev">
           <span class="num">04</span>
-          <h3>Más secciones cuando las necesite</h3>
-          <p>Menú en línea, citas, catálogo o programa de lealtad. Se suman cuando los necesite.</p>
+          <h3>Cambios cada semana</h3>
+          <p>Nos pide los cambios por WhatsApp. Quedan listos el sábado.</p>
         </div>
       </div>
     </div>
@@ -576,28 +586,44 @@
           <p class="tipo">Para empezar</p>
           <h3>Landing page</h3>
           <div class="precio">$1,000<small>MXN</small></div>
+          <p class="mensual">Pago único · después <b>$99 al mes</b></p>
           <ul>
             <li>Una página diseñada para su giro</li>
             <li>Sus servicios y fotos en un solo lugar</li>
             <li>Botón directo a su WhatsApp</li>
-            <li>Lista para verse bien en el celular</li>
+            <li>Una ronda de cambios cada 15 días</li>
           </ul>
           <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20una%20landing%20page">Quiero mi landing <span class="flecha">→</span></a>
         </div>
         <div class="paquete destacado rev">
           <p class="tipo">Para vender más</p>
-          <h3>Sitio web funcional</h3>
+          <h3>Sitio completo</h3>
           <div class="precio">$5,000<small>MXN</small></div>
+          <p class="mensual">Pago único · después <b>$99 al mes</b></p>
           <ul>
-            <li>Varias secciones con su información completa</li>
-            <li>Menú, catálogo o agenda de citas</li>
-            <li>Formulario de contacto y galería de fotos</li>
-            <li>Todo lo de la landing page</li>
+            <li>Hasta 10 páginas con su información</li>
+            <li>Menú, catálogo, galería o agenda de citas</li>
+            <li>Aviso de privacidad y términos incluidos</li>
+            <li>Una ronda de cambios cada semana</li>
           </ul>
-          <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20un%20sitio%20web%20funcional">Quiero mi sitio <span class="flecha">→</span></a>
+          <a class="boton" href="mailto:diego@aliviane.mx?subject=Quiero%20un%20sitio%20completo">Quiero mi sitio <span class="flecha">→</span></a>
         </div>
       </div>
-      <p class="letra-chica rev">Precios en pesos mexicanos. Cotizamos también en dólares. El dominio se paga aparte y queda registrado a su nombre.</p>
+      <div class="detalles">
+        <div class="detalle rev">
+          <h3>$99 al mes</h3>
+          <p>Mantenemos su página en línea. Sus cambios van incluidos y quedan listos cada sábado.</p>
+        </div>
+        <div class="detalle rev">
+          <h3>Su dominio</h3>
+          <p>Lo registramos a nombre de su negocio. Se paga aparte y cuesta cerca de $300 al año.</p>
+        </div>
+        <div class="detalle rev">
+          <h3>De landing a sitio</h3>
+          <p>Si después quiere más páginas, le abonamos los $1,000 de su landing.</p>
+        </div>
+      </div>
+      <p class="letra-chica rev">Precios en pesos mexicanos. Cotizamos también en dólares. Son páginas informativas con botones de contacto. Pedidos en línea, cobros y sistemas se cotizan aparte.</p>
     </div>
   </section>
 
@@ -615,7 +641,19 @@
         </details>
         <details>
           <summary>¿El dominio queda a mi nombre?</summary>
-          <p>Sí. Se registra a nombre de su negocio. El sitio es suyo.</p>
+          <p>Sí. Se registra a nombre de su negocio. Cuesta cerca de $300 al año y se paga aparte.</p>
+        </details>
+        <details>
+          <summary>¿Qué incluyen los $99 al mes?</summary>
+          <p>Que su página siga en línea y sus cambios. La landing tiene una ronda de cambios cada 15 días. El sitio completo tiene una cada semana.</p>
+        </details>
+        <details>
+          <summary>¿Cómo pido un cambio?</summary>
+          <p>Por WhatsApp. Lo que nos pida hasta el viernes queda listo el sábado. Si cambia de teléfono o de dirección, lo corregimos el mismo día.</p>
+        </details>
+        <details>
+          <summary>¿Qué pasa si dejo de pagar la mensualidad?</summary>
+          <p>Su página se pausa. El dominio sigue siendo suyo.</p>
         </details>
         <details>
           <summary>¿Mi negocio va a salir en Google?</summary>
