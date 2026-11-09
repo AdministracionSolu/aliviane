@@ -3,10 +3,11 @@
 // Ojo: Apple Mail descarga las imágenes solo (cuenta como abierto aunque no lo hayan visto)
 // y quien bloquea imágenes no cuenta. Es una señal, no una prueba.
 import { getStore } from "@netlify/blobs";
+import { createHash } from "node:crypto";
 
 const GIF = Uint8Array.from(atob("R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"), (c) => c.charCodeAt(0));
 
-export default async (req) => {
+export default async (req, context) => {
   const id = (new URL(req.url).searchParams.get("i") || "").toLowerCase();
   const ua = req.headers.get("user-agent") || "";
   const pixel = new Response(GIF, {
@@ -26,6 +27,10 @@ export default async (req) => {
     if (/mobile|android|iphone/i.test(ua)) v.celular += 1;
     // quién bajó la imagen (sirve para separar personas de revisores automáticos)
     v.agentes = (v.agentes || []).concat([{ t: ahora, ua: ua.slice(0, 160) }]).slice(-5);
+    // de dónde (ciudad y estado de Netlify) y una huella corta de la red, sin guardar la IP
+    const g = (context && context.geo) || {};
+    const red = createHash("sha256").update("aliviane:" + ((context && context.ip) || "")).digest("hex").slice(0, 8);
+    v.origen = (v.origen || []).concat([{ t: ahora, ciudad: g.city || "", estado: (g.subdivision && g.subdivision.name) || "", red, cel: /mobile|android|iphone/i.test(ua) }]).slice(-10);
     await tienda.setJSON(id, v);
   } catch (e) {
     // si falla el registro, igual se regresa la imagen para no dejar un ícono roto
