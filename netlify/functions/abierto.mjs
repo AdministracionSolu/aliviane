@@ -24,6 +24,8 @@ export default async (req) => {
     if (/GoogleImageProxy/i.test(ua)) v.gmail += 1;
     if (/Macintosh|iPhone|iPad/i.test(ua) && !/Chrome|Firefox/i.test(ua)) v.apple += 1;
     if (/mobile|android|iphone/i.test(ua)) v.celular += 1;
+    // quién bajó la imagen (sirve para separar personas de revisores automáticos)
+    v.agentes = (v.agentes || []).concat([{ t: ahora, ua: ua.slice(0, 160) }]).slice(-5);
     await tienda.setJSON(id, v);
   } catch (e) {
     // si falla el registro, igual se regresa la imagen para no dejar un ícono roto
