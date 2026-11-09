@@ -10,7 +10,7 @@ export default async (req) => {
   if (createHash("sha256").update(llave).digest("hex") !== HUELLA) return new Response("no", { status: 403 });
   // ?de=abiertos lee los correos abiertos; sin nada, las visitas a las muestras
   const de = new URL(req.url).searchParams.get("de") === "abiertos" ? "abiertos" : "visitas";
-  const tienda = getStore(de);
+  const tienda = getStore({ name: de, consistency: "strong" });
   const { blobs } = await tienda.list();
   const out = {};
   for (const b of blobs) out[b.key] = await tienda.get(b.key, { type: "json" });
