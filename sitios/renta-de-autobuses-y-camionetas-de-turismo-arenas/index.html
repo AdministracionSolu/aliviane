@@ -126,7 +126,7 @@ body .h-cartel h1,body .h-cartel .lema{color:#fff}
 .prod img,.prod .hueco{width:100%;aspect-ratio:1;object-fit:cover;border-radius:var(--r)}
 .prod .hueco{background:repeating-linear-gradient(-45deg,rgba(0,0,0,.07) 0 10px,transparent 10px 20px)}
 .etq{background:#fff;color:#111;margin:-28px 14px 0;position:relative;padding:14px 18px 18px;border-top:8px solid var(--acento);box-shadow:0 1px 0 rgba(0,0,0,.18)}
-.prod.sin .etq{margin:0}
+.prod.sin .etq{margin:0;padding:26px 26px 30px;height:100%}.prod.sin .etq h3{font-size:28px;margin-top:10px}.prod.sin .etq p{font-size:18px;margin-top:10px}.prod.sin .etq span{font-size:15px}
 .etq span{font:600 13px var(--f-mano),monospace;color:#555}
 .etq h3{font-size:22px;margin-top:6px}.etq p{margin:6px 0 0;font-size:16px;color:#555;line-height:1.4}
 
@@ -238,14 +238,14 @@ dialog::backdrop{background:rgba(0,0,0,.88)}
   body{font-size:17px}section{padding:68px 0}.dos{grid-template-columns:1fr;gap:40px}
   .menu span a:not(.tel){display:none}.menu{padding:16px 0}.menu.largo b{display:none}.menu b{font-size:19px}
   .h-cartel{min-height:88vh}.h-cartel .ancho{padding:140px 0 56px;flex-direction:column;align-items:flex-start}
-  .pegatina{width:104px;height:104px}.h-cartel .pegatina{position:absolute;right:0;top:84px}
+  .pegatina{width:104px;height:104px}.h-cartel .pegatina{position:absolute;right:0;top:46px;width:84px;height:84px;border-width:4px}
   .h-partida{padding:96px 0 64px}.h-partida .pegatina{left:auto;right:10px;bottom:14px}
   .h-franja{padding-top:104px}.h-franja .ancho{flex-direction:column;align-items:flex-start;padding-bottom:40px}
   .duo{padding:0 0 40px 32px}
   .v-carta .marco{padding:52px 24px 44px;transform:none}.v-carta .lista,.v-carta .lista.k3,.v-letrero .lista{grid-template-columns:1fr}
   .k3 .plato{grid-template-columns:96px 1fr;text-align:left;justify-items:start}.k3 .plato img,.plato img{width:96px;height:96px}.plato{grid-template-columns:96px 1fr}
   .v-letrero .marco{padding:48px 22px}.renglon.sin{padding-left:0}.renglon{grid-template-columns:84px 1fr}.renglon img{width:84px;height:108px}
-  .v-anaquel .lista{grid-template-columns:1fr 1fr;gap:28px 14px}.etq{margin:-20px 6px 0;padding:10px 12px 14px}.etq h3{font-size:18px}.etq p{font-size:14px}
+  .v-anaquel .lista{grid-template-columns:1fr 1fr;gap:28px 14px}.etq{margin:-20px 6px 0;padding:10px 12px 14px}.etq h3{font-size:18px}.etq p{font-size:14px}.prod.sin .etq{padding:14px 14px 18px}.prod.sin .etq h3{font-size:20px}.prod.sin .etq p{font-size:15px}.prod.sin .etq span{font-size:13px}
   .bloque,.bloque.sin{grid-template-columns:1fr}.bloque:nth-child(even) .b-texto{order:0}.bloque img,.bloque:nth-child(even) img{clip-path:polygon(0 8%,100% 0,100% 100%,0 100%);min-height:220px;height:220px}.b-texto{padding:32px 24px}
   .v-mosaico .rejilla{grid-template-columns:1fr 1fr;grid-auto-rows:150px}
   .v-pared .foto{width:46%;padding:6px 6px 24px}.v-pared .rejilla{gap:22px 10px}
@@ -280,7 +280,7 @@ if(location.protocol==="https:"&&!localStorage.getItem("aliviane-yo"))navigator.
     const f=x=>{const h=Math.floor(x/60),mm=x%60,h12=h>12?h-12:h;return h12+(mm?':'+String(mm).padStart(2,'0'):'')+(h<12?' de la mañana':h<20?' de la tarde':' de la noche')};
     const ab=hoy.find(([a,b])=>mi>=a&&mi<b);
     const el=document.querySelector('[data-estado]'), r=document.querySelector('[data-estado2]');
-    if(el){el.textContent=ab?'Abierto ahora · cierra a las '+f(ab[1]):'Cerrado ahora'; el.hidden=false;}
+    if(el){el.textContent=ab?(ab[0]===0&&ab[1]>=1440?'Abierto ahora · las 24 horas':'Abierto ahora · cierra a las '+f(ab[1])):'Cerrado ahora'; el.hidden=false;}
     if(r){r.textContent=ab?'Abierto':'Cerrado'; r.classList.toggle('cerrado',!ab); r.hidden=false;}
   }
   const t=document.querySelector('[data-tira]');
