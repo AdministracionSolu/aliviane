@@ -1,0 +1,175 @@
+{
+  "id": "flyer-de-rifa",
+  "slug": "flyer-de-rifa",
+  "molde": "herramienta",
+  "cabeza": "flyer de rifa",
+  "busquedas": [],
+  "title": "Flyer de rifa gratis con premios, boleto y fecha de sorteo",
+  "h1": "Flyer de rifa",
+  "description": "Haz el flyer de tu rifa con premios por lugar, precio del boleto y fecha del sorteo. Imprímelo en media carta o mándalo por WhatsApp. Gratis y sin registro.",
+  "resumen": "Flyer de rifa con premios por lugar y fecha del sorteo",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el diseño «Rifa» en la galería del editor y escribe los premios, uno por renglón. El precio del boleto va en número grande y la fecha del sorteo abajo. Bájalo en media carta para repartir o como imagen vertical para los grupos de WhatsApp."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "flyer"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué debe decir el flyer de una rifa"
+    },
+    {
+      "p": "Quien compra un boleto quiere saber qué puede ganar, cuánto cuesta y cuándo se sortea. También quiere confiar en quien organiza."
+    },
+    {
+      "ul": [
+        "Para qué es la rifa, como una graduación o un tratamiento médico.",
+        "Los premios en orden, del primero al último lugar.",
+        "El precio del boleto en número grande.",
+        "La fecha, la hora y la forma del sorteo.",
+        "Quién organiza y un WhatsApp para apartar boletos."
+      ]
+    },
+    {
+      "p": "Decir cómo se va a sortear da confianza. «Con la Lotería Nacional» o «En vivo por Facebook» evita sospechas."
+    },
+    {
+      "h2": "Cómo hacer tu flyer de rifa"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre el diseño Rifa",
+          "texto": "Está en la galería del editor con fondo crema y morado. Puedes cambiar los colores."
+        },
+        {
+          "titulo": "Escribe la causa en el subtítulo",
+          "texto": "«Para la graduación de la generación 2026» explica a dónde va el dinero."
+        },
+        {
+          "titulo": "Un premio por renglón",
+          "texto": "Escribe «1er lugar · pantalla» y así cada uno. El diseño los ordena en lista."
+        },
+        {
+          "titulo": "Pon el precio del boleto en el dato grande",
+          "texto": "Es lo que más se busca en el flyer. Debe verse desde lejos."
+        }
+      ]
+    },
+    {
+      "h2": "Ideas de rifas comunes"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo de rifa",
+          "Premios que suelen funcionar"
+        ],
+        "filas": [
+          [
+            "Graduación escolar",
+            "Pantalla, bicicleta, despensa"
+          ],
+          [
+            "Apoyo a un enfermo",
+            "Electrodomésticos donados por vecinos"
+          ],
+          [
+            "Fiesta patronal",
+            "Borrego, canasta navideña, efectivo"
+          ],
+          [
+            "Negocio que celebra",
+            "Productos o servicios del propio negocio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo mover tu rifa"
+    },
+    {
+      "p": "Imprime media carta para dejar en tiendas y en la escuela. Para WhatsApp cambia la medida a «Para redes» y manda el PNG vertical."
+    },
+    {
+      "p": "Activa el QR a tu WhatsApp para que aparten boletos sin llamarte. Cada mensaje nuevo es una venta casi segura."
+    },
+    {
+      "p": "Lleva una lista de boletos vendidos con nombre y teléfono. El día del sorteo te ahorra discusiones."
+    },
+    {
+      "h2": "Antes de imprimir"
+    },
+    {
+      "p": "Publica los resultados con el mismo diseño después del sorteo. Cambia el título a «Ganadores» y la lista de premios por los nombres."
+    },
+    {
+      "p": "Esa segunda imagen da confianza para tu siguiente rifa. La gente recuerda quién entregó los premios a tiempo."
+    },
+    {
+      "p": "Revisa dos veces la fecha y el precio. Un número equivocado en cien flyers obliga a reimprimir todo."
+    },
+    {
+      "p": "Para anunciar el evento donde se hará el sorteo usa el [cartel publicitario](id:cartel-publicitario). Si la rifa es parte de una fiesta, mira el [flyer para fiesta](id:flyer-para-fiesta)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Necesito permiso para hacer una rifa?",
+      "respuesta": "Depende. La Ley Federal de Juegos y Sorteos pide permiso de Gobernación para los sorteos. Infórmate antes de vender boletos al público."
+    },
+    {
+      "pregunta": "¿El editor hace los boletos numerados?",
+      "respuesta": "No. El editor hace el flyer. Los boletos se piden aparte a una imprenta."
+    },
+    {
+      "pregunta": "¿Puedo poner fotos de los premios?",
+      "respuesta": "Sí. Sube una foto y acomódala en el diseño."
+    },
+    {
+      "pregunta": "¿Cuántos premios caben en el flyer?",
+      "respuesta": "Entre tres y cinco se leen bien. Si tienes más, pon los tres mayores y un «y más premios»."
+    },
+    {
+      "pregunta": "¿Puedo compartirlo por WhatsApp?",
+      "respuesta": "Sí. Baja la medida «Para redes» en PNG."
+    },
+    {
+      "pregunta": "¿Cuesta algo?",
+      "respuesta": "No. Es gratis y sin marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "flyer",
+    "flyer-para-fiesta",
+    "flyer-de-futbol",
+    "cartel-publicitario",
+    "cupon-de-descuento",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Una página con los boletos disponibles y tu WhatsApp vende tu rifa mientras tú haces otras cosas.",
+    "aviso": "Tu flyer ya está listo. ¿Quieres una página que muestre los boletos disponibles?",
+    "titulo": "¿Hacemos la página de tu rifa?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Juegos y Sorteos, artículo 4 (Orden Jurídico Nacional, Segob)",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17048.html"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Rifa» en la galería. Ley Federal de Juegos y Sorteos art. 4 leída en ordenjuridico.gob.mx el 12-nov-2026. Mejora de motor: boletos numerados con talón."
+}

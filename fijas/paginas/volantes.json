@@ -1,0 +1,83 @@
+{
+  "id": "volantes",
+  "slug": "volantes",
+  "molde": "herramienta",
+  "cabeza": "volantes",
+  "busquedas": ["volantes publicitarios", "volantes de publicidad"],
+  "title": "Volantes publicitarios gratis en media carta para imprimir",
+  "h1": "Volantes publicitarios para tu negocio",
+  "description": "Diseña volantes en media carta, edita textos y colores y baja el PDF para la imprenta. Te decimos qué escribir y cómo medir si tu volanteo trajo clientes.",
+  "resumen": "Volante media carta para repartir, con PDF de imprenta",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige un diseño, escribe tu oferta y tu WhatsApp, y baja el volante en media carta. Es la medida que más rinde al imprimir y la más cómoda para repartir en mano. El PDF sale del tamaño real y sin marca de agua."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "volante" },
+  "cuerpo": [
+    { "h2": "Cómo hacer tu volante" },
+    { "pasos": [
+      { "titulo": "Piensa en quién lo va a recibir", "texto": "Una vecina con prisa no lee lo mismo que alguien en la fila del banco. Escribe para ese momento." },
+      { "titulo": "Elige un diseño de arranque", "texto": "Promoción y comida del día sirven para venta diaria. Informativo sirve para avisos y cambios." },
+      { "titulo": "Pon una razón para guardarlo", "texto": "Un descuento con fecha límite hace que el volante no termine en la basura de inmediato." },
+      { "titulo": "Baja el PDF y pide una prueba", "texto": "Antes del tiraje completo, imprime uno y léelo a un brazo de distancia." }
+    ] },
+    { "h2": "Qué escribir en un volante que se reparte en mano" },
+    { "p": "La persona decide en la banqueta si lo guarda o lo tira. Tiene que ver de un vistazo qué vendes, a cuánto y dónde." },
+    { "ul": [
+      "Arriba, lo que vendes con palabras de tu cliente.",
+      "Al centro, un precio o una oferta en número grande.",
+      "Abajo, tu WhatsApp y una referencia fácil de ubicar.",
+      "En la esquina, una fecha de vigencia para la promoción."
+    ] },
+    { "p": "Las referencias ayudan más que la dirección exacta. «Frente al mercado» se recuerda mejor que un número de calle." },
+    { "h2": "Dónde repartir volantes" },
+    { "tabla": {
+      "columnas": ["Lugar", "Qué tipo de negocio funciona", "Consejo"],
+      "filas": [
+        ["Salida de escuelas", "Papelerías, comida, clases extra", "Repártelo a los papás, no a los niños"],
+        ["Mercados y tianguis", "Servicios a domicilio, tiendas cercanas", "Ve en horas de mucha gente"],
+        ["Buzones de una colonia", "Plomería, gas y lavandería", "Dóblalo para que no se moje"],
+        ["Mostradores aliados", "Negocios que no compiten contigo", "Ofrece dejar los suyos en tu local"],
+        ["Dentro de cada pedido", "Cualquier negocio que entrega", "Es el volante que más se lee"]
+      ]
+    } },
+    { "h2": "Cómo saber si el volanteo funcionó" },
+    { "p": "Si no mides, nunca sabrás si conviene volver a imprimir. Hay formas baratas de contar quién llegó por el volante." },
+    { "ul": [
+      "Pide que digan una palabra clave al pedir, como «vengo por el volante».",
+      "Usa un QR a tu WhatsApp y cuenta los mensajes nuevos de esa semana.",
+      "Reparte una zona por semana y compara los pedidos de cada zona."
+    ] },
+    { "p": "El editor arma el QR con el WhatsApp que escribes en tus datos. Si prefieres que abra tu página, cambia el destino a liga." },
+    { "h2": "Volante o flyer" },
+    { "p": "En México se dice de las dos formas para la misma pieza. Aquí el volante arranca en media carta y el [flyer](id:flyer) en carta." },
+    { "p": "Si necesitas más espacio para explicar servicios, un [folleto tríptico](id:folleto) cabe en la misma hoja carta." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Qué medida tiene un volante media carta?", "respuesta": "13.97 × 21.59 cm. Es la mitad de una hoja carta." },
+    { "pregunta": "¿Puedo imprimir dos volantes en una hoja carta?", "respuesta": "Sí. Pídelo así en la imprenta o imprime el PDF de carta dos veces. Luego corta a la mitad." },
+    { "pregunta": "¿Puedo hacer el volante para WhatsApp?", "respuesta": "Sí. Cambia la medida a «Para redes» y baja el PNG vertical." },
+    { "pregunta": "¿Puedo subir una foto de mi producto?", "respuesta": "Sí. Sube un JPG o PNG y acomódalo arrastrando. La foto no sale de tu equipo." },
+    { "pregunta": "¿Cuesta algo?", "respuesta": "No. Diseñas y bajas los volantes gratis." },
+    { "pregunta": "¿El texto se ve bien al imprimir?", "respuesta": "Sí. Las letras van en vectores dentro del PDF y no se pixelean." }
+  ],
+  "relacionadas": ["flyer", "folleto", "cupon-de-descuento", "flyer-informativo", "tarjetas-de-presentacion", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Un volante se tira en días y tu página sigue ahí para quien guardó tu nombre.",
+    "aviso": "Tu volante ya está listo. ¿Quieres una página que reciba a quien lo escanee?",
+    "titulo": "¿Hacemos la página que respalda tu volante?",
+    "trabajos": ["comprafin", "laola", "solu"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.crehana.com/blog/estilo-vida/como-hacer-volante-publicitario/", "titulo": "Cómo hacer un volante publicitario (Crehana)", "promete": "Consejos de diseño y tamaños europeos; no trae editor ni cómo medir el volanteo" },
+    { "posicion": 2, "url": "https://www.canva.com/es_co/crear/volantes/", "titulo": "Crea volantes (Canva)", "promete": "Plantillas gratis con cuenta; nada sobre dónde repartir" },
+    { "posicion": 3, "url": "https://visme.co/blog/es/ejemplos-de-volantes/", "titulo": "Ejemplos de volantes (Visme)", "promete": "Galería de ejemplos; sin medidas mexicanas" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/volante (diseños del flyer, media carta inicial)."
+}

@@ -1,0 +1,178 @@
+{
+  "id": "flyer-de-futbol",
+  "slug": "flyer-de-futbol",
+  "molde": "herramienta",
+  "cabeza": "flyer de fútbol",
+  "busquedas": [],
+  "title": "Flyer de fútbol gratis para torneo, liga o inscripciones",
+  "h1": "Flyer de fútbol para tu torneo",
+  "description": "Anuncia tu torneo o liga de fútbol con un flyer de cancha verde, costo por equipo, premios y fecha límite. Imprímelo o mándalo por WhatsApp. Gratis.",
+  "resumen": "Flyer de torneo con inscripción, premios y fecha límite",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "En la galería del editor elige el diseño «Torneo», que trae fondo de cancha y letras deportivas. Escribe la categoría, el costo por equipo, los premios y la fecha límite de inscripción. Bájalo en carta para la unidad deportiva o vertical para los grupos de WhatsApp."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "flyer"
+  },
+  "cuerpo": [
+    {
+      "h2": "Lo que un capitán busca en un flyer de torneo"
+    },
+    {
+      "p": "El capitán decide si inscribe al equipo con cuatro datos. Si falta uno, te escribe para preguntar o se va a otro torneo."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Cómo escribirlo"
+        ],
+        "filas": [
+          [
+            "Modalidad y categoría",
+            "Fútbol 7, libre y veteranos"
+          ],
+          [
+            "Costo",
+            "$1,200 por equipo, con arbitraje"
+          ],
+          [
+            "Premios",
+            "Trofeo, medallas y premio en efectivo al campeón"
+          ],
+          [
+            "Fecha límite",
+            "Inscripciones hasta el 30 de noviembre"
+          ],
+          [
+            "Lugar",
+            "Nombre de la unidad deportiva y la avenida"
+          ],
+          [
+            "Contacto",
+            "WhatsApp del organizador"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las cifras de la tabla son de ejemplo. Escribe las de tu torneo y aclara si el arbitraje va incluido."
+    },
+    {
+      "h2": "Cómo hacer tu flyer de fútbol"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el diseño Torneo",
+          "texto": "Está en la galería de diseños. Trae verde de cancha y amarillo para lo importante."
+        },
+        {
+          "titulo": "Pon el costo en el dato grande",
+          "texto": "El campo de oferta se ve enorme al centro. Úsalo para el costo por equipo."
+        },
+        {
+          "titulo": "Lista premios y reglas en renglones",
+          "texto": "Cada renglón de detalles es una línea con su marca. Tres o cuatro bastan."
+        },
+        {
+          "titulo": "Activa el QR a tu WhatsApp",
+          "texto": "Los capitanes te escriben directo desde la foto del flyer."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde mover tu flyer"
+    },
+    {
+      "ul": [
+        "En el tablero de la unidad deportiva y en la tienda de la cancha.",
+        "En los grupos de WhatsApp de ligas y de padres de familia.",
+        "En la página de Facebook de la colonia o del municipio.",
+        "Pegado en la ventanilla de la cancha donde cobran el arbitraje."
+      ]
+    },
+    {
+      "p": "Para WhatsApp cambia la medida a «Para redes». El texto se reacomoda en vertical y se lee completo en el celular."
+    },
+    {
+      "h2": "Otros usos del mismo diseño"
+    },
+    {
+      "ul": [
+        "Inscripciones abiertas para una escuela de fútbol infantil.",
+        "Visorías con fecha, edades y qué traer.",
+        "Final de la liga con hora y venta de comida.",
+        "Torneo relámpago de un día con premio sorpresa."
+      ]
+    },
+    {
+      "p": "El diseño Torneo también sirve para básquetbol, voleibol o frontón. Sólo cambia el título y los colores."
+    },
+    {
+      "p": "Si cobras inscripción por transferencia, no pongas la cuenta en el flyer. Mándala por WhatsApp a cada capitán para llevar control."
+    },
+    {
+      "p": "Actualiza el flyer cuando queden pocos lugares. Un «Quedan 4 lugares» mueve a los equipos que estaban dudando."
+    },
+    {
+      "h2": "Dale imagen a tu liga"
+    },
+    {
+      "p": "Si el torneo tiene su propio escudo, súbelo como logo en el flyer. Puedes crearlo con el [logo para equipo de fútbol](id:logo-para-equipo-de-futbol)."
+    },
+    {
+      "p": "Para la cancha en día de final, una [lona publicitaria](id:lona-publicitaria) con el nombre del torneo luce en la malla."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Dónde está el diseño de fútbol?",
+      "respuesta": "En la galería del editor, con el nombre «Torneo»."
+    },
+    {
+      "pregunta": "¿Puedo poner el logo de la liga?",
+      "respuesta": "Sí. Súbelo en PNG o JPG y muévelo donde quieras."
+    },
+    {
+      "pregunta": "¿Sirve para mandar por WhatsApp?",
+      "respuesta": "Sí. Elige la medida «Para redes» y baja el PNG vertical."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el verde por los colores de mi liga?",
+      "respuesta": "Sí. Cambia fondo, texto y acento en la sección de colores."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. Haces y bajas tus flyers gratis."
+    }
+  ],
+  "relacionadas": [
+    "logo-para-equipo-de-futbol",
+    "flyer",
+    "flyer-de-rifa",
+    "lona-publicitaria",
+    "cartel-publicitario",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu torneo puede tener una página con tabla de posiciones, rol de juegos y registro de equipos.",
+    "aviso": "Tu flyer ya está listo. ¿Quieres una página con el rol de juegos de tu liga?",
+    "titulo": "¿Hacemos la página de tu liga?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Torneo» (futbol) se elige en la galería."
+}

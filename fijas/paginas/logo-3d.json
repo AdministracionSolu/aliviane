@@ -1,0 +1,177 @@
+{
+  "id": "logo-3d",
+  "slug": "logo-3d",
+  "molde": "herramienta",
+  "cabeza": "logo 3d",
+  "busquedas": [
+    "logo en 3d",
+    "crear logo gratis 3d",
+    "crear logo 3d gratis"
+  ],
+  "title": "Logo 3D gratis con relieve en SVG y PNG sin fondo",
+  "h1": "Logo con efecto 3D",
+  "description": "Dale a tu logo un relieve con efecto 3D, como letras de bloque con profundidad. Elige letra gruesa y colores, y baja SVG y PNG sin fondo gratis y sin registro.",
+  "resumen": "Logos con relieve en diagonal y letras gruesas",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Este modo agrega a tu logo una profundidad en diagonal hecha de capas, como una letra de bloque. El relieve se calcula con el color de cada pieza, así que cambia solo al cambiar colores. Es un efecto plano con volumen, no un modelo 3D que se pueda girar."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "3d"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo funciona el relieve"
+    },
+    {
+      "p": "El creador dibuja seis copias del logo detrás del original. Cada copia se mueve un poco hacia abajo y a la derecha y toma un tono más oscuro."
+    },
+    {
+      "p": "El resultado se ve como una pieza con grosor, parecida a las letras de juguete o a los letreros de acrílico. Todo sigue siendo vector, así que el SVG se agranda sin perder filo."
+    },
+    {
+      "p": "Un relieve hacia abajo y a la derecha imita una luz que viene de arriba a la izquierda. Es la dirección que el ojo espera y por eso se ve natural."
+    },
+    {
+      "p": "La casilla «Relieve» viene encendida en este modo. También existe en los demás modos del creador, por si quieres el efecto en otro estilo."
+    },
+    {
+      "h2": "Letras que lucen mejor con relieve"
+    },
+    {
+      "p": "El relieve necesita superficie. En letras delgadas el borde se pierde y parece una sombra mal puesta."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo de letra",
+          "Cómo se ve con relieve"
+        ],
+        "filas": [
+          [
+            "Angosta y gruesa",
+            "Muy marcada, como letrero de cine"
+          ],
+          [
+            "Redonda",
+            "Amable, como dulcería o juguetería"
+          ],
+          [
+            "Egipcia pesada",
+            "Firme, como taller o ferretería"
+          ],
+          [
+            "Palo seco moderna",
+            "Limpia, como marca de tecnología"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dónde usar un logo con efecto 3D"
+    },
+    {
+      "ul": [
+        "Dulcerías, jugueterías y fiestas infantiles.",
+        "Canales de video y perfiles de videojuegos.",
+        "Eventos y ferias que quieren verse llamativos.",
+        "Portadas y miniaturas en redes."
+      ]
+    },
+    {
+      "p": "Para papelería de oficina y sellos, baja también la versión sin relieve. Apaga la casilla y descarga otra vez."
+    },
+    {
+      "h2": "Cómo crear tu logo 3D"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe un nombre corto",
+          "texto": "El relieve se lee mejor en una o dos palabras."
+        },
+        {
+          "titulo": "Elige una propuesta con letra gruesa",
+          "texto": "Las seis tipografías de este modo están escogidas por su grosor."
+        },
+        {
+          "titulo": "Juega con el color principal",
+          "texto": "Un color claro da un relieve más oscuro y marcado. Un color oscuro da un relieve suave."
+        },
+        {
+          "titulo": "Revisa la vista oscura",
+          "texto": "Sobre negro el relieve se aclara para que no desaparezca."
+        }
+      ]
+    },
+    {
+      "h2": "Lo que este modo no hace"
+    },
+    {
+      "p": "No genera un objeto para imprimir en 3D ni una animación que gira. Si quieres movimiento, el [logo animado](id:logo-animado) arma GIF y video."
+    },
+    {
+      "p": "Para letreros físicos con volumen real, lleva el SVG al rotulista. Con él puede cortar letras de acrílico o de PVC."
+    },
+    {
+      "h2": "Errores comunes con el efecto 3D"
+    },
+    {
+      "ul": [
+        "Usar relieve y además un fondo con foto, porque se pierde el volumen.",
+        "Elegir dos colores casi iguales que vuelven turbio el borde.",
+        "Aplicarlo a un nombre de cuatro palabras que ya no cabe.",
+        "Imprimirlo diminuto en tarjetas, donde la profundidad parece borrón."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El logo 3D es un archivo para impresora 3D?",
+      "respuesta": "No. Es un logo plano con efecto de relieve en SVG y PNG."
+    },
+    {
+      "pregunta": "¿Puedo quitar el relieve después?",
+      "respuesta": "Sí. Apaga la casilla «Relieve» y vuelve a bajar el archivo."
+    },
+    {
+      "pregunta": "¿El PNG trae fondo?",
+      "respuesta": "No. Sale sin fondo, salvo la foto de perfil cuadrada."
+    },
+    {
+      "pregunta": "¿Se ve bien impreso?",
+      "respuesta": "Sí. El SVG conserva las capas en vector y se imprime nítido."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin registro ni marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "logo-animado",
+    "letras-para-logo",
+    "crear-logo-gratis",
+    "logo-minimalista",
+    "isotipo-imagotipo-logotipo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Un logo llamativo se luce más en una página con tu dominio que sólo en redes.",
+    "aviso": "Tu logo ya tiene relieve. ¿Quieres una página que lo presuma?",
+    "titulo": "¿Ponemos tu logo en tu propia página?",
+    "trabajos": [
+      "makatea",
+      "laola",
+      "solu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/3d: relieve de 6 capas desplazadas en diagonal (armarLogo, p.relieve). Sólo se promete eso; no hay rotación ni modelo 3D."
+}

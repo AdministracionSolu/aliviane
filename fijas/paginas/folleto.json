@@ -1,0 +1,79 @@
+{
+  "id": "folleto",
+  "slug": "folleto",
+  "molde": "herramienta",
+  "cabeza": "como hacer un folleto",
+  "busquedas": ["como hacer un folleto facil", "folleto publicitario", "folletos publicitario", "como se hace el folleto", "folletos digitales", "imagenes de folletos"],
+  "title": "Cómo hacer un folleto tríptico gratis, listo para doblar",
+  "h1": "Cómo hacer un folleto tríptico",
+  "description": "Haz un folleto tríptico en hoja carta con exterior e interior ya acomodados. Llena tus servicios, sube tu logo y baja el PDF gratis y sin registro.",
+  "resumen": "Tríptico carta con las seis caras acomodadas para doblar",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un folleto tríptico es una hoja carta horizontal doblada en tres, con seis caras. En el editor de arriba llenas tus datos una vez y el programa los reparte en el orden correcto. Bajas un PDF de dos páginas, exterior e interior, listo para imprimir por ambos lados."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "folleto" },
+  "cuerpo": [
+    { "h2": "Las seis caras y qué va en cada una" },
+    { "p": "El orden confunde a casi todos la primera vez. La portada no queda a la izquierda, queda en la tercera columna del exterior." },
+    { "tabla": {
+      "columnas": ["Cara", "Lugar en la hoja", "Qué pone el editor ahí"],
+      "filas": [
+        ["Portada", "Exterior, columna derecha", "Nombre, título, frase y foto o logo"],
+        ["Contraportada", "Exterior, columna central", "Tus datos de contacto y tu horario"],
+        ["Solapa", "Exterior, columna izquierda", "Por qué elegirte, en renglones cortos"],
+        ["Quiénes somos", "Interior, columna izquierda", "Tu historia en un párrafo breve"],
+        ["Servicios", "Interior, dos columnas", "Cada servicio con su descripción corta"]
+      ]
+    } },
+    { "p": "La solapa es lo primero que se ve al abrir la portada. Por eso ahí van tus razones de compra y no tu dirección." },
+    { "h2": "Cómo hacer un folleto paso a paso" },
+    { "pasos": [
+      { "titulo": "Escoge el diseño según tu giro", "texto": "Hay cuatro de arranque llamados clínica, restaurante, despacho y escuela. Cambia colores si tu giro es otro." },
+      { "titulo": "Escribe tus servicios con barra", "texto": "Un renglón por servicio con el formato «Nombre | descripción corta». El editor separa el nombre y lo pone en negritas." },
+      { "titulo": "Revisa las dos caras", "texto": "Cambia entre Exterior e Interior con los botones de arriba. Las líneas punteadas marcan dónde va cada doblez." },
+      { "titulo": "Imprime una prueba en papel bond", "texto": "Dóblala antes de imprimir el tiraje. Así confirmas que la portada cae al frente." }
+    ] },
+    { "h2": "Cuánto texto cabe en un tríptico" },
+    { "p": "Cada columna mide poco más de nueve centímetros de ancho. Un párrafo largo se vuelve una pared gris que nadie lee." },
+    { "ul": [
+      "Quiénes somos funciona con tres o cuatro frases.",
+      "Entre cuatro y seis servicios llenan bien el interior.",
+      "Tres razones en la solapa se leen mejor que siete.",
+      "La portada gana con un título de menos de seis palabras."
+    ] },
+    { "h2": "Papel e impresión" },
+    { "p": "Para doblar bien usa couché de gramaje medio o bond grueso. Una cartulina muy rígida se cuartea en el doblez." },
+    { "p": "Si imprimes en casa, voltea la hoja por el lado largo. Haz una prueba primero porque cada impresora la jala distinto." },
+    { "p": "El PDF no trae sangría. Si tu imprenta la pide, deja fondos claros cerca de la orilla o pide que ajusten el archivo." },
+    { "h2": "Folleto, flyer o volante" },
+    { "p": "El folleto explica varios servicios y se guarda. El [flyer](id:flyer) anuncia una sola cosa y se lee en segundos." },
+    { "p": "Si sólo quieres repartir una promoción, un [volante](id:volantes) de media carta cuesta menos imprimir." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Puedo hacer un díptico?", "respuesta": "No por ahora. El editor sólo arma trípticos en hoja carta horizontal." },
+    { "pregunta": "¿Cómo imprimo los dos lados?", "respuesta": "Por el lado largo. Imprime la página uno, voltea la hoja e imprime la dos." },
+    { "pregunta": "¿Puedo poner un QR en el folleto?", "respuesta": "Sí. Puede abrir tu WhatsApp o una liga que escribas." },
+    { "pregunta": "¿Se puede usar como folleto digital?", "respuesta": "Sí. Manda el PDF por WhatsApp o correo. Se lee bien en computadora y en tableta." },
+    { "pregunta": "¿El folleto tiene costo?", "respuesta": "No. Lo bajas gratis y sin marca de agua todas las veces que quieras." }
+  ],
+  "relacionadas": ["flyer", "volantes", "tarjetas-de-presentacion", "cartel-publicitario", "flyer-informativo", "diseno-de-paginas-web"],
+  "venta": {
+    "puente": "Lo que pones en tu folleto también puede vivir en una página que se actualiza sin reimprimir.",
+    "aviso": "Tu folleto ya está listo. ¿Quieres esos servicios en una página propia?",
+    "titulo": "¿Pasamos tu folleto a una página web?",
+    "trabajos": ["laola", "comprafin", "solu"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://design.tutsplus.com/es/articles/how-to-make-a-brochure--cms-25883", "titulo": "Cómo hacer un folleto (Tuts+)", "promete": "Tutorial con programas de diseño de pago; no explica el orden de las seis caras" },
+    { "posicion": 2, "url": "https://visme.co/blog/es/hacer-un-folleto/", "titulo": "Cómo hacer un folleto (Visme)", "promete": "Pasos generales y plantillas con cuenta; recomienda sangría para imprenta" },
+    { "posicion": 3, "url": "https://www.crehana.com/blog/negocios/que-es-un-triptico/", "titulo": "Qué es un tríptico (Crehana)", "promete": "Partes del tríptico y hacerlo en Word; no trae editor ni cuánto texto cabe" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/folleto: sólo tríptico carta (la lista pedía díptico también: mejora de motor anotada). Sin sangría: anotado."
+}

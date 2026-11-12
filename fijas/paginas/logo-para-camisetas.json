@@ -1,0 +1,172 @@
+{
+  "id": "logo-para-camisetas",
+  "slug": "logo-para-camisetas",
+  "molde": "herramienta",
+  "cabeza": "logo para camisetas",
+  "busquedas": [
+    "logos para camisetas",
+    "logotipos para camisetas"
+  ],
+  "title": "Logo para camisetas gratis en SVG para serigrafía o vinil",
+  "h1": "Logo para camisetas",
+  "description": "Diseña un logo para camisetas con sello, letra gótica o de bloque y pocos colores. Baja el SVG para serigrafía, vinil textil o bordado. Gratis y sin cuenta.",
+  "resumen": "Sellos y letras de bloque pensados para estampar",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu marca o de tu grupo y una frase como tu ciudad. El creador propone sellos circulares, letras góticas y letras de bloque que lucen estampadas. Bajas el SVG que piden los talleres de serigrafía, vinil y bordado."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "camisetas"
+  },
+  "cuerpo": [
+    {
+      "h2": "Un logo para estampar no es igual a uno para pantalla"
+    },
+    {
+      "p": "La tela absorbe tinta y el hilo tiene grosor. Lo que se ve fino en tu celular puede salir como una mancha en la playera."
+    },
+    {
+      "p": "Por eso este modo propone acomodos de sello y letras gruesas desde el inicio. Son formas que aguantan la técnica de estampado."
+    },
+    {
+      "h2": "Qué técnica pide qué diseño"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Técnica",
+          "Qué conviene en el logo",
+          "Qué evitar"
+        ],
+        "filas": [
+          [
+            "Serigrafía",
+            "Pocos colores planos, cada uno es una malla",
+            "Degradados y sombras"
+          ],
+          [
+            "Vinil textil",
+            "Formas cerradas fáciles de recortar",
+            "Letras diminutas y trazos sueltos"
+          ],
+          [
+            "Bordado",
+            "Letra gruesa y tamaño de pecho",
+            "Detalles más finos que el hilo"
+          ],
+          [
+            "Sublimación",
+            "Cualquier color sobre tela clara",
+            "Telas oscuras o de algodón puro"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En serigrafía cada color extra suele subir el costo porque requiere otra malla. Un logo de una o dos tintas sale más barato en tirajes grandes."
+    },
+    {
+      "p": "Antes de mandar a producir, pide una sola playera de muestra. Lávala dos veces y revisa que el estampado no se cuartee."
+    },
+    {
+      "h2": "Medidas comunes al estampar"
+    },
+    {
+      "ul": [
+        "Escudo del pecho, del lado izquierdo, entre ocho y diez centímetros de ancho.",
+        "Frente completo, cerca de treinta centímetros de ancho en talla mediana.",
+        "Espalda alta, debajo del cuello, una franja de veinticinco centímetros.",
+        "Manga, un sello pequeño de cinco a siete centímetros."
+      ]
+    },
+    {
+      "p": "Pide al taller que confirme estas medidas con tu talla más chica. Un diseño que llena el frente de una talla grande se desborda en una chica."
+    },
+    {
+      "h2": "Cómo hacer el logo de tus camisetas"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Nombre y frase",
+          "texto": "La frase puede ser tu ciudad, un año o tu lema. En el sello sale en curva abajo."
+        },
+        {
+          "titulo": "Elige sello o letra sola",
+          "texto": "El sello luce en el pecho. La letra sola luce en el frente completo."
+        },
+        {
+          "titulo": "Deja un solo color si vas a serigrafía",
+          "texto": "Usa el mismo color para símbolo y nombre en los ajustes."
+        },
+        {
+          "titulo": "Baja el SVG y la versión clara",
+          "texto": "La versión para fondo oscuro sirve para playeras negras sin rehacer nada."
+        }
+      ]
+    },
+    {
+      "h2": "Ideas para grupos y negocios"
+    },
+    {
+      "ul": [
+        "Un sello con el nombre de tu familia para una reunión.",
+        "Letras góticas para una marca urbana de tu colonia.",
+        "Una letra de bloque con el nombre de tu taller para uniformes.",
+        "Un sello con estrella para una carrera o una peregrinación."
+      ]
+    },
+    {
+      "p": "Si vas a vender ropa con tu marca, revisa también el [logo para marca de ropa](id:logo-para-marca-de-ropa). Para uniformes deportivos está el [logo para equipo de fútbol](id:logo-para-equipo-de-futbol)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué archivo le doy al taller de serigrafía?",
+      "respuesta": "El SVG. Se agranda sin perder calidad y separa bien los colores."
+    },
+    {
+      "pregunta": "¿Sirve para playeras negras?",
+      "respuesta": "Sí. Baja la versión para fondo oscuro, que aclara los colores."
+    },
+    {
+      "pregunta": "¿Puedo poner mi propia imagen?",
+      "respuesta": "No. El creador usa sus símbolos y tipografías. Puedes cambiar colores, letras y acomodo."
+    },
+    {
+      "pregunta": "¿Puedo estampar el logo para vender?",
+      "respuesta": "Sí. El diseño es para tu uso, también comercial."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin cuenta ni marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "logo-para-marca-de-ropa",
+    "logo-para-equipo-de-futbol",
+    "letras-para-logo",
+    "crear-logo-gratis",
+    "isotipo-imagotipo-logotipo",
+    "tienda-de-ropa"
+  ],
+  "venta": {
+    "puente": "Si vas a vender tus camisetas, una página con tu catálogo recibe pedidos de todo el país.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página para vender tus camisetas?",
+    "titulo": "¿Hacemos la página donde vendes tus playeras?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/camisetas (playera, botón, estrella; sello y letras gruesas). Medidas de estampado son práctica común, sin cifras de precio."
+}

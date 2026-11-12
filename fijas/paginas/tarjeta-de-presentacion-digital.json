@@ -1,0 +1,181 @@
+{
+  "id": "tarjeta-de-presentacion-digital",
+  "slug": "tarjeta-de-presentacion-digital",
+  "molde": "herramienta",
+  "cabeza": "tarjeta de presentación digital",
+  "busquedas": [],
+  "title": "Tarjeta de presentación digital gratis para WhatsApp",
+  "h1": "Tarjeta de presentación digital",
+  "description": "Haz tu tarjeta de presentación digital en imagen para WhatsApp, con QR a tu chat o tu página. Frente y reverso en PNG listos para mandar. Gratis y sin cuenta.",
+  "resumen": "Tarjeta en imagen para mandar por WhatsApp con QR",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige la medida «Para WhatsApp» en el editor de arriba y llena tus datos. La tarjeta sale como imagen de 1080 × 600 px, con frente y reverso. Puedes agregar un QR que abra tu WhatsApp o tu página y mandarla en cualquier chat."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "tarjeta-presentacion"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu tarjeta digital"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Cambia la medida a «Para WhatsApp»",
+          "texto": "Está en los botones de medida, junto a la de 9 × 5 cm."
+        },
+        {
+          "titulo": "Elige un diseño de tu giro",
+          "texto": "Hay seis diseños de arranque. Cambia colores si ninguno es de tu oficio."
+        },
+        {
+          "titulo": "Agrega el QR",
+          "texto": "Elige si abre tu WhatsApp o una liga. Quien la recibe en computadora la escanea con su celular."
+        },
+        {
+          "titulo": "Baja las dos caras",
+          "texto": "Usa el botón del ZIP para bajar frente y reverso juntos."
+        }
+      ]
+    },
+    {
+      "h2": "Para qué sirve una tarjeta digital"
+    },
+    {
+      "p": "En México casi todo empieza en WhatsApp. Una tarjeta en imagen ordena tus datos en un solo mensaje que el cliente guarda."
+    },
+    {
+      "ul": [
+        "Mandarla cuando alguien te pide informes por primera vez.",
+        "Fijarla como mensaje en tus grupos de clientes.",
+        "Ponerla en tu estado una vez por semana.",
+        "Agregarla al final de tus cotizaciones en PDF.",
+        "Mandarla a quien te recomendó para que la reenvíe."
+      ]
+    },
+    {
+      "h2": "Tarjeta digital contra tarjeta impresa"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Digital",
+          "Impresa"
+        ],
+        "filas": [
+          [
+            "Costo de reparto",
+            "Cero",
+            "Papel e impresión"
+          ],
+          [
+            "Se pierde",
+            "Se queda en el chat",
+            "Se queda en una cartera o se tira"
+          ],
+          [
+            "Se puede reenviar",
+            "Sí, en un toque",
+            "No"
+          ],
+          [
+            "Cambiar un dato",
+            "Bajas otra versión",
+            "Reimprimes todo el tiraje"
+          ],
+          [
+            "Impresión cara a cara",
+            "Menor",
+            "Mayor"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo mejor es tener las dos con el mismo diseño. En el editor sólo cambias la medida y no vuelves a escribir nada."
+    },
+    {
+      "h2": "Qué poner en una tarjeta para WhatsApp"
+    },
+    {
+      "p": "La persona ve la tarjeta en un celular. Los textos tienen que ser cortos y el número debe leerse sin hacer zoom."
+    },
+    {
+      "ul": [
+        "Tu nombre y lo que haces en una línea.",
+        "Tu número escrito, aunque ya te tengan en el chat.",
+        "Tu página o tu perfil principal.",
+        "El QR en el reverso para quien la vea en computadora."
+      ]
+    },
+    {
+      "h2": "Guárdala a la mano"
+    },
+    {
+      "p": "Revisa la tarjeta cada vez que cambies de número, de dirección o de horario. Una imagen vieja circulando en chats confunde más que no tener tarjeta."
+    },
+    {
+      "p": "Guarda sólo la versión más reciente en tus favoritos del celular. Borra la anterior para no mandarla por descuido a un cliente nuevo."
+    },
+    {
+      "p": "Guarda la imagen en una carpeta de favoritos de tu celular. Así la mandas en dos toques cuando te pidan tus datos."
+    },
+    {
+      "p": "En WhatsApp Business puedes ponerla como respuesta rápida. Escribe una palabra corta y aparece tu tarjeta lista para enviar."
+    },
+    {
+      "p": "Para la versión de papel lee la página de [tarjetas de presentación](id:tarjetas-de-presentacion). Si tu tarjeta va a llevar a una página, revisa cómo hacer un [link de WhatsApp](id:link-de-whatsapp)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué medida tiene la tarjeta digital?",
+      "respuesta": "1080 × 600 px. Se ve completa en cualquier chat."
+    },
+    {
+      "pregunta": "¿Puedo mandarla en PDF?",
+      "respuesta": "No en esta medida. La digital sale en PNG, que es lo que mejor se ve en WhatsApp."
+    },
+    {
+      "pregunta": "¿El QR funciona desde la imagen?",
+      "respuesta": "Sí. Si la ven en otra pantalla lo escanean con la cámara."
+    },
+    {
+      "pregunta": "¿Puedo hacer la impresa con el mismo diseño?",
+      "respuesta": "Sí. Cambia la medida a 9 × 5 cm y baja el PDF."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. La haces y la bajas gratis."
+    }
+  ],
+  "relacionadas": [
+    "tarjetas-de-presentacion",
+    "tarjetas-de-presentacion-para-abogados",
+    "link-de-whatsapp",
+    "codigo-qr-para-whatsapp",
+    "firma-de-correo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu tarjeta digital se reenvía en segundos y tu página le da a quien la recibe todo lo demás.",
+    "aviso": "Tu tarjeta digital ya está lista. ¿Quieres que su QR lleve a tu propia página?",
+    "titulo": "¿Hacemos la página que va en tu tarjeta digital?",
+    "trabajos": [
+      "signsolu",
+      "makatea",
+      "laola"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion; medida «Para WhatsApp» 1080 × 600 px (sin PDF ni hoja en px). Mejora de motor: modo «tarjeta-digital» que abra directo en esa medida."
+}

@@ -1,0 +1,323 @@
+{
+  "id": "plantillas-para-instagram",
+  "slug": "plantillas-para-instagram",
+  "molde": "plantilla",
+  "cabeza": "plantillas instagram",
+  "busquedas": [
+    "plantillas para instagram"
+  ],
+  "title": "Plantillas Instagram gratis para negocio: post e historia",
+  "h1": "Plantillas para Instagram de tu negocio",
+  "description": "Plantillas de Instagram para tu negocio: promoción, lista de precios, aviso, frase y servicios. En cuadrado, vertical o historia, editables y gratis en PNG.",
+  "resumen": "Seis plantillas de post e historia para negocios",
+  "categoria": "Redes sociales",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Aquí arriba tienes seis plantillas para Instagram pensadas para negocios, no para influencers. Cada una resuelve un tipo de publicación distinto.",
+    "Cada una sale en cuadrado, en vertical de 1080 × 1350 px o en historia. Escribes tus textos, eliges colores y bajas el PNG sin dejar tu correo."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "post-instagram"
+  },
+  "cuerpo": [
+    {
+      "h2": "Las seis plantillas y para qué sirve cada una"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Plantilla",
+          "Para qué publicación",
+          "Qué destaca"
+        ],
+        "filas": [
+          [
+            "Promoción",
+            "Oferta de la semana o del día",
+            "El precio en número grande"
+          ],
+          [
+            "Frase",
+            "Mensaje de marca o fecha especial",
+            "Una frase centrada con mucho aire"
+          ],
+          [
+            "Lista de precios",
+            "Menú corto, servicios con costo",
+            "Renglones con precio alineado"
+          ],
+          [
+            "Foto con marco",
+            "Producto o trabajo terminado",
+            "Tu foto con un marco de color"
+          ],
+          [
+            "Aviso",
+            "Cambio de horario, cierre, vacaciones",
+            "El aviso claro y la fecha"
+          ],
+          [
+            "Servicios",
+            "Qué haces, para nuevos seguidores",
+            "Lista de servicios con tu usuario"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con esas seis cubres casi todo lo que publica un negocio local en un mes. Rota entre ellas para que tu perfil no se vea repetido."
+    },
+    {
+      "h2": "Cómo usar las plantillas"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige la plantilla según lo que quieres decir",
+          "texto": "Si vendes algo hoy, usa Promoción. Si avisas algo, usa Aviso. No mezcles los dos en una sola imagen."
+        },
+        {
+          "titulo": "Escoge la medida antes de escribir",
+          "texto": "Vertical ocupa más pantalla en el inicio. Historia sirve para avisos que duran un día."
+        },
+        {
+          "titulo": "Escribe tus textos",
+          "texto": "Llena el título, el precio y tu usuario de Instagram. Lo que dejes vacío no aparece en la imagen."
+        },
+        {
+          "titulo": "Pon tus colores una sola vez",
+          "texto": "El editor recuerda tu combinación en este navegador. La siguiente publicación sale con la misma marca."
+        },
+        {
+          "titulo": "Baja el PNG y publícalo",
+          "texto": "Pásalo a tu celular y súbelo desde Instagram. Escribe el texto largo en la descripción, no en la imagen."
+        }
+      ]
+    },
+    {
+      "h2": "Qué medida usar en cada caso"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Medida",
+          "Tamaño",
+          "Cuándo conviene"
+        ],
+        "filas": [
+          [
+            "Cuadrada",
+            "1080 × 1080 px",
+            "Carruseles y publicaciones que también vas a subir a Facebook"
+          ],
+          [
+            "Vertical",
+            "1080 × 1350 px",
+            "Publicaciones del inicio, ocupan más espacio en la pantalla"
+          ],
+          [
+            "Historia",
+            "1080 × 1920 px",
+            "Avisos del día, promociones con fecha corta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En las historias Instagram pone tu nombre arriba y la caja de respuesta abajo. El editor dibuja dos líneas guía para que tus textos queden entre ellas."
+    },
+    {
+      "p": "Las líneas punteadas sólo se ven en el editor. No salen en el archivo que bajas."
+    },
+    {
+      "h2": "Un mes de publicaciones con estas plantillas"
+    },
+    {
+      "p": "La constancia pesa más que el diseño perfecto. Este calendario cabe en una hora a la semana."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Día",
+          "Plantilla",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Lunes",
+            "Lista de precios",
+            "Precios vigentes del mes"
+          ],
+          [
+            "Miércoles",
+            "Foto con marco",
+            "Un trabajo terminado o un producto nuevo"
+          ],
+          [
+            "Viernes",
+            "Promoción",
+            "Oferta del fin de semana"
+          ],
+          [
+            "Domingo",
+            "Frase",
+            "Agradecimiento o fecha especial"
+          ],
+          [
+            "Cuando haga falta",
+            "Aviso",
+            "Cierre por día festivo o cambio de horario"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Guarda tus mejores publicaciones en destacados con portadas propias. Las haces con las [portadas para destacados de Instagram](id:iconos-para-historias-destacadas)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo escribir textos que se lean en el celular"
+    },
+    {
+      "p": "La gente desliza rápido y mira cada publicación menos de un segundo. Lo que no se entiende de un vistazo se pierde."
+    },
+    {
+      "ul": [
+        "Un título de cinco palabras o menos.",
+        "Un solo precio o dato grande por imagen.",
+        "Tres renglones en la lista como máximo.",
+        "Tu usuario o tu WhatsApp siempre en el mismo lugar.",
+        "Nada de letras blancas sobre fotos claras."
+      ]
+    },
+    {
+      "p": "Si necesitas explicar más, ponlo en la descripción de la publicación. Ahí sí caben detalles, condiciones y ubicación."
+    },
+    {
+      "h2": "Variantes por tipo de negocio"
+    },
+    {
+      "p": "La misma plantilla cambia de cara con tus colores y tu foto. Estas combinaciones funcionan bien en negocios comunes."
+    },
+    {
+      "ul": [
+        "Restaurante o fonda, con Lista de precios para el menú del día y Foto con marco para el platillo.",
+        "Estética o uñas, con Foto con marco para trabajos y Servicios para la lista de precios.",
+        "Tienda de ropa, con Promoción para rebajas y Foto con marco para prendas nuevas.",
+        "Consultorio, con Aviso para horarios y Frase para consejos de salud.",
+        "Taller o servicio, con Servicios para lo que arreglas y Aviso para días de descanso."
+      ]
+    },
+    {
+      "h2": "Colores que hacen reconocible tu perfil"
+    },
+    {
+      "p": "Escoge dos o tres colores y úsalos en todas tus publicaciones. Así la gente reconoce tus posts antes de leer tu nombre."
+    },
+    {
+      "p": "El editor trae ocho combinaciones listas que funcionan en casi cualquier diseño. También puedes poner los colores exactos de tu logo."
+    },
+    {
+      "p": "Si todavía no tienes colores de marca, empieza por la [paleta de colores](id:paleta-de-colores). Para la imagen de tu página de Facebook usa la [portada de Facebook](id:portada-de-facebook) con la misma combinación."
+    },
+    {
+      "h2": "Tu logo y tus fotos"
+    },
+    {
+      "p": "Las plantillas aceptan tu logo y una foto en PNG o JPG. Los archivos se quedan en tu equipo y no se suben a ningún servidor."
+    },
+    {
+      "p": "Usa fotos tuyas con buena luz natural. Una foto real de tu producto convence más que una imagen de banco."
+    },
+    {
+      "p": "Si aún no tienes logo, puedes crear uno con el [creador de logo gratis](id:crear-logo-gratis). En minutos tienes la versión cuadrada para tu foto de perfil."
+    },
+    {
+      "h2": "Errores que bajan el alcance de una publicación"
+    },
+    {
+      "ul": [
+        "Subir la misma imagen tres días seguidos sin cambiar nada.",
+        "Poner tanto texto en la imagen que parece un volante escaneado.",
+        "Publicar fotos movidas o con poca luz sólo para cumplir el calendario.",
+        "Olvidar el precio, que es lo primero que preguntan en los comentarios.",
+        "Cambiar de colores y letras en cada publicación."
+      ]
+    },
+    {
+      "p": "Revisa tu perfil completo una vez al mes desde tu celular. Si las últimas nueve publicaciones se ven ordenadas, vas bien."
+    },
+    {
+      "h2": "Qué hacer después de publicar"
+    },
+    {
+      "p": "Contesta comentarios y mensajes el mismo día. Una pregunta sin respuesta es una venta que se fue con la competencia."
+    },
+    {
+      "p": "Comparte la publicación en tu historia con una encuesta o una pregunta. Así llega a más seguidores sin pagar anuncios."
+    },
+    {
+      "p": "Si una publicación funciona mejor que las demás, repite la plantilla con otro producto. Los números de tu perfil te dicen qué le gusta a tu público."
+    },
+    {
+      "p": "Cuando quieras invertir en anuncios, empieza por la publicación que ya funcionó sola. Lee la guía de [publicidad en Instagram](id:publicidad-en-instagram) antes de pagar."
+    },
+    {
+      "p": "Guarda una carpeta con tus imágenes publicadas. En temporadas que se repiten, como regreso a clases o fin de año, sólo cambias fechas y precios."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Las plantillas son gratis?",
+      "respuesta": "Sí. No piden cuenta ni correo y no ponen marca de agua."
+    },
+    {
+      "pregunta": "¿Puedo editar las plantillas desde el celular?",
+      "respuesta": "Sí. El editor funciona en el navegador del celular. En pantalla chica tocas un texto y usas las flechas para moverlo."
+    },
+    {
+      "pregunta": "¿Las plantillas sirven para Facebook?",
+      "respuesta": "Sí. La cuadrada y la vertical se ven bien en Facebook también."
+    },
+    {
+      "pregunta": "¿Puedo hacer un carrusel?",
+      "respuesta": "Sí, de uno en uno. Baja cada imagen con la misma plantilla y súbelas juntas en Instagram."
+    },
+    {
+      "pregunta": "¿Puedo poner un QR?",
+      "respuesta": "No. En Instagram un QR dentro de la imagen casi no se usa. Pon tu usuario o tu WhatsApp escrito."
+    },
+    {
+      "pregunta": "¿Se guarda mi diseño?",
+      "respuesta": "Sí. Queda en este navegador para tu siguiente publicación."
+    }
+  ],
+  "relacionadas": [
+    "iconos-para-historias-destacadas",
+    "portada-de-facebook",
+    "link-en-bio",
+    "publicidad-en-instagram",
+    "pagina-de-facebook-para-negocio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus publicaciones atraen seguidores y una página con tu dominio en la biografía los convierte en clientes.",
+    "aviso": "Tu publicación ya está lista. ¿Quieres una página para poner en tu biografía?",
+    "titulo": "¿Hacemos la página que va en tu biografía de Instagram?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Molde plantilla (1,100-2,000). Cabeza < 10K: sin top 3. Motor editor-diseno/post-instagram (cuadrada, vertical, historia con guías; 6 diseños; sin QR)."
+}

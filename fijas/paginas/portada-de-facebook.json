@@ -1,0 +1,177 @@
+{
+  "id": "portada-de-facebook",
+  "slug": "portada-de-facebook",
+  "molde": "herramienta",
+  "cabeza": "foto portada facebook",
+  "busquedas": [
+    "foto de portada facebook",
+    "portada de facebook",
+    "foto de portada para facebook",
+    "fotos de portada para facebook originales",
+    "imagen de portada para facebook",
+    "portada para facebook",
+    "banner en facebook"
+  ],
+  "title": "Foto portada Facebook para tu negocio, gratis y a medida",
+  "h1": "Portada de Facebook para tu negocio",
+  "description": "Haz la foto de portada de Facebook de tu negocio en 1640 × 624 px. Las guías marcan lo que se ve en celular para que nada se corte. Gratis, en PNG y sin cuenta.",
+  "resumen": "Portada de 1640 × 624 px con zona segura para celular",
+  "categoria": "Redes sociales",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu negocio, una frase y tus servicios, y elige uno de los cinco diseños. La portada sale de 1640 × 624 px con dos líneas punteadas. Lo que queda entre esas líneas se ve completo también en celular."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "portada-facebook"
+  },
+  "cuerpo": [
+    {
+      "h2": "Por qué tu portada se corta en el celular"
+    },
+    {
+      "p": "Facebook muestra la portada completa en computadora y recorta los lados en el celular. La mayoría de tus clientes entra desde el teléfono."
+    },
+    {
+      "p": "Por eso el editor dibuja dos líneas punteadas que no salen en el archivo. El nombre, la frase y el WhatsApp deben quedar entre ellas."
+    },
+    {
+      "p": "Los lados sirven para fotos, colores o adornos. Si se pierden en celular, no pasa nada."
+    },
+    {
+      "h2": "Cómo hacer tu portada"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el diseño",
+          "texto": "Centrado pone todo en medio. Foto a la derecha sirve para enseñar tu local o tu producto."
+        },
+        {
+          "titulo": "Escribe poco",
+          "texto": "Nombre, una frase que diga qué haces y hasta tres servicios. La portada no es un catálogo."
+        },
+        {
+          "titulo": "Revisa la foto de perfil",
+          "texto": "En algunas vistas tu foto de perfil se empalma con la orilla de abajo. No pegues datos a esa orilla."
+        },
+        {
+          "titulo": "Baja el PNG y súbelo",
+          "texto": "En tu página de Facebook toca el ícono de la cámara sobre la portada y elige el archivo."
+        }
+      ]
+    },
+    {
+      "h2": "Qué poner en la portada de un negocio"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Qué funciona en la portada"
+        ],
+        "filas": [
+          [
+            "Restaurante o fonda",
+            "Foto del platillo estrella y el horario"
+          ],
+          [
+            "Estética o uñas",
+            "Foto de un trabajo terminado y «Citas por WhatsApp»"
+          ],
+          [
+            "Taller o servicio",
+            "Qué arreglas y la zona que cubres"
+          ],
+          [
+            "Tienda en línea",
+            "Envíos a todo el país y cómo pedir"
+          ],
+          [
+            "Consultorio",
+            "Especialidad y dirección corta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cambia la portada cuando tengas una temporada fuerte. Una portada de Día de Muertos en marzo se ve descuidada."
+    },
+    {
+      "h2": "Los cinco diseños"
+    },
+    {
+      "ul": [
+        "Centrado, con el nombre al medio y aire alrededor.",
+        "Foto a la derecha, con datos a la izquierda.",
+        "Letras grandes, cuando tu nombre es tu marca.",
+        "Franjas, con bloques de color para servicios.",
+        "Oscuro elegante, para negocios de noche o de lujo."
+      ]
+    },
+    {
+      "p": "Después de la portada, arma tus [portadas para destacados](id:iconos-para-historias-destacadas) y tus [plantillas para Instagram](id:plantillas-para-instagram) con los mismos colores. Así tus redes se ven de la misma marca."
+    },
+    {
+      "h2": "Errores comunes en la portada de un negocio"
+    },
+    {
+      "ul": [
+        "Usar una foto de banco que no muestra tu local ni tu producto.",
+        "Escribir el teléfono pegado a la orilla, donde el celular lo corta.",
+        "Poner letra blanca sobre una foto clara sin una franja detrás.",
+        "Dejar la portada de la apertura años después."
+      ]
+    },
+    {
+      "p": "Revisa tu página desde tu propio celular después de subirla. Lo que ves ahí es lo que ve casi todo tu público."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué medida tiene la portada?",
+      "respuesta": "1640 × 624 px. Sale en PNG listo para subir."
+    },
+    {
+      "pregunta": "¿Por qué se ve borrosa en Facebook?",
+      "respuesta": "Casi siempre por subir una imagen chica. Esta medida es amplia para que se vea nítida."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Súbelo en PNG sin fondo y acomódalo dentro de las guías."
+    },
+    {
+      "pregunta": "¿Puedo poner mi WhatsApp en la portada?",
+      "respuesta": "Sí. Hay un campo para eso y queda en la zona que se ve en celular."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta?",
+      "respuesta": "Nada. La haces y la bajas gratis las veces que quieras."
+    }
+  ],
+  "relacionadas": [
+    "pagina-de-facebook-para-negocio",
+    "iconos-para-historias-destacadas",
+    "plantillas-para-instagram",
+    "publicidad-en-facebook",
+    "link-en-bio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu portada se ve en Facebook y tu página web se ve en todos lados, aunque no tengan cuenta.",
+    "aviso": "Tu portada ya está lista. ¿Quieres una página web con la misma imagen?",
+    "titulo": "¿Le damos a tu negocio una página fuera de Facebook?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "solu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/portada-facebook (1640 × 624 con guías de zona en celular). No se citan medidas oficiales de Meta: sólo lo que hace el motor."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "flyer",
+  "slug": "flyer",
+  "molde": "herramienta",
+  "cabeza": "flyer",
+  "busquedas": ["flyers online", "flyers editables", "flyer publicitario", "flyers publicitarios", "crear flyer", "cómo hacer un flyers", "hacer flyers", "crear flyers", "crear un flyer", "creador de flyer", "crear flyer gratis", "crear flyers gratis", "crear un flyer gratis", "como hacer un flyer gratis", "flyer digital", "flyers digitales", "flyer publicidad", "flyers de publicidad", "aplicaciones para hacer flyers", "aplicaciones para hacer flyers gratis", "flyer promocional", "flyers promocionales", "diseño de flyers"],
+  "title": "Flyer gratis en media carta o carta, PDF para imprimir",
+  "h1": "Haz tu flyer gratis",
+  "description": "Crea un flyer gratis en media carta, carta o para redes. Elige un diseño, cambia textos y colores y baja PDF para imprenta o PNG. Sin cuenta ni marca de agua.",
+  "resumen": "Flyer en media carta, carta o para redes con PDF de imprenta",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige uno de los seis diseños de arriba y escribe tus datos encima. El flyer sale en media carta, carta o en formato vertical para redes. Lo bajas en PDF del tamaño real o en PNG a 300 ppp, sin crear cuenta."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "flyer" },
+  "cuerpo": [
+    { "h2": "Cómo hacer tu flyer en cuatro pasos" },
+    { "pasos": [
+      { "titulo": "Escoge el diseño más cercano a tu idea", "texto": "Hay seis de arranque y cada uno tiene su nombre. Promoción y comida del día sirven a casi cualquier negocio." },
+      { "titulo": "Cambia la medida antes de escribir", "texto": "Media carta rinde más en la imprenta. Carta luce mejor pegada en una pared o un mostrador." },
+      { "titulo": "Llena sólo los campos que necesitas", "texto": "Lo que dejas vacío desaparece del diseño. Así no quedan huecos raros ni textos de ejemplo." },
+      { "titulo": "Descarga y revisa en tamaño real", "texto": "Abre el PDF al cien por ciento antes de mandarlo a imprimir. Revisa teléfonos y precios dos veces." }
+    ] },
+    { "h2": "Qué medida de flyer conviene en México" },
+    { "p": "En México el flyer se pide casi siempre en media carta o en carta. El editor trae las dos y una tercera para publicar en redes." },
+    { "tabla": {
+      "columnas": ["Medida", "Tamaño", "Para qué sirve"],
+      "filas": [
+        ["Media carta", "13.97 × 21.59 cm", "Repartir en la calle, dejar en mostradores, meter en bolsas"],
+        ["Carta", "21.59 × 27.94 cm", "Pegar en pared, vitrina o tablero de avisos"],
+        ["Para redes", "1080 × 1350 px", "Estado de WhatsApp, Facebook e Instagram en vertical"]
+      ]
+    } },
+    { "p": "Si vas a imprimir mucho, pregunta en tu imprenta cuántos flyers salen por pliego. A veces cambiar a media carta reduce el costo a casi la mitad." },
+    { "h2": "Lo que hace que un flyer sí se lea" },
+    { "p": "Un flyer se mira dos o tres segundos antes de decidir si se guarda. En ese tiempo la persona debe entender qué ofreces y cómo pedirlo." },
+    { "ul": [
+      "Un título de pocas palabras, grande y arriba.",
+      "Un solo dato fuerte como el precio, la fecha o el descuento.",
+      "Tres o cuatro detalles en renglones cortos, no un párrafo.",
+      "Tu WhatsApp escrito completo y visible desde lejos.",
+      "Un código QR que abra tu chat o tu página."
+    ] },
+    { "p": "El editor arma el QR solo con el WhatsApp que escribes en tus datos. También puede llevar a una liga, como tu menú o tu página." },
+    { "h2": "Flyer impreso contra flyer digital" },
+    { "p": "El impreso funciona cerca de tu negocio, en la colonia y en eventos. El digital viaja por grupos de WhatsApp y llega a gente que nunca pasa por tu calle." },
+    { "p": "Haz los dos con el mismo diseño. Cambia la medida a «Para redes» y el texto se reacomoda sin que tengas que empezar otra vez." },
+    { "h2": "Ejemplos que puedes sacar con este editor" },
+    { "ul": [
+      "Una panadería con su promoción de conchas del fin de semana.",
+      "Una cocina económica con la comida del día y su precio.",
+      "Una escuela de baile anunciando inscripciones y horarios.",
+      "Un torneo de barrio con fecha, cancha y costo de inscripción.",
+      "Una rifa con premio, precio del boleto y fecha del sorteo."
+    ] },
+    { "p": "Para eventos con fecha mira el [flyer de fútbol](id:flyer-de-futbol), el [flyer de rifa](id:flyer-de-rifa) y el [flyer para fiesta](id:flyer-para-fiesta). Cada uno explica lo que ese evento necesita decir." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Cuánto cuesta usar el editor de flyers?", "respuesta": "Nada. No pide cuenta ni tarjeta y no pone marca de agua. Puedes bajar todos los flyers que quieras." },
+    { "pregunta": "¿El PDF sirve para la imprenta?", "respuesta": "Sí. Sale del tamaño real y con las letras en vectores. La imprenta lo abre igual en cualquier computadora." },
+    { "pregunta": "¿Puedo poner mi logo y una foto?", "respuesta": "Sí. Sube un PNG o JPG y acomódalo arrastrando. El archivo se queda en tu equipo." },
+    { "pregunta": "¿Puedo cambiar las letras y los colores?", "respuesta": "Sí. Hay combinaciones de color listas y puedes elegir el tuyo. También cambias la tipografía de títulos y de texto." },
+    { "pregunta": "¿Se guarda lo que escribí?", "respuesta": "Sí, en este navegador. Si vuelves desde el mismo equipo encuentras tu último diseño." },
+    { "pregunta": "¿El flyer trae sangría para corte?", "respuesta": "No. El PDF sale al tamaño exacto sin margen extra. Si tu imprenta pide sangría, deja los textos lejos de la orilla." }
+  ],
+  "relacionadas": ["volantes", "flyer-informativo", "folleto", "cartel-publicitario", "banner", "landing-page"],
+  "venta": {
+    "puente": "Tu flyer reparte la noticia y tu página la guarda para quien la busque después.",
+    "aviso": "Tu flyer ya está listo. ¿Quieres que el QR lleve a una página con tu marca?",
+    "titulo": "¿Hacemos la página a la que lleva tu flyer?",
+    "trabajos": ["laola", "comprafin", "makatea"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.canva.com/es_mx/crear/flyers/", "titulo": "Crea flyers gratis (Canva)", "promete": "Miles de plantillas y descarga gratis; pide cuenta, no explica medidas mexicanas ni media carta" },
+    { "posicion": 2, "url": "https://www.adobe.com/es/express/create/flyer", "titulo": "Crear flyer (Adobe Express)", "promete": "Plantillas gratis con cuenta; nada de medidas de imprenta ni QR a WhatsApp" },
+    { "posicion": 3, "url": "https://picsart.com/es/design/flyers/", "titulo": "Creador de flyers gratis", "promete": "Editor con IA y plantillas; pide registro y no habla de impreso contra digital" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 leído con WebSearch el 12-nov-2026. Motor editor-diseno/flyer (6 diseños, media carta, carta, redes). Sin cifras de imprenta."
+}

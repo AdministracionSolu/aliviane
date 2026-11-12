@@ -1,0 +1,187 @@
+{
+  "id": "poster",
+  "slug": "poster",
+  "molde": "herramienta",
+  "cabeza": "crear poster para imprimir",
+  "busquedas": [
+    "crear posters para imprimir",
+    "crear poster",
+    "hacer poster",
+    "hacer un poster",
+    "crear un poster",
+    "crear poster gratis",
+    "crear un poster gratis",
+    "hacer posters",
+    "creador de posters",
+    "poster publicitario",
+    "posters publicitario"
+  ],
+  "title": "Crear póster para imprimir gratis hasta 60 × 90 cm",
+  "h1": "Crea un póster para imprimir",
+  "description": "Crea un póster para imprimir en carta, tabloide o 60 × 90 cm. Escribe tu evento, sube una foto y baja el PDF a escala para la imprenta. Gratis y sin cuenta.",
+  "resumen": "Póster de evento o de pared hasta 60 × 90 cm",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige un estilo, escribe el nombre del evento y la fecha, y sube una foto si quieres. El póster sale en carta, en tabloide o en 60 × 90 cm. El PDF va a escala real, con letras que no se pixelean aunque lo imprimas grande."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "poster"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo crear tu póster"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Piensa en la pared donde va a vivir",
+          "texto": "Un póster en un pasillo de escuela compite con muchos otros. Uno en tu local compite con tu propia decoración."
+        },
+        {
+          "titulo": "Escoge el estilo",
+          "texto": "Elegante funciona con fotos y mucho aire. Retícula funciona cuando hay varios datos como horarios o ponentes."
+        },
+        {
+          "titulo": "Sube la foto más nítida que tengas",
+          "texto": "En 60 × 90 cm una foto de celular antigua se ve granulada. Usa la original, no la de WhatsApp."
+        },
+        {
+          "titulo": "Baja el PDF y revisa al cien por ciento",
+          "texto": "Haz zoom en tu computadora hasta ver la foto en tamaño real. Si se ve borrosa ahí, también impresa."
+        }
+      ]
+    },
+    {
+      "h2": "Póster para evento contra póster de pared"
+    },
+    {
+      "p": "El póster de evento caduca el día del evento. Debe contestar qué, cuándo, dónde y cuánto cuesta entrar."
+    },
+    {
+      "p": "El póster de pared se queda meses. Una frase, una foto y tu marca bastan, y conviene que no lleve fechas."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo",
+          "Lo que no puede faltar",
+          "Estilo sugerido"
+        ],
+        "filas": [
+          [
+            "Concierto o tocada",
+            "Fecha, lugar y costo de entrada",
+            "Bloques"
+          ],
+          [
+            "Exposición o feria",
+            "Fechas de inicio y fin, horario",
+            "Elegante"
+          ],
+          [
+            "Curso o taller",
+            "Fecha de arranque, cupo, cómo inscribirse",
+            "Inscripciones"
+          ],
+          [
+            "Decoración del local",
+            "Frase corta, foto y logo",
+            "Letra grande o elegante"
+          ],
+          [
+            "Evento escolar",
+            "Grupo, fecha y hora",
+            "Retícula"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dónde imprimir cada medida"
+    },
+    {
+      "p": "Carta sale en casa o en cualquier papelería. Tabloide se pide en centros de copiado que tienen impresora doble carta."
+    },
+    {
+      "p": "El de 60 × 90 cm requiere impresión de gran formato. Pide papel fotográfico mate si va en interiores con luz directa."
+    },
+    {
+      "p": "El PNG del editor se ajusta a la memoria de tu navegador. Para tamaños grandes, el PDF siempre conserva mejor las letras."
+    },
+    {
+      "h2": "Detalles que hacen ver bien un póster"
+    },
+    {
+      "ul": [
+        "Un margen generoso para que el marco no tape textos.",
+        "Máximo dos tipografías, una para el título y otra para lo demás.",
+        "La fecha en número grande, no escondida en un renglón.",
+        "Un QR abajo a la derecha, donde la mirada termina."
+      ]
+    },
+    {
+      "p": "Para un anuncio de promoción con precios mira el [cartel publicitario](id:cartel-publicitario). Para la calle, una [lona publicitaria](id:lona-publicitaria) aguanta mejor el sol."
+    },
+    {
+      "h2": "Cómo colgar tu póster sin maltratarlo"
+    },
+    {
+      "p": "La cinta adhesiva arranca pintura y deja marcas. Usa masilla reutilizable o clips en las esquinas."
+    },
+    {
+      "p": "Para exteriores techados, enmica el póster o mételo en una funda de acetato. La humedad ondula el papel en pocos días."
+    },
+    {
+      "p": "Si vas a pegar varios en la ciudad, guarda uno sin fecha. Te sirve para la siguiente edición del evento."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué medidas de póster trae el editor?",
+      "respuesta": "Tres. Carta, tabloide y 60 × 90 cm."
+    },
+    {
+      "pregunta": "¿Puedo imprimir el póster en casa?",
+      "respuesta": "Sí, en carta. Las medidas grandes necesitan una imprenta de gran formato."
+    },
+    {
+      "pregunta": "¿Puedo subir la foto de una banda o de un producto?",
+      "respuesta": "Sí. Usa fotos tuyas o con permiso del autor."
+    },
+    {
+      "pregunta": "¿Se guarda mi diseño?",
+      "respuesta": "Sí. Queda en este navegador para la siguiente vez que entres."
+    },
+    {
+      "pregunta": "¿Tiene costo o marca de agua?",
+      "respuesta": "No. Creas y bajas tus pósters gratis."
+    }
+  ],
+  "relacionadas": [
+    "cartel-publicitario",
+    "flyer",
+    "flyer-para-fiesta",
+    "lona-publicitaria",
+    "banner",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Tu póster convoca y tu página puede recibir las inscripciones o los boletos.",
+    "aviso": "Tu póster ya quedó. ¿Quieres una página donde se registren los asistentes?",
+    "titulo": "¿Hacemos la página de tu evento?",
+    "trabajos": [
+      "laola",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/poster (archivo cartel, mismos 5 estilos y 3 medidas)."
+}

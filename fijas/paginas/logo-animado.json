@@ -1,0 +1,187 @@
+{
+  "id": "logo-animado",
+  "slug": "logo-animado",
+  "molde": "herramienta",
+  "cabeza": "logo animado",
+  "busquedas": [],
+  "title": "Logo animado gratis en GIF, video o SVG para tu página",
+  "h1": "Crea tu logo animado",
+  "description": "Crea un logo animado: el símbolo entra girando y las letras suben una por una. Bájalo en GIF, en video o en SVG animado para tu página. Gratis y sin cuenta.",
+  "resumen": "Animación de logo en GIF, video y SVG para web",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Diseña tu logo como en cualquier otro modo y la vista lo anima solo. El símbolo entra girando y creciendo, las letras suben una por una y la frase aparece al final. Lo bajas en GIF, en video o en SVG animado, y la animación dura poco más de cuatro segundos."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "animado"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo se mueve tu logo"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Momento",
+          "Qué pasa"
+        ],
+        "filas": [
+          [
+            "Primer segundo",
+            "El símbolo aparece pequeño, gira y crece hasta su lugar"
+          ],
+          [
+            "Del medio segundo al segundo y medio",
+            "Cada letra del nombre sube y aparece, una tras otra"
+          ],
+          [
+            "Segundo y medio",
+            "La frase de abajo aparece con un desvanecido suave"
+          ],
+          [
+            "Hasta el final",
+            "El logo se queda quieto para que se lea completo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Usa el botón «Repetir animación» para verla otra vez antes de bajarla. Cambia de propuesta, de colores o de letra y la animación se adapta sola."
+    },
+    {
+      "h2": "Qué formato elegir"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Formato",
+          "Medida",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "GIF",
+            "640 × 480 px, 15 cuadros por segundo",
+            "WhatsApp, correos y presentaciones"
+          ],
+          [
+            "Video",
+            "640 × 480 px en MP4 o WebM",
+            "Historias, reels y cierre de tus videos"
+          ],
+          [
+            "SVG animado",
+            "Vector, se ajusta a cualquier tamaño",
+            "Tu página web, ligero y nítido"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El video sale en MP4 o en WebM según lo que permita tu navegador. Si necesitas MP4 y te sale WebM, prueba desde otro navegador."
+    },
+    {
+      "p": "El SVG animado respeta a quien pidió menos movimiento en su equipo. En esos casos el logo aparece quieto desde el inicio."
+    },
+    {
+      "h2": "Cómo crear tu logo animado"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe nombre, giro y frase",
+          "texto": "La frase es la última en aparecer. Úsala para tu lema o tu ciudad."
+        },
+        {
+          "titulo": "Elige una propuesta",
+          "texto": "Los acomodos de símbolo y nombre en línea lucen más al animarse."
+        },
+        {
+          "titulo": "Mira la animación completa",
+          "texto": "Revisa que el nombre no sea tan largo que la entrada de letras canse."
+        },
+        {
+          "titulo": "Baja el formato que necesitas",
+          "texto": "Los tres botones animados están encima de las descargas normales."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde usar un logo animado"
+    },
+    {
+      "ul": [
+        "Al inicio o al final de los videos de tu negocio.",
+        "En la pantalla de carga o el encabezado de tu página.",
+        "Como estado de WhatsApp cuando estrenas marca.",
+        "En la firma de tus correos, en versión GIF.",
+        "En una pantalla dentro de tu local o en una expo."
+      ]
+    },
+    {
+      "p": "Un logo animado funciona mejor cuando sólo se mueve al inicio. Después debe quedar quieto para que la gente lo lea y lo recuerde."
+    },
+    {
+      "p": "Si lo usas al cierre de tus videos, deja el logo quieto un par de segundos más. Agrega tu WhatsApp o tu página debajo en el editor de video."
+    },
+    {
+      "p": "No lo pongas en todos lados. Un logo que se mueve en cada rincón cansa y distrae de lo que vendes."
+    },
+    {
+      "p": "Para la versión quieta de tu marca usa el [creador de logo gratis](id:crear-logo-gratis). Si quieres volumen sin movimiento, prueba el [logo 3D](id:logo-3d)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto dura la animación?",
+      "respuesta": "Poco más de cuatro segundos. El logo termina quieto."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el tipo de animación?",
+      "respuesta": "No por ahora. Todas usan la misma entrada de símbolo, letras y frase."
+    },
+    {
+      "pregunta": "¿El GIF tiene fondo?",
+      "respuesta": "Sí. Usa el color de fondo que elijas en los ajustes."
+    },
+    {
+      "pregunta": "¿Sirve el video para Instagram?",
+      "respuesta": "Sí. Súbelo como historia o al final de un reel."
+    },
+    {
+      "pregunta": "¿También puedo bajar el logo quieto?",
+      "respuesta": "Sí. El SVG y los PNG normales siguen disponibles abajo."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. Los tres formatos animados son gratis."
+    }
+  ],
+  "relacionadas": [
+    "crear-logo-gratis",
+    "logo-3d",
+    "crear-logo-con-ia",
+    "firma-de-correo",
+    "isotipo-imagotipo-logotipo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu logo animado luce mejor en el encabezado de una página propia que en un archivo guardado.",
+    "aviso": "Tu animación ya está lista. ¿La ponemos en el encabezado de tu página?",
+    "titulo": "¿Estrenamos tu logo animado en tu página?",
+    "trabajos": [
+      "makatea",
+      "signsolu",
+      "laola"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/animado: GIF 640 × 480 a 15 cps, video MP4 o WebM (MediaRecorder, según navegador) a 30 cps, SVG animado con CSS y prefers-reduced-motion; DURACION 4.2 s. Mejora de motor: elegir tipo de animación."
+}

@@ -1,0 +1,201 @@
+{
+  "id": "cupon-de-descuento",
+  "slug": "cupon-de-descuento",
+  "molde": "herramienta",
+  "cabeza": "cupón de descuento",
+  "busquedas": [],
+  "title": "Cupón de descuento gratis para imprimir o para WhatsApp",
+  "h1": "Haz tus cupones de descuento",
+  "description": "Diseña cupones de descuento con vigencia, condiciones y folio. Imprime varios por hoja carta con marcas de corte o mándalos como imagen. Gratis y sin registro.",
+  "resumen": "Cupones con vigencia y folio, varios por hoja carta",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el descuento y en qué aplica, la vigencia y las condiciones. Luego elige uno de cinco diseños. Los cupones de 9 × 5 cm salen diez por hoja carta y los de 16 × 7 cm salen tres. También hay medida cuadrada para mandar por WhatsApp o publicar en redes."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "cupon"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tus cupones"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe la oferta en pocas letras",
+          "texto": "«2×1», «$100 menos» o «Postre gratis». Es lo que sale más grande."
+        },
+        {
+          "titulo": "Aclara en qué aplica",
+          "texto": "«En tu siguiente corte» o «En compras desde $300». Evita malentendidos en caja."
+        },
+        {
+          "titulo": "Pon vigencia y condiciones",
+          "texto": "Una fecha final concreta y una o dos reglas como «Uno por cliente»."
+        },
+        {
+          "titulo": "Baja la hoja carta para recortar",
+          "texto": "Imprime en cartulina y corta por las marcas. Sale listo para entregar."
+        }
+      ]
+    },
+    {
+      "h2": "Medidas de cupón"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Medida",
+          "Por hoja carta",
+          "Uso"
+        ],
+        "filas": [
+          [
+            "16 × 7 cm",
+            "3 cupones",
+            "Con talón para que el cliente guarde una parte"
+          ],
+          [
+            "9 × 5 cm",
+            "10 cupones",
+            "Tamaño de tarjeta, cabe en la cartera"
+          ],
+          [
+            "1080 × 1080 px",
+            "No aplica",
+            "Imagen para WhatsApp, Facebook o Instagram"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Los cinco diseños"
+    },
+    {
+      "ul": [
+        "Con talón, una parte para el cliente y otra para tu control.",
+        "Marco punteado, el cupón clásico de tijera.",
+        "Número grande, cuando el descuento es el gancho.",
+        "Delicado, para estéticas, florerías y regalos.",
+        "Boleto, con forma de entrada de cine."
+      ]
+    },
+    {
+      "h2": "Cómo controlar los cupones que entregas"
+    },
+    {
+      "p": "Un cupón sin control se fotocopia y se usa muchas veces. Hay formas sencillas de evitarlo sin sistemas caros."
+    },
+    {
+      "ul": [
+        "Usa el campo de folio y numera cada tanda a mano.",
+        "Firma o sella cada cupón al entregarlo.",
+        "Pide el cupón físico y guárdalo en caja al aplicarlo.",
+        "Cambia el diseño en cada campaña para notar copias viejas."
+      ]
+    },
+    {
+      "h2": "Ideas de cupones que sí regresan clientes"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Negocio",
+          "Cupón que funciona"
+        ],
+        "filas": [
+          [
+            "Cafetería",
+            "Segundo café a mitad de precio antes de las 10"
+          ],
+          [
+            "Estética",
+            "Tratamiento gratis en tu tercera visita del mes"
+          ],
+          [
+            "Taquería",
+            "Agua fresca gratis con orden de cinco tacos"
+          ],
+          [
+            "Lavandería",
+            "Un kilo gratis al traer a un amigo"
+          ],
+          [
+            "Tienda de ropa",
+            "$100 de descuento en tu siguiente compra"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El mejor cupón invita a volver, no sólo a comprar hoy. Entrégalo con cada compra y pon una vigencia de dos a cuatro semanas."
+    },
+    {
+      "p": "Si quieres premiar visitas repetidas, la [tarjeta de lealtad](id:tarjeta-de-lealtad) funciona mejor que un cupón suelto. Para anunciar la promoción en la colonia usa un [volante](id:volantes)."
+    },
+    {
+      "h2": "Errores comunes con cupones"
+    },
+    {
+      "ul": [
+        "Dar un descuento tan grande que cada venta te deja en pérdida.",
+        "Olvidar la vigencia y tener que aceptar cupones de hace un año.",
+        "Escribir condiciones tan largas que nadie las lee.",
+        "Entregar cupones sin explicar al equipo cómo aplicarlos."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuántos cupones salen por hoja?",
+      "respuesta": "Diez en 9 × 5 cm y tres en 16 × 7 cm. Las marcas de corte vienen incluidas."
+    },
+    {
+      "pregunta": "¿Puedo numerar cada cupón?",
+      "respuesta": "No en automático. Usa el campo de folio por tanda o numéralos a mano."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Súbelo y aparece en el cupón."
+    },
+    {
+      "pregunta": "¿Puedo mandar el cupón por WhatsApp?",
+      "respuesta": "Sí. Elige la medida para redes y baja el PNG cuadrado."
+    },
+    {
+      "pregunta": "¿Lleva código QR?",
+      "respuesta": "No. El cupón usa folio o código escrito en lugar de QR."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Diseñas e imprimes los cupones que quieras."
+    }
+  ],
+  "relacionadas": [
+    "tarjeta-de-lealtad",
+    "volantes",
+    "flyer",
+    "plantillas-para-instagram",
+    "tarjetas-de-presentacion",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus cupones traen al cliente una vez y tu página lo trae de vuelta cuando busca otra vez.",
+    "aviso": "Tus cupones ya están listos. ¿Quieres una página donde publiques tus promociones?",
+    "titulo": "¿Hacemos la página de tus promociones?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/cupon (16 × 7: 3 por hoja; 9 × 5: 10 por hoja, calculado con hojaDe). Sin QR. Mejora de motor: folio consecutivo automático en la hoja."
+}

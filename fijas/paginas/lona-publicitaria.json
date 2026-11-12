@@ -1,0 +1,81 @@
+{
+  "id": "lona-publicitaria",
+  "slug": "lona-publicitaria",
+  "molde": "herramienta",
+  "cabeza": "lona publicitaria",
+  "busquedas": ["lonas personalizadas", "lonas de publicidad", "lonas para negocios"],
+  "title": "Lona publicitaria gratis de 3 × 1 m o a tu medida en PDF",
+  "h1": "Diseña tu lona publicitaria",
+  "description": "Diseña tu lona publicitaria en 3 × 1 m, 2 × 1 m, pendón o a tu medida. Ve la escala junto a una persona y baja el PDF para la imprenta. Gratis y sin cuenta.",
+  "resumen": "Lona de exterior en metros con escala de una persona",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige la medida de tu lona y escoge uno de cinco diseños. Luego escribe tu título, tus servicios y tu teléfono. El editor dibuja una persona de 1.70 m junto a la lona para que veas la escala real. Bajas el PDF a tamaño real para llevarlo a la imprenta de gran formato."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "lona" },
+  "cuerpo": [
+    { "h2": "Cómo diseñar una lona que se lea en la calle" },
+    { "pasos": [
+      { "titulo": "Mide dónde va a colgar", "texto": "Reja, barda, fachada o estructura. Mide el espacio y la distancia desde donde la van a ver." },
+      { "titulo": "Elige la medida", "texto": "3 × 1 m es la más común para fachada. El pendón vertical va en entradas y expos." },
+      { "titulo": "Escoge el diseño según tu mensaje", "texto": "Teléfono grande para servicios, gran apertura para estrenos y promoción para ofertas." },
+      { "titulo": "Revisa la escala con la persona", "texto": "Si el teléfono se ve más chico que la cabeza de la figura, agrándalo." }
+    ] },
+    { "h2": "Medidas de lona y cuándo usarlas" },
+    { "tabla": {
+      "columnas": ["Medida", "Uso típico", "Cuánto texto cabe"],
+      "filas": [
+        ["3 × 1 m", "Fachada de local, barda, obra", "Nombre, tres servicios y teléfono"],
+        ["2 × 1 m", "Reja, puesto, evento chico", "Título, dato grande y teléfono"],
+        ["Pendón 0.80 × 2 m", "Entrada, expo, recepción", "Logo arriba y lista vertical"],
+        ["A tu medida", "Espacios irregulares", "Depende del ancho que escribas"]
+      ]
+    } },
+    { "p": "La medida «Para web» de 1200 × 628 px sirve para repetir la lona en redes. Así tu promoción se ve igual en la calle y en el celular." },
+    { "h2": "Los cinco diseños de lona" },
+    { "ul": [
+      "Teléfono grande, para plomeros, cerrajeros y talleres.",
+      "Gran apertura, con fecha y dirección para tu primera semana.",
+      "Promoción, con un precio enorme al centro.",
+      "Con foto, cuando tu producto o tu local se venden solos.",
+      "Celebración, para aniversarios, posadas y eventos."
+    ] },
+    { "h2": "Errores que hacen una lona ilegible" },
+    { "p": "La lona está a varios metros y la gente la ve unos segundos. Estos tropiezos son los más comunes." },
+    { "ul": [
+      "Listar diez servicios en letra chica.",
+      "Usar una foto de baja resolución que se ve en cuadritos al imprimir.",
+      "Poner texto claro sobre un fondo claro.",
+      "Pegar los textos a la orilla, donde van los ojillos."
+    ] },
+    { "p": "Las imprentas suelen poner ojillos metálicos cada cierta distancia en la orilla. Deja un margen libre para que no perforen tus letras." },
+    { "h2": "Sobre la foto en una lona grande" },
+    { "p": "Las letras del PDF van en vector y se imprimen nítidas a cualquier tamaño. La foto en cambio depende del archivo que subas." },
+    { "p": "Una foto de celular reciente, tomada con buena luz, aguanta bien una lona de 2 × 1 m. Una imagen bajada de WhatsApp llega comprimida y se ve borrosa." },
+    { "h2": "Lona, banner y letrero" },
+    { "p": "La lona es temporal y se cambia por temporada. El [letrero de tu negocio](id:letreros-para-negocios) es permanente y sólo lleva lo esencial." },
+    { "p": "Si sólo necesitas algo para web o redes, el [banner](id:banner) arranca en la medida digital. Para una venta de casa o terreno usa el [letrero de se vende](id:letrero-se-vende)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Qué archivo pido que impriman?", "respuesta": "El PDF. Está a escala real y las letras no se pixelean." },
+    { "pregunta": "¿Puedo hacer una lona de 4 × 2 m?", "respuesta": "Sí. Elige «A tu medida» y escribe ancho y alto en centímetros." },
+    { "pregunta": "¿Por qué aparece una persona en la vista?", "respuesta": "Para que veas la escala real. No sale en el archivo que bajas." },
+    { "pregunta": "¿Puedo poner un QR?", "respuesta": "Sí. Úsalo sólo si la lona queda al alcance de la mano." },
+    { "pregunta": "¿Cuánto cuesta el diseño?", "respuesta": "Nada. Lo bajas gratis y sin marca de agua." }
+  ],
+  "relacionadas": ["banner", "letreros-para-negocios", "letrero-se-vende", "cartel-publicitario", "poster", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tu lona atrae miradas en la calle y tu página convierte esas miradas en mensajes.",
+    "aviso": "Tu lona ya tiene diseño. ¿Quieres una página que reciba a quien te busque después?",
+    "titulo": "¿Hacemos la página que acompaña tu lona?",
+    "trabajos": ["laola", "comprafin", "makatea"]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/lona (3 × 1 m inicial). Sin precios de imprenta. Mejora: margen para ojillos y sangría en el PDF."
+}

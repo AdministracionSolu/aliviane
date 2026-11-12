@@ -1,0 +1,180 @@
+{
+  "id": "flyer-para-fiesta",
+  "slug": "flyer-para-fiesta",
+  "molde": "herramienta",
+  "cabeza": "flyer discoteca",
+  "busquedas": [
+    "flyer disco"
+  ],
+  "title": "Flyer discoteca gratis para fiestas, antros y bailes",
+  "h1": "Flyer para fiesta y discoteca",
+  "description": "Diseña el flyer de tu fiesta, antro o baile con fondo oscuro, cover y promociones. Bájalo para imprimir o para historias y estados. Gratis y sin cuenta.",
+  "resumen": "Flyer nocturno con cover, promociones y artistas",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el diseño «Fiesta» de la galería, con fondo oscuro y letras angostas que se leen de noche. Escribe el nombre del evento, quién toca, el cover y las promociones. Lo bajas vertical para estados y redes, o en media carta para repartir afuera del lugar."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "flyer"
+  },
+  "cuerpo": [
+    {
+      "h2": "Lo que la gente revisa antes de ir"
+    },
+    {
+      "p": "Un flyer de fiesta compite en el celular con decenas de planes. En dos segundos tiene que decir qué ambiente hay y cuánto cuesta entrar."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Ejemplo",
+          "Dónde va en el diseño"
+        ],
+        "filas": [
+          [
+            "Nombre del evento",
+            "Noche de cumbia",
+            "Título grande arriba"
+          ],
+          [
+            "Quién toca",
+            "Sonido en vivo y DJ invitado",
+            "Subtítulo"
+          ],
+          [
+            "Cover",
+            "Cover $150",
+            "Dato grande al centro"
+          ],
+          [
+            "Promociones",
+            "Cubetas, entrada libre temprano",
+            "Lista de detalles"
+          ],
+          [
+            "Día y hora",
+            "Sábado 29 · 9 pm",
+            "Debajo de la lista"
+          ],
+          [
+            "Lugar",
+            "Nombre del salón o antro y calle",
+            "Pie con contacto"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo hacer tu flyer de fiesta"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre el diseño Fiesta",
+          "texto": "Trae fondo casi negro con un acento naranja. Cámbialo a morado o rosa si tu noche lo pide."
+        },
+        {
+          "titulo": "Escribe un título que suene a plan",
+          "texto": "«Noche de cumbia» o «Fiesta de los 80» se entiende más que el nombre del lugar."
+        },
+        {
+          "titulo": "Promociones en renglones cortos",
+          "texto": "Cada promo en su renglón. Tres se leen y seis se ignoran."
+        },
+        {
+          "titulo": "Elige la medida según dónde lo mueves",
+          "texto": "«Para redes» para estados e historias, media carta para repartir en la entrada."
+        }
+      ]
+    },
+    {
+      "h2": "Fondo oscuro y letras que se leen"
+    },
+    {
+      "p": "Los flyers de noche se ven en el celular con poca luz. Un fondo oscuro con letra clara cansa menos la vista y destaca entre fotos."
+    },
+    {
+      "p": "Evita poner texto encima de una foto del público sin franja detrás. Las caras y luces de colores se comen las letras."
+    },
+    {
+      "p": "Si subes la foto del artista, usa una con fondo limpio. El editor la coloca sin tapar el título."
+    },
+    {
+      "h2": "Para qué tipo de fiestas sirve"
+    },
+    {
+      "ul": [
+        "Antros y bares con noche temática cada semana.",
+        "Bailes de salón con grupo en vivo y sonido.",
+        "Fiestas privadas con lista de invitados por WhatsApp.",
+        "Posadas, noches de karaoke y fiestas de fin de año.",
+        "Fiestas de egresados con boletos anticipados."
+      ]
+    },
+    {
+      "h2": "Detalles que hacen la diferencia"
+    },
+    {
+      "p": "Escribe la hora con «pm» o en formato de 24 horas. «A las 9» de noche confunde menos así."
+    },
+    {
+      "p": "Si hay código de vestimenta o edad mínima, ponlo en la lista. Evitas discusiones en la puerta."
+    },
+    {
+      "p": "Publica el flyer con cuatro o cinco días de anticipación. Repítelo el mismo día por la tarde con un «Hoy» encima del título."
+    },
+    {
+      "p": "Si la noche incluye rifa, arma también el [flyer de rifa](id:flyer-de-rifa). Para la entrada del lugar, un [póster](id:poster) en tabloide luce más."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Dónde encuentro el diseño de fiesta?",
+      "respuesta": "En la galería del editor, con el nombre «Fiesta»."
+    },
+    {
+      "pregunta": "¿Puedo hacerlo para historias de Instagram?",
+      "respuesta": "Sí. La medida «Para redes» sale vertical y se ve completa en historias."
+    },
+    {
+      "pregunta": "¿Puedo poner la foto del DJ o del grupo?",
+      "respuesta": "Sí. Usa una foto con permiso del artista."
+    },
+    {
+      "pregunta": "¿El flyer puede llevar QR para reservar?",
+      "respuesta": "Sí. Lleva a tu WhatsApp o a la liga de boletos que escribas."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin cuenta ni marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "flyer",
+    "flyer-de-rifa",
+    "poster",
+    "plantillas-para-instagram",
+    "cupon-de-descuento",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu antro o salón puede tener una página con el cartel de la semana y reservas por WhatsApp.",
+    "aviso": "Tu flyer ya está listo. ¿Quieres una página con tus eventos de cada semana?",
+    "titulo": "¿Hacemos la página de tu antro o salón?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Fiesta» en la galería."
+}

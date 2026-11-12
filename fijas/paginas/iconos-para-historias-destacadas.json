@@ -1,0 +1,180 @@
+{
+  "id": "iconos-para-historias-destacadas",
+  "slug": "iconos-para-historias-destacadas",
+  "molde": "herramienta",
+  "cabeza": "portada para destacados de instagram",
+  "busquedas": [
+    "iconos para historias destacadas de instagram"
+  ],
+  "title": "Portada para destacados de Instagram gratis, iconos en ZIP",
+  "h1": "Portadas para tus historias destacadas",
+  "description": "Crea portadas para destacados de Instagram con iconos de menú, precios, horario y más. Elige colores de tu marca y baja todas en ZIP. Gratis y sin cuenta.",
+  "resumen": "Iconos para destacados de Instagram con tus colores, en ZIP",
+  "categoria": "Redes sociales",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige hasta ocho iconos para tus destacados y el color de tu marca. Hay menú y precios, horario y ubicación, entre muchos otros. El editor arma una portada por icono con el dibujo al centro, y las bajas todas juntas en un ZIP."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "iconos-destacadas"
+  },
+  "cuerpo": [
+    {
+      "h2": "Para qué sirven las portadas de destacados"
+    },
+    {
+      "p": "Los destacados son las bolitas debajo de tu biografía. Funcionan como el menú de tu perfil y guardan historias que no desaparecen."
+    },
+    {
+      "p": "Con portadas del mismo estilo tu perfil se ve ordenado. Quien llega por primera vez encuentra rápido tus precios o tu ubicación."
+    },
+    {
+      "h2": "Cómo hacer tus portadas"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige los iconos",
+          "texto": "Hay ocho lugares. Escoge en cada uno un icono de la lista o deja «Ninguno»."
+        },
+        {
+          "titulo": "Escribe los nombres si tu diseño los muestra",
+          "texto": "Un nombre por renglón en el mismo orden. Sólo los estilos con nombre e inicial lo usan."
+        },
+        {
+          "titulo": "Elige estilo y colores",
+          "texto": "Hay cinco estilos de portada. Usa los colores de tu logo para que combinen."
+        },
+        {
+          "titulo": "Baja el ZIP",
+          "texto": "Trae un PNG por icono, con el nombre de cada uno."
+        }
+      ]
+    },
+    {
+      "h2": "Destacados que todo negocio debería tener"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Destacado",
+          "Qué historias guardar ahí"
+        ],
+        "filas": [
+          [
+            "Menú o catálogo",
+            "Fotos de productos con precio"
+          ],
+          [
+            "Precios",
+            "Lista vigente, actualizada cada temporada"
+          ],
+          [
+            "Horario",
+            "Tu horario y avisos de días festivos"
+          ],
+          [
+            "Cómo llegar",
+            "Video corto de la fachada y la calle"
+          ],
+          [
+            "Opiniones",
+            "Capturas de mensajes de clientes contentos"
+          ],
+          [
+            "Promos",
+            "Ofertas de la semana"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Seis destacados bastan para la mayoría de los negocios. Más de ocho obliga a deslizar y los últimos casi nadie los ve."
+    },
+    {
+      "h2": "Los cinco estilos"
+    },
+    {
+      "ul": [
+        "Línea, con el icono dibujado en trazo sobre fondo liso.",
+        "Círculo lleno, con el icono dentro de un círculo de color.",
+        "Anillo, con un aro alrededor del icono.",
+        "Con nombre, que escribe la palabra debajo del icono.",
+        "Inicial, que pone la primera letra del nombre."
+      ]
+    },
+    {
+      "h2": "Medidas y recorte"
+    },
+    {
+      "p": "Las portadas salen en tamaño de historia, de 1080 × 1920 px, o cuadradas de 1080. Instagram recorta un círculo del centro."
+    },
+    {
+      "p": "En la vista del editor aparece un recuadro guía en la medida de historia. Lo que quede dentro se verá en la bolita."
+    },
+    {
+      "p": "Para subirla, abre el destacado, toca «Editar destacado» y luego «Editar portada». Elige la imagen desde tu galería."
+    },
+    {
+      "p": "Antes de cambiar portadas, guarda las historias que van en cada destacado. Así no queda ninguna bolita vacía mientras actualizas."
+    },
+    {
+      "p": "Usa el mismo estilo en todas las portadas. Mezclar círculos llenos con iconos de línea se ve desordenado."
+    },
+    {
+      "p": "Para completar tu perfil, usa las mismas tintas en tus [plantillas para Instagram](id:plantillas-para-instagram). Tu [portada de Facebook](id:portada-de-facebook) también puede ir a juego."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuántas portadas puedo hacer a la vez?",
+      "respuesta": "Hasta ocho. Cada icono elegido es una portada."
+    },
+    {
+      "pregunta": "¿Puedo subir mis propios iconos?",
+      "respuesta": "No. El editor usa sus iconos de línea propios."
+    },
+    {
+      "pregunta": "¿Qué iconos hay?",
+      "respuesta": "Más de veinte. Van desde teléfono y WhatsApp hasta envíos y regalos."
+    },
+    {
+      "pregunta": "¿Por qué el ZIP trae varias imágenes?",
+      "respuesta": "Porque cada destacado lleva su propia portada."
+    },
+    {
+      "pregunta": "¿Se ven bien en modo oscuro?",
+      "respuesta": "Sí. Elige un fondo de color y no blanco puro."
+    },
+    {
+      "pregunta": "¿Cuesta algo?",
+      "respuesta": "No. Las bajas gratis y sin marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "plantillas-para-instagram",
+    "portada-de-facebook",
+    "link-en-bio",
+    "publicidad-en-instagram",
+    "pagina-de-facebook-para-negocio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu perfil se ve ordenado y una página con tu dominio en la biografía lo completa.",
+    "aviso": "Tus portadas ya están listas. ¿Quieres una página para poner en tu biografía?",
+    "titulo": "¿Hacemos la página que va en tu biografía?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/iconos-destacadas (hasta 8 iconos, 5 estilos, ZIP). El ZIP sale cuando hay 2 o más caras."
+}

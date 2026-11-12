@@ -1,0 +1,191 @@
+{
+  "id": "letrero-se-vende",
+  "slug": "letrero-se-vende",
+  "molde": "herramienta",
+  "cabeza": "letrero de se vende",
+  "busquedas": [],
+  "title": "Letrero de se vende gratis para casa, terreno o auto",
+  "h1": "Letrero de se vende",
+  "description": "Haz tu letrero de se vende, se renta o se traspasa para casa, terreno, local o auto. Teléfono grande y PDF en carta o 90 × 60 cm. Gratis y sin registro.",
+  "resumen": "Letrero de venta, renta o traspaso con teléfono grande",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el titular del letrero y escribe qué es y tu teléfono. El editor pone el teléfono en grande porque es lo que la gente apunta al pasar. Lo bajas en carta, tabloide o 90 × 60 cm para enmicar o imprimir en lona."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "se-vende"
+  },
+  "cuerpo": [
+    {
+      "h2": "Lo único que tiene que lograr tu letrero"
+    },
+    {
+      "p": "Que alguien que pasa en coche alcance a leer qué vendes y anote tu número. Todo lo demás se platica por teléfono."
+    },
+    {
+      "p": "Por eso el letrero lleva pocas palabras y un teléfono enorme. Los detalles van en renglones cortos y opcionales."
+    },
+    {
+      "h2": "Cómo hacer tu letrero"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el titular",
+          "texto": "Hay cinco opciones, de «Se vende» a «Disponible». También están se renta y se traspasa."
+        },
+        {
+          "titulo": "Escribe qué es",
+          "texto": "Casa, terreno, local o auto. Una palabra basta."
+        },
+        {
+          "titulo": "Agrega tres detalles como máximo",
+          "texto": "Recámaras, metros o año del auto. Uno por renglón."
+        },
+        {
+          "titulo": "Decide si pones precio",
+          "texto": "Con precio filtras curiosos. Sin precio recibes más llamadas para negociar."
+        }
+      ]
+    },
+    {
+      "h2": "Qué diseño usar para cada cosa"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Diseño",
+          "Para qué funciona"
+        ],
+        "filas": [
+          [
+            "Clásico",
+            "Casa o local, rojo y blanco que todos reconocen"
+          ],
+          [
+            "Amarillo",
+            "Terreno o lote, se ve desde lejos en campo abierto"
+          ],
+          [
+            "Inmobiliaria",
+            "Agentes, con logo y foto de la propiedad"
+          ],
+          [
+            "Auto",
+            "Para el medallón o la ventana trasera"
+          ],
+          [
+            "Blanco y negro",
+            "Traspasos y locales, fondo negro con letra clara"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Medidas y dónde colocarlo"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Medida",
+          "Dónde va"
+        ],
+        "filas": [
+          [
+            "Carta horizontal",
+            "Ventana de casa o medallón de auto"
+          ],
+          [
+            "Tabloide horizontal",
+            "Reja, puerta de local, cortina"
+          ],
+          [
+            "90 × 60 cm",
+            "Barda de terreno o estructura en la banqueta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La medida de 90 × 60 cm se imprime en lona o en coroplast. Pide ojillos o un bastidor si va a la intemperie."
+    },
+    {
+      "h2": "Detalles que ayudan a vender"
+    },
+    {
+      "ul": [
+        "Escribe «Trato directo» si no hay comisión de por medio.",
+        "Pon «Acepta crédito» si tu casa puede venderse con crédito hipotecario.",
+        "Agrega un QR con fotos y ubicación exacta en tu página o carpeta.",
+        "Pon el letrero a la altura de los ojos de quien maneja."
+      ]
+    },
+    {
+      "p": "El QR del editor puede abrir tu WhatsApp con un mensaje listo. También puede llevar a una liga con fotos de la propiedad."
+    },
+    {
+      "p": "Revisa el letrero cada semana. El sol y la lluvia borran el teléfono antes que el titular, y un número ilegible ya no vende."
+    },
+    {
+      "h2": "Cuida tus datos"
+    },
+    {
+      "p": "Usa un número que puedas cambiar después de vender, como un WhatsApp de trabajo. Evita poner tu dirección personal si no es la propiedad."
+    },
+    {
+      "p": "Para una venta con más información, arma un [flyer informativo](id:flyer-informativo) con fotos. Si eres agente, una [lona publicitaria](id:lona-publicitaria) con tu marca se ve en varias propiedades."
+    },
+    {
+      "p": "Toma una foto del letrero ya colocado y mándala a tus contactos. Muchas ventas de casas y autos se cierran entre conocidos de conocidos."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo hacer un letrero de se renta?",
+      "respuesta": "Sí. Elige «Se renta» en el titular y cambia lo demás."
+    },
+    {
+      "pregunta": "¿Sirve para vender un auto?",
+      "respuesta": "Sí. Usa el diseño Auto en carta horizontal para el medallón."
+    },
+    {
+      "pregunta": "¿Puedo poner el logo de mi inmobiliaria?",
+      "respuesta": "Sí. Súbelo y escribe el nombre de la inmobiliaria en su campo."
+    },
+    {
+      "pregunta": "¿Puedo poner una foto de la casa?",
+      "respuesta": "Sí. El diseño Inmobiliaria tiene lugar para una foto."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. Lo bajas gratis en PDF o PNG."
+    }
+  ],
+  "relacionadas": [
+    "lona-publicitaria",
+    "letreros-para-negocios",
+    "letrero-abierto-cerrado",
+    "flyer-informativo",
+    "cartel-publicitario",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu letrero atrae la llamada y una página con fotos y ubicación termina de convencer.",
+    "aviso": "Tu letrero ya está listo. ¿Quieres una página con fotos de lo que vendes?",
+    "titulo": "¿Hacemos la página de tu propiedad o de tu inmobiliaria?",
+    "trabajos": [
+      "solu",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/se-vende (titulares: se vende, se renta, se traspasa, se vende o se renta, disponible)."
+}

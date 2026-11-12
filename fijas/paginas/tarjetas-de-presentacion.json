@@ -1,0 +1,74 @@
+{
+  "id": "tarjetas-de-presentacion",
+  "slug": "tarjetas-de-presentacion",
+  "molde": "herramienta",
+  "cabeza": "tarjetas de presentación",
+  "busquedas": ["presentacion de tarjeta", "tarjetas de pr", "tarjeta de prese", "tarjetas de pres", "tarjetas presentacion", "crear tarjetas de presentacion", "crear tarjetas de presentación gratis", "hacer tarjetas de presentacion", "tarjeta de presentacion diseñador", "tarjetas de presentacion diseñador", "diseñador de tarjetas de presentacion", "tarjetas de presentacion diseno", "diseño de tarjetas de presentacion", "tarjetas de presentacion elegantes", "tarjeta de presentación de una empresa", "tarjetas de visita", "tarjetas de negocio", "tarjetas de negocios", "tarjeta para negocios", "tarjetas para negocios"],
+  "title": "Tarjetas de presentación gratis, 10 por hoja en PDF",
+  "h1": "Tarjetas de presentación gratis",
+  "description": "Diseña tus tarjetas de presentación de 9 × 5 cm con frente y reverso. Bájalas en PDF con 10 por hoja carta y marcas de corte. Gratis y sin registro.",
+  "resumen": "Tarjeta de 9 × 5 cm con frente, reverso y hoja de 10 para imprimir",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tus datos en uno de los seis diseños y tu tarjeta de 9 × 5 cm queda lista. Puedes bajarla sola en PDF o acomodada 10 veces en una hoja carta con marcas de corte. Si la imprimes por los dos lados, el reverso ya viene alineado."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "tarjeta-presentacion" },
+  "cuerpo": [
+    { "h2": "Cómo hacer tus tarjetas paso a paso" },
+    { "pasos": [
+      { "titulo": "Elige el diseño de tu oficio", "texto": "Hay versiones para despacho, ferretería y taquería. También hay de estética, consultorio y taller mecánico." },
+      { "titulo": "Llena el frente y luego el reverso", "texto": "Cambia de cara con los botones de arriba de la vista. Cada cara muestra los datos que le tocan." },
+      { "titulo": "Agrega tu logo o un QR", "texto": "El QR puede abrir tu WhatsApp o tu página. Ocupa poco espacio y evita que tecleen tu número." },
+      { "titulo": "Baja la hoja carta", "texto": "Imprime en cartulina y corta siguiendo las marcas. Salen 10 tarjetas por hoja." }
+    ] },
+    { "h2": "Qué datos poner en una tarjeta de presentación" },
+    { "p": "Una tarjeta que dice todo termina sin decir nada. Escoge lo que de verdad usan tus clientes para encontrarte." },
+    { "tabla": {
+      "columnas": ["Dato", "¿Va?", "Por qué"],
+      "filas": [
+        ["Nombre del negocio", "Siempre", "Es lo que van a buscar después"],
+        ["Tu nombre y puesto", "Casi siempre", "La gente recuerda a una persona, no a una empresa"],
+        ["WhatsApp", "Siempre en México", "Es por donde te van a escribir primero"],
+        ["Correo", "Si lo revisas", "Un correo sin contestar se ve peor que no tenerlo"],
+        ["Dirección", "Si te visitan", "Un consultorio sí, un servicio a domicilio no"],
+        ["Página o red social", "Si está al día", "Ahí ven tus trabajos antes de llamarte"]
+      ]
+    } },
+    { "h2": "Medida y papel" },
+    { "p": "La medida más usada en México es 9 × 5 cm y es la que trae el editor. Cabe en cualquier tarjetero y en la funda del celular." },
+    { "p": "Para imprimir en casa usa cartulina opalina o couché grueso. Si tu impresora no jala cartulina, lleva el PDF a un centro de copiado." },
+    { "p": "Hay una segunda medida «Para WhatsApp» que sale como imagen. La explicamos en la [tarjeta de presentación digital](id:tarjeta-de-presentacion-digital)." },
+    { "h2": "Cómo se acomoda la hoja de impresión" },
+    { "p": "La hoja carta lleva dos columnas y cinco filas con marcas finas en las orillas. Las marcas te dicen dónde pasar la guillotina o el cúter." },
+    { "p": "La segunda página del PDF trae los reversos en espejo. Así cada reverso cae justo detrás de su frente al voltear la hoja." },
+    { "p": "Haz una prueba en papel normal antes de gastar cartulina. Ponla contra la luz y revisa que frente y reverso coincidan." },
+    { "p": "Para pedirlas a una imprenta y elegir acabados lee la guía [imprimir tarjetas de presentación](id:imprimir-tarjetas-de-presentacion)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Cuántas tarjetas salen por hoja?", "respuesta": "Diez. La hoja carta lleva dos columnas por cinco filas con marcas de corte." },
+    { "pregunta": "¿Puedo imprimir sólo el frente?", "respuesta": "Sí. Imprime la primera página del PDF y listo. El reverso es opcional." },
+    { "pregunta": "¿Las tarjetas llevan marca de agua?", "respuesta": "No. Puedes quitar también la línea pequeña «Hecho con Aliviane» desde la casilla del pie." },
+    { "pregunta": "¿Sirve el PDF para una imprenta digital?", "respuesta": "Sí. Pide la tarjeta suelta de 9 × 5 cm o la hoja carta. Las dos salen en vectores." },
+    { "pregunta": "¿Puedo mover los textos?", "respuesta": "Sí. Arrastra cada elemento en la vista. En celular tócalo y usa las flechas." },
+    { "pregunta": "¿Hay tarjetas para abogados?", "respuesta": "Sí. El diseño Despacho está pensado para ellos y tiene su página de [tarjetas para abogados](id:tarjetas-de-presentacion-para-abogados)." }
+  ],
+  "relacionadas": ["tarjeta-de-presentacion-digital", "tarjetas-de-presentacion-para-abogados", "imprimir-tarjetas-de-presentacion", "tarjeta-de-lealtad", "crear-logo-gratis", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tu tarjeta cabe en una cartera y tu página cabe en el celular de quien la recibe.",
+    "aviso": "Tus tarjetas ya están listas. ¿Quieres que tu QR lleve a una página propia?",
+    "titulo": "¿Hacemos la página que va en tu tarjeta?",
+    "trabajos": ["signsolu", "laola", "makatea"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.canva.com/es_mx/crear/tarjetas-presentacion/", "titulo": "Crea tarjetas de presentación (Canva)", "promete": "Plantillas gratis y servicio de impresión; pide cuenta, no da hoja carta con marcas para imprimir en casa" },
+    { "posicion": 2, "url": "https://www.visme.co/es/tarjetas-de-presentacion/", "titulo": "Tarjetas de presentación (Visme)", "promete": "Diseño y descarga gratis como imagen; sin hoja de corte ni reverso alineado" },
+    { "posicion": 3, "url": "https://edraw.wondershare.es/create-business-card.html", "titulo": "Crear tarjetas de presentación (Edraw)", "promete": "Plantillas imprimibles con programa de prueba de 30 días; no es gratis de verdad" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 leído con WebSearch el 12-nov-2026. Motor editor-diseno/tarjeta-presentacion; hoja 2 × 5 = 10 calculada con hojaDe (márgenes 7 mm, separación 3 mm)."
+}

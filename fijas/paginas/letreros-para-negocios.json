@@ -1,0 +1,86 @@
+{
+  "id": "letreros-para-negocios",
+  "slug": "letreros-para-negocios",
+  "molde": "herramienta",
+  "cabeza": "letreros para negocios",
+  "busquedas": ["rotulos para negocios", "letreros para negocios exterior", "diseño de letreros para negocios", "letreros publicitarios", "letreros de publicidad"],
+  "title": "Letreros para negocios: diseño gratis a medida de fachada",
+  "h1": "Diseña el letrero de tu negocio",
+  "description": "Diseña el letrero de tu fachada en 2.40 × 0.60 m, 3 × 1 m o a tu medida. Ve el tamaño junto a una persona y lleva el PDF a escala a tu rotulista. Gratis.",
+  "resumen": "Letrero de fachada a escala para llevar al rotulista",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu negocio, qué vendes y tu teléfono, y elige la medida de tu fachada. El editor te enseña el letrero junto a una figura de 1.70 m para que calcules si se lee. Bajas un PDF a escala que el rotulista o la imprenta pueden usar directo."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "letrero" },
+  "cuerpo": [
+    { "h2": "Cómo diseñar el letrero de tu fachada" },
+    { "pasos": [
+      { "titulo": "Mide el hueco con cinta", "texto": "Mide ancho y alto del espacio libre, sin contar cortinas ni marcos. Anota también la altura desde la banqueta." },
+      { "titulo": "Elige la medida o escribe la tuya", "texto": "Hay cuatro medidas comunes y una opción a tu medida en centímetros." },
+      { "titulo": "Escoge un estilo", "texto": "Fachada clásica y rótulo antiguo dan aire de barrio. Moderno y franja de datos se ven más limpios." },
+      { "titulo": "Lleva el PDF al taller", "texto": "El rotulista lo usa para recortar vinil, imprimir lona o trazar a mano." }
+    ] },
+    { "h2": "Medidas comunes de letreros" },
+    { "tabla": {
+      "columnas": ["Medida", "Dónde se usa", "Nota"],
+      "filas": [
+        ["2.40 × 0.60 m", "Marquesina de local chico", "La franja larga sobre la cortina"],
+        ["3 × 1 m", "Fachada amplia o barda", "Cabe nombre, giro y teléfono grande"],
+        ["1.20 × 0.60 m", "Junto a la puerta o en reja", "Para letrero secundario o de bandera"],
+        ["1 × 1 m", "Muro lateral, poste o azotea", "Luce bien con el logo al centro"],
+        ["A tu medida", "Fachadas irregulares", "Escribe ancho y alto en centímetros"]
+      ]
+    } },
+    { "h2": "Qué tan grande debe ser la letra" },
+    { "p": "La regla real la pone tu calle. Un letrero en una avenida se lee desde un coche y uno en un andador se lee caminando." },
+    { "p": "Haz esta prueba antes de mandar a hacer el letrero. Imprime en una hoja carta una letra del tamaño que tendrá tu nombre." },
+    { "p": "Pégala en la fachada y mírala desde la otra acera. Si tienes que entrecerrar los ojos, agranda el nombre o quita palabras." },
+    { "p": "La figura de 1.70 m del editor ayuda a imaginar la proporción. Aparece sola cuando eliges una medida grande." },
+    { "h2": "Lo que debe decir un letrero de negocio" },
+    { "ul": [
+      "El nombre, aunque sea corto, en la letra más grande.",
+      "Qué vendes en dos o tres palabras que entienda un desconocido.",
+      "El teléfono o WhatsApp si das servicio a domicilio.",
+      "El horario sólo si cabe sin achicar lo demás."
+    ] },
+    { "p": "Un letrero que lista diez servicios termina sin decir ninguno. Deja la lista completa para tu [lona publicitaria](id:lona-publicitaria) o para tu página." },
+    { "h2": "Materiales y en qué cambia el diseño" },
+    { "tabla": {
+      "columnas": ["Material", "Cómo afecta tu diseño"],
+      "filas": [
+        ["Lona en bastidor", "Acepta fotos y degradados, se cambia fácil"],
+        ["Vinil recortado sobre lámina", "Pide colores planos y letras sin detalles finos"],
+        ["Rótulo pintado a mano", "Funciona con letras gruesas y pocos colores"],
+        ["Caja de luz", "Fondo claro y letras oscuras se leen mejor de noche"]
+      ]
+    } },
+    { "p": "El estilo «Rótulo antiguo» imita los letreros pintados de las tiendas de barrio. Le queda bien a fondas, panaderías y misceláneas." }
+  ],
+  "faqs": [
+    { "pregunta": "¿El PDF sirve para el rotulista?", "respuesta": "Sí. Sale a escala real con las letras en vectores. El taller lo puede recortar o imprimir." },
+    { "pregunta": "¿Puedo poner mi logo en el letrero?", "respuesta": "Sí. Sube tu logo en PNG o JPG. Para recorte en vinil pide al taller que lo vectorice." },
+    { "pregunta": "¿Puedo agregar un QR?", "respuesta": "Sí. Ponlo sólo si queda a la altura de la mano, no arriba de la cortina." },
+    { "pregunta": "¿Necesito permiso para poner un letrero?", "respuesta": "Depende de tu municipio. Pregunta en la oficina de desarrollo urbano antes de instalarlo." },
+    { "pregunta": "¿Tiene costo el diseño?", "respuesta": "No. Lo haces y lo bajas gratis las veces que quieras." }
+  ],
+  "relacionadas": ["lona-publicitaria", "banner", "horario-de-atencion", "letrero-abierto-cerrado", "crear-logo-gratis", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tu letrero atrae a quien pasa enfrente y tu página atrae a quien te busca desde su casa.",
+    "aviso": "Tu letrero ya tiene diseño. ¿Quieres una página con la misma cara?",
+    "titulo": "¿Hacemos tu fachada en internet?",
+    "trabajos": ["laola", "makatea", "comprafin"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://asest.es/story/ideas-para-letreros-de-negocios/", "titulo": "Ideas para letreros de negocios", "promete": "Ideas y materiales de un fabricante; sin herramienta ni medidas a escala" },
+    { "posicion": 2, "url": "https://www.canva.com/es_mx/crear/letreros/", "titulo": "Crea letreros (Canva)", "promete": "Plantillas con cuenta y consejo de agrandar la letra; no maneja metros ni escala" },
+    { "posicion": 3, "url": "https://www.cosmos.com.mx/producto/letreros-publicitarios-para-negocios-8vzm/", "titulo": "Letreros publicitarios para negocios (Cosmos)", "promete": "Directorio de proveedores; no ayuda a diseñar" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/letrero. Sin reglas de altura de letra con cifra (no hay fuente oficial): se da la prueba práctica."
+}

@@ -1,0 +1,169 @@
+{
+  "id": "logo-para-carniceria",
+  "slug": "logo-para-carniceria",
+  "molde": "herramienta",
+  "cabeza": "logotipo para carniceria",
+  "busquedas": [],
+  "title": "Logotipo para carnicería gratis con res, cuchillo o sello",
+  "h1": "Logotipo para tu carnicería",
+  "description": "Crea el logotipo de tu carnicería con cabeza de res, cuchillo o estrella dentro de un sello. Tonos vino, letra de bloque y SVG para tu letrero. Gratis.",
+  "resumen": "Sellos de carnicería con res o cuchillo en tonos vino",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu carnicería y una frase como «Carnes finas» o «Cortes americanos». El creador propone sellos y logos horizontales con cabeza de res, cuchillo o estrella. Bajas el SVG para el letrero y el PNG para tus etiquetas de empaque."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "carniceria"
+  },
+  "cuerpo": [
+    {
+      "h2": "Lo que debe sentir el cliente al ver tu logo"
+    },
+    {
+      "p": "En una carnicería el cliente compra frescura, limpieza y buen corte. El logo tiene que transmitir oficio y confianza, no sangre."
+    },
+    {
+      "p": "Por eso este modo usa símbolos de silueta sencilla y letras de bloque, de las que se ven en los rótulos de mercado. Evita imágenes realistas que pueden incomodar."
+    },
+    {
+      "h2": "Símbolos del modo carnicería"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Símbolo",
+          "Cuándo usarlo"
+        ],
+        "filas": [
+          [
+            "Cabeza de res",
+            "Carnicería de res o de cortes, la más reconocible"
+          ],
+          [
+            "Cuchillo",
+            "Cortes especiales, parrilla y tablajería de autor"
+          ],
+          [
+            "Estrella",
+            "Calidad premium, carnes seleccionadas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si vendes pollo o cerdo además de res, la estrella o un símbolo abstracto te deja crecer sin cambiar de logo."
+    },
+    {
+      "h2": "Colores para una carnicería"
+    },
+    {
+      "p": "El vino, el rojo profundo y el café rojizo son los tonos clásicos del giro. Recuerdan la carne sin verse agresivos."
+    },
+    {
+      "p": "El negro con dorado funciona para cortes finos y parrilla. Un fondo crema da aire de carnicería antigua de mercado."
+    },
+    {
+      "p": "Cuida que el rojo no se vea rosa al imprimir en etiquetas térmicas. Prueba la versión en negro para tus etiquetas de báscula."
+    },
+    {
+      "h2": "Cómo crear tu logotipo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe el nombre del local",
+          "texto": "«El Corral» o «Carnicería Hermanos Ruiz». Si es muy largo, usa la frase para el apellido."
+        },
+        {
+          "titulo": "Elige el sello",
+          "texto": "El sello circular se ve en tu fachada, tu mandil y tus bolsas."
+        },
+        {
+          "titulo": "Prueba el horizontal para el letrero",
+          "texto": "Una marquesina alargada pide el símbolo a la izquierda y el nombre a la derecha."
+        },
+        {
+          "titulo": "Baja el paquete",
+          "texto": "Incluye versión para fondo oscuro, perfil cuadrado y tres tamaños de PNG."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde vas a usar el logo"
+    },
+    {
+      "ul": [
+        "En el letrero sobre la cortina, visto desde la calle del mercado.",
+        "En las etiquetas de cada paquete de carne para llevar.",
+        "Bordado en el mandil blanco de quien atiende.",
+        "En el pizarrón de precios del día.",
+        "En la foto de perfil de tu WhatsApp de pedidos."
+      ]
+    },
+    {
+      "p": "Para el letrero de tu local usa el editor de [letreros para negocios](id:letreros-para-negocios). Si haces pedidos a domicilio, un [volante](id:volantes) con tu logo ayuda en la colonia."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Usar la foto de un corte crudo como logo.",
+        "Poner un animal caricaturizado sonriendo que confunde al cliente.",
+        "Escoger letras delgadas que no aguantan el vapor de la vitrina."
+      ]
+    },
+    {
+      "p": "Si vendes en tianguis además de tu local, usa el mismo sello en la lona del puesto. Tus clientes te reconocen en los dos lugares."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Hay símbolo de cerdo o pollo?",
+      "respuesta": "No por ahora. Usa la estrella o un símbolo abstracto si vendes varias carnes."
+    },
+    {
+      "pregunta": "¿Sirve para etiquetas de báscula?",
+      "respuesta": "Sí. Usa el logo en negro y en PNG para que la impresora térmica lo marque bien."
+    },
+    {
+      "pregunta": "¿Puedo poner el año de fundación?",
+      "respuesta": "Sí. Escríbelo en la frase y queda en la curva del sello."
+    },
+    {
+      "pregunta": "¿El logotipo es gratis?",
+      "respuesta": "Sí. Lo creas y lo bajas sin pagar ni crear cuenta."
+    },
+    {
+      "pregunta": "¿Lo puedo registrar como marca?",
+      "respuesta": "Sí. El registro se hace ante el IMPI con tu propio trámite."
+    }
+  ],
+  "relacionadas": [
+    "logo-para-restaurante",
+    "letreros-para-negocios",
+    "volantes",
+    "crear-logo-gratis",
+    "isotipo-imagotipo-logotipo",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu carnicería puede recibir pedidos del día por WhatsApp desde una página con tus cortes y precios.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página para recibir pedidos de cortes?",
+    "titulo": "¿Hacemos la página de tu carnicería?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/carniceria (res, cuchillo, estrella; paleta P_CARNE). Mejora de motor: símbolos de cerdo y pollo."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "banner",
+  "slug": "banner",
+  "molde": "herramienta",
+  "cabeza": "banner",
+  "busquedas": ["banner online", "banner editable", "banner publicitario", "banners de publicidad", "banner digital"],
+  "title": "Banner gratis para imprimir en metros o para tu web",
+  "h1": "Crea tu banner gratis",
+  "description": "Diseña un banner gratis de 2 × 1 m, 3 × 1 m, pendón o 1200 × 628 px para web. Cambia textos, sube tu logo y baja PDF a escala real sin marca de agua.",
+  "resumen": "Banner en metros para imprenta o en pixeles para web",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige la medida de tu banner, escoge un diseño y escribe tu texto encima. El editor trae medidas en metros para imprenta y una de 1200 × 628 px para web. Bajas el PDF a escala real o el PNG sin dejar tu correo."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "banner" },
+  "cuerpo": [
+    { "h2": "Cómo armar tu banner" },
+    { "pasos": [
+      { "titulo": "Decide dónde va a colgar", "texto": "Un banner de fachada pide otra medida que uno para tu página. Elige primero el uso y después el diseño." },
+      { "titulo": "Escoge entre cinco diseños", "texto": "Gran apertura y celebración sirven para fechas especiales. Teléfono grande y promoción sirven el resto del año." },
+      { "titulo": "Escribe poco y grande", "texto": "Un banner se lee caminando o manejando. Nombre, qué vendes y teléfono casi siempre bastan." },
+      { "titulo": "Mira la figura de referencia", "texto": "En medidas grandes aparece una persona de 1.70 m junto al banner. Así calculas si el texto se va a leer." }
+    ] },
+    { "h2": "Medidas de banner que trae el editor" },
+    { "tabla": {
+      "columnas": ["Medida", "Uso común", "Cómo se ve"],
+      "filas": [
+        ["2 × 1 m", "Fachada chica, reja, puesto de tianguis", "Horizontal, la más pedida"],
+        ["3 × 1 m", "Barda, frente de local, evento", "Horizontal y alargada"],
+        ["Pendón 0.80 × 2 m", "Entrada de local, expo, recepción", "Vertical, se cuelga de un tubo"],
+        ["1200 × 628 px", "Encabezado de página, anuncio en redes", "Digital, no se imprime"],
+        ["A tu medida", "Huecos de fachada que no son estándar", "Escribes ancho y alto en centímetros"]
+      ]
+    } },
+    { "p": "Mide el hueco real antes de pedir la impresión. Muchas fachadas tienen columnas, cortinas o ventanas que cambian el espacio útil." },
+    { "h2": "Banner para imprimir contra banner digital" },
+    { "p": "El banner impreso compite con el ruido de la calle. Necesita letras enormes, colores con mucho contraste y casi nada de texto." },
+    { "p": "El banner digital se ve en una pantalla a medio metro. Ahí sí cabe una frase de apoyo y un botón en tu página." },
+    { "p": "Con el mismo diseño puedes sacar las dos versiones. Cambia la medida y el editor reacomoda los textos en el nuevo espacio." },
+    { "h2": "Errores que arruinan un banner" },
+    { "ul": [
+      "Poner todos los servicios en lugar de los tres más buscados.",
+      "Usar letra delgada que desde la banqueta parece una raya.",
+      "Escribir el teléfono chico en una esquina.",
+      "Subir una foto tomada con poca luz que se ve borrosa al agrandar.",
+      "Elegir texto amarillo sobre fondo blanco."
+    ] },
+    { "p": "El PDF lleva las letras en vectores y se agranda sin perder filo. Las fotos sí dependen de la calidad del archivo que subas." },
+    { "h2": "Ideas de banner para tu negocio" },
+    { "ul": [
+      "Gran apertura con fecha y dirección para la primera semana.",
+      "Promoción de temporada con un precio grande al centro.",
+      "Teléfono grande para un taller, plomero o cerrajero.",
+      "Pendón de servicios en la entrada de una estética o consultorio."
+    ] },
+    { "p": "Si buscas una lona con medidas para exterior, abre la [lona publicitaria](id:lona-publicitaria). Para algo de pared en papel conviene el [cartel publicitario](id:cartel-publicitario)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Puedo hacer un banner de otra medida?", "respuesta": "Sí. Elige «A tu medida» y escribe el ancho y el alto. El diseño se ajusta al nuevo tamaño." },
+    { "pregunta": "¿En qué resolución sale el PNG de un banner grande?", "respuesta": "Depende de la medida. El editor sube la resolución hasta donde tu navegador lo aguanta y lo indica antes de bajar." },
+    { "pregunta": "¿Qué archivo le doy a la imprenta?", "respuesta": "El PDF. Está a escala real y las letras no se pixelean al imprimir en grande." },
+    { "pregunta": "¿El banner para web sirve en Facebook?", "respuesta": "Sí. La medida de 1200 × 628 px funciona en publicaciones con liga y en encabezados de página." },
+    { "pregunta": "¿Puedo agregar un código QR?", "respuesta": "Sí. Lleva a tu WhatsApp o a la liga que escribas. Ponlo a la altura de los ojos para que lo escaneen." },
+    { "pregunta": "¿Tiene costo o marca de agua?", "respuesta": "No. El banner es tuyo y lo bajas las veces que quieras." }
+  ],
+  "relacionadas": ["lona-publicitaria", "letreros-para-negocios", "cartel-publicitario", "flyer", "portada-de-facebook", "diseno-de-paginas-web"],
+  "venta": {
+    "puente": "Tu banner atrae a quien pasa por la calle y tu página atiende a quien te busca en el celular.",
+    "aviso": "Tu banner ya quedó. ¿Quieres una página que repita esa promoción en internet?",
+    "titulo": "¿Le damos a tu banner una página que lo respalde?",
+    "trabajos": ["laola", "signsolu", "comprafin"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.tiendanube.com/mx/blog/que-es-un-banner", "titulo": "Banner: qué es, tipos, ejemplos y cómo hacer un banner publicitario", "promete": "Explica tipos de banner digital; no trae editor en la página ni medidas en metros" },
+    { "posicion": 2, "url": "https://visme.co/blog/es/banner-publicitario/", "titulo": "Banner publicitario (Visme)", "promete": "Medidas de redes y plantillas con cuenta; nada de lona impresa" },
+    { "posicion": 3, "url": "https://www.canva.com/es_mx/crear/banners/", "titulo": "Crea banners (Canva)", "promete": "Plantillas gratis con registro; no ayuda a calcular lectura a distancia" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 leído con WebSearch el 12-nov-2026. Motor editor-diseno/banner (archivo lona, medida inicial 2 × 1 m)."
+}

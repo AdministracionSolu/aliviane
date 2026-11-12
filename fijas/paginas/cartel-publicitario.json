@@ -1,0 +1,213 @@
+{
+  "id": "cartel-publicitario",
+  "slug": "cartel-publicitario",
+  "molde": "herramienta",
+  "cabeza": "cártel publicitario",
+  "busquedas": [
+    "cartel publicitario",
+    "un cartel publicitario",
+    "carteles de publicitarios",
+    "diseño de carteles",
+    "diseño para cartel",
+    "diseñador de carteles",
+    "carteles de publicidad",
+    "carteles publicitarios creativos",
+    "carteles comerciales",
+    "cartel promocional",
+    "carteles de promociones",
+    "hacer letras para carteles",
+    "afiche publicitario ejemplo"
+  ],
+  "title": "Cartel publicitario gratis en carta, tabloide o 60 × 90 cm",
+  "h1": "Haz tu cartel publicitario",
+  "description": "Diseña un cartel publicitario en carta, tabloide o 60 × 90 cm. Cinco estilos con letra grande, precio y fecha. Baja el PDF gratis y sin marca de agua.",
+  "resumen": "Cartel de pared en carta, tabloide o 60 × 90 cm",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un cartel publicitario se pega en una pared y se lee de pie, a unos pasos. Arriba eliges uno de cinco estilos y escribes título, fecha y un dato grande. Lo bajas en PDF del tamaño real para tu impresora o para la imprenta."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "cartel"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer un cartel publicitario"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Define una sola idea",
+          "texto": "Un cartel que anuncia tres cosas no anuncia ninguna. Escoge la promoción o el evento que más te importa."
+        },
+        {
+          "titulo": "Elige el estilo que la cuente mejor",
+          "texto": "Letra grande grita una oferta. Elegante sirve para una cata o una boda. Inscripciones sirve para cursos y escuelas."
+        },
+        {
+          "titulo": "Llena título, fecha y dato grande",
+          "texto": "El dato grande puede ser un precio, un descuento o un día. Es lo segundo que se lee."
+        },
+        {
+          "titulo": "Cambia la medida según el muro",
+          "texto": "Carta para tableros de avisos, tabloide para vitrinas y 60 × 90 cm para paredes grandes."
+        }
+      ]
+    },
+    {
+      "h2": "Los cinco estilos del editor"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo",
+          "Qué destaca",
+          "Ejemplo de uso"
+        ],
+        "filas": [
+          [
+            "Letra grande",
+            "El título ocupa media hoja",
+            "Liquidación, gran venta, apertura"
+          ],
+          [
+            "Retícula",
+            "Información ordenada en bloques",
+            "Lista de precios o servicios"
+          ],
+          [
+            "Elegante",
+            "Mucho aire y letra con remate",
+            "Cena especial, exposición, boda"
+          ],
+          [
+            "Bloques",
+            "Franjas de color con datos",
+            "Promoción de temporada"
+          ],
+          [
+            "Inscripciones",
+            "Fecha, cupo y requisitos",
+            "Cursos, talleres, ligas deportivas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Medidas de cartel y para qué sirven"
+    },
+    {
+      "p": "La carta mide 21.59 × 27.94 cm y sale en cualquier impresora casera. Sirve para tableros de avisos y puertas."
+    },
+    {
+      "p": "El tabloide mide 27.94 × 43.18 cm, casi el doble de una carta. Se imprime en centros de copiado y luce en vitrinas."
+    },
+    {
+      "p": "El de 60 × 90 cm ya es un póster de pared. Para ese tamaño lleva el PDF a una imprenta de gran formato."
+    },
+    {
+      "h2": "Cómo se lee un cartel desde lejos"
+    },
+    {
+      "p": "La gente ve primero el bloque más grande y oscuro. Después busca un número y al final los detalles."
+    },
+    {
+      "ul": [
+        "Deja que el título ocupe al menos un tercio del cartel.",
+        "Usa un solo color fuerte para lo importante.",
+        "Pon los detalles en renglones cortos, nunca en párrafo.",
+        "Cuida que el fondo y la letra tengan mucho contraste.",
+        "Deja aire en las orillas para que el cartel respire."
+      ]
+    },
+    {
+      "p": "Si tu cartel es para tu calle y no para una pared, revisa la [lona publicitaria](id:lona-publicitaria). Para algo decorativo o un evento cultural mira el [póster para imprimir](id:poster)."
+    },
+    {
+      "h2": "Ejemplos de carteles para negocios"
+    },
+    {
+      "ul": [
+        "Una farmacia con su descuento del día en letra grande sobre la vitrina.",
+        "Una academia de inglés con fechas de inscripción y cupo limitado.",
+        "Una cafetería con su bebida de temporada y el precio al centro.",
+        "Un gimnasio con su promoción de inscripción y el horario de clases.",
+        "Una papelería con su lista de útiles y el aviso de entrega a domicilio."
+      ]
+    },
+    {
+      "p": "En todos el cartel repite una sola promesa. Lo demás se cuenta en tu mostrador o por WhatsApp."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es la diferencia entre cartel y póster?",
+      "respuesta": "Casi ninguna en la práctica. El cartel suele anunciar algo y el póster también decora."
+    },
+    {
+      "pregunta": "¿Puedo imprimir un 60 × 90 en casa?",
+      "respuesta": "No en una impresora normal. Lleva el PDF a una imprenta de gran formato."
+    },
+    {
+      "pregunta": "¿El cartel puede llevar QR?",
+      "respuesta": "Sí. Abre tu WhatsApp o la liga que pongas, como tu página o un formulario."
+    },
+    {
+      "pregunta": "¿Puedo usar mi foto de fondo?",
+      "respuesta": "Sí. Sube una foto y elige un diseño que la muestre. Usa fotos nítidas para tamaños grandes."
+    },
+    {
+      "pregunta": "¿Cuántas veces puedo cambiar el cartel?",
+      "respuesta": "Todas las que quieras. El editor recuerda tu último diseño en este navegador para que sólo cambies la fecha."
+    },
+    {
+      "pregunta": "¿Tiene marca de agua?",
+      "respuesta": "No. Lo bajas gratis y limpio."
+    }
+  ],
+  "relacionadas": [
+    "poster",
+    "flyer",
+    "banner",
+    "lona-publicitaria",
+    "flyer-informativo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu cartel llama la atención en la pared y tu página da los detalles a quien quiere saber más.",
+    "aviso": "Tu cartel ya está listo. ¿Quieres que su QR abra una página con tu marca?",
+    "titulo": "¿Le damos a tu cartel una página propia?",
+    "trabajos": [
+      "laola",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://quillbot.com/es/blog/diseno-grafico/cartel/",
+      "titulo": "Cartel | Qué es y cómo hacer un cartel",
+      "promete": "Teoría de objetivo, público y lugar; no trae editor ni medidas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://piktochart.com/es/blog/como-hacer-un-cartel/",
+      "titulo": "Cómo hacer un cartel llamativo en 6 pasos",
+      "promete": "Pasos y plantillas con cuenta; plan gratis limitado"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_mx/crear/posters/publicitarios/",
+      "titulo": "Pósters publicitarios (Canva)",
+      "promete": "Plantillas con registro; sin guía de lectura a distancia"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/cartel (archivo cartel)."
+}

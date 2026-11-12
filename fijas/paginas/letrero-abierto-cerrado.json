@@ -1,0 +1,195 @@
+{
+  "id": "letrero-abierto-cerrado",
+  "slug": "letrero-abierto-cerrado",
+  "molde": "herramienta",
+  "cabeza": "letrero de abierto",
+  "busquedas": [
+    "letrero abierto",
+    "cartel abierto cerrado",
+    "letrero abierto cerrado"
+  ],
+  "title": "Letrero de abierto y cerrado para imprimir gratis en PDF",
+  "h1": "Letrero de abierto y cerrado",
+  "description": "Imprime tu letrero de abierto y cerrado con las dos caras, tu nombre y tu horario. Cinco diseños en carta o media carta. Baja el PDF gratis y enmícalo.",
+  "resumen": "Letrero de dos caras con abierto, cerrado y tu horario",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El editor arma las dos caras del letrero con el mismo estilo, una dice abierto y la otra cerrado. Puedes cambiar esas palabras y agregar tu horario y tu teléfono. Bajas un PDF de dos páginas que imprimes, pegas espalda con espalda y enmicas."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "letrero-abierto-cerrado"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu letrero de abierto"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escoge un diseño",
+          "texto": "Palabra grande se lee desde la banqueta de enfrente. Para colgar trae el espacio del cordón arriba."
+        },
+        {
+          "titulo": "Cambia las palabras si quieres",
+          "texto": "Puedes escribir «Pásale» en lugar de abierto o «Volvemos pronto» en lugar de cerrado."
+        },
+        {
+          "titulo": "Agrega horario y teléfono",
+          "texto": "El horario sale en las dos caras. Así quien encuentra cerrado sabe cuándo volver."
+        },
+        {
+          "titulo": "Imprime, pega y enmica",
+          "texto": "Imprime cada cara en hoja aparte y pégalas espalda con espalda. Enmica y perfora para colgar."
+        }
+      ]
+    },
+    {
+      "h2": "Qué medida elegir"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Medida",
+          "Dónde queda mejor"
+        ],
+        "filas": [
+          [
+            "Carta horizontal",
+            "Puerta de vidrio de local, colgado de una ventosa"
+          ],
+          [
+            "Carta vertical",
+            "Puerta angosta o reja de herrería"
+          ],
+          [
+            "Media carta",
+            "Mostrador, recepción o ventanilla chica"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Ideas para la palabra de cada lado"
+    },
+    {
+      "p": "No todos los negocios dicen abierto y cerrado. Una palabra con tu estilo hace que el letrero se recuerde."
+    },
+    {
+      "ul": [
+        "Una fonda puede poner «Ya hay comida» y «Se acabó por hoy».",
+        "Una estética puede poner «Con citas» y «Agenda por WhatsApp».",
+        "Un taller puede poner «Pásele» y «Regreso en 15 minutos».",
+        "Una tienda de barrio puede usar «Abierto» y «Cerrado» de siempre."
+      ]
+    },
+    {
+      "p": "Cuida que el lado cerrado sea útil. Si pones tu WhatsApp ahí, una visita perdida se vuelve un pedido."
+    },
+    {
+      "h2": "Que dure colgado en la puerta"
+    },
+    {
+      "p": "El papel solo se rompe y se destiñe con el sol. Enmicado aguanta meses y se limpia con un trapo."
+    },
+    {
+      "p": "Si cuelga por dentro del vidrio, el reflejo de la calle lo tapa a ciertas horas. Los diseños con fondo oscuro y letra clara pelean mejor contra ese brillo."
+    },
+    {
+      "p": "Para una versión que sólo dé el horario completo, usa el [letrero de horario de atención](id:horario-de-atencion)."
+    },
+    {
+      "h2": "Los cinco diseños y cuándo usarlos"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Diseño",
+          "Cómo se ve",
+          "Le queda a"
+        ],
+        "filas": [
+          [
+            "Palabra grande",
+            "La palabra ocupa casi toda la hoja",
+            "Tiendas de barrio y papelerías"
+          ],
+          [
+            "Para colgar",
+            "Deja espacio arriba para el cordón",
+            "Puertas de vidrio con ventosa"
+          ],
+          [
+            "Punto de color",
+            "Un círculo verde o rojo junto a la palabra",
+            "Consultorios y oficinas"
+          ],
+          [
+            "Pizarrón",
+            "Fondo oscuro con letra clara",
+            "Cafeterías, bares y fondas"
+          ],
+          [
+            "Mitad y mitad",
+            "Color partido con tu nombre al centro",
+            "Estéticas y boutiques"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Todos usan un color para abierto y otro para cerrado. Así se distingue el lado aunque la palabra no se alcance a leer."
+    },
+    {
+      "p": "Puedes cambiar esos colores, pero conserva la diferencia entre los dos lados. El verde y el rojo se entienden sin explicación."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Se imprime por los dos lados?",
+      "respuesta": "Puedes, pero conviene imprimir cada cara aparte. Pegadas quedan mejor alineadas y más firmes."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Sube tu logo y aparece en las dos caras."
+    },
+    {
+      "pregunta": "¿Puedo escribir otra palabra en lugar de abierto?",
+      "respuesta": "Sí. Hay un campo para cada lado y escribes lo que quieras."
+    },
+    {
+      "pregunta": "¿Lleva código QR?",
+      "respuesta": "No. Este letrero no trae QR porque se mira de lejos. Pon tu teléfono escrito."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta?",
+      "respuesta": "Nada. Lo bajas en PDF y lo imprimes las veces que necesites."
+    }
+  ],
+  "relacionadas": [
+    "horario-de-atencion",
+    "letreros-para-negocios",
+    "letrero-se-vende",
+    "cartel-publicitario",
+    "tarjeta-de-lealtad",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu letrero avisa cuando estás abierto y tu página vende cuando ya cerraste.",
+    "aviso": "Tu letrero ya está listo. ¿Quieres una página que reciba pedidos fuera de horario?",
+    "titulo": "¿Abrimos tu negocio también en internet?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/letrero-abierto-cerrado (dos caras, sin QR)."
+}

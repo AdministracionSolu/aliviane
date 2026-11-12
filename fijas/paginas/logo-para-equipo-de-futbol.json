@@ -1,0 +1,182 @@
+{
+  "id": "logo-para-equipo-de-futbol",
+  "slug": "logo-para-equipo-de-futbol",
+  "molde": "herramienta",
+  "cabeza": "logos para equipos de futbol",
+  "busquedas": [],
+  "title": "Logos para equipos de futbol gratis con escudo y estrella",
+  "h1": "Escudo para tu equipo de fútbol",
+  "description": "Crea el escudo de tu equipo de fútbol con banda, nombre y balón o estrella. Usa los colores del uniforme y baja el SVG para estampar o bordar. Gratis.",
+  "resumen": "Escudos de equipo con banda, balón y los colores del uniforme",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu equipo y una frase como el año de fundación. El creador arma escudos con banda para el nombre, balón o estrella al centro y letras deportivas. Cambias a los colores del uniforme y bajas el SVG para estampar o bordar."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "futbol"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo está hecho el escudo"
+    },
+    {
+      "p": "El escudo tiene un contorno de color, un fondo claro y una banda horizontal con el nombre. Arriba de la banda va el símbolo y abajo la frase o una estrella."
+    },
+    {
+      "p": "Si el nombre es largo, la letra se achica sola para caber en la banda. Aun así, un nombre corto se lee mejor en la camiseta."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Parte",
+          "Qué pones",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Banda",
+            "Nombre del equipo",
+            "Deportivo Juárez"
+          ],
+          [
+            "Centro",
+            "Balón, estrella o escudo",
+            "Balón"
+          ],
+          [
+            "Abajo",
+            "Frase o año",
+            "F.C. 2026"
+          ],
+          [
+            "Colores",
+            "Los del uniforme",
+            "Rojo y negro"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Acomodos para un equipo"
+    },
+    {
+      "ul": [
+        "Escudo clásico, el que va en el pecho de la camiseta.",
+        "Sello circular, para balones, gorras y calcomanías.",
+        "Símbolo arriba con el nombre, para lonas y redes del equipo."
+      ]
+    },
+    {
+      "h2": "Elegir los colores del equipo"
+    },
+    {
+      "p": "Usa exactamente los dos colores del uniforme. El escudo debe verse bien sobre la camiseta de local y sobre la de visitante."
+    },
+    {
+      "p": "Si tu uniforme es blanco, revisa que el contorno del escudo sea oscuro. Si es negro, baja la versión para fondo oscuro."
+    },
+    {
+      "p": "Antes de elegir, revisa los escudos de tu liga. Dos equipos con los mismos colores y escudo parecido confunden a los árbitros y a la afición."
+    },
+    {
+      "h2": "Del escudo al uniforme"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Baja el SVG",
+          "texto": "Es el archivo que piden los talleres de sublimación, vinil y bordado."
+        },
+        {
+          "titulo": "Pide la medida del pecho",
+          "texto": "El escudo del pecho suele ir entre siete y nueve centímetros de alto."
+        },
+        {
+          "titulo": "Confirma la técnica",
+          "texto": "Para sublimar, el escudo puede tener todos sus colores. Para bordar, pide pocos detalles."
+        },
+        {
+          "titulo": "Usa el sello en lo demás",
+          "texto": "Gorras, mochilas y la lona del equipo se ven mejor con la versión circular."
+        }
+      ]
+    },
+    {
+      "h2": "Ideas para equipos"
+    },
+    {
+      "ul": [
+        "Equipo de la colonia que juega los domingos en la liga municipal.",
+        "Escuela de fútbol infantil que necesita escudo para inscripciones.",
+        "Torneo de empresa con un escudo por cada área.",
+        "Equipo de veteranos que quiere estrenar uniforme."
+      ]
+    },
+    {
+      "p": "Para anunciar tus partidos usa el [flyer de fútbol](id:flyer-de-futbol) con el mismo escudo. Si van a estampar playeras de afición, lee el [logo para camisetas](id:logo-para-camisetas)."
+    },
+    {
+      "h2": "Errores comunes en escudos de equipo"
+    },
+    {
+      "ul": [
+        "Meter el nombre completo del patrocinador dentro del escudo.",
+        "Usar cinco colores cuando el uniforme sólo tiene dos.",
+        "Copiar el escudo de un club profesional y cambiar las letras.",
+        "Elegir una letra delgada que se pierde en el bordado del pecho."
+      ]
+    },
+    {
+      "p": "Guarda el SVG en la nube del equipo. Cada temporada alguien pide el escudo para un uniforme nuevo."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo cambiar el balón por otro símbolo?",
+      "respuesta": "Sí. En los ajustes eliges otro de los símbolos del creador."
+    },
+    {
+      "pregunta": "¿Se puede usar para sublimar uniformes?",
+      "respuesta": "Sí. Entrega el SVG al taller y conserva todos los colores."
+    },
+    {
+      "pregunta": "¿Cabe un nombre largo?",
+      "respuesta": "Sí. La letra se ajusta a la banda, aunque se lee mejor un nombre corto."
+    },
+    {
+      "pregunta": "¿Puedo usar el escudo de un club profesional?",
+      "respuesta": "No. Esos escudos son marcas registradas. Crea uno propio para tu equipo."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin cuenta y sin marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "flyer-de-futbol",
+    "logo-para-camisetas",
+    "crear-logo-gratis",
+    "letras-para-logo",
+    "lona-publicitaria",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu equipo puede tener una página con calendario, resultados y registro de jugadores.",
+    "aviso": "Tu escudo ya está listo. ¿Quieres una página para tu equipo o tu liga?",
+    "titulo": "¿Hacemos la página de tu equipo?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/futbol (escudo con banda, balón/estrella/escudo, letras deportivas)."
+}

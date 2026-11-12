@@ -1,0 +1,178 @@
+{
+  "id": "tarjeta-de-lealtad",
+  "slug": "tarjeta-de-lealtad",
+  "molde": "herramienta",
+  "cabeza": "tarjeta de lealtad",
+  "busquedas": [],
+  "title": "Tarjeta de lealtad gratis con sellos, 10 por hoja carta",
+  "h1": "Tarjeta de lealtad con sellos",
+  "description": "Crea tu tarjeta de lealtad de 9 × 5 cm con 6, 8, 10 o 12 sellos y un regalo en la última casilla. Imprime 10 por hoja carta con frente y reverso. Gratis.",
+  "resumen": "Tarjeta de sellos de 9 × 5 cm con premio en la última casilla",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige cuántos sellos lleva tu tarjeta y qué gana el cliente al llenarla. El frente lleva tu marca y el reverso las casillas, con un regalo dibujado en la última. Imprimes 10 tarjetas por hoja carta con el reverso ya alineado."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "tarjeta-lealtad"
+  },
+  "cuerpo": [
+    {
+      "h2": "Por qué funciona una tarjeta de sellos"
+    },
+    {
+      "p": "Un cliente con la tarjeta a medio llenar prefiere volver contigo que empezar en otro lado. Es la promoción más barata que existe para un negocio de barrio."
+    },
+    {
+      "p": "Además te dice quiénes son tus clientes frecuentes. Al canjear el premio puedes pedirles su WhatsApp para avisarles de novedades."
+    },
+    {
+      "h2": "Cómo armar tu tarjeta de lealtad"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el diseño de tu giro",
+          "texto": "Hay versiones para cafetería, barbería, estética y taquería. Mínimo sirve para cualquier giro."
+        },
+        {
+          "titulo": "Decide cuántos sellos",
+          "texto": "Elige entre seis, ocho, diez o doce. La última casilla siempre trae el dibujo de un regalo."
+        },
+        {
+          "titulo": "Escribe el premio y la regla",
+          "texto": "«Un café gratis» y «Un sello por cada bebida». Que no quede duda."
+        },
+        {
+          "titulo": "Imprime la hoja carta",
+          "texto": "Primera página por un lado y segunda por el otro. Corta por las marcas."
+        }
+      ]
+    },
+    {
+      "h2": "Cuántos sellos poner según tu giro"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Sellos sugeridos",
+          "Premio que funciona"
+        ],
+        "filas": [
+          [
+            "Cafetería",
+            "8 a 10",
+            "Una bebida gratis"
+          ],
+          [
+            "Barbería",
+            "6 a 8",
+            "Un corte gratis o arreglo de barba"
+          ],
+          [
+            "Estética o uñas",
+            "6 a 8",
+            "Un tratamiento o decoración"
+          ],
+          [
+            "Taquería",
+            "10 a 12",
+            "Una orden gratis"
+          ],
+          [
+            "Lavandería",
+            "8 a 10",
+            "Una carga gratis"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Calcula que el premio cueste menos de lo que ganas con las visitas que pides. Si el cliente no llega al final en dos meses, baja el número de sellos."
+    },
+    {
+      "h2": "Reglas claras evitan discusiones"
+    },
+    {
+      "ul": [
+        "Un sello por visita o por compra mínima, no ambos.",
+        "Escribe si el premio tiene vigencia después de llenar la tarjeta.",
+        "Decide si aceptas tarjetas rotas o mojadas.",
+        "Usa un sello de goma propio que no se pueda copiar con pluma."
+      ]
+    },
+    {
+      "p": "Un sello de goma con tu logo hace la tarjeta difícil de falsificar. Puedes crear el logo con el [creador de logos](id:crear-logo-gratis)."
+    },
+    {
+      "h2": "Papel e impresión"
+    },
+    {
+      "p": "Imprime en cartulina gruesa para que aguante la cartera. Si vas a sellar con tinta, evita el papel brillante porque la tinta tarda en secar."
+    },
+    {
+      "p": "Haz primero una prueba en papel normal y ponla contra la luz. Revisa que las casillas caigan detrás del frente correcto."
+    },
+    {
+      "p": "Si prefieres un regalo de una sola vez, usa un [cupón de descuento](id:cupon-de-descuento). Para que te encuentren de nuevo, entrega también tu [tarjeta de presentación](id:tarjetas-de-presentacion)."
+    },
+    {
+      "h2": "Cómo presentar la tarjeta al cliente"
+    },
+    {
+      "p": "Entrégala con el primer sello ya puesto. Un cliente que siente que ya avanzó tiene más ganas de terminarla."
+    },
+    {
+      "p": "Dila en voz alta al cobrar con una frase corta. «Con diez sellos tu café es gratis» funciona mejor que dejarla sobre el mostrador."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuántas tarjetas salen por hoja?",
+      "respuesta": "Diez de 9 × 5 cm, con marcas de corte."
+    },
+    {
+      "pregunta": "¿Puedo poner 15 sellos?",
+      "respuesta": "No. Las opciones son seis, ocho, diez o doce sellos."
+    },
+    {
+      "pregunta": "¿La tarjeta lleva QR?",
+      "respuesta": "Puede llevarlo. Actívalo para que abra tu WhatsApp o tu página."
+    },
+    {
+      "pregunta": "¿Puedo hacer la tarjeta digital?",
+      "respuesta": "No en este editor. Está pensada para imprimirse y sellarse a mano."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. La diseñas y la bajas gratis."
+    }
+  ],
+  "relacionadas": [
+    "cupon-de-descuento",
+    "tarjetas-de-presentacion",
+    "logo-para-barberia",
+    "logo-para-unas",
+    "volantes",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus clientes frecuentes también buscan tu menú y tus horarios en internet antes de volver.",
+    "aviso": "Tus tarjetas ya están listas. ¿Quieres una página para tus clientes frecuentes?",
+    "titulo": "¿Hacemos la página que acompaña tu tarjeta?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-lealtad (6/8/10/12 sellos, regalo en la última, hoja de 10). La Ola tiene lealtad: trabajo relevante. Mejora: tarjeta de sellos digital."
+}

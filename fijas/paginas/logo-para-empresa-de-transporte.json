@@ -1,0 +1,173 @@
+{
+  "id": "logo-para-empresa-de-transporte",
+  "slug": "logo-para-empresa-de-transporte",
+  "molde": "herramienta",
+  "cabeza": "logo de empresa de transporte",
+  "busquedas": [],
+  "title": "Logo de empresa de transporte gratis para rotular camiones",
+  "h1": "Logo para tu empresa de transporte",
+  "description": "Crea el logo de tu empresa de transporte o fletes con camión, flecha o carretera y letras angostas. Baja el SVG para rotular puertas y cajas. Gratis.",
+  "resumen": "Logos de fletes y transporte con camión, flecha o carretera",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu empresa de transporte y una frase como la región que cubres. El creador propone logos con camión, flecha o carretera y letras angostas que se leen en movimiento. El SVG sirve para rotular puertas, cajas y lonas."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "transporte"
+  },
+  "cuerpo": [
+    {
+      "h2": "Un logo que se lee a 80 kilómetros por hora"
+    },
+    {
+      "p": "El logo de un transportista viaja en la puerta del camión. Quien lo ve tiene pocos segundos y va manejando."
+    },
+    {
+      "p": "Por eso este modo usa letras angostas y gruesas, como las de señalamientos y carreteras. Se leen rápido y ocupan menos ancho en la caja."
+    },
+    {
+      "h2": "Símbolos y lo que comunican"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Símbolo",
+          "Qué dice de tu empresa",
+          "Le queda a"
+        ],
+        "filas": [
+          [
+            "Camión",
+            "Carga y fletes, sin explicación",
+            "Mudanzas, fletes locales"
+          ],
+          [
+            "Flecha",
+            "Rapidez y dirección",
+            "Paquetería, entregas urgentes"
+          ],
+          [
+            "Carretera",
+            "Rutas largas y cobertura",
+            "Transporte foráneo, logística"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La frase de abajo puede decir tu cobertura. «Del Norte», «Todo el Bajío» o «Fletes y mudanzas» ayudan a que te llamen las personas correctas."
+    },
+    {
+      "h2": "Colores que se ven en carretera"
+    },
+    {
+      "p": "El azul rey, el naranja y el rojo se distinguen desde lejos sobre una caja blanca. El amarillo con negro llama mucho la atención en ciudad."
+    },
+    {
+      "p": "Elige un color fuerte para el símbolo y un azul muy oscuro o negro para el nombre. Así el logo resiste el polvo y la luz del sol."
+    },
+    {
+      "h2": "Dónde vas a rotular tu logo"
+    },
+    {
+      "ul": [
+        "En las dos puertas de la cabina, con el teléfono debajo.",
+        "En los costados de la caja seca, en tamaño grande.",
+        "En la parte trasera, junto al número económico.",
+        "En la gorra y la camisa del operador.",
+        "En tu página y en el WhatsApp de cotizaciones."
+      ]
+    },
+    {
+      "p": "Para rotular en vinil, el taller necesita el SVG. Pide la medida exacta de cada puerta antes de cortar, porque cambian entre modelos."
+    },
+    {
+      "h2": "Cómo crear tu logo de transporte"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe el nombre comercial",
+          "texto": "Usa el nombre corto que dicen tus clientes al recomendarte."
+        },
+        {
+          "titulo": "Pon la cobertura en la frase",
+          "texto": "Una región, una ciudad o el tipo de carga que mueves."
+        },
+        {
+          "titulo": "Elige el acomodo horizontal",
+          "texto": "Ese formato aprovecha el largo de la puerta y de la caja."
+        },
+        {
+          "titulo": "Baja también el sello",
+          "texto": "Te sirve para gorras, calcomanías y la foto de perfil."
+        }
+      ]
+    },
+    {
+      "p": "En flotillas, numera cada unidad cerca del logo. Así tus clientes y tu equipo identifican rápido qué camión hizo cada viaje."
+    },
+    {
+      "h2": "Errores al rotular un logo de transporte"
+    },
+    {
+      "ul": [
+        "Letras cursivas que nadie alcanza a leer en movimiento.",
+        "Un teléfono más chico que el nombre en la puerta.",
+        "Colores claros sobre una caja blanca."
+      ]
+    },
+    {
+      "p": "Para tus cotizaciones de fletes con el mismo logo usa el [formato de cotización](id:formato-de-cotizacion). Si también construyes, mira el [logo para constructora](id:logo-para-constructora)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El logo sirve para rotular el camión?",
+      "respuesta": "Sí. El SVG se corta en vinil a cualquier tamaño."
+    },
+    {
+      "pregunta": "¿Puedo poner el número de teléfono en el logo?",
+      "respuesta": "No conviene. Ponlo aparte en la puerta, así puedes cambiarlo sin rehacer el logo."
+    },
+    {
+      "pregunta": "¿Sirve para paquetería o mensajería?",
+      "respuesta": "Sí. Elige la flecha como símbolo y una frase de entregas."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin registro y sin marca de agua."
+    },
+    {
+      "pregunta": "¿Puedo cambiar los colores después?",
+      "respuesta": "Sí. Vuelve a esta página, ajústalos y descarga de nuevo."
+    }
+  ],
+  "relacionadas": [
+    "logo-para-constructora",
+    "formato-de-cotizacion",
+    "crear-logo-gratis",
+    "letreros-para-negocios",
+    "isotipo-imagotipo-logotipo",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Una empresa de fletes consigue más viajes cuando la encuentran en Google con su propia página.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página para recibir cotizaciones de fletes?",
+    "titulo": "¿Hacemos la página de tu empresa de transporte?",
+    "trabajos": [
+      "comprafin",
+      "makatea",
+      "solu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/transporte (camión, flecha, carretera; paleta P_TRANSPORTE)."
+}

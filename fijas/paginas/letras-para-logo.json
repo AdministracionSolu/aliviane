@@ -1,0 +1,199 @@
+{
+  "id": "letras-para-logo",
+  "slug": "letras-para-logo",
+  "molde": "herramienta",
+  "cabeza": "letra para logo",
+  "busquedas": [
+    "letra para logos"
+  ],
+  "title": "Letra para logo: prueba 20 estilos con tu nombre, gratis",
+  "h1": "Letras para logo",
+  "description": "Escribe tu nombre y míralo en 20 letras para logo, de romana a gótica y caligráfica. Haz un monograma con tus iniciales y baja el SVG con la letra convertida.",
+  "resumen": "Prueba tu nombre en 20 tipografías y arma un monograma",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tu nombre y el creador te lo muestra en varias letras con iniciales y marco. Puedes elegir entre 20 tipografías de nueve estilos, desde romanas hasta góticas. El SVG sale con la letra convertida en trazo, así que se ve igual en cualquier computadora."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "letras"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué dice cada estilo de letra"
+    },
+    {
+      "p": "La letra comunica antes que el significado de las palabras. El mismo nombre se siente distinto en una letra caligráfica que en una angosta."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo",
+          "Qué transmite",
+          "Giros que la usan"
+        ],
+        "filas": [
+          [
+            "Romana en mayúsculas",
+            "Tradición y seriedad",
+            "Despachos, notarías, joyerías"
+          ],
+          [
+            "Con remate",
+            "Cultura y oficio",
+            "Librerías, restaurantes, editoriales"
+          ],
+          [
+            "Didona delgada",
+            "Moda y elegancia",
+            "Boutiques, estudios de belleza"
+          ],
+          [
+            "Palo seco",
+            "Claridad y modernidad",
+            "Tecnología, clínicas, consultorías"
+          ],
+          [
+            "Angosta",
+            "Fuerza y urgencia",
+            "Gimnasios, transporte, eventos"
+          ],
+          [
+            "Egipcia",
+            "Solidez y oficio",
+            "Talleres, carnicerías, barberías"
+          ],
+          [
+            "Redonda",
+            "Cercanía y juego",
+            "Guarderías, dulcerías, mascotas"
+          ],
+          [
+            "Caligráfica",
+            "Delicadeza y celebración",
+            "Uñas, pastelerías, bodas"
+          ],
+          [
+            "Gótica",
+            "Herencia y rebeldía",
+            "Ropa urbana, tatuajes, cervecerías"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Monogramas con tus iniciales"
+    },
+    {
+      "p": "Este modo arranca con el acomodo de iniciales. Toma la primera letra de tus dos palabras principales y salta artículos como «de», «la» o «el»."
+    },
+    {
+      "p": "Las iniciales van dentro de un marco que puedes cambiar a círculo, cuadro o rombo. También puedes quitar el marco y dejar las letras solas."
+    },
+    {
+      "p": "Debajo va tu nombre completo en mayúsculas con espacio amplio. Es un formato clásico de despachos, fotógrafos y marcas personales."
+    },
+    {
+      "h2": "Cómo elegir la letra de tu logo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu nombre real",
+          "texto": "Algunas letras lucen con nombres cortos y otras con nombres largos. Prueba el tuyo, no un ejemplo."
+        },
+        {
+          "titulo": "Recorre las propuestas",
+          "texto": "Cada propuesta usa otra tipografía. Pide otra tanda para ver más combinaciones."
+        },
+        {
+          "titulo": "Cambia la letra en el selector",
+          "texto": "La lista dice el estilo de cada tipografía para que compares rápido."
+        },
+        {
+          "titulo": "Prueba mayúsculas y espacio",
+          "texto": "Una misma letra cambia mucho con todo en mayúsculas y las letras separadas."
+        }
+      ]
+    },
+    {
+      "h2": "Detalles que delatan una mala elección"
+    },
+    {
+      "ul": [
+        "La caligráfica en mayúsculas se vuelve ilegible.",
+        "La gótica en nombres largos cansa la vista.",
+        "La didona delgada desaparece al imprimirse muy chica.",
+        "La angosta con mucho espacio entre letras pierde su fuerza."
+      ]
+    },
+    {
+      "p": "Para un logo hecho sólo de letras con aire, mira el [logo minimalista](id:logo-minimalista). Si quieres darle volumen a tu letra, prueba el [logo 3D](id:logo-3d)."
+    },
+    {
+      "h2": "Dónde se nota más la letra de un logo"
+    },
+    {
+      "p": "En un letrero grande casi cualquier letra se ve bien. La prueba difícil está en los tamaños pequeños."
+    },
+    {
+      "ul": [
+        "En el sello de una receta o de un recibo, a dos centímetros.",
+        "En la foto de perfil de WhatsApp, recortada en círculo.",
+        "En la pestaña del navegador cuando alguien abre tu página.",
+        "En la etiqueta de una bolsa o de un frasco."
+      ]
+    },
+    {
+      "p": "Si tu nombre no se lee en esos lugares, usa el monograma ahí. Guarda el nombre completo para el letrero y la papelería grande."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo descargar las tipografías?",
+      "respuesta": "No. El creador entrega tu logo con las letras ya convertidas en trazos dentro del SVG."
+    },
+    {
+      "pregunta": "¿Respeta acentos y la ñ?",
+      "respuesta": "Sí. Escribe tu nombre como es y las letras salen correctas."
+    },
+    {
+      "pregunta": "¿Puedo usar tres iniciales?",
+      "respuesta": "No. El monograma toma hasta dos iniciales de tus palabras principales."
+    },
+    {
+      "pregunta": "¿Sirve para un sello de goma?",
+      "respuesta": "Sí. Usa el SVG a un solo color y pide el sello con esa medida."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. Pruebas todas las letras y bajas el logo gratis."
+    }
+  ],
+  "relacionadas": [
+    "logo-minimalista",
+    "logo-3d",
+    "crear-logo-gratis",
+    "tarjetas-de-presentacion-para-abogados",
+    "isotipo-imagotipo-logotipo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "La letra de tu logo también puede ser la de tu página, para que todo se vea de la misma marca.",
+    "aviso": "Tu monograma ya está listo. ¿Quieres una página que use la misma letra?",
+    "titulo": "¿Hacemos tu página con la letra de tu logo?",
+    "trabajos": [
+      "signsolu",
+      "comprafin",
+      "laola"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/letras (monograma con marco círculo/cuadro/rombo/sin marco; 20 tipografías en 9 estilos). Sin nombres de tipografías de terceros en el texto."
+}

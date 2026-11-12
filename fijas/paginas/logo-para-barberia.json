@@ -1,0 +1,178 @@
+{
+  "id": "logo-para-barberia",
+  "slug": "logo-para-barberia",
+  "molde": "herramienta",
+  "cabeza": "logos para barbería",
+  "busquedas": [
+    "logo para barbería"
+  ],
+  "title": "Logos para barbería gratis con navaja, poste o bigote",
+  "h1": "Logo para tu barbería",
+  "description": "Crea el logo de tu barbería con poste, navaja, bigote o tijeras dentro de un sello clásico. Elige vino, dorado o negro y baja SVG y PNG gratis.",
+  "resumen": "Sellos de barbería con poste, navaja, bigote o tijeras",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu barbería y el creador propone sellos circulares con poste, navaja, bigote o tijeras. Las letras son gruesas, góticas o de estilo antiguo. Bajas el SVG para el rótulo de la fachada y el PNG para tu perfil."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "barberia"
+  },
+  "cuerpo": [
+    {
+      "h2": "El estilo que espera un cliente de barbería"
+    },
+    {
+      "p": "La barbería mexicana mezcla tradición de barrio con estilo urbano. El cliente busca un lugar con carácter, no una estética genérica."
+    },
+    {
+      "p": "Por eso este modo arranca con el sello circular, con el nombre en curva y el símbolo al centro. Es el formato que se ve en las barberías clásicas."
+    },
+    {
+      "h2": "Qué símbolo elegir"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Símbolo",
+          "Qué transmite",
+          "Estilo de barbería"
+        ],
+        "filas": [
+          [
+            "Poste de barbero",
+            "El oficio de siempre, inconfundible",
+            "Clásica de barrio"
+          ],
+          [
+            "Navaja",
+            "Afeitado tradicional y precisión",
+            "Barbería de toalla caliente"
+          ],
+          [
+            "Bigote",
+            "Personalidad y humor",
+            "Barbería joven o de autor"
+          ],
+          [
+            "Tijeras",
+            "Corte y estilo",
+            "Barbería mixta o de diseño"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Colores de barbería"
+    },
+    {
+      "p": "El vino y el azul marino vienen del poste rojo, blanco y azul. Sobre negro o crema se ven elegantes y muy masculinos."
+    },
+    {
+      "p": "El dorado sobre negro funciona para barberías de precio alto. El verde botella con crema da un aire antiguo de cantina."
+    },
+    {
+      "p": "Evita usar los tres colores del poste a la vez en el logo. Se vuelve ruidoso y pierde fuerza en tamaños chicos."
+    },
+    {
+      "h2": "Cómo hacer el logo de tu barbería"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe el nombre de la casa",
+          "texto": "«Don Chuy» o «La Navaja» funcionan mejor que «Barbería y Estética Unisex»."
+        },
+        {
+          "titulo": "Usa la frase para el año o la ciudad",
+          "texto": "«Desde 2015» o «Hermosillo» en la curva de abajo le da historia al sello."
+        },
+        {
+          "titulo": "Compara sello contra horizontal",
+          "texto": "El sello luce en la puerta y en el espejo. El horizontal luce en la marquesina."
+        },
+        {
+          "titulo": "Baja la versión para fondo oscuro",
+          "texto": "Muchas barberías usan paredes negras y mandiles oscuros."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde usar tu logo"
+    },
+    {
+      "ul": [
+        "En el vinil de la puerta o del espejo, recortado en blanco.",
+        "Bordado en el pecho de capas y mandiles.",
+        "En la tarjeta de lealtad con un sello por cada corte.",
+        "En calcomanías para tus productos de cera y aceite.",
+        "En tu perfil de redes, donde publicas tus cortes."
+      ]
+    },
+    {
+      "p": "Para el bordado de capas, pide al taller el SVG en un solo color. Las letras góticas pierden detalle si el bordado es muy chico."
+    },
+    {
+      "p": "Premia a tus clientes con una [tarjeta de lealtad](id:tarjeta-de-lealtad) que ya trae diseño de barbería. Si aún no eliges nombre, mira [nombres para barbería](id:nombres-para-barberia)."
+    },
+    {
+      "h2": "Errores comunes en logos de barbería"
+    },
+    {
+      "ul": [
+        "Copiar el sello de una barbería famosa y cambiar sólo el nombre.",
+        "Poner tantos adornos que el nombre queda chico.",
+        "Usar letra gótica en un nombre de cuatro palabras.",
+        "Olvidar la versión en blanco para el vinil del vidrio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo poner el poste de barbero en el logo?",
+      "respuesta": "Sí. Es uno de los cuatro símbolos de este modo."
+    },
+    {
+      "pregunta": "¿El logo sirve para un vinil en la puerta?",
+      "respuesta": "Sí. Entrega el SVG al rotulista y pide un solo color."
+    },
+    {
+      "pregunta": "¿Puedo poner la fecha de apertura?",
+      "respuesta": "Sí. Escríbela en la frase y aparece en la curva de abajo del sello."
+    },
+    {
+      "pregunta": "¿Hay logo para estética unisex?",
+      "respuesta": "Sí. Cambia el giro a estética y salen tijeras, peine y flor."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Sin cuenta ni marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-barberia",
+    "tarjeta-de-lealtad",
+    "logo-para-unas",
+    "letras-para-logo",
+    "crear-logo-gratis",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu barbería llena la silla más rápido con una página para ver cortes y apartar turno por WhatsApp.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página para que aparten turno?",
+    "titulo": "¿Hacemos la página de tu barbería?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/barberia (poste, navaja, bigote, tijeras; paleta P_BARBERIA)."
+}

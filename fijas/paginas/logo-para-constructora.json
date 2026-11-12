@@ -1,0 +1,182 @@
+{
+  "id": "logo-para-constructora",
+  "slug": "logo-para-constructora",
+  "molde": "herramienta",
+  "cabeza": "logo de empresa constructora",
+  "busquedas": [
+    "logotipos de empresas constructoras"
+  ],
+  "title": "Logo de empresa constructora gratis para lona y casco",
+  "h1": "Logo para tu constructora",
+  "description": "Crea el logo de tu constructora con casa, edificios, casco, ladrillos o grúa y letras firmes. Baja el SVG para lonas, cascos y camionetas. Gratis y sin cuenta.",
+  "resumen": "Logos de obra con casa, edificios, casco, ladrillos o grúa",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu constructora y el creador propone logos con símbolos de obra. Los símbolos de obra van con letras angostas y firmes. El SVG sirve para la lona de la obra, el casco y la rotulación de tu camioneta."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "constructora"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué tiene que transmitir el logo de una constructora"
+    },
+    {
+      "p": "Quien contrata una obra está por gastar mucho dinero. El logo tiene que verse serio, estable y fácil de recordar."
+    },
+    {
+      "p": "Por eso este modo usa letras de trazo firme, angostas o de bloque, y acomodos horizontales. Nada de curvas juguetonas ni letra a mano."
+    },
+    {
+      "h2": "Qué símbolo elegir según tu tipo de obra"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Símbolo",
+          "Qué comunica",
+          "Le queda a"
+        ],
+        "filas": [
+          [
+            "Casa",
+            "Vivienda y familias",
+            "Remodelación, casas llave en mano"
+          ],
+          [
+            "Edificios",
+            "Escala y obra vertical",
+            "Desarrolladoras, departamentos"
+          ],
+          [
+            "Casco",
+            "Seguridad y mano de obra",
+            "Contratistas, mantenimiento"
+          ],
+          [
+            "Ladrillos",
+            "Albañilería y obra negra",
+            "Maestros de obra, bardas"
+          ],
+          [
+            "Grúa",
+            "Maquinaria y obra pesada",
+            "Obra industrial, renta de equipo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Colores que funcionan en la construcción"
+    },
+    {
+      "p": "El amarillo y el naranja son los colores de la obra y de la señalización. Se ven desde lejos sobre polvo, concreto y lona."
+    },
+    {
+      "p": "El azul y el gris pizarra se sienten de oficina y de despacho. Funcionan si vendes proyectos y no sólo mano de obra."
+    },
+    {
+      "p": "Combina un color fuerte para el símbolo con un gris oscuro para el nombre. Así el logo se lee también fotocopiado en blanco y negro."
+    },
+    {
+      "h2": "Dónde va a vivir tu logo"
+    },
+    {
+      "ul": [
+        "En la lona de la obra, que se ve desde la calle por meses.",
+        "En el casco y el chaleco de tu equipo, en tamaño de mano.",
+        "En la puerta de la camioneta, en vinil recortado.",
+        "En presupuestos y contratos, en la esquina de arriba.",
+        "En tu perfil de Facebook y en tu página de proyectos."
+      ]
+    },
+    {
+      "p": "El vinil recortado no admite degradados ni detalles finos. Los símbolos de este modo son formas llenas y se cortan sin problema."
+    },
+    {
+      "h2": "Cómo crear el logo de tu constructora"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe el nombre comercial",
+          "texto": "Usa el nombre que la gente dice, no la razón social completa con S.A. de C.V."
+        },
+        {
+          "titulo": "Agrega una frase de servicio",
+          "texto": "«Construcción y remodelación» o «Obra civil» ayuda a entender qué haces."
+        },
+        {
+          "titulo": "Elige horizontal para la lona",
+          "texto": "El acomodo horizontal llena bien una lona alargada y una puerta de camioneta."
+        },
+        {
+          "titulo": "Baja el paquete completo",
+          "texto": "Incluye la versión para fondo oscuro que necesitas en el chaleco."
+        }
+      ]
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Usar un dibujo de casa con muchas líneas que en el casco se vuelve mancha.",
+        "Poner las siglas solas sin el nombre, que nadie recuerda.",
+        "Elegir un amarillo claro que desaparece sobre fondo blanco."
+      ]
+    },
+    {
+      "p": "Con el logo listo, arma la [lona publicitaria](id:lona-publicitaria) de tu obra. Para tus presupuestos usa el [formato de cotización](id:formato-de-cotizacion) con tu logo."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El logo sirve para rotular la camioneta?",
+      "respuesta": "Sí. Entrega el SVG al rotulista para que corte el vinil."
+    },
+    {
+      "pregunta": "¿Puedo poner las siglas de la empresa?",
+      "respuesta": "Sí. Usa el acomodo de iniciales o escribe las siglas como nombre."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el símbolo por otro?",
+      "respuesta": "Sí. En los ajustes eliges entre los cinco de obra y los abstractos."
+    },
+    {
+      "pregunta": "¿Se ve bien en un casco?",
+      "respuesta": "Sí, en versión de símbolo arriba. Pide al proveedor una prueba de tamaño."
+    },
+    {
+      "pregunta": "¿Tiene costo?",
+      "respuesta": "No. Lo creas y lo bajas gratis."
+    }
+  ],
+  "relacionadas": [
+    "lona-publicitaria",
+    "formato-de-cotizacion",
+    "crear-logo-gratis",
+    "logo-para-empresa-de-transporte",
+    "letreros-para-negocios",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Una constructora gana confianza cuando enseña sus obras terminadas en una página propia.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página con fotos de tus obras?",
+    "titulo": "¿Hacemos la página de tu constructora?",
+    "trabajos": [
+      "comprafin",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/constructora (casa, edificios, casco, ladrillos, grúa; paleta P_OBRA)."
+}

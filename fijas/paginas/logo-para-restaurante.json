@@ -1,0 +1,173 @@
+{
+  "id": "logo-para-restaurante",
+  "slug": "logo-para-restaurante",
+  "molde": "herramienta",
+  "cabeza": "logo para restaurante",
+  "busquedas": [
+    "logos para restaurante",
+    "logotipo para restaurante",
+    "logos para restaurantes",
+    "logo para restaurantes",
+    "logos de empresas de comidas"
+  ],
+  "title": "Logo para restaurante gratis con cubiertos, olla o chile",
+  "h1": "Logo para tu restaurante",
+  "description": "Crea el logo de tu restaurante o fonda con cubiertos, olla, campana o chile y colores que abren el apetito. Baja SVG y PNG gratis para menú y fachada.",
+  "resumen": "Logos de restaurante y fonda con símbolos y colores de comida",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu restaurante y una frase como el tipo de cocina. El creador propone logos con cubiertos, olla de barro o chile en tonos de comida. Lo bajas en SVG para el letrero y en PNG para tu menú."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "restaurante"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué dice un logo de restaurante antes de probar la comida"
+    },
+    {
+      "p": "La gente juzga el precio y el tipo de cocina por el logo y la fachada. Un sello con letra antigua sugiere comida casera y una letra fina sugiere precio alto."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo de lugar",
+          "Símbolo que funciona",
+          "Letra que funciona"
+        ],
+        "filas": [
+          [
+            "Fonda o cocina económica",
+            "Olla de barro o cubiertos",
+            "Egipcia gruesa, cálida"
+          ],
+          [
+            "Cocina regional",
+            "Chile u olla",
+            "Con remate clásico"
+          ],
+          [
+            "Restaurante de mantel",
+            "Campana de servicio",
+            "Romana o con remate fino"
+          ],
+          [
+            "Comida para llevar",
+            "Cubiertos sencillos",
+            "A mano, informal"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La frase debajo del nombre es tu mejor aliada. «Cocina de Oaxaca» o «Mariscos desde 1998» dicen más que cualquier dibujo."
+    },
+    {
+      "h2": "Colores para un logo de comida"
+    },
+    {
+      "p": "Este modo arranca con terracota, rojo quemado y dorado. También propone verde hoja y ámbar. Son tonos que recuerdan barro, chile, maíz y hierbas."
+    },
+    {
+      "ul": [
+        "El terracota y el ámbar se sienten caseros y abren el apetito.",
+        "El verde hoja va bien con cocina saludable o vegetariana.",
+        "El dorado sobre fondo oscuro sugiere un lugar para celebrar.",
+        "Evita el azul eléctrico, porque casi ningún alimento es de ese color."
+      ]
+    },
+    {
+      "h2": "Dónde va a aparecer tu logo"
+    },
+    {
+      "p": "Un logo de restaurante trabaja más que el de casi cualquier otro giro. Aparece en lugares muy distintos, de tamaños muy distintos."
+    },
+    {
+      "ul": [
+        "En el letrero de fachada, visto desde la calle.",
+        "Arriba de la carta y en el menú QR de cada mesa.",
+        "En bolsas, servilletas y calcomanías de los pedidos para llevar.",
+        "En tu perfil de apps de entrega, recortado en círculo.",
+        "En el mandil y la gorra de tu equipo."
+      ]
+    },
+    {
+      "p": "Por eso conviene el acomodo de sello o de símbolo arriba. Los dos caben bien en un círculo y en una calcomanía cuadrada."
+    },
+    {
+      "h2": "Cómo hacer el logo de tu restaurante"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Nombre y tipo de cocina",
+          "texto": "Escribe el nombre en el primer campo y la cocina en la frase."
+        },
+        {
+          "titulo": "Compara sello contra horizontal",
+          "texto": "El sello luce en empaques y el horizontal en el letrero."
+        },
+        {
+          "titulo": "Prueba sobre fondo oscuro",
+          "texto": "Muchas cartas y pizarrones son negros. Revisa que tu logo se vea bien ahí."
+        },
+        {
+          "titulo": "Baja el ZIP completo",
+          "texto": "Trae los archivos para imprenta, redes y foto de perfil."
+        }
+      ]
+    },
+    {
+      "p": "Con el logo listo puedes armar tu [menú de restaurante](id:menu-de-restaurante) con la misma imagen. Si todavía no tienes nombre, empieza por [nombres para restaurantes](id:nombres-para-restaurantes)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo usar el logo en la carta y en la fachada?",
+      "respuesta": "Sí. El SVG sirve para las dos cosas sin perder calidad."
+    },
+    {
+      "pregunta": "¿Hay símbolo de taco?",
+      "respuesta": "Sí. Cambia el giro a taquería y aparecen el taco y otros símbolos de ese giro."
+    },
+    {
+      "pregunta": "¿Puedo hacer un logo para cafetería o panadería?",
+      "respuesta": "Sí. Elige ese giro en la lista y cambian los símbolos."
+    },
+    {
+      "pregunta": "¿El logo lleva marca de agua?",
+      "respuesta": "No. Sólo una línea pequeña de Aliviane si dejas marcada la casilla."
+    },
+    {
+      "pregunta": "¿Necesito cuenta?",
+      "respuesta": "No. Lo creas y lo bajas sin registrarte."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-restaurante",
+    "nombres-para-restaurantes",
+    "logo-para-carniceria",
+    "crear-logo-gratis",
+    "menu-qr",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu restaurante ya tiene logo y le falta una página con menú, horario y pedidos por WhatsApp.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página con tu menú y tu WhatsApp?",
+    "titulo": "¿Hacemos la página de tu restaurante?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/restaurante (cubiertos, olla, cloche, chile; paleta P_COMIDA)."
+}

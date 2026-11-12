@@ -1,0 +1,81 @@
+{
+  "id": "horario-de-atencion",
+  "slug": "horario-de-atencion",
+  "molde": "herramienta",
+  "cabeza": "horario de atención",
+  "busquedas": [],
+  "title": "Horario de atención para imprimir o subir a redes, gratis",
+  "h1": "Haz el letrero de tu horario de atención",
+  "description": "Escribe tus días y horas y obtén un letrero de horario de atención para la puerta o para redes. Cinco diseños en PDF o PNG, gratis y sin cuenta.",
+  "resumen": "Letrero de horario para la puerta, el mostrador o redes",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe un renglón por día con el día y la hora separados por una barra. El editor arma la tabla y alinea las horas por ti. Lo bajas en carta o media carta para la puerta, o como imagen vertical para tus redes."
+  ],
+  "herramienta": { "id": "editor-diseno", "modo": "horario" },
+  "cuerpo": [
+    { "h2": "Cómo escribir tu horario en el editor" },
+    { "pasos": [
+      { "titulo": "Un renglón por día o grupo de días", "texto": "Por ejemplo «Lunes a viernes | 9:00 a 18:00». El editor separa el día de la hora con la barra." },
+      { "titulo": "Escribe también los días cerrados", "texto": "«Domingo | Cerrado» evita que alguien haga el viaje en vano." },
+      { "titulo": "Usa la nota para lo especial", "texto": "Ahí cabe la hora de comida, los días festivos o una frase como «Cerramos por inventario»." },
+      { "titulo": "Elige el diseño y la medida", "texto": "Pizarrón y con reloj tienen más personalidad. Carta va en la puerta y media carta en el mostrador." }
+    ] },
+    { "h2": "Formas claras de escribir un horario" },
+    { "p": "Un horario confuso genera mensajes de «¿ya abrieron?». Estas formas se leen sin dudas." },
+    { "tabla": {
+      "columnas": ["En lugar de", "Escribe"],
+      "filas": [
+        ["L-V 9-6", "Lunes a viernes de 9:00 a 18:00"],
+        ["Sáb medio día", "Sábado de 9:00 a 14:00"],
+        ["Abierto 24/7", "Abierto todos los días, las 24 horas"],
+        ["Cerramos a comer", "Comida de 14:00 a 15:00"],
+        ["Dom ???", "Domingo cerrado"]
+      ]
+    } },
+    { "p": "El formato de 24 horas evita confundir la mañana con la tarde. Si tus clientes prefieren «a. m.» y «p. m.», úsalo igual en todos los renglones." },
+    { "h2": "Dónde poner tu horario" },
+    { "ul": [
+      "En la puerta o cortina, a la altura de los ojos.",
+      "En el mostrador, junto a la caja, para quien pregunta por días especiales.",
+      "En tu estado de WhatsApp cada vez que cambie.",
+      "En tu perfil de Google, porque ahí lo buscan primero.",
+      "En tu página web, en la parte de arriba."
+    ] },
+    { "p": "Mantén el mismo horario en todos lados. Si Google dice una hora y tu puerta otra, el cliente confía menos en los dos." },
+    { "p": "Para cambiarlo en Google sigue la guía de [Google Mi Negocio](id:google-mi-negocio). Toma unos minutos y evita reseñas molestas." },
+    { "h2": "Horario y letrero de abierto juntos" },
+    { "p": "Muchos negocios cuelgan el horario abajo del letrero de abierto y cerrado. Así quien llega en hora cerrada sabe cuándo volver." },
+    { "p": "El [letrero de abierto y cerrado](id:letrero-abierto-cerrado) también lleva un espacio para el horario en sus dos caras." },
+    { "h2": "Para que dure en la puerta" },
+    { "p": "El sol decolora el papel en pocas semanas. Enmica la hoja o mételo en una funda de plástico antes de pegarlo." },
+    { "p": "Si lo pegas por dentro del vidrio, revisa que se lea con el reflejo de la calle. Los diseños con fondo oscuro suelen leerse mejor ahí." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Puedo poner el horario de comida?", "respuesta": "Sí. Escríbelo en la nota o como un renglón aparte." },
+    { "pregunta": "¿Cuántos renglones caben?", "respuesta": "Los siete días caben bien. Si agrupas días, el texto se ve más grande." },
+    { "pregunta": "¿Puedo poner mi logo?", "respuesta": "Sí. Sube tu logo en PNG o JPG y acomódalo en la vista." },
+    { "pregunta": "¿Sirve para Instagram y Facebook?", "respuesta": "Sí. Elige la medida «Para redes» y baja el PNG de 1080 × 1350 px." },
+    { "pregunta": "¿Lleva QR?", "respuesta": "Sí, si lo activas. Puede abrir tu WhatsApp para que pregunten fuera de horario." },
+    { "pregunta": "¿Tiene algún costo?", "respuesta": "No. Lo diseñas y lo bajas gratis." }
+  ],
+  "relacionadas": ["letrero-abierto-cerrado", "letreros-para-negocios", "google-mi-negocio", "flyer-informativo", "plantillas-para-instagram", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tu horario en la puerta ayuda a quien pasa y tu página ayuda a quien te busca a medianoche.",
+    "aviso": "Tu horario ya está listo. ¿Quieres una página que lo muestre siempre al día?",
+    "titulo": "¿Ponemos tu horario en tu propia página?",
+    "trabajos": ["laola", "makatea", "signsolu"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://yo-facturo.com/herramientas/generador-carteles-para-el-local/", "titulo": "Generador de carteles para el local", "promete": "Carteles en A4 y A5 sin registro; no maneja carta ni media carta ni versión para redes" },
+    { "posicion": 2, "url": "https://www.coopeduc.com/wp-content/uploads/2021/01/Letrero-nuevos-horarios-enero-2021.pdf", "titulo": "Letrero de nuevos horarios (PDF de una cooperativa)", "promete": "Ejemplo real de aviso; no se puede editar" },
+    { "posicion": 3, "url": "https://www.numeroservicioalcliente.com/?p=172089", "titulo": "El horario de atención es el siguiente", "promete": "Tabla de horario de una empresa; no sirve para hacer el propio" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026 (resultados flojos: oportunidad). Motor editor-diseno/horario."
+}

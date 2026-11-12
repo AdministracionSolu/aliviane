@@ -1,0 +1,166 @@
+{
+  "id": "flyer-informativo",
+  "slug": "flyer-informativo",
+  "molde": "herramienta",
+  "cabeza": "flyer informativo",
+  "busquedas": [],
+  "title": "Flyer informativo gratis para avisos, campañas y servicios",
+  "h1": "Flyer informativo",
+  "description": "Haz un flyer informativo para avisar un cambio, explicar un servicio o invitar a una campaña. Lista numerada, contacto y PDF carta o media carta gratis.",
+  "resumen": "Flyer de aviso o explicación con lista ordenada de puntos",
+  "categoria": "Diseño para imprimir",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un flyer informativo explica algo en lugar de vender. Sirve para avisar un cambio de domicilio, contar los pasos de un trámite o invitar a una campaña. En el editor elige el diseño «Informativo» de la galería, que ordena tus puntos con números."
+  ],
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "flyer"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cuándo conviene un flyer informativo"
+    },
+    {
+      "p": "Cuando quieres que la gente entienda algo y no sólo que lo note. Un aviso bien ordenado evita que te hagan la misma pregunta cien veces."
+    },
+    {
+      "ul": [
+        "Cambio de domicilio, de horario o de número de teléfono.",
+        "Pasos para inscribirse a un curso o a una escuela.",
+        "Requisitos para un trámite en tu despacho o consultorio.",
+        "Campaña de salud, vacunación o limpieza en la colonia.",
+        "Reglas de uso de un salón, una alberca o un condominio."
+      ]
+    },
+    {
+      "h2": "Cómo hacer tu flyer informativo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre el diseño Informativo",
+          "texto": "En la galería de diseños del editor, el tercero se llama así. Numera tus puntos solo."
+        },
+        {
+          "titulo": "Escribe el título como pregunta o aviso",
+          "texto": "«¿Cómo inscribirte?» o «Nos cambiamos de local» se entienden al instante."
+        },
+        {
+          "titulo": "Un renglón por punto",
+          "texto": "En el campo de detalles escribe cada paso en un renglón. Más de seis puntos ya no caben bien."
+        },
+        {
+          "titulo": "Cierra con a quién preguntar",
+          "texto": "Pon un WhatsApp o un horario de atención para dudas."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo escribir para que se entienda"
+    },
+    {
+      "p": "Un flyer informativo falla cuando parece un reglamento. La persona lo lee de pie y con prisa."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "En lugar de",
+          "Escribe"
+        ],
+        "filas": [
+          [
+            "Se les informa a los usuarios que…",
+            "Desde el lunes 3 abrimos a las 9:00"
+          ],
+          [
+            "Es requisito indispensable presentar…",
+            "Trae tu INE y un comprobante de domicilio"
+          ],
+          [
+            "Para mayores informes comunicarse…",
+            "Dudas al WhatsApp 33 1234 5678"
+          ],
+          [
+            "Queda prohibido el ingreso de…",
+            "No se permiten mascotas en la alberca"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Escribe con verbos y números. «Trae», «llega», «paga» y una fecha concreta se recuerdan mejor que frases largas."
+    },
+    {
+      "h2": "Medidas y dónde ponerlo"
+    },
+    {
+      "p": "Carta funciona para tableros de avisos, elevadores y puertas de entrada. Media carta funciona para repartir en mano o dejar en el mostrador."
+    },
+    {
+      "p": "La medida «Para redes» sale vertical y sirve para mandarlo a un grupo de WhatsApp. Ahí también se lee bien desde el celular."
+    },
+    {
+      "h2": "Agrega un QR con la información completa"
+    },
+    {
+      "p": "Si el aviso tiene más detalles de los que caben, pon un QR. Puede llevar a tu página, a un documento o a tu WhatsApp."
+    },
+    {
+      "p": "Así el flyer queda limpio y quien quiera saber más lo consulta en su celular."
+    },
+    {
+      "p": "Para promociones con precio usa el [flyer](id:flyer) normal. Si necesitas explicar varios servicios, el [folleto tríptico](id:folleto) tiene seis caras."
+    },
+    {
+      "p": "Pon la fecha del aviso en una esquina. Así nadie confunde un aviso viejo con uno nuevo en el tablero."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál diseño es el informativo?",
+      "respuesta": "El que se llama «Informativo» en la galería. Ordena los detalles con números."
+    },
+    {
+      "pregunta": "¿Cuántos puntos caben?",
+      "respuesta": "Hasta seis se leen cómodos. Si tienes más, usa un QR con la lista completa."
+    },
+    {
+      "pregunta": "¿Puedo usarlo para un condominio?",
+      "respuesta": "Sí. Funciona para avisos de mantenimiento, cuotas y reglas de áreas comunes."
+    },
+    {
+      "pregunta": "¿Puedo poner el logo de mi escuela o despacho?",
+      "respuesta": "Sí. Súbelo en PNG o JPG y acomódalo arriba."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. Lo bajas en PDF o PNG sin costo ni marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "flyer",
+    "folleto",
+    "horario-de-atencion",
+    "cartel-publicitario",
+    "volantes",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Lo que explicas en un flyer puede quedar en una página que tus clientes consultan cuando quieran.",
+    "aviso": "Tu aviso ya está listo. ¿Quieres una página donde quede la información completa?",
+    "titulo": "¿Hacemos la página con toda tu información?",
+    "trabajos": [
+      "solu",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer; el diseño «Informativo» se elige en la galería (el motor no acepta diseño inicial: mejora anotada)."
+}

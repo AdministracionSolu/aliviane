@@ -1,0 +1,176 @@
+{
+  "id": "logo-minimalista",
+  "slug": "logo-minimalista",
+  "molde": "herramienta",
+  "cabeza": "logo minimalista",
+  "busquedas": [
+    "logotipo minimalista"
+  ],
+  "title": "Logo minimalista gratis con letra fina y un solo color",
+  "h1": "Crea un logo minimalista",
+  "description": "Crea un logo minimalista con letra delgada, mucho espacio entre letras y un solo color. Elige entre propuestas sobrias y baja SVG y PNG sin fondo, gratis.",
+  "resumen": "Logos sobrios de un color con letra delgada y símbolo pequeño",
+  "categoria": "Logos",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Este modo del creador sólo propone logos sobrios. Usa letras delgadas, espacio amplio entre letras, símbolos pequeños y colores de una sola tinta. Escribes tu nombre, eliges la propuesta y la bajas en SVG o PNG sin fondo."
+  ],
+  "herramienta": {
+    "id": "logo",
+    "modo": "minimalista"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué hace minimalista a un logo"
+    },
+    {
+      "p": "Minimalista no significa vacío. Significa que cada pieza tiene un motivo y que nada sobra cuando el logo se ve chico."
+    },
+    {
+      "p": "En este modo el símbolo sale al setenta por ciento de su tamaño normal. El nombre gana protagonismo y el dibujo acompaña."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Rasgo",
+          "Cómo lo aplica el creador"
+        ],
+        "filas": [
+          [
+            "Pocos elementos",
+            "Un símbolo abstracto pequeño o ninguno"
+          ],
+          [
+            "Letra ligera",
+            "Tipografías delgadas, geométricas o con remate fino"
+          ],
+          [
+            "Aire entre letras",
+            "Espaciado abierto desde la primera propuesta"
+          ],
+          [
+            "Un color",
+            "Negro, gris o tonos apagados como olivo y vino"
+          ],
+          [
+            "Acomodos limpios",
+            "Horizontal, sólo nombre, vertical o iniciales"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Para qué negocios funciona"
+    },
+    {
+      "p": "Lo minimalista transmite calma y precio alto. Funciona cuando tu cliente compra confianza y no ofertas."
+    },
+    {
+      "ul": [
+        "Estudios de arquitectura, diseño de interiores y fotografía.",
+        "Consultorios de psicología, nutrición o fisioterapia.",
+        "Marcas de ropa básica, joyería fina y velas artesanales.",
+        "Cafeterías de especialidad con barra a la vista."
+      ]
+    },
+    {
+      "p": "No le va tan bien a una taquería de barrio o a una ferretería. Ahí el cliente busca algo cálido y fácil de reconocer de lejos."
+    },
+    {
+      "h2": "Cómo lograr un buen logo minimalista"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Usa un nombre corto",
+          "texto": "Con letra delgada, un nombre de dos palabras se lee mejor que uno de cuatro."
+        },
+        {
+          "titulo": "Prueba sin símbolo",
+          "texto": "El acomodo «Sólo nombre» suele ser el más elegante si tu nombre tiene buena forma."
+        },
+        {
+          "titulo": "Revisa el tamaño pequeño",
+          "texto": "Las letras delgadas desaparecen en una foto de perfil. Si pasa, usa la versión de iniciales."
+        },
+        {
+          "titulo": "Quédate con un color",
+          "texto": "El segundo color casi siempre rompe la sobriedad. Usa el mismo para símbolo y nombre."
+        }
+      ]
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Elegir una letra tan fina que en impresión se rompe.",
+        "Usar gris claro sobre blanco y perder contraste.",
+        "Copiar el estilo de una marca famosa hasta parecer imitación.",
+        "Quitar tanto que ya no se entiende qué vendes."
+      ]
+    },
+    {
+      "p": "Antes de imprimir, baja también la versión para fondo oscuro. Un logo fino en blanco sobre negro necesita un poco más de grosor."
+    },
+    {
+      "p": "Si te atrae una marca hecha sólo con letras, mira las [letras para logo](id:letras-para-logo). Para combinar colores sobrios usa la [paleta de colores elegante](id:paleta-de-colores-elegante)."
+    },
+    {
+      "h2": "Cómo se ve en papelería y empaque"
+    },
+    {
+      "p": "Un logo minimalista luce mejor en papel con textura, como kraft o algodón. La sobriedad del diseño deja que el material hable."
+    },
+    {
+      "p": "En sellos de tinta, calcomanías transparentes y bolsas lisas también funciona bien. Usa siempre el mismo color para que la marca se reconozca."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo agregar un segundo color?",
+      "respuesta": "Sí. Cambia por separado el color del símbolo y el del nombre en los ajustes."
+    },
+    {
+      "pregunta": "¿Qué símbolos usa este modo?",
+      "respuesta": "Formas abstractas como círculos partidos, arcos, rombos y destellos. No usa dibujos de giro."
+    },
+    {
+      "pregunta": "¿El logo minimalista sirve para bordar?",
+      "respuesta": "Con cuidado. Las letras muy delgadas se pierden en hilo. Pide al taller una versión más gruesa."
+    },
+    {
+      "pregunta": "¿En qué formato lo bajo?",
+      "respuesta": "En SVG y en PNG. El SVG va a imprenta y el PNG sin fondo a redes y documentos."
+    },
+    {
+      "pregunta": "¿Es gratis?",
+      "respuesta": "Sí. No pide cuenta ni deja marca de agua."
+    }
+  ],
+  "relacionadas": [
+    "letras-para-logo",
+    "crear-logo-gratis",
+    "logo-para-marca-de-ropa",
+    "paleta-de-colores-elegante",
+    "isotipo-imagotipo-logotipo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Un logo sobrio pide una página igual de limpia, sin anuncios ni plantillas recargadas.",
+    "aviso": "Tu logo ya está listo. ¿Quieres una página igual de limpia con tu dominio?",
+    "titulo": "¿Hacemos una página a la altura de tu logo?",
+    "trabajos": [
+      "signsolu",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/minimalista (paletas MONO, escala 0.7, espaciado 140, giro otro)."
+}
