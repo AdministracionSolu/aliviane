@@ -7,7 +7,8 @@
     "anuncios google",
     "publicidad en google"
   ],
-  "title": "Google anuncios: cómo funcionan y cómo controlar tu gasto",
+  "cabeza_titulo": ["anuncios en google"],
+  "title": "Anuncios en Google: cómo funcionan y cómo cuidar tu gasto",
   "h1": "Publicidad en Google: cómo funcionan los anuncios para un negocio",
   "description": "En Google Ads pagas cuando alguien da clic en tu anuncio y tú fijas el presupuesto. Te explicamos los tipos, el gasto diario y los pasos para empezar bien.",
   "resumen": "Cómo funcionan los anuncios de Google, cómo se cobra y cómo armar la primera campaña",
@@ -480,5 +481,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "G3, 12-nov. Sin costo por clic en pesos (no hay fuente oficial; depende de subasta). Regla de 2x diario y 30.4x mensual leída en la ayuda de Google Ads el 12-nov-2026. Nunca prometer ventas."
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. G3, 12-nov. Sin costo por clic en pesos (no hay fuente oficial; depende de subasta). Regla de 2x diario y 30.4x mensual leída en la ayuda de Google Ads el 12-nov-2026. Nunca prometer ventas."
 }

@@ -186,7 +186,7 @@
       "h2": "El perfil de empresa"
     },
     {
-      "p": "El perfil es lo que ve un cliente al tocar tu nombre. La ayuda oficial menciona dirección, correo y sitio web."
+      "p": "El perfil es lo que ve un cliente al tocar tu nombre. Ahí caben dirección, horario, correo y sitio web."
     },
     {
       "tabla": {
@@ -228,7 +228,7 @@
       }
     },
     {
-      "p": "Este ejemplo es inventado. Cambia cada dato por los tuyos y revisa que coincidan con tu ficha de Google."
+      "p": "Los datos son de ejemplo. Cambia cada dato por los tuyos y revisa que coincidan con tu ficha de Google."
     },
     {
       "h2": "El catálogo"
@@ -255,7 +255,7 @@
       "h3": "Listas y etiquetas"
     },
     {
-      "p": "La ayuda oficial menciona listas para organizar contactos y encontrar chats. Úsalas para separar etapas de venta."
+      "p": "Las listas sirven para organizar contactos y encontrar chats rápido. Úsalas para separar etapas de venta."
     },
     {
       "tabla": {
@@ -339,7 +339,7 @@
       "h2": "Ejemplo de una tlapalería que se ordenó"
     },
     {
-      "p": "Este es un ejemplo inventado. Don Beto atendía pedidos desde su WhatsApp personal y se le perdían."
+      "p": "Sigamos con la tlapalería de ejemplo. Don Beto atendía pedidos desde su WhatsApp personal y se le perdían."
     },
     {
       "p": "Sacó un chip para el negocio y bajó WhatsApp Business. Llenó su perfil y subió sus veinte productos más pedidos."
@@ -435,7 +435,7 @@
   "faqs": [
     {
       "pregunta": "¿WhatsApp Business es gratis?",
-      "respuesta": "Sí. La app es de descarga gratuita según la ayuda oficial de WhatsApp."
+      "respuesta": "Sí. Bajar y usar la app no cuesta y sólo gastas tus datos o tu wifi."
     },
     {
       "pregunta": "¿Puedo tener WhatsApp normal y Business en el mismo celular?",

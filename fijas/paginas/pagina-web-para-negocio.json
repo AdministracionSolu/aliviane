@@ -216,8 +216,8 @@
             "Tú, con tu dominio"
           ],
           [
-            "Aparece al buscarte en Google",
-            "A veces",
+            "Página propia dada de alta en Google",
+            "No",
             "Sí, ligada a tu ficha de Maps"
           ],
           [
@@ -329,7 +329,7 @@
       }
     },
     {
-      "p": "Con el mensaje correcto sabes desde el primer renglón qué quiere tu cliente. Contestas más rápido y cierras más."
+      "p": "Con el mensaje correcto sabes desde el primer renglón qué quiere tu cliente. Contestas más rápido y sin preguntas de ida y vuelta."
     },
     {
       "h2": "Tu dominio, la dirección de tu negocio en internet"
@@ -411,7 +411,7 @@
     },
     {
       "pregunta": "¿Mi negocio va a salir en Google?",
-      "respuesta": "Sí, la damos de alta. La ligamos a tu ficha de Maps para que quien te busca llegue a tu página."
+      "respuesta": "La damos de alta y la ligamos a tu ficha de Maps. Cuándo aparece y en qué lugar lo decide Google."
     },
     {
       "pregunta": "¿Necesito saber de computación?",

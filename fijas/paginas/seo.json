@@ -436,14 +436,7 @@
       "respuesta": "Cuando cambie algo real. Un precio nuevo, un servicio o una foto reciente bastan. No hace falta publicar por publicar."
     }
   ],
-  "relacionadas": [
-    "seo-y-sem",
-    "palabras-clave",
-    "seo-local",
-    "slug-seo",
-    "agencia-seo",
-    "google-mi-negocio"
-  ],
+  "relacionadas": ["seo-y-sem", "palabras-clave", "seo-local", "slug-seo", "agencia-seo", "landing-page"],
   "venta": {
     "puente": "El SEO empieza con una página bien hecha. Aliviane te entrega tu landing rápida en celular y con tu dominio.",
     "titulo": "¿Hacemos una página lista para que Google la lea?",

@@ -145,14 +145,7 @@
       "respuesta": "Tu logo y tu menú. Mira el [logo para restaurante](id:logo-para-restaurante) y arma tu carta."
     }
   ],
-  "relacionadas": [
-    "nombres-para-restaurantes",
-    "nombres-para-comida-rapida",
-    "logo-para-restaurante",
-    "menu-de-restaurante",
-    "slogan",
-    "nombres-para-empresas"
-  ],
+  "relacionadas": ["nombres-para-restaurantes", "nombres-para-comida-rapida", "logo-para-restaurante", "menu-de-restaurante", "pagina-web-para-negocio", "nombres-para-empresas"],
   "venta": {
     "puente": "Tu pollería puede tener una página con tus paquetes, tu horario y pedidos por WhatsApp.",
     "aviso": "¿Ya elegiste nombre? Tu pollería puede recibir pedidos por WhatsApp desde su página.",

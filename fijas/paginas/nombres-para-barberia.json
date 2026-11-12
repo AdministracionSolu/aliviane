@@ -151,14 +151,7 @@
       "respuesta": "Haz tu [logo para barbería](id:logo-para-barberia) y revisa el dominio."
     }
   ],
-  "relacionadas": [
-    "logo-para-barberia",
-    "nombres-para-salon-de-belleza",
-    "slogan",
-    "tarjeta-de-lealtad",
-    "nombres-para-empresas",
-    "buscar-dominio"
-  ],
+  "relacionadas": ["logo-para-barberia", "nombres-para-salon-de-belleza", "slogan", "tarjeta-de-lealtad", "nombres-para-empresas", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu barbería puede tener una página con tus cortes, tus precios y un botón para apartar turno.",
     "aviso": "¿Ya tienes nombre? Tu barbería puede tener su página para apartar turno.",

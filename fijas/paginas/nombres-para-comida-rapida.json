@@ -157,14 +157,7 @@
       "respuesta": "Sí. Mira las [promociones de hamburguesas](id:promociones-de-hamburguesas) para empezar."
     }
   ],
-  "relacionadas": [
-    "nombres-para-restaurantes",
-    "nombres-para-polleria",
-    "promociones-de-hamburguesas",
-    "menu-de-restaurante",
-    "slogan",
-    "lona-publicitaria"
-  ],
+  "relacionadas": ["nombres-para-restaurantes", "nombres-para-polleria", "promociones-de-hamburguesas", "pagina-web-para-negocio", "slogan", "lona-publicitaria"],
   "venta": {
     "puente": "Tu negocio de comida rápida puede tener una página con tu menú y pedidos directos por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu negocio puede recibir pedidos por WhatsApp desde su página.",

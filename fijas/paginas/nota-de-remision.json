@@ -61,7 +61,7 @@
     { "pregunta": "¿Se puede editar en Word o Excel?", "respuesta": "No. Se llena aquí y se descarga en PDF o imagen." },
     { "pregunta": "¿Mis datos se guardan?", "respuesta": "Sí, sólo en tu navegador. Hay un botón para borrarlos de tu equipo." }
   ],
-  "relacionadas": ["recibo-de-pago", "nota-de-venta", "orden-de-compra", "formato-de-cotizacion", "generador-de-codigo-de-barras", "pagina-web-para-negocio"],
+  "relacionadas": ["recibo-de-pago", "nota-de-venta", "orden-de-compra", "codigo-de-barras-en-excel", "generador-de-codigo-de-barras", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tus clientes pueden ver tus productos en tu página y pedirte por WhatsApp.",
     "aviso": "Tu remisión ya está lista. ¿Quieres que tus clientes vean tus productos en tu propia página?",

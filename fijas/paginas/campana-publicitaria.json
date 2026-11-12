@@ -533,14 +533,7 @@
       "respuesta": "Compara el resultado con la meta que pusiste al inicio. Si no pusiste meta, no puedes saberlo."
     }
   ],
-  "relacionadas": [
-    "publicidad-para-negocios",
-    "publicidad-en-facebook",
-    "frases-para-vender",
-    "agencia-de-marketing-digital",
-    "marketing-digital",
-    "landing-page"
-  ],
+  "relacionadas": ["publicidad-para-negocios", "anuncio-publicitario", "frases-para-vender", "agencia-de-marketing-digital", "marketing-digital", "landing-page"],
   "venta": {
     "puente": "Cada campaña necesita una página de llegada que diga lo mismo que el anuncio. Aliviane te la hace.",
     "titulo": "¿Hacemos la página de llegada de tu campaña?",

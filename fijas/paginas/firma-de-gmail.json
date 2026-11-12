@@ -158,13 +158,7 @@
       "respuesta": "Sí. Mira los pasos en la [firma de correo](id:firma-de-correo)."
     }
   ],
-  "relacionadas": [
-    "firma-de-correo",
-    "correo-corporativo",
-    "que-es-un-dominio",
-    "link-de-whatsapp",
-    "tarjeta-de-presentacion-digital"
-  ],
+  "relacionadas": ["firma-de-correo", "correo-corporativo", "que-es-un-dominio", "link-de-whatsapp", "tarjeta-de-presentacion-digital", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu firma de Gmail puede llevar a tu propia página con tu dominio.",
     "aviso": "¿Tu firma tiene a dónde llevar? Tu página puede estar lista en pocos días.",

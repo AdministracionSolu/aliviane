@@ -76,7 +76,7 @@
     { "pregunta": "¿Puedo saber cuántas personas lo escanearon?", "respuesta": "No con este QR. Para medir visitas apúntalo a tu página y revisa las visitas que recibe." },
     { "pregunta": "¿Por qué mi celular no lo lee?", "respuesta": "Casi siempre es contraste o tamaño. Usa un color oscuro sobre fondo blanco y agrándalo un poco." }
   ],
-  "relacionadas": ["crear-qr-con-imagen", "codigo-qr-para-whatsapp", "qr-wifi", "menu-qr", "link-de-whatsapp", "lector-qr"],
+  "relacionadas": ["crear-qr-con-imagen", "landing-page", "qr-wifi", "leer-qr-wifi", "qr-de-facebook", "lector-qr"],
   "venta": {
     "puente": "Tu QR puede llevar a tu propia página con tu menú, tus precios y tu WhatsApp.",
     "aviso": "Tu QR ya está listo. ¿Quieres que lleve a una página con tu marca y tu dominio?",

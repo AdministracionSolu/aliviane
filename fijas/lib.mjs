@@ -161,7 +161,7 @@ export function md(s, ctx) {
   return t;
 }
 
-const CSS = `:root{--negro:#0b0b0b;--negro-2:#141414;--negro-3:#1c1c1c;--crema:#f2f2f0;--texto:#d6d6d3;--gris:#8c8c8c;--gris-2:#4d4d4d;--sans:"Schibsted Grotesk","Helvetica Neue",Arial,sans-serif;color-scheme:dark}
+const CSS = `.ah-herramienta:empty{min-height:var(--reserva,900px)}:root{--negro:#0b0b0b;--negro-2:#141414;--negro-3:#1c1c1c;--crema:#f2f2f0;--texto:#d6d6d3;--gris:#8c8c8c;--gris-2:#4d4d4d;--sans:"Schibsted Grotesk","Helvetica Neue",Arial,sans-serif;color-scheme:dark}
 *{box-sizing:border-box}body{margin:0;background:var(--negro);color:var(--texto);font:400 17px/1.65 var(--sans);-webkit-font-smoothing:antialiased}
 a{color:var(--crema)}img{display:block;max-width:100%;height:auto}
 .ancho{width:min(760px,100% - 32px);margin-inline:auto}.ancho-h{width:min(1040px,100% - 32px);margin-inline:auto}.lectura{max-width:760px}
@@ -310,6 +310,7 @@ export function opcionesMotor(p, ctx) {
   return resolver(p.herramienta?.opciones || {});
 }
 
+const RESERVA_MOTOR = { 'visor-cfdi': 270, 'lector-qr': 260, 'dominio-disponible': 360 };
 function herramienta(p, ctx) {
   const h = p.herramienta;
   if (!h?.id) return '';
@@ -319,7 +320,9 @@ function herramienta(p, ctx) {
     return `<div class="herramienta-zona"><div class="ah-herramienta ah-hueco" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"><p>La herramienta aparece aquí.</p></div></div>`;
   }
   const opciones = JSON.stringify({ ...opcionesMotor(p, ctx), modo: h.modo || undefined, idioma: 'es-MX' }).replace(/</g, '\\u003c');
-  return `<div class="herramienta-zona"><link rel="stylesheet" href="/css/herramientas.css"><div class="ah-herramienta" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"></div>
+  // Alto reservado mientras el motor monta: evita que el texto de abajo salte (CLS). Los motores chicos reservan su alto real.
+  const reserva = RESERVA_MOTOR[h.id] ? ` style="--reserva:${RESERVA_MOTOR[h.id]}px"` : '';
+  return `<div class="herramienta-zona"><link rel="stylesheet" href="/css/herramientas.css"><div class="ah-herramienta" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"${reserva}></div>
 <script type="module">import{montar}from"/js/herramientas/${h.id}.js";montar(document.querySelector('.ah-herramienta'),${opciones});</script></div>
 <aside class="aviso" id="aviso-venta" hidden><p>${md(p.venta?.aviso || p.venta?.puente, ctx)} <a href="${ligaWhatsApp(p)}" target="_blank" rel="noopener">Pídela por WhatsApp</a></p></aside>
 <script>document.addEventListener('aliviane:resultado',function(e){var a=document.getElementById('aviso-venta');if(a&&e.detail&&${JSON.stringify(ACCIONES_AVISO)}.indexOf(e.detail.accion)>=0)a.hidden=false});</script>`;

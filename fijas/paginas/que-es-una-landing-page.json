@@ -449,14 +449,7 @@
       "respuesta": "El objetivo. La página de inicio presenta todo el negocio y reparte a varias secciones. La landing lleva a una sola acción."
     }
   ],
-  "relacionadas": [
-    "landing-page",
-    "ejemplos-de-landing-page",
-    "como-crear-una-pagina-web",
-    "pagina-web-para-negocio",
-    "que-es-un-sitio-web",
-    "diseno-de-paginas-web"
-  ],
+  "relacionadas": ["landing-page", "ejemplos-de-landing-page", "sitios-de-google", "pagina-web-para-negocio", "que-es-un-sitio-web", "diseno-de-paginas-web"],
   "venta": {
     "puente": "Aliviane hace landings para negocios con tu dominio incluido y tu botón de WhatsApp.",
     "titulo": "¿Hacemos la landing de tu negocio?",

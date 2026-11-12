@@ -23,7 +23,7 @@
       "p": "Un boletín es una publicación corta que sale con regularidad. Su trabajo es mantener informado a un grupo que ya te conoce."
     },
     {
-      "p": "No es un anuncio suelto. Es una cita fija, como el periódico del domingo, que la gente espera."
+      "p": "No es un anuncio suelto. Es una cita fija que la gente espera, como el periódico del domingo."
     },
     {
       "p": "Puede ser impreso, en una hoja doblada o pegada en un tablero. También puede ser un correo, un PDF o un mensaje largo de WhatsApp."
@@ -128,7 +128,7 @@
       "h2": "Qué escribir en un boletín de negocio"
     },
     {
-      "p": "La regla de oro es dar algo útil antes de vender. Si cada número es sólo promoción, la gente deja de leerlo."
+      "p": "Primero da algo útil y después ofrece lo que vendes. Si cada número es sólo promoción, la gente deja de leerlo."
     },
     {
       "ul": [
@@ -267,7 +267,7 @@
     {
       "ul": [
         "Pide el correo al cobrar, con permiso del cliente.",
-        "Pon un formulario en tu página con una razón para suscribirse.",
+        "Pon en tu página un botón de WhatsApp para pedir el boletín.",
         "Pide el dato en eventos y ferias con una hoja de registro.",
         "Nunca compres listas de correos."
       ]
@@ -282,7 +282,7 @@
       "h2": "Ejemplo de boletín de una panadería"
     },
     {
-      "p": "Ejemplo inventado para ver un número completo. La Panadería San Juan manda un boletín mensual a sus clientes."
+      "p": "Así se ve un número completo de ejemplo. La Panadería San Juan manda un boletín mensual a sus clientes."
     },
     {
       "tabla": {
@@ -330,7 +330,7 @@
       "h2": "Ejemplo de boletín escolar"
     },
     {
-      "p": "Ejemplo inventado para una primaria. El boletín sale cada quincena impreso y en PDF."
+      "p": "Ahora el caso de una primaria de ejemplo. El boletín sale cada quincena impreso y en PDF."
     },
     {
       "ul": [
@@ -429,18 +429,11 @@
       "respuesta": "El boletín sale cada cierto tiempo con noticias. El folleto se hace una vez para explicar un producto o servicio."
     }
   ],
-  "relacionadas": [
-    "flyer-informativo",
-    "folleto",
-    "flyer",
-    "correo-corporativo",
-    "mensaje-de-recordatorio-para-clientes",
-    "marketing-de-contenidos"
-  ],
+  "relacionadas": ["flyer-informativo", "folleto", "pagina-web-para-negocio", "correo-corporativo", "mensaje-de-recordatorio-para-clientes", "marketing-de-contenidos"],
   "venta": {
-    "puente": "Tu boletín necesita a dónde mandar a quien quiere más. Aliviane te hace esa página con tu dominio.",
+    "puente": "Quien lee tu boletín y quiere más necesita una página a dónde ir. Aliviane te la hace con tu dominio.",
     "titulo": "¿Hacemos la página que acompaña a tu boletín?",
-    "tituloCorto": "¿Tu boletín ya tiene a dónde llevar?",
+    "tituloCorto": "¿A qué página lleva tu boletín?",
     "trabajos": [
       "laola",
       "comprafin",

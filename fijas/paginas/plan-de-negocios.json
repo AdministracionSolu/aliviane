@@ -451,14 +451,7 @@
       "respuesta": "En esta misma guía tienes uno resumido con números. Úsalo como base y cambia los datos por los de tu zona."
     }
   ],
-  "relacionadas": [
-    "modelo-canvas",
-    "analisis-foda",
-    "mision-y-vision",
-    "negocios-rentables",
-    "plan-de-ventas",
-    "como-emprender-un-negocio"
-  ],
+  "relacionadas": ["modelo-canvas", "franquicias-baratas", "mision-y-vision", "pagina-web-para-negocio", "plan-de-ventas", "como-emprender-un-negocio"],
   "venta": {
     "puente": "Tu plan de marketing necesita una página propia. Aliviane te la hace con tu dominio por $1,500.",
     "titulo": "¿Hacemos la página que va en tu plan de negocios?",

@@ -59,7 +59,7 @@
     { "pregunta": "¿Se puede usar como folleto digital?", "respuesta": "Sí. Manda el PDF por WhatsApp o correo. Se lee bien en computadora y en tableta." },
     { "pregunta": "¿El folleto tiene costo?", "respuesta": "No. Lo bajas gratis y sin marca de agua todas las veces que quieras. La línea «Hecho con Aliviane» del pie es opcional." }
   ],
-  "relacionadas": ["flyer", "volantes", "tarjetas-de-presentacion", "cartel-publicitario", "flyer-informativo", "diseno-de-paginas-web"],
+  "relacionadas": ["boletin-informativo", "volantes", "tarjetas-de-presentacion", "cartel-publicitario", "flyer-informativo", "diseno-de-paginas-web"],
   "venta": {
     "puente": "Lo que pones en tu folleto también puede vivir en una página que se actualiza sin reimprimir.",
     "aviso": "Tu folleto ya está listo. ¿Quieres esos servicios en una página propia?",

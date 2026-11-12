@@ -140,14 +140,7 @@
       "respuesta": "Sí. Lo bajas en PDF o PNG sin costo ni marca de agua. La línea del pie con nuestro nombre se quita con una casilla."
     }
   ],
-  "relacionadas": [
-    "flyer",
-    "folleto",
-    "horario-de-atencion",
-    "cartel-publicitario",
-    "volantes",
-    "pagina-web-para-negocio"
-  ],
+  "relacionadas": ["boletin-informativo", "folleto", "horario-de-atencion", "cartel-publicitario", "volantes", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Lo que explicas en un flyer puede quedar en una página que tus clientes consultan cuando quieran.",
     "aviso": "Tu aviso ya está listo. ¿Quieres una página donde quede la información completa?",

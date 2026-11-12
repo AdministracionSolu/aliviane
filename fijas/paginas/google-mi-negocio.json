@@ -399,14 +399,7 @@
       "respuesta": "Sí. Es la misma herramienta con otro nombre desde 2021."
     }
   ],
-  "relacionadas": [
-    "resenas-de-google",
-    "seo-local",
-    "publicidad-en-google",
-    "sitios-de-google",
-    "como-crear-una-pagina-web",
-    "seo"
-  ],
+  "relacionadas": ["resenas-de-google", "seo-local", "publicidad-en-google", "sitios-de-google", "publicidad-para-unas", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu ficha de Google pide una página web. Aliviane te entrega la landing que pones en ese campo.",
     "titulo": "¿Hacemos la página que va en tu ficha de Google?",

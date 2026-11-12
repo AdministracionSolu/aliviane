@@ -448,14 +448,7 @@
       "respuesta": "Manda un segundo aviso cerca de la fecha. Si sigue sin contestar, no insistas más ese día."
     }
   ],
-  "relacionadas": [
-    "link-de-whatsapp",
-    "mensajes-automaticos-whatsapp",
-    "mensajes-programados-whatsapp",
-    "whatsapp-business-para-empresas",
-    "link-de-pago",
-    "resenas-de-google"
-  ],
+  "relacionadas": ["landing-page", "mensajes-automaticos-whatsapp", "mensajes-programados-whatsapp", "whatsapp-business-para-empresas", "link-de-pago", "resenas-de-google"],
   "venta": {
     "puente": "Tus recordatorios funcionan mejor con una página donde el cliente vea tus servicios y vuelva a agendar.",
     "titulo": "¿Hacemos la página a donde llevan tus recordatorios?",

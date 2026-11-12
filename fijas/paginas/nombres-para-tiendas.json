@@ -150,14 +150,7 @@
       "respuesta": "Sí. Usa el generador de [tienda de variedades](id:nombres-para-tienda-de-variedades)."
     }
   ],
-  "relacionadas": [
-    "nombres-para-tienda-de-variedades",
-    "nombres-para-empresas",
-    "letreros-para-negocios",
-    "slogan",
-    "lista-de-precios",
-    "buscar-dominio"
-  ],
+  "relacionadas": ["nombres-para-tienda-de-variedades", "nombres-para-empresas", "letreros-para-negocios", "slogan", "lista-de-precios", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu tienda puede tener una página con tus precios y un botón para pedir el mandado por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu tienda puede tener su página con pedidos por WhatsApp.",

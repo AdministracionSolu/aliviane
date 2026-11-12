@@ -162,7 +162,7 @@
       ]
     },
     {
-      "p": "Evita las frases que no dicen nada, como bienvenidos a mi perfil. Ese espacio es corto y vale oro."
+      "p": "Evita las frases que no dicen nada, como bienvenidos a mi perfil. Ese espacio es corto y cada palabra cuenta."
     },
     {
       "tabla": {
@@ -182,7 +182,7 @@
           ],
           [
             "Repostería",
-            "Pasteles por encargo en Saltillo. Pide con tres días de anticipación."
+            "Pasteles por encargo en Saltillo. Encargos con tres días de anticipación."
           ],
           [
             "Uñas",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "p": "Una página propia hace lo mismo y además es tuya. La dirección va en tus tarjetas, tus lonas y tu ficha de Google."
+      "p": "Con página propia la dirección es tuya y no cambia. Puede ir en tus tarjetas, tus lonas y tu ficha de Google."
     },
     {
       "venta": true
@@ -221,7 +221,7 @@
       "ul": [
         "Arriba, lo mismo que vio en tu publicación o tu oferta principal.",
         "Fotos grandes de tus productos o trabajos.",
-        "Precios o desde cuánto cuesta cada cosa.",
+        "El precio de cada cosa o un precio desde.",
         "Un botón de WhatsApp visible sin bajar.",
         "Tu horario y tu zona de entrega.",
         "Que cargue rápido con datos móviles."
@@ -283,7 +283,7 @@
       "p": "Si eliges mandar a WhatsApp, no pongas sólo tu número. Usa un link que abra el chat con un mensaje ya escrito."
     },
     {
-      "p": "Así sabes que el mensaje vino de Instagram y el cliente no tiene que pensar qué escribir. Por ejemplo, hola, vi su Instagram y quiero información."
+      "p": "Así sabes que el mensaje vino de Instagram y el cliente no tiene que pensar qué escribir. Un buen texto sería «Vi tu Instagram y quiero información»."
     },
     {
       "p": "Arma tu link con nuestra herramienta de [link de WhatsApp](id:link-de-whatsapp). Es gratis y no pide registro."
@@ -338,13 +338,13 @@
       "h2": "Ejemplo de una repostería que ordena su link"
     },
     {
-      "p": "Ejemplo inventado para ver el cambio completo. Una repostería en Saltillo tenía en su bio sólo el número de teléfono."
+      "p": "Un caso de ejemplo con el cambio completo. Una repostería en Saltillo tenía en su bio sólo el número de teléfono."
     },
     {
-      "p": "Hizo una página con sus pasteles, precios desde y un botón de WhatsApp con mensaje listo. Cambió su biografía para decir pide el tuyo en el link."
+      "p": "Hizo una página con sus pasteles, el precio de cada uno y un botón de WhatsApp con mensaje listo. Cambió su biografía para decir pide el tuyo en el link."
     },
     {
-      "p": "Ahora los mensajes llegan con el mensaje listo y sabe que vienen de Instagram. Contesta más rápido porque el cliente ya vio precios."
+      "p": "Ahora cada chat abre con el texto que ella preparó y sabe que viene de Instagram. Contesta más rápido porque el cliente ya vio precios."
     },
     {
       "h2": "Fallas comunes con el link en bio"
@@ -383,7 +383,7 @@
     },
     {
       "pregunta": "¿Necesito cuenta de empresa para poner un link?",
-      "respuesta": "No. Cualquier perfil puede poner un sitio web en su biografía."
+      "respuesta": "Depende de la red. En Instagram cualquier perfil puede y en TikTok quizá te pida cuenta de empresa."
     }
   ],
   "relacionadas": [

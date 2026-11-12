@@ -437,14 +437,7 @@
       "respuesta": "En el servicio de verificación del SAT. Capturas el folio fiscal y los RFC y te dice si está vigente."
     }
   ],
-  "relacionadas": [
-    "nota-de-venta",
-    "xml-de-factura",
-    "formato-de-cotizacion",
-    "recibo-de-pago",
-    "nota-de-remision",
-    "generador-de-codigo-de-barras"
-  ],
+  "relacionadas": ["recibo-de-renta", "xml-de-factura", "pagina-web-para-negocio", "recibo-de-pago", "nota-de-remision", "generador-de-codigo-de-barras"],
   "venta": {
     "puente": "Un negocio que factura en regla también necesita verse en regla en internet. Aliviane te hace la página con tu dominio.",
     "aviso": "Tu nota de venta ya está lista. Si quieres que tus clientes te encuentren en Google, Aliviane te hace tu página.",

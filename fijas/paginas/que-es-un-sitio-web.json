@@ -8,7 +8,8 @@
     "pagina dinamica",
     "paginas web dinamicas"
   ],
-  "title": "Sitio web qué es: partes, tipos y ejemplos para negocio",
+  "cabeza_titulo": ["qué es un sitio web"],
+  "title": "Qué es un sitio web: partes, tipos y ejemplos para negocio",
   "h1": "Qué es un sitio web y qué tipo necesita tu negocio",
   "description": "Un sitio web es un conjunto de páginas bajo un mismo dominio. Te explicamos sus partes, la diferencia entre estático y dinámico y cuál conviene a tu negocio.",
   "resumen": "Qué es un sitio web, sus partes, tipos y cuál conviene a un negocio",
@@ -289,7 +290,7 @@
     {
       "ol": [
         "Qué haces y en qué ciudad, en la primera pantalla.",
-        "Tus servicios o productos con precio o precio desde.",
+        "Lo que vendes con su precio o un precio desde.",
         "Fotos reales de tu trabajo o tu local.",
         "Opiniones de clientes, si las tienes.",
         "Botón de WhatsApp visible en el celular.",
@@ -304,7 +305,7 @@
       "h2": "Ejemplo de un sitio para una estética en Aguascalientes"
     },
     {
-      "p": "Este es un ejemplo inventado. Una estética quiere que las clientas aparten cita sin llamar."
+      "p": "Es un caso de ejemplo. Una estética quiere que las clientas aparten cita sin llamar."
     },
     {
       "tabla": {
@@ -401,7 +402,7 @@
       ]
     },
     {
-      "p": "Si fallan dos o más, el sitio está perdiendo clientes. Lo bueno es que casi todo tiene arreglo."
+      "p": "Si fallan dos o más, conviene arreglarlo pronto. Casi todo se corrige sin rehacer el sitio."
     },
     {
       "h2": "Cómo se crea un sitio web"
@@ -486,7 +487,7 @@
     "pagina-web-para-negocio"
   ],
   "venta": {
-    "puente": "Entender qué es un sitio web es el primer paso. El segundo es tener el tuyo. Aliviane te lo entrega con dominio.",
+    "puente": "Con lo que ya sabes puedes pedir tu sitio con claridad. Aliviane te lo entrega con tu dominio incluido.",
     "titulo": "¿Hacemos el sitio web de tu negocio?",
     "tituloCorto": "¿Ya sabes qué es? Ahora ten el tuyo",
     "trabajos": [
@@ -519,5 +520,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "G3, 12-nov. Incluye web dinámica vs estática (búsquedas de la lista). Sin cifras de terceros. Top 3 leído con WebSearch el 12-nov-2026."
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. G3, 12-nov. Incluye web dinámica vs estática (búsquedas de la lista). Sin cifras de terceros. Top 3 leído con WebSearch el 12-nov-2026."
 }

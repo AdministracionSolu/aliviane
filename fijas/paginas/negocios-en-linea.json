@@ -7,7 +7,8 @@
     "negocios de emprendimiento",
     "negocio digital"
   ],
-  "title": "Negocios online: modelos, ideas y cómo empezar en México",
+  "cabeza_titulo": ["negocios en línea"],
+  "title": "Negocios en línea: modelos, ideas y cómo empezar en México",
   "h1": "Negocios en línea: cómo elegir uno y empezar a vender",
   "description": "Un negocio en línea vende productos o servicios por internet. Te explicamos seis modelos, cómo cobrar y enviar en México y cómo probar tu idea.",
   "resumen": "Los modelos de negocio en línea, cómo cobrar y enviar, y cómo probar tu idea",
@@ -26,7 +27,7 @@
       "p": "Un negocio en línea vende por internet. El cliente lo encuentra, pregunta y paga sin ir a un local."
     },
     {
-      "p": "No significa que todo pase en la computadora. Una pastelería que recibe pedidos por su página también es un negocio en línea."
+      "p": "No significa que todo pase en la computadora. Una pastelería que recibe pedidos por WhatsApp desde su página también lo es."
     },
     {
       "p": "Lo que cambia es dónde te encuentra el cliente. En lugar de pasar por tu calle, pasa por Google, por redes o por un mercado en línea."
@@ -157,7 +158,7 @@
         },
         {
           "titulo": "Semana 3, vende y pregunta",
-          "texto": "Pregunta a cada cliente por qué compró y qué mejorarías."
+          "texto": "Pregunta a cada cliente por qué compró y qué mejoraría."
         },
         {
           "titulo": "Semana 4, haz cuentas",
@@ -308,7 +309,7 @@
       "h2": "Ejemplo de una tienda de salsas en Oaxaca"
     },
     {
-      "p": "Este es un ejemplo inventado. Rosa hacía salsas para su familia y sus vecinos se las pedían."
+      "p": "Rosa es un caso de ejemplo. Hacía salsas para su familia y sus vecinos se las pedían."
     },
     {
       "p": "Probó un mes vendiendo frascos a sus contactos de WhatsApp. Vendió cuarenta frascos y anotó qué sabores pedían más."
@@ -317,7 +318,7 @@
       "p": "Con eso hizo una página con tres sabores, precios y envío en la ciudad. Para otros estados probó dos paqueterías hasta que una entregó sin romper frascos."
     },
     {
-      "p": "Hoy vende en su página y en un mercado en línea. La página le deja más por frasco y el mercado le da volumen."
+      "p": "Hoy recibe pedidos desde su página y vende en un mercado en línea. La página le deja más por frasco y el mercado le da volumen."
     },
     {
       "h2": "20 ideas de negocio en línea por modelo"
@@ -438,7 +439,7 @@
       }
     },
     {
-      "p": "Las ideas de servicio a distancia piden poca inversión. Las de producto propio piden más tiempo de preparación pero dejan marca."
+      "p": "Las ideas de servicio a distancia piden poca inversión. Las de producto propio piden más preparación pero construyen una marca tuya."
     },
     {
       "h2": "Cómo atender a clientes que no te conocen"
@@ -468,7 +469,7 @@
       "p": "Vender en línea es vender. Aplican las mismas reglas que a un negocio físico."
     },
     {
-      "p": "Cuando tus ventas crezcan, date de alta en el SAT para poder facturar. Muchos mercados en línea te pedirán datos fiscales."
+      "p": "Date de alta en el SAT desde que empiezas a cobrar. Así puedes facturar y cumplir con lo que piden los mercados en línea."
     },
     {
       "p": "Si guardas datos de clientes, necesitas un aviso de privacidad. Es el texto que dice qué datos pides y para qué."
@@ -558,5 +559,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "G3, 12-nov. Sin comisiones de mercados en línea ni de paqueterías (no se leyeron hoy en fuente oficial). Ángulo propio: seis modelos, cómo probar la idea en 30 días, cobro y envío en México. Distinto de negocios-desde-casa (ideas por tiempo disponible)."
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. G3, 12-nov. Sin comisiones de mercados en línea ni de paqueterías (no se leyeron hoy en fuente oficial). Ángulo propio: seis modelos, cómo probar la idea en 30 días, cobro y envío en México. Distinto de negocios-desde-casa (ideas por tiempo disponible)."
 }

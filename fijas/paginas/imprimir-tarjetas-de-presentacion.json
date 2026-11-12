@@ -511,14 +511,7 @@
       "respuesta": "El plastificado mate. Protege de la humedad y los dobleces sin hacer brillos que estorben al leer."
     }
   ],
-  "relacionadas": [
-    "tarjetas-de-presentacion",
-    "tarjeta-de-presentacion-digital",
-    "tarjetas-de-presentacion-para-abogados",
-    "crear-logo-gratis",
-    "generador-de-qr",
-    "flyer"
-  ],
+  "relacionadas": ["tarjetas-de-presentacion", "tarjeta-de-presentacion-digital", "tarjetas-de-presentacion-para-abogados", "pagina-web-para-negocio", "generador-de-qr", "flyer"],
   "venta": {
     "puente": "Tu tarjeta luce más con una dirección propia. La landing de Aliviane trae tu dominio para ponerlo en ella.",
     "aviso": "Tu tarjeta ya está lista. Si quieres que el QR lleve a tu propia página, Aliviane te la hace con tu dominio.",

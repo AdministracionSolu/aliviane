@@ -155,14 +155,7 @@
       "respuesta": "Sí. Clásico, con franja de color y sobrio, en el color que elijas."
     }
   ],
-  "relacionadas": [
-    "recibo-de-pago",
-    "nota-de-remision",
-    "formato-de-cotizacion",
-    "lista-de-precios",
-    "formato-de-factura",
-    "tienda-de-ropa"
-  ],
+  "relacionadas": ["recibo-de-pago", "nota-de-remision", "pagina-web-para-negocio", "lista-de-precios", "formato-de-factura", "tienda-de-ropa"],
   "venta": {
     "puente": "Lo que vendes en mostrador también puede verse en tu propia página, con botón a tu WhatsApp.",
     "aviso": "Tu nota ya está lista. ¿Quieres que tus clientes vean tus productos en tu propia página?",

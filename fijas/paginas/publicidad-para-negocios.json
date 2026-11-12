@@ -473,14 +473,7 @@
       "respuesta": "Pregunta a cada cliente cómo te encontró y anota. Al final del mes suma por medio."
     }
   ],
-  "relacionadas": [
-    "campana-publicitaria",
-    "publicidad-en-facebook",
-    "agencia-de-marketing-digital",
-    "marketing-digital",
-    "lona-publicitaria",
-    "volantes"
-  ],
+  "relacionadas": ["campana-publicitaria", "publicidad-en-facebook", "agencia-de-marketing-digital", "marketing-digital", "landing-page", "volantes"],
   "venta": {
     "puente": "Toda publicidad necesita un lugar a donde llevar a la gente. Aliviane te hace esa página con tu WhatsApp.",
     "titulo": "¿Hacemos la página a donde llega tu publicidad?",

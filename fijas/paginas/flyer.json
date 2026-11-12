@@ -4,7 +4,7 @@
   "molde": "herramienta",
   "cabeza": "flyer",
   "busquedas": ["flyers online", "flyers editables", "flyer publicitario", "flyers publicitarios", "crear flyer", "cómo hacer un flyers", "hacer flyers", "crear flyers", "crear un flyer", "creador de flyer", "crear flyer gratis", "crear flyers gratis", "crear un flyer gratis", "como hacer un flyer gratis", "flyer digital", "flyers digitales", "flyer publicidad", "flyers de publicidad", "aplicaciones para hacer flyers", "aplicaciones para hacer flyers gratis", "flyer promocional", "flyers promocionales", "diseño de flyers"],
-  "title": "Flyer gratis en media carta o carta, PDF para imprimir",
+  "title": "Flyer gratis en media carta o carta con PDF para imprimir",
   "h1": "Haz tu flyer gratis",
   "description": "Crea un flyer gratis en media carta, carta o para redes. Elige un diseño, cambia textos y colores y baja PDF para imprenta o PNG. Sin cuenta ni marca de agua.",
   "resumen": "Flyer en media carta, carta o para redes con PDF de imprenta",
@@ -58,12 +58,12 @@
     { "p": "Para eventos con fecha mira el [flyer de fútbol](id:flyer-de-futbol), el [flyer de rifa](id:flyer-de-rifa) y el [flyer para fiesta](id:flyer-para-fiesta). Cada uno explica lo que ese evento necesita decir." }
   ],
   "faqs": [
-    { "pregunta": "¿Cuánto cuesta usar el editor de flyers?", "respuesta": "Nada. No pide cuenta ni tarjeta y no pone marca de agua. La línea «Hecho con Aliviane» al pie es opcional. Puedes bajar todos los flyers que quieras." },
+    { "pregunta": "¿Cuánto cuesta usar el editor de flyers?", "respuesta": "Nada. No te pide cuenta ni tarjeta y el archivo sale sin marca de agua. La línea «Hecho con Aliviane» al pie es opcional. Puedes bajar todos los flyers que quieras." },
     { "pregunta": "¿El PDF sirve para la imprenta?", "respuesta": "Sí. Sale del tamaño real y con las letras en vectores. La imprenta lo abre igual en cualquier computadora." },
     { "pregunta": "¿Puedo poner mi logo y una foto?", "respuesta": "Sí. Sube un PNG o JPG y acomódalo arrastrando. El archivo se queda en tu equipo." },
     { "pregunta": "¿Puedo cambiar las letras y los colores?", "respuesta": "Sí. Hay combinaciones de color listas y puedes elegir el tuyo. También cambias la tipografía de títulos y de texto." },
     { "pregunta": "¿Se guarda lo que escribí?", "respuesta": "Sí, en este navegador. Si vuelves desde el mismo equipo encuentras tu último diseño." },
-    { "pregunta": "¿El flyer trae sangría para corte?", "respuesta": "Sí. Marca la casilla de imprenta y el PDF sale con 3 mm de sangrado. También trae marcas de corte para la guillotina." }
+    { "pregunta": "¿El flyer trae sangrado para corte?", "respuesta": "Sí. Marca la casilla de imprenta y el PDF sale con 3 mm de sangrado. También trae marcas de corte para la guillotina." }
   ],
   "relacionadas": ["volantes", "flyer-informativo", "folleto", "cartel-publicitario", "banner", "landing-page"],
   "venta": {

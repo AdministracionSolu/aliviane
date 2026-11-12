@@ -396,14 +396,7 @@
       "respuesta": "Sí, en algunos servicios. Necesitas cuenta y a veces un plan de pago para editar el destino."
     }
   ],
-  "relacionadas": [
-    "link-de-whatsapp",
-    "codigo-qr-para-whatsapp",
-    "link-en-bio",
-    "generador-de-qr",
-    "mensaje-de-recordatorio-para-clientes",
-    "que-es-un-dominio"
-  ],
+  "relacionadas": ["landing-page", "codigo-qr-para-whatsapp", "link-en-bio", "generador-de-qr", "mensaje-de-recordatorio-para-clientes", "que-es-un-dominio"],
   "venta": {
     "puente": "Un link corto ayuda, pero un dominio propio se dicta solo. Tu landing de Aliviane trae tu dominio incluido.",
     "aviso": "Tu link ya está listo. Si quieres que lleve a tu propia página, Aliviane te la hace con tu dominio.",

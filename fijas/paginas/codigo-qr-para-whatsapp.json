@@ -103,7 +103,7 @@
         "En el mostrador. «Hola, quiero el catálogo completo»",
         "En tu tarjeta. «Hola, me dieron tu tarjeta y quiero cotizar»",
         "En la caja de envío. «Hola, ya recibí mi pedido y quiero otro»",
-        "En la lona de tu local. «Hola, vi su lona y quiero información»"
+        "En la lona de tu local. «Hola, vi tu lona y quiero información»"
       ]
     },
     {
@@ -134,7 +134,7 @@
   "faqs": [
     {
       "pregunta": "¿El QR de WhatsApp es gratis?",
-      "respuesta": "Sí. No pide cuenta y no pone marca de agua."
+      "respuesta": "Sí. No pide registro y el PNG o SVG sale sin marca de agua."
     },
     {
       "pregunta": "¿Funciona con WhatsApp Business?",

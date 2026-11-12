@@ -26,7 +26,7 @@
     "como crear una tienda virtual gratis",
     "como hacer una tienda en linea gratis"
   ],
-  "title": "Tienda online: cómo crear la tuya y qué cuesta de verdad",
+  "title": "Tienda online: cómo crear la tuya y cuánto te cuesta",
   "h1": "Cómo crear una tienda en línea para tu negocio",
   "description": "Los caminos para tener tienda online en México, qué cuesta cada uno y qué necesitas antes de abrir. Incluye cobros, envíos y una lista para empezar. Revísala.",
   "resumen": "Los caminos para abrir tu tienda en línea, cobros, envíos y qué preparar antes",
@@ -188,7 +188,7 @@
           [
             "Comisión por cobro",
             "Variable por venta",
-            "Un porcentaje del ticket más una cuota fija"
+            "Un porcentaje del cobro más una cuota fija"
           ],
           [
             "Envíos",
@@ -217,7 +217,7 @@
       "p": "Suma todo y divídelo entre tus pedidos del mes. Ese número te dice cuánto te cuesta vender cada pedido en línea."
     },
     {
-      "p": "Ejemplo inventado para hacer la cuenta. Si gastas $3,000 al mes y haces 60 pedidos, cada pedido te cuesta $50 antes del producto."
+      "p": "Un ejemplo para hacer la cuenta. Si gastas $3,000 al mes y haces 60 pedidos, cada pedido te cuesta $50 antes del producto."
     },
     {
       "h2": "Cómo cobrar en tu tienda"
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "p": "Un envío gratis desde cierto monto ayuda a subir el ticket. Haz la cuenta para que no te coma la ganancia."
+      "p": "Un envío gratis desde cierto monto ayuda a que cada compra sea mayor. Haz la cuenta para que no te coma la ganancia."
     },
     {
       "h2": "Qué debe tener la página de cada producto"
@@ -346,7 +346,7 @@
       "h2": "Ejemplo de una tienda de ropa que empieza"
     },
     {
-      "p": "Ejemplo inventado de un caso común. Una tienda de ropa en Guadalajara vende por Instagram y contesta todo por mensaje."
+      "p": "Es un caso común contado como ejemplo. Una tienda de ropa en Guadalajara vende por Instagram y contesta todo por mensaje."
     },
     {
       "p": "Primero arma un catálogo con sus treinta prendas más vendidas y sus tallas. Luego hace una página con ese catálogo, su dirección y su WhatsApp."
@@ -460,7 +460,7 @@
     },
     {
       "pregunta": "¿Necesito darme de alta en el SAT para vender en línea?",
-      "respuesta": "Sí, si vendes de forma constante. Pregunta a tu contador qué régimen te conviene antes de abrir."
+      "respuesta": "Sí. Si vendes de forma habitual debes estar inscrito y tu contador te dice qué régimen conviene."
     },
     {
       "pregunta": "¿Qué es mejor, mi tienda o Mercado Libre?",
@@ -493,7 +493,7 @@
   ],
   "venta": {
     "puente": "Si vendes pocos productos, una landing con catálogo y WhatsApp puede ser tu primera tienda. Aliviane te la hace.",
-    "titulo": "¿Empezamos con una página que vende por WhatsApp?",
+    "titulo": "¿Empezamos con una página que lleva tus pedidos a WhatsApp?",
     "tituloCorto": "¿Tu primera tienda sin carrito?",
     "trabajos": [
       "laola",

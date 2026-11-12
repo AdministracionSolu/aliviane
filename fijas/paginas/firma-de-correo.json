@@ -181,13 +181,7 @@
       "respuesta": "Sí. Baja el archivo .html o copia el código para pegarlo en otro programa."
     }
   ],
-  "relacionadas": [
-    "firma-de-gmail",
-    "correo-corporativo",
-    "que-es-un-dominio",
-    "tarjetas-de-presentacion",
-    "link-de-whatsapp"
-  ],
+  "relacionadas": ["firma-de-gmail", "correo-corporativo", "que-es-un-dominio", "tarjetas-de-presentacion", "link-de-whatsapp", "pagina-web-para-negocio"],
   "venta": {
     "puente": "La liga de tu firma puede llevar a tu propia página con tu dominio.",
     "aviso": "¿Tu firma ya tiene liga a tu página? Si aún no tienes página, te la hacemos.",

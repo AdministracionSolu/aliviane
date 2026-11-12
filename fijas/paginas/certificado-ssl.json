@@ -378,14 +378,7 @@
       "respuesta": "No siempre. Un certificado comodín cubre todos los subdominios de tu dominio. También puedes emitir uno por subdominio."
     }
   ],
-  "relacionadas": [
-    "que-es-hosting",
-    "que-es-un-dominio",
-    "comprar-dominio",
-    "dominio-y-hosting",
-    "hosting-en-mexico",
-    "aviso-de-privacidad"
-  ],
+  "relacionadas": ["que-es-hosting", "pagina-web-para-negocio", "comprar-dominio", "dominio-y-hosting", "hosting-en-mexico", "aviso-de-privacidad"],
   "venta": {
     "puente": "Las páginas de Aliviane llevan su candado de seguridad incluido y renovado sin que hagas nada.",
     "titulo": "¿Hacemos tu página con el candado incluido?",

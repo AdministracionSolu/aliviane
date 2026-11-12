@@ -652,14 +652,7 @@
       "respuesta": "No. Usar frases de marcas registradas puede meterte en problemas. Escribe las tuyas."
     }
   ],
-  "relacionadas": [
-    "slogan",
-    "frases-de-emprendedores",
-    "publicidad-para-negocios",
-    "campana-publicitaria",
-    "mensaje-de-recordatorio-para-clientes",
-    "landing-page"
-  ],
+  "relacionadas": ["anuncio-publicitario", "frases-de-emprendedores", "publicidad-para-negocios", "campana-publicitaria", "mensaje-de-recordatorio-para-clientes", "landing-page"],
   "venta": {
     "puente": "Una buena frase necesita un lugar donde vivir. Aliviane la pone arriba de tu página, junto a tu WhatsApp.",
     "aviso": "Ya tienes tu frase. Si quieres verla en tu propia página con tu dominio, Aliviane te la hace.",

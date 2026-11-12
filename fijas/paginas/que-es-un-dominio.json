@@ -470,14 +470,7 @@
       "respuesta": "Sí. Con tu dominio puedes crear cuentas como ventas@tunegocio.mx con un servicio de correo."
     }
   ],
-  "relacionadas": [
-    "comprar-dominio",
-    "que-es-hosting",
-    "certificado-ssl",
-    "dominio-y-hosting",
-    "buscar-dominio",
-    "como-crear-una-pagina-web"
-  ],
+  "relacionadas": ["firma-de-gmail", "pagina-web-para-negocio", "certificado-ssl", "dominio-y-hosting", "que-es-un-sitio-web", "como-crear-una-pagina-web"],
   "venta": {
     "puente": "Tu landing de Aliviane ya trae tu dominio incluido y registrado a tu nombre.",
     "titulo": "¿Hacemos tu página con tu dominio incluido?",

@@ -174,14 +174,7 @@
       "respuesta": "No es obligatorio. Registrarla te da el derecho exclusivo de usar ese nombre."
     }
   ],
-  "relacionadas": [
-    "slogan",
-    "nombres-para-tiendas",
-    "nombres-para-restaurantes",
-    "buscar-dominio",
-    "crear-logo-gratis",
-    "como-registrar-una-marca"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "nombres-para-tiendas", "nombres-para-restaurantes", "nombres-para-tienda-de-variedades", "nombres-para-polleria", "como-registrar-una-marca"],
   "venta": {
     "puente": "Con el nombre listo sigue tener una página con tu dominio para que te encuentren.",
     "aviso": "¿Ya elegiste nombre? Tu página con ese dominio puede estar lista en pocos días.",

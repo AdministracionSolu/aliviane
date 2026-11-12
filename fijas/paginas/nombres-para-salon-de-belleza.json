@@ -151,14 +151,7 @@
       "respuesta": "Haz tu logo y tu tarjeta de lealtad. Mira también la [publicidad para uñas](id:publicidad-para-unas)."
     }
   ],
-  "relacionadas": [
-    "logo-para-unas",
-    "publicidad-para-unas",
-    "nombres-para-barberia",
-    "tarjeta-de-lealtad",
-    "slogan",
-    "nombres-para-empresas"
-  ],
+  "relacionadas": ["logo-para-unas", "publicidad-para-unas", "nombres-para-barberia", "tarjeta-de-lealtad", "pagina-web-para-negocio", "nombres-para-empresas"],
   "venta": {
     "puente": "Tu salón puede tener una página con tu galería, tus precios y un botón para apartar cita.",
     "aviso": "¿Ya tienes nombre? Tu salón puede tener página con galería y citas.",

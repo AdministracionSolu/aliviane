@@ -434,14 +434,7 @@
       "respuesta": "Unas horas. El registro es casi inmediato, pero conectarlo a tu página puede tardar hasta un día en verse en todos lados."
     }
   ],
-  "relacionadas": [
-    "que-es-un-dominio",
-    "buscar-dominio",
-    "que-es-hosting",
-    "dominio-y-hosting",
-    "traslado-de-dominio",
-    "certificado-ssl"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "buscar-dominio", "que-es-hosting", "dominio-y-hosting", "traslado-de-dominio", "certificado-ssl"],
   "venta": {
     "puente": "Si haces tu landing con Aliviane, el dominio ya va incluido en los $1,500 y queda a tu nombre.",
     "titulo": "¿Hacemos tu página con el dominio incluido?",

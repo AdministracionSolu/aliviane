@@ -194,14 +194,7 @@
       "respuesta": "Prueba otra terminación o agrega tu ciudad o tu giro al nombre."
     }
   ],
-  "relacionadas": [
-    "que-es-un-dominio",
-    "comprar-dominio",
-    "dominio-y-hosting",
-    "nombres-para-empresas",
-    "que-es-hosting",
-    "certificado-ssl"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "comprar-dominio", "dominio-y-hosting", "nombres-para-empresas", "que-es-hosting", "certificado-ssl"],
   "venta": {
     "puente": "Si haces tu página con Aliviane, el dominio ya viene incluido y queda a tu nombre.",
     "aviso": "¿Encontraste tu dominio libre? Con Aliviane va incluido en tu página.",

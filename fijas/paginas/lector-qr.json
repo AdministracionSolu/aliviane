@@ -177,14 +177,7 @@
       "respuesta": "Falta el permiso del navegador. Actívalo en el candado de la barra de direcciones o sube una foto."
     }
   ],
-  "relacionadas": [
-    "generador-de-qr",
-    "leer-qr-wifi",
-    "crear-qr-con-imagen",
-    "codigo-qr-para-whatsapp",
-    "qr-wifi",
-    "menu-qr"
-  ],
+  "relacionadas": ["landing-page", "leer-qr-wifi", "crear-qr-con-imagen", "codigo-qr-para-whatsapp", "qr-wifi", "menu-qr"],
   "venta": {
     "puente": "Si tu negocio usa QR en carteles o mesas, que lleven a tu propia página.",
     "aviso": "¿Tu negocio tiene QR en el mostrador? Haz que abra tu propia página.",

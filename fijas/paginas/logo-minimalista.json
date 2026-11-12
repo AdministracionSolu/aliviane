@@ -149,14 +149,7 @@
       "respuesta": "Sí. No pide cuenta. La línea «Hecho con Aliviane» viene marcada y la quitas con una casilla."
     }
   ],
-  "relacionadas": [
-    "letras-para-logo",
-    "crear-logo-gratis",
-    "logo-para-marca-de-ropa",
-    "paleta-de-colores-elegante",
-    "isotipo-imagotipo-logotipo",
-    "landing-page"
-  ],
+  "relacionadas": ["letras-para-logo", "logo-3d", "logo-para-marca-de-ropa", "paleta-de-colores-elegante", "isotipo-imagotipo-logotipo", "landing-page"],
   "venta": {
     "puente": "Un logo sobrio pide una página igual de limpia, sin anuncios ni plantillas recargadas.",
     "aviso": "Tu logo ya está listo. ¿Quieres una página igual de limpia con tu dominio?",

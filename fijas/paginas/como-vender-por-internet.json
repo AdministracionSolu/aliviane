@@ -480,14 +480,7 @@
       "respuesta": "Puede convenir. Te trae compradores a cambio de comisiones y reglas, y no reemplaza tener tu propio canal."
     }
   ],
-  "relacionadas": [
-    "tienda-en-linea",
-    "link-de-pago",
-    "link-en-bio",
-    "mensaje-de-recordatorio-para-clientes",
-    "publicidad-en-facebook",
-    "landing-page"
-  ],
+  "relacionadas": ["terminos-y-condiciones", "link-de-pago", "link-en-bio", "mensaje-de-recordatorio-para-clientes", "publicidad-en-facebook", "landing-page"],
   "venta": {
     "puente": "Vender por internet empieza con un lugar donde te encuentren. Aliviane te hace esa página con tu WhatsApp al frente.",
     "titulo": "¿Hacemos la página que manda tus pedidos a WhatsApp?",

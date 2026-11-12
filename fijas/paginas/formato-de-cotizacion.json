@@ -380,14 +380,7 @@
       "respuesta": "Es lo más común en trabajos a la medida. Escribe el porcentaje y cuándo se paga el resto en las condiciones."
     }
   ],
-  "relacionadas": [
-    "nota-de-venta",
-    "recibo-de-pago",
-    "nota-de-remision",
-    "orden-de-servicio",
-    "lista-de-precios",
-    "formato-de-factura"
-  ],
+  "relacionadas": ["xml-de-factura", "pagina-web-para-negocio", "codigo-de-barras-en-excel", "orden-de-servicio", "logo-para-constructora", "formato-de-factura"],
   "venta": {
     "puente": "Tus clientes pueden ver tus servicios y pedirte cotización desde tu propia página.",
     "tituloCorto": "Que te pidan cotización desde tu página",

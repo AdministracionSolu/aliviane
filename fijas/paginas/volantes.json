@@ -50,7 +50,7 @@
       "Usa un QR a tu WhatsApp y cuenta los mensajes nuevos de esa semana.",
       "Reparte una zona por semana y compara los pedidos de cada zona."
     ] },
-    { "p": "El editor arma el QR con el WhatsApp que escribes en tus datos. Si prefieres que abra tu página, cambia el destino a liga." },
+    { "p": "El QR del volante toma el número de WhatsApp de tus datos. Si prefieres que abra tu página, cambia el destino a liga." },
     { "h2": "Volante o flyer" },
     { "p": "En México se dice de las dos formas para la misma pieza. Aquí el volante arranca en media carta y el [flyer](id:flyer) en carta." },
     { "p": "Si necesitas más espacio para explicar servicios, un [folleto tríptico](id:folleto) cabe en la misma hoja carta." }
@@ -59,7 +59,7 @@
     { "pregunta": "¿Qué medida tiene un volante media carta?", "respuesta": "13.97 × 21.59 cm. Es la mitad de una hoja carta." },
     { "pregunta": "¿Puedo imprimir dos volantes en una hoja carta?", "respuesta": "Sí. Lleva el PDF de media carta y pide a la imprenta dos por hoja. El editor baja un volante por página y ellos lo acomodan." },
     { "pregunta": "¿Puedo hacer el volante para WhatsApp?", "respuesta": "Sí. Cambia la medida a «Para redes» y baja el PNG vertical." },
-    { "pregunta": "¿Puedo subir una foto de mi producto?", "respuesta": "Sí. Sube un JPG o PNG y acomódalo arrastrando. La foto no sale de tu equipo." },
+    { "pregunta": "¿Puedo subir una foto de mi producto?", "respuesta": "Sí. Súbela en JPG o PNG y colócala donde quieras. La foto no sale de tu equipo." },
     { "pregunta": "¿Cuesta algo?", "respuesta": "No. Diseñas y bajas los volantes gratis." },
     { "pregunta": "¿El texto se ve bien al imprimir?", "respuesta": "Sí. Las letras van en vectores dentro del PDF y no se pixelean." }
   ],

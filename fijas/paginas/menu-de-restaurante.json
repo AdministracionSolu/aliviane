@@ -186,14 +186,7 @@
       "respuesta": "No. Se edita aquí y se baja en PDF o imagen."
     }
   ],
-  "relacionadas": [
-    "menu-de-cafeteria",
-    "menu-digital",
-    "menu-qr",
-    "catalogo-digital",
-    "promociones-de-hamburguesas",
-    "pagina-web-para-negocio"
-  ],
+  "relacionadas": ["menu-de-cafeteria", "menu-digital", "negocio-de-comida", "catalogo-digital", "promociones-de-hamburguesas", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu menú puede vivir en la página de tu restaurante con fotos, horario y pedidos por WhatsApp.",
     "aviso": "Tu menú ya está listo. ¿Lo subimos a una página con tu dominio y tu WhatsApp?",

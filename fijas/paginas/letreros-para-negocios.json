@@ -66,7 +66,7 @@
     { "pregunta": "¿Necesito permiso para poner un letrero?", "respuesta": "Depende de tu municipio. Pregunta en la oficina de desarrollo urbano antes de instalarlo." },
     { "pregunta": "¿Tiene costo el diseño?", "respuesta": "No. Lo haces y lo bajas gratis las veces que quieras." }
   ],
-  "relacionadas": ["lona-publicitaria", "banner", "horario-de-atencion", "letrero-abierto-cerrado", "crear-logo-gratis", "pagina-web-para-negocio"],
+  "relacionadas": ["lona-publicitaria", "banner", "horario-de-atencion", "letrero-abierto-cerrado", "letrero-se-vende", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu letrero atrae a quien pasa enfrente y tu página atrae a quien te busca desde su casa.",
     "aviso": "Tu letrero ya tiene diseño. ¿Quieres una página con la misma cara?",

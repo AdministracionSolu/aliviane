@@ -420,14 +420,7 @@
       "respuesta": "Sí. Si es original y nadie tiene algo parecido en tu giro, lo puedes registrar ante el IMPI."
     }
   ],
-  "relacionadas": [
-    "crear-logo-gratis",
-    "logo-minimalista",
-    "letras-para-logo",
-    "paleta-de-colores",
-    "crear-logo-con-ia",
-    "favicon"
-  ],
+  "relacionadas": ["logo-para-empresa-de-transporte", "logo-animado", "logo-para-camisetas", "logo-para-carniceria", "crear-logo-con-ia", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu logo luce más en una página con tu nombre. Aliviane te la arma con tu logo, tus colores y tu dominio.",
     "aviso": "Tu logo ya está listo. Si quieres verlo en tu propia página, Aliviane te la hace con tu dominio.",

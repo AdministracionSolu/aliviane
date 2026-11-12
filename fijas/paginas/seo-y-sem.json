@@ -441,14 +441,7 @@
       "respuesta": "Marketing en buscadores. En la práctica se usa para hablar de anuncios pagados en Google."
     }
   ],
-  "relacionadas": [
-    "seo",
-    "publicidad-en-google",
-    "palabras-clave",
-    "seo-local",
-    "agencia-seo",
-    "marketing-digital"
-  ],
+  "relacionadas": ["seo", "publicidad-en-google", "palabras-clave", "seo-local", "agencia-seo", "landing-page"],
   "venta": {
     "puente": "SEO y anuncios llegan al mismo lugar, tu página. Aliviane te la hace rápida en celular y con tu dominio.",
     "titulo": "¿Hacemos la página que recibe tus visitas de Google?",

@@ -73,7 +73,7 @@
     { "pregunta": "¿Cómo uso el archivo CSS?", "respuesta": "Pégalo al inicio de tu hoja de estilos. Cada color queda como una variable que puedes llamar por su nombre." },
     { "pregunta": "¿Los colores salen igual al imprimir?", "respuesta": "No siempre. La pantalla y la tinta mezclan el color distinto, así que pide una prueba impresa." }
   ],
-  "relacionadas": ["paleta-de-colores-azul", "combinaciones-de-colores", "paleta-de-colores-cafe", "paleta-de-colores-gris", "paleta-de-colores-beige", "landing-page"],
+  "relacionadas": ["paleta-de-colores-azul", "paleta-de-colores-lila", "paleta-de-colores-cafe", "paleta-de-colores-amarillo", "paleta-de-colores-beige", "landing-page"],
   "venta": {
     "puente": "Tu paleta puede vestir tu propia página con tu dominio y tus colores.",
     "aviso": "Ya tienes tus colores. ¿Quieres verlos en una página con tu marca y tu dominio?",

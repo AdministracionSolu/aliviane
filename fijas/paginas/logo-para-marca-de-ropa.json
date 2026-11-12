@@ -149,14 +149,7 @@
       "respuesta": "No. Las descargas son gratis. La línea «Hecho con Aliviane» viene marcada y la quitas con una casilla."
     }
   ],
-  "relacionadas": [
-    "logo-para-camisetas",
-    "logo-minimalista",
-    "letras-para-logo",
-    "nombres-para-tiendas-de-ropa",
-    "crear-logo-gratis",
-    "tienda-de-ropa"
-  ],
+  "relacionadas": ["logo-para-camisetas", "logo-minimalista", "letras-para-logo", "nombres-para-tiendas-de-ropa", "pagina-web-para-negocio", "tienda-de-ropa"],
   "venta": {
     "puente": "Tu marca de ropa se ve más seria con un catálogo propio y su dominio.",
     "aviso": "Tu logo ya está listo. ¿Quieres una página para mostrar tu colección?",

@@ -359,14 +359,14 @@
     {
       "ul": [
         "Tu página tarda varios segundos en abrir.",
-        "Se cae seguido y te enteras por tus clientes.",
+        "Un cliente te avisa que no abre antes que tu proveedor.",
         "El soporte tarda días en contestar.",
         "Te cobran extras por cosas que antes venían incluidas.",
         "No puedes hacer respaldos ni recuperar una versión anterior."
       ]
     },
     {
-      "p": "Si notas dos o más de estas señales, vale la pena cambiar. Antes de mover, haz un respaldo completo y guarda el acceso a tu dominio."
+      "p": "Con una sola señal empieza a comparar proveedores. Con dos ya conviene mudarte siguiendo los pasos de arriba."
     },
     {
       "h2": "Errores comunes con el hosting"
@@ -412,14 +412,7 @@
       "respuesta": "Cerca de tus clientes o detrás de una red de distribución. Así la página abre más rápido en México."
     }
   ],
-  "relacionadas": [
-    "que-es-un-dominio",
-    "dominio-y-hosting",
-    "hosting-en-mexico",
-    "certificado-ssl",
-    "comprar-dominio",
-    "precios-de-hostinger"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "dominio-y-hosting", "hosting-en-mexico", "certificado-ssl", "comprar-dominio", "precios-de-hostinger"],
   "venta": {
     "puente": "Con Aliviane no contratas hosting aparte. Los $99 al mes incluyen tu página en línea y cambios cada semana.",
     "titulo": "¿Hacemos tu página con hosting incluido?",

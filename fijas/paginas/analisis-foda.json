@@ -490,14 +490,7 @@
       "respuesta": "Sí. Llena las fortalezas con lo que sabes hacer y las oportunidades con lo que viste en tu zona. Revísalo otra vez a los seis meses de abrir."
     }
   ],
-  "relacionadas": [
-    "modelo-canvas",
-    "mision-y-vision",
-    "plan-de-negocios",
-    "negocios-rentables",
-    "ideas-de-negocio",
-    "valores-de-una-empresa"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "mision-y-vision", "franquicias-baratas", "plan-de-ventas", "ideas-de-negocio", "valores-de-una-empresa"],
   "venta": {
     "puente": "Si tu FODA dice que nadie te encuentra en internet, Aliviane te hace la página que lo resuelve.",
     "titulo": "¿Convertimos esa debilidad en tu página web?",

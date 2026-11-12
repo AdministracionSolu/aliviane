@@ -249,7 +249,7 @@
       ]
     },
     {
-      "p": "Una agencia seria contesta todo con palabras claras. Si te contestan con palabras que no entiendes, pide que lo repitan en llano."
+      "p": "Una agencia seria contesta todo con claridad. Si usan términos que no entiendes, pide que te lo expliquen con un ejemplo."
     },
     {
       "venta": true
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "p": "Si al final del primer mes no hay plan escrito ni reporte, pregunta por qué. Es una buena señal de cómo será el resto."
+      "p": "Si al final del primer mes no hay plan escrito ni reporte, pregunta por qué. Esa falta te dice cómo será el resto."
     },
     {
       "h2": "Cómo medir si la agencia está funcionando"
@@ -437,7 +437,7 @@
       "h2": "Ejemplo de una panadería que contrata ayuda"
     },
     {
-      "p": "Ejemplo inventado para ver el orden en un caso real. Una panadería en Querétaro quiere vender pasteles por encargo."
+      "p": "Un caso de ejemplo para ver el orden completo. Una panadería en Querétaro quiere vender pasteles por encargo."
     },
     {
       "p": "Primero llena su ficha de Google y pide reseñas a sus clientes de siempre. Luego hace una página con fotos de pasteles y un botón de WhatsApp."
@@ -526,7 +526,7 @@
   "venta": {
     "puente": "Toda agencia necesita a dónde mandar a la gente. Aliviane te hace esa página con tu dominio y tu WhatsApp.",
     "titulo": "¿Empezamos por la página a donde llegan tus clientes?",
-    "tituloCorto": "¿Ya tienes a dónde mandar a la gente?",
+    "tituloCorto": "¿Tus anuncios ya llevan a una página tuya?",
     "trabajos": [
       "laola",
       "comprafin",

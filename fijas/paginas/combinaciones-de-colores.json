@@ -68,7 +68,7 @@
     { "pregunta": "¿Puedo combinar más de tres colores?", "respuesta": "Sí, si dos de ellos son neutros. Blanco, gris o crema no cuentan como color fuerte." },
     { "pregunta": "¿La herramienta funciona con mi color de marca?", "respuesta": "Sí. Escribe su HEX y todas las combinaciones salen de él." }
   ],
-  "relacionadas": ["paleta-de-colores", "paleta-de-colores-azul", "paleta-de-colores-naranja", "paleta-de-colores-amarillo", "paleta-de-colores-frios", "diseno-de-paginas-web"],
+  "relacionadas": ["paleta-de-colores-lila", "paleta-de-colores-azul", "paleta-de-colores-naranja", "paleta-de-colores-amarillo", "paleta-de-colores-frios", "diseno-de-paginas-web"],
   "venta": {
     "puente": "Tu combinación puede ser la base de tu propia página con tu dominio.",
     "aviso": "Ya encontraste tu combinación. ¿La vemos aplicada en una página con tu marca?",

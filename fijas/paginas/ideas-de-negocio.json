@@ -511,14 +511,7 @@
       "respuesta": "Depende de ti. Busca la que junta lo que sabes hacer con lo que falta en tu zona. Usa las cuatro preguntas del inicio."
     }
   ],
-  "relacionadas": [
-    "negocios-rentables",
-    "negocios-desde-casa",
-    "negocios-en-linea",
-    "plan-de-negocios",
-    "modelo-canvas",
-    "nombres-para-empresas"
-  ],
+  "relacionadas": ["negocios-rentables", "negocios-desde-casa", "negocios-en-linea", "plan-de-negocios", "modelo-canvas", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Cuando elijas tu idea, Aliviane te hace la página para que tus primeros clientes te encuentren.",
     "titulo": "¿Hacemos la página de tu nuevo negocio?",

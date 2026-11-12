@@ -113,7 +113,7 @@
       "p": "Un restaurante familiar pone su menú en su propia página y un QR en cada mesa. Cuando sube el precio del aguacate cambia los precios en la página."
     },
     {
-      "p": "Los tarjetones de las mesas siguen igual y nadie reimprime nada. La carta impresa se queda para los clientes de siempre que la prefieren."
+      "p": "Los tarjetones de las mesas siguen igual y nadie reimprime nada. La carta impresa se queda para los clientes de siempre que la prefieren. Además sumó tres detalles fáciles."
     },
     {
       "ul": [
@@ -142,7 +142,7 @@
     },
     {
       "pregunta": "¿Puedo poner el logo del restaurante?",
-      "respuesta": "Sí. Súbelo en los ajustes y el QR sube su corrección sola."
+      "respuesta": "Sí. Súbelo en los ajustes y el QR se ajusta solo para seguir leyéndose."
     },
     {
       "pregunta": "¿Mis clientes necesitan una aplicación?",

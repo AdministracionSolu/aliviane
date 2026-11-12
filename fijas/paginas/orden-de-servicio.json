@@ -154,14 +154,7 @@
       "respuesta": "Sí. El título del documento se edita sobre la hoja."
     }
   ],
-  "relacionadas": [
-    "recibo-de-pago",
-    "formato-de-cotizacion",
-    "nota-de-remision",
-    "orden-de-compra",
-    "lista-de-precios",
-    "pagina-web-para-negocio"
-  ],
+  "relacionadas": ["recibo-de-pago", "recibo-de-renta", "nota-de-remision", "orden-de-compra", "lista-de-precios", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu taller puede tener su página con servicios, precios y un botón para agendar por WhatsApp.",
     "aviso": "Tu orden ya está lista. ¿Quieres una página para tu taller con tu dominio?",

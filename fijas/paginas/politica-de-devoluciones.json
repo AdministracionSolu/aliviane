@@ -181,13 +181,7 @@
       "respuesta": "Sí. También lo copias como texto o HTML."
     }
   ],
-  "relacionadas": [
-    "terminos-y-condiciones",
-    "aviso-de-privacidad",
-    "tienda-en-linea",
-    "nota-de-venta",
-    "tienda-de-ropa"
-  ],
+  "relacionadas": ["terminos-y-condiciones", "aviso-de-privacidad", "tienda-en-linea", "nota-de-venta", "tienda-de-ropa", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu política de devoluciones se lee mejor en tu propia página, junto a tu catálogo.",
     "aviso": "¿Ya tienes tu política? Publícala en tu página junto a tu catálogo.",

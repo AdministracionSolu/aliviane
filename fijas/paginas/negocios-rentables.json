@@ -528,14 +528,7 @@
       "respuesta": "Depende del giro. La comida preparada suele dejar más margen por pieza que la reventa de productos de marca."
     }
   ],
-  "relacionadas": [
-    "ideas-de-negocio",
-    "plan-de-negocios",
-    "analisis-foda",
-    "modelo-canvas",
-    "negocios-desde-casa",
-    "franquicias-baratas"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "negocios-en-linea", "analisis-foda", "modelo-canvas", "negocios-desde-casa", "franquicias-baratas"],
   "venta": {
     "puente": "Un negocio rentable también necesita que lo encuentren. Aliviane te hace la página con tu dominio y tu WhatsApp.",
     "titulo": "¿Hacemos la página de tu nuevo negocio?",

@@ -470,14 +470,7 @@
       "respuesta": "Una primera versión toma una o dos horas. Lo valioso viene después, cuando lo pruebas con clientes y lo corriges."
     }
   ],
-  "relacionadas": [
-    "analisis-foda",
-    "plan-de-negocios",
-    "mision-y-vision",
-    "ideas-de-negocio",
-    "negocios-rentables",
-    "como-emprender-un-negocio"
-  ],
+  "relacionadas": ["pagina-web-para-negocio", "plan-de-negocios", "mision-y-vision", "ideas-de-negocio", "negocios-rentables", "como-emprender-un-negocio"],
   "venta": {
     "puente": "Tu Canvas tiene un bloque de canales. Una página propia con tu dominio es el canal que no depende de nadie.",
     "titulo": "¿Hacemos la página que va en tu bloque de canales?",

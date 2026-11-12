@@ -451,14 +451,7 @@
       "respuesta": "El mismo de tu letrero. Si ya está ocupado, agrega tu ciudad al final para distinguirte."
     }
   ],
-  "relacionadas": [
-    "portada-de-facebook",
-    "publicidad-en-facebook",
-    "marketing-en-redes-sociales",
-    "link-en-bio",
-    "whatsapp-business-para-empresas",
-    "iconos-para-historias-destacadas"
-  ],
+  "relacionadas": ["portada-de-facebook", "publicidad-en-facebook", "marketing-en-redes-sociales", "pagina-web-para-negocio", "whatsapp-business-para-empresas", "iconos-para-historias-destacadas"],
   "venta": {
     "puente": "Tu página de Facebook pide un sitio web. Aliviane te hace la landing con tu dominio para ese campo.",
     "titulo": "¿Hacemos el sitio web que va en tu página de Facebook?",

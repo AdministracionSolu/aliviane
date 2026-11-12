@@ -141,14 +141,7 @@
       "respuesta": "Revisa marca y dominio. Luego arma tu logo y tu menú con el mismo nombre."
     }
   ],
-  "relacionadas": [
-    "logo-para-restaurante",
-    "menu-de-restaurante",
-    "slogan",
-    "nombres-para-comida-rapida",
-    "nombres-para-empresas",
-    "buscar-dominio"
-  ],
+  "relacionadas": ["logo-para-restaurante", "menu-de-restaurante", "slogan", "nombres-para-comida-rapida", "nombres-para-empresas", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu restaurante puede tener una página con tu menú, tu horario y pedidos por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu restaurante puede tener página con su menú y su dominio.",

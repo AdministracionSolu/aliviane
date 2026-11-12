@@ -190,14 +190,7 @@
       "respuesta": "Sí. Uno fijo para tu marca y otros para cada campaña o temporada."
     }
   ],
-  "relacionadas": [
-    "nombres-para-empresas",
-    "nombres-para-restaurantes",
-    "nombres-para-tiendas-de-ropa",
-    "crear-logo-gratis",
-    "frases-para-vender",
-    "flyer"
-  ],
+  "relacionadas": ["promociones-de-hamburguesas", "pagina-web-para-negocio", "nombres-para-tiendas-de-ropa", "nombres-para-polleria", "nombres-para-barberia", "nombres-para-tienda-de-variedades"],
   "venta": {
     "puente": "Tu slogan luce mejor arriba de tu propia página, junto a tus servicios y tu WhatsApp.",
     "aviso": "¿Ya tienes tu frase? Ponla en la portada de tu propia página.",

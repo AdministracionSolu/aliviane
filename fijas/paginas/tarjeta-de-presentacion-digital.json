@@ -154,14 +154,7 @@
       "respuesta": "No. La haces y la bajas gratis."
     }
   ],
-  "relacionadas": [
-    "tarjetas-de-presentacion",
-    "tarjetas-de-presentacion-para-abogados",
-    "link-de-whatsapp",
-    "codigo-qr-para-whatsapp",
-    "firma-de-correo",
-    "landing-page"
-  ],
+  "relacionadas": ["tarjetas-de-presentacion", "tarjetas-de-presentacion-para-abogados", "imprimir-tarjetas-de-presentacion", "codigo-qr-para-whatsapp", "firma-de-correo", "landing-page"],
   "venta": {
     "puente": "Tu tarjeta digital se reenvía en segundos y tu página le da a quien la recibe todo lo demás.",
     "aviso": "Tu tarjeta digital ya está lista. ¿Quieres que su QR lleve a tu propia página?",

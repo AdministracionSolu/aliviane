@@ -153,14 +153,7 @@
       "respuesta": "Los que quieras. El PDF agrega hojas solo."
     }
   ],
-  "relacionadas": [
-    "menu-digital",
-    "menu-de-restaurante",
-    "menu-qr",
-    "lista-de-precios",
-    "link-de-whatsapp",
-    "tienda-de-ropa"
-  ],
+  "relacionadas": ["menu-digital", "menu-de-restaurante", "menu-qr", "lista-de-precios", "pagina-web-para-negocio", "tienda-de-ropa"],
   "venta": {
     "puente": "Tu catálogo puede vivir en tu propia página con una liga que nunca caduca.",
     "aviso": "Tu catálogo ya está listo. ¿Quieres que también esté en una página con tu dominio?",

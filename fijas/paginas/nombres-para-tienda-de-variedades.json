@@ -6,7 +6,7 @@
   "busquedas": [
     "nombre para tienda que vende de todo"
   ],
-  "title": "Nombres para tiendas que venden de todo, ideas gratis",
+  "title": "Nombres para tiendas que venden de todo: ideas gratis",
   "h1": "Nombres para tiendas que venden de todo",
   "description": "Nombres para tiendas que venden de todo: bazar, regalos, novedades y mercería. Ideas por estilo, favoritos guardados y aviso de dominio. Gratis y sin registro.",
   "resumen": "Ideas para bazar, regalos, novedades o tienda de todo un poco",
@@ -118,7 +118,7 @@
       "h2": "Registro de marca de un bazar"
     },
     {
-      "p": "Palabras como «bazar» o «novedades» describen el giro. Solas no se pueden registrar como marca según el artículo 173."
+      "p": "Palabras como «bazar» o «novedades» describen el giro. Solas no se registran como marca según el artículo 173 de la ley de propiedad industrial."
     },
     {
       "p": "Combínalas con algo distintivo y busca antes en el buscador de marcas del IMPI. Un registro otorgado dura diez años."
@@ -150,14 +150,7 @@
       "respuesta": "No sola. Es una palabra común del giro y necesita otra que la distinga."
     }
   ],
-  "relacionadas": [
-    "nombres-para-tiendas",
-    "nombres-para-empresas",
-    "catalogo-digital",
-    "slogan",
-    "letreros-para-negocios",
-    "buscar-dominio"
-  ],
+  "relacionadas": ["nombres-para-tiendas", "nombres-para-empresas", "catalogo-digital", "slogan", "letreros-para-negocios", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tu bazar puede tener una página con tus novedades de temporada y pedidos por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu tienda puede enseñar sus novedades en su propia página.",

@@ -435,14 +435,7 @@
       "respuesta": "La publicidad es una parte del marketing. Es la parte que pagas para aparecer en anuncios."
     }
   ],
-  "relacionadas": [
-    "agencia-de-marketing-digital",
-    "seo",
-    "marketing-en-redes-sociales",
-    "publicidad-en-google",
-    "google-mi-negocio",
-    "campana-publicitaria"
-  ],
+  "relacionadas": ["agencia-de-marketing-digital", "como-atraer-clientes", "landing-page", "publicidad-en-google", "anuncio-publicitario", "marketing-b2b"],
   "venta": {
     "puente": "Todo tu marketing necesita un lugar a dónde mandar a la gente. Aliviane te hace esa página con tu dominio y tu WhatsApp.",
     "titulo": "¿Hacemos la página a donde llega tu marketing?",

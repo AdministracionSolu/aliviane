@@ -9,8 +9,8 @@
   ],
   "title": "Valores de una empresa: ejemplos y cómo definir los tuyos",
   "h1": "Valores de una empresa: qué son y cómo escribir los de tu negocio",
-  "description": "Qué son los valores de una empresa, 40 ejemplos explicados con acciones reales y cómo definir los de tu negocio en 6 pasos. Para negocios chicos. Escríbelos.",
-  "resumen": "40 valores con ejemplos reales y 6 pasos para escribir los de tu negocio",
+  "description": "Qué son los valores de una empresa, 40 ejemplos explicados con acciones concretas y cómo definir los de tu negocio en 6 pasos. Para negocios chicos. Escríbelos.",
+  "resumen": "40 valores con su acción y 6 pasos para escribir los de tu negocio",
   "categoria": "Negocio",
   "revisada": "2026-11",
   "respuesta": [
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "h2": "40 valores con ejemplos reales"
+      "h2": "40 valores con un ejemplo de cada uno"
     },
     {
       "p": "Un valor sin ejemplo se queda en el aire. En esta tabla cada valor lleva una acción que se puede ver en un negocio."
@@ -300,7 +300,7 @@
       "h2": "Ejemplos de valores por tipo de negocio"
     },
     {
-      "p": "Ejemplos inventados para ver cómo cambia cada giro. Toma la idea y escribe los tuyos."
+      "p": "Son ejemplos para ver cómo cambia cada giro. Toma la idea y escribe los tuyos."
     },
     {
       "tabla": {
@@ -406,7 +406,7 @@
       "h2": "Ejemplo de texto para tu página"
     },
     {
-      "p": "Ejemplo inventado para la sección de quiénes somos de una taquería. Así se cuentan los valores sin sonar a discurso."
+      "p": "Un ejemplo para la sección de quiénes somos de una taquería. Así se cuentan los valores sin sonar a discurso."
     },
     {
       "p": "En Tacos Don Rafa la plancha se limpia frente a ti. Tu orden sale en cinco minutos y la salsa es la misma receta desde 1998. Si algo no te gustó, dínoslo y lo arreglamos."
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "p": "Una foto de tu equipo limpiando la cocina dice más que la palabra limpieza. Muestra el valor en acción."
+      "p": "Una foto de tu equipo limpiando la cocina dice más que la palabra limpieza. Una reseña que cuenta un buen trato hace lo mismo con el servicio."
     },
     {
       "h2": "Valores, misión y visión: cómo se relacionan"
@@ -462,7 +462,7 @@
       }
     },
     {
-      "p": "Los tres deben sonar a lo mismo. Si tu misión habla de rapidez y ningún valor la sostiene, falta algo."
+      "p": "Las tres piezas deben apuntar al mismo lado. Si tu misión habla de rapidez y ningún valor la sostiene, falta algo."
     },
     {
       "h2": "Fallas comunes al definir valores"
@@ -470,7 +470,7 @@
     {
       "ul": [
         "Copiar los valores de una empresa grande.",
-        "Escoger diez valores que nadie recuerda.",
+        "Escoger valores tan generales que cualquier negocio podría firmarlos.",
         "Usar palabras sin explicar cómo se ven.",
         "Escribirlos y guardarlos en un cajón.",
         "Exigirlos al equipo sin practicarlos tú.",

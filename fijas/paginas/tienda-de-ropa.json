@@ -10,9 +10,10 @@
     "vender ropa por internet",
     "publicidad para tienda de ropa"
   ],
-  "title": "Tienda online ropa: tu catálogo y pedidos por WhatsApp",
+  "cabeza_titulo": ["tienda online de ropa"],
+  "title": "Tienda online de ropa: catálogo y pedidos por WhatsApp",
   "h1": "Tienda online de ropa para tu negocio",
-  "description": "Tienda online de ropa con tu catálogo, tallas y pedidos por WhatsApp. Ideas para vender más y tu página desde $1,500 con dominio incluido y cambios cada semana.",
+  "description": "Tienda online de ropa con tu catálogo, tallas y pedidos por WhatsApp. Ideas de publicidad y tu página desde $1,500 con dominio incluido y cambios cada semana.",
   "resumen": "Catálogo, tallas y pedidos por WhatsApp para tu tienda de ropa",
   "categoria": "Por giro",
   "revisada": "2026-11",
@@ -193,7 +194,7 @@
         },
         {
           "titulo": "Da el total con envío",
-          "texto": "Suma la prenda y el envío en un solo número para que no haya sorpresas al recibir."
+          "texto": "Suma la prenda y el envío en un solo número para que sepa cuánto pagará."
         },
         {
           "titulo": "Acuerda el pago",
@@ -262,7 +263,7 @@
       "respuesta": "Sí. La armamos con tus medidas en centímetros por talla."
     },
     {
-      "pregunta": "¿La página me trae clientas sola?",
+      "pregunta": "¿Con la página me llegan clientas solas?",
       "respuesta": "No sola. Funciona junto con tus redes, tus bolsas y tus recomendaciones."
     }
   ],
@@ -290,5 +291,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Intención mezclada (comprar ropa contra vender ropa): se escribe para quien vende. Cabeza de 3K: no se leyó top 3. No hay tienda de ropa en el portafolio."
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. Lote H3 (12-nov-2026). Intención mezclada (comprar ropa contra vender ropa): se escribe para quien vende. Cabeza de 3K: no se leyó top 3. No hay tienda de ropa en el portafolio."
 }

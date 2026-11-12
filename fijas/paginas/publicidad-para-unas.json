@@ -10,7 +10,8 @@
     "publicidades de uñas",
     "página web para salón de uñas"
   ],
-  "title": "Uñas publicidad: ideas para tu salón y tu página web",
+  "cabeza_titulo": ["publicidad para uñas"],
+  "title": "Publicidad para uñas: ideas para tu salón y tu página web",
   "h1": "Publicidad para uñas: ideas y la página de tu salón",
   "description": "Ideas de publicidad para uñas con fotos y precios claros, y la página de tu salón. Galería, precios y citas por WhatsApp desde $1,500 con tu dominio.",
   "resumen": "Ideas para tu salón de uñas y la página que necesita",
@@ -281,5 +282,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "Muestra de molde por giro (tanda 1). Intención mezclada: ideas de publicidad + página del salón. Trabajos: no hay un salón de uñas en el portafolio; cuando haya una muestra del giro en sitios/, ponerla."
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. Muestra de molde por giro (tanda 1). Intención mezclada: ideas de publicidad + página del salón. Trabajos: no hay un salón de uñas en el portafolio; cuando haya una muestra del giro en sitios/, ponerla."
 }

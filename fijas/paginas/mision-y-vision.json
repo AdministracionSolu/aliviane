@@ -446,14 +446,7 @@
       "respuesta": "La visión es la meta grande de varios años. Un objetivo es un paso medible con fecha que te acerca a ella."
     }
   ],
-  "relacionadas": [
-    "valores-de-una-empresa",
-    "analisis-foda",
-    "modelo-canvas",
-    "plan-de-negocios",
-    "ideas-de-negocio",
-    "frases-de-emprendedores"
-  ],
+  "relacionadas": ["valores-de-una-empresa", "analisis-foda", "modelo-canvas", "pagina-web-para-negocio", "ideas-de-negocio", "frases-de-emprendedores"],
   "venta": {
     "puente": "Tu misión se lee mejor en tu propia página. Aliviane te la hace con tu dominio y tu historia.",
     "titulo": "¿Hacemos la página que cuenta tu misión?",

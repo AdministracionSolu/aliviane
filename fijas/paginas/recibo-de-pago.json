@@ -174,14 +174,7 @@
       "respuesta": "Sí. Sube solo cada vez que descargas en el mismo navegador."
     }
   ],
-  "relacionadas": [
-    "recibo-de-renta",
-    "nota-de-venta",
-    "nota-de-remision",
-    "formato-de-cotizacion",
-    "orden-de-servicio",
-    "pagina-web-para-negocio"
-  ],
+  "relacionadas": ["recibo-de-renta", "xml-de-factura", "nota-de-remision", "formato-de-cotizacion", "orden-de-servicio", "pagina-web-para-negocio"],
   "venta": {
     "puente": "Tus clientes pueden ver tus servicios y precios en tu propia página antes de pagarte.",
     "aviso": "Tu recibo ya está listo. ¿Quieres una página donde tus clientes vean tus servicios y precios?",

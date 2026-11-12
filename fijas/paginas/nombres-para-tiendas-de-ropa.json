@@ -144,14 +144,7 @@
       "respuesta": "Sí. Bajas todas las ideas o sólo tus favoritas en un archivo de texto."
     }
   ],
-  "relacionadas": [
-    "logo-para-marca-de-ropa",
-    "tienda-de-ropa",
-    "nombres-para-empresas",
-    "slogan",
-    "buscar-dominio",
-    "nombres-para-tiendas"
-  ],
+  "relacionadas": ["logo-para-marca-de-ropa", "tienda-de-ropa", "nombres-para-empresas", "slogan", "pagina-web-para-negocio", "nombres-para-tiendas"],
   "venta": {
     "puente": "Tu tienda de ropa puede tener una página con tu catálogo y un botón para pedir por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu tienda puede tener su página con ese dominio.",

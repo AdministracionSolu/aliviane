@@ -152,13 +152,7 @@
       "respuesta": "Con el [QR para wifi](id:qr-wifi). Escribes nombre y clave y lo bajas."
     }
   ],
-  "relacionadas": [
-    "qr-wifi",
-    "lector-qr",
-    "generador-de-qr",
-    "menu-qr",
-    "codigo-qr-para-whatsapp"
-  ],
+  "relacionadas": ["qr-wifi", "lector-qr", "generador-de-qr", "menu-qr", "codigo-qr-para-whatsapp", "landing-page"],
   "venta": {
     "puente": "Tu negocio puede poner junto al wifi un QR que lleve a tu página con tu menú y tus promociones.",
     "aviso": "¿Das wifi a tus clientes? Que también encuentren tu página con un QR.",
