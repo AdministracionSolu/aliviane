@@ -16,7 +16,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "barberia"
+    "modo": "barberia",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

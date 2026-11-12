@@ -18,7 +18,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "restaurante"
+    "modo": "restaurante",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

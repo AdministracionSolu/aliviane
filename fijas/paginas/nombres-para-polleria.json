@@ -16,7 +16,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "polleria"
+    "modo": "polleria",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

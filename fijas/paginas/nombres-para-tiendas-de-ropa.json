@@ -21,7 +21,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "ropa"
+    "modo": "ropa",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

@@ -16,7 +16,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "salon-de-belleza"
+    "modo": "salon-de-belleza",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

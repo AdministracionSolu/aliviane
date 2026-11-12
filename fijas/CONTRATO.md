@@ -53,7 +53,8 @@ toda la lista. **El slug y el molde son los de `fijas/lista.json` y no se cambia
 | `categoriaApp` | Opcional, sólo herramientas: `applicationCategory` de schema.org (por omisión `BusinessApplication`). |
 | `revisada` | `AAAA-MM` → «Revisada en [mes año]». Obligatoria si hay cifras, leyes o precios. |
 | `respuesta` | Lista de 1 a 2 párrafos (2 a 4 frases en total) que contestan la búsqueda. Párrafo normal: sin etiqueta ni recuadro. |
-| `herramienta` | `{ "id": "<motor>", "modo": "<modo>" }` o `null`. Ver «Motores». |
+| `herramienta` | `{ "id": "<motor>", "modo": "<modo>", "opciones"? }` o `null`. Ver «Motores». |
+| `herramienta.opciones` | Opcional. Objeto que llega a `montar()` junto con `modo` e `idioma` (no los repite): `textos`, `diseno`, `formato`… según el motor. **Ligas a otra fija siempre como `"id:<página>"`**: el generador pone su ruta sólo si esa página está publicada (en borradores, si existe) y si no pone `""`, que apaga la liga en el motor. Una ruta escrita a mano hacia una fija truena en las pruebas. |
 | `cuerpo` | Bloques (abajo). |
 | `faqs` | `[{ pregunta, respuesta }]`. Cada respuesta **abre con la respuesta** («Sí.», «No.», «En pocos días.»). Emiten FAQPage. |
 | `relacionadas` | 3 a 6 ids de hermanas (de la lista). Sólo se pintan las publicadas; una página publicada necesita 3 publicadas. |
@@ -127,7 +128,7 @@ conoce, cada motor usa su modo por omisión (el primero de su lista). Los que no
 | `menu` | restaurante, cafeteria, digital | |
 | `catalogo` | (sin modo) | |
 | `visor-cfdi` | (sin modo) | |
-| `nombres` | general, tiendas, ropa, restaurante, polleria, barberia, salon-de-belleza, comida-rapida, variedades | `textos.ligaDominio` (p. ej. `/herramientas/buscar-dominio/`) pinta «Ver si está libre» en cada nombre, sólo cuando esa página esté publicada. |
+| `nombres` | general, tiendas, ropa, restaurante, polleria, barberia, salon-de-belleza, comida-rapida, variedades | `"opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }` pinta «Ver si está libre» en cada nombre que cabe como dominio y abre `buscar-dominio?dominio=…`. Puesto en las 9 páginas de nombres: sale sólo cuando `buscar-dominio` esté publicada. |
 | `slogan` | general y los mismos giros de `nombres` | El giro se cambia dentro del motor. |
 | `texto-legal` | aviso-privacidad (integral y simplificado), terminos, devoluciones | LFPDPPP nueva (DOF 20-03-2025, reforma 14-11-2025) y LFPC (reforma 12-12-2025) leídas en diputados.gob.mx el 12-nov. No deja copiar ni bajar si faltan nombre, domicilio o correo. Revisar las leyes en cada `revisada`. |
 | `firma-correo` | (sin modo), gmail, outlook | El modo sólo abre primero los pasos de ese correo. |

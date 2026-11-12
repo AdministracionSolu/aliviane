@@ -72,6 +72,22 @@ for (const p of paginas) {
   if (!p.venta?.puente) mal(p, 'falta venta.puente (frase que conecta el tema con el negocio)');
   for (const t of p.venta?.trabajos || []) if (!TRABAJOS[t]) mal(p, `trabajo desconocido ${t}`);
   if (p.molde === 'herramienta' && !p.herramienta?.id) mal(p, 'herramienta sin herramienta.id');
+  // herramienta.opciones: objeto; ligas a otras fijas con «id:<página>» (el generador las apaga si no está publicada).
+  if (p.herramienta?.opciones !== undefined) {
+    const o = p.herramienta.opciones;
+    if (!o || typeof o !== 'object' || Array.isArray(o)) mal(p, 'herramienta.opciones debe ser un objeto');
+    else {
+      if ('modo' in o || 'idioma' in o) mal(p, 'herramienta.opciones no lleva modo ni idioma (van en herramienta.modo)');
+      const recorrer = (v, donde) => {
+        if (typeof v === 'string') {
+          if (v.startsWith('id:') && !idsPlan.has(v.slice(3))) mal(p, `${donde} liga a «${v.slice(3)}», que no existe ni en la lista`);
+          const r = v.split(/[?#]/)[0];
+          if (!v.startsWith('id:') && [...lista, ...paginas].some((x) => ruta(x) === r)) mal(p, `${donde} liga a una fija con «${v}»: usa «id:<página>» para que se apague si no está publicada`);
+        } else if (v && typeof v === 'object') for (const [k, x] of Object.entries(v)) recorrer(x, `${donde}.${k}`);
+      };
+      recorrer(o, 'herramienta.opciones');
+    }
+  }
   if ((p.respuesta || []).length < 1) mal(p, 'falta respuesta (2 a 4 frases bajo el H1)');
   const rel = p.relacionadas || [];
   if (rel.length < 3 || rel.length > 6) mal(p, `da ${rel.length} ligas a hermanas (3 a 6)`);

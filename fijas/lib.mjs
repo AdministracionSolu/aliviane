@@ -294,6 +294,22 @@ ${corta ? '' : `<p class="alterno">También por correo a <a href="mailto:${CORRE
 // Todos los motores las mandan con avisar() de js/herramientas/_comun.js en el evento «aliviane:resultado».
 export const ACCIONES_AVISO = ['descargar', 'copiar', 'leer', 'consultar'];
 
+// Opciones extra del motor desde la página (`herramienta.opciones`, llegan a montar() junto con modo e idioma).
+// Un texto «id:<página>» se vuelve la ruta de esa página sólo si está visible en este render (publicada; en
+// borradores, si existe). Si no, se vuelve '' y el motor apaga esa liga (p. ej. textos.ligaDominio de nombres).
+export function opcionesMotor(p, ctx) {
+  const resolver = (v) => {
+    if (typeof v === 'string' && v.startsWith('id:')) {
+      const q = ctx.porId.get(v.slice(3));
+      return q && ctx.visibleId.has(q.id) ? ruta(q) : '';
+    }
+    if (Array.isArray(v)) return v.map(resolver);
+    if (v && typeof v === 'object') return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, resolver(x)]));
+    return v;
+  };
+  return resolver(p.herramienta?.opciones || {});
+}
+
 function herramienta(p, ctx) {
   const h = p.herramienta;
   if (!h?.id) return '';
@@ -302,7 +318,7 @@ function herramienta(p, ctx) {
     if (!ctx.borradores) throw new Error(`${p.id}: el motor js/herramientas/${h.id}.js no existe; no se puede publicar`);
     return `<div class="herramienta-zona"><div class="ah-herramienta ah-hueco" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"><p>La herramienta aparece aquí.</p></div></div>`;
   }
-  const opciones = JSON.stringify({ modo: h.modo || undefined, idioma: 'es-MX' });
+  const opciones = JSON.stringify({ ...opcionesMotor(p, ctx), modo: h.modo || undefined, idioma: 'es-MX' }).replace(/</g, '\\u003c');
   return `<div class="herramienta-zona"><link rel="stylesheet" href="/css/herramientas.css"><div class="ah-herramienta" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"></div>
 <script type="module">import{montar}from"/js/herramientas/${h.id}.js";montar(document.querySelector('.ah-herramienta'),${opciones});</script></div>
 <aside class="aviso" id="aviso-venta" hidden><p>${md(p.venta?.aviso || p.venta?.puente, ctx)} <a href="${ligaWhatsApp(p)}" target="_blank" rel="noopener">Pídela por WhatsApp</a></p></aside>

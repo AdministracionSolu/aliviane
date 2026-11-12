@@ -35,7 +35,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "general"
+    "modo": "general",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

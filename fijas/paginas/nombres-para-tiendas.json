@@ -20,7 +20,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "tiendas"
+    "modo": "tiendas",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {

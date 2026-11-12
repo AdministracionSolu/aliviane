@@ -16,7 +16,8 @@
   ],
   "herramienta": {
     "id": "nombres",
-    "modo": "comida-rapida"
+    "modo": "comida-rapida",
+    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
   },
   "cuerpo": [
     {
