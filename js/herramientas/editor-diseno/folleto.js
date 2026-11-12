@@ -51,12 +51,12 @@ function triptico(e) {
     const tinta = e.portada === 'bloque' ? claroDe(p.acento) : p.tinta;
     if (e.portada === 'bloque') ext.push(k.R(xc, 0, pw, H, p.acento));
     if (e.portada === 'foto') ext.push(k.foto ? k.I('foto', xc, 0, pw, H * 0.48) : k.R(xc, 0, pw, H * 0.48, p.suave));
-    if (e.portada === 'circulo') ext.push(k.foto ? k.I('foto', xc + pw / 2 - u * 23, u * 21, u * 46, u * 46, { radio: 'circulo' }) : k.E(xc + pw / 2 - u * 23, u * 21, u * 46, u * 46, p.suave));
+    if (e.portada === 'circulo') ext.push(k.foto ? k.I('foto', xc + pw / 2 - u * 22, u * 18, u * 44, u * 44, { radio: 'circulo' }) : k.E(xc + pw / 2 - u * 22, u * 18, u * 44, u * 44, p.suave));
     const centrado = e.portada === 'aire' || e.portada === 'circulo';
     const al = centrado ? 'centro' : 'izq';
     const yLogo = e.portada === 'foto' ? H * 0.48 + m : m + u * 2;
     ext.push(k.logo ? k.I('logo', xc + m, yLogo, pw - 2 * m, u * (e.portada === 'circulo' ? 9 : 14), { ax: centrado ? 0.5 : 0, ay: 0 }) : k.T('negocio', { x: xc + m, y: yLogo, w: pw - 2 * m, tam: u * 3.8, fuente: 'extra', mayus: true, espaciado: 140, alin: al, color: e.portada === 'bloque' ? tinta : p.acento, maxLineas: 2 }));
-    const yt = e.portada === 'foto' ? H * 0.48 + m + u * 13 : e.portada === 'circulo' ? u * 72 : H * 0.4;
+    const yt = e.portada === 'foto' ? H * 0.48 + m + u * 13 : e.portada === 'circulo' ? u * 67 : H * 0.4;
     const port = [
       k.T('titulo', { x: xc + m, w: pw - 2 * m, tam: u * 9, fuente: 'titulo', maxLineas: 4, interlinea: 1.02, alin: al, color: tinta, h: H - yt - m - u * 18, sep: u * 4 }),
       k.T('lema', { x: xc + m, w: pw - 2 * m, tam: u * 3.6, alin: al, color: e.portada === 'bloque' ? tinta : k.mezclar(p.tinta, p.fondo, 0.3), maxLineas: 3 }),
