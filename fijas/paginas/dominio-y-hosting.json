@@ -1,0 +1,497 @@
+{
+  "id": "dominio-y-hosting",
+  "slug": "dominio-y-hosting",
+  "molde": "guia",
+  "cabeza": "dominio y hosting",
+  "busquedas": [
+    "hosting dominio",
+    "dominio hosting",
+    "hosting y dominio",
+    "dominios y hosting",
+    "hosting gratis dominio",
+    "hosting dominios gratis",
+    "hosting y dominio gratis",
+    "dominio y hosting gratis",
+    "dominio gratis y hosting",
+    "dominio hosting gratuito",
+    "dominios con hosting gratis",
+    "hosting con dominio gratuito",
+    "hosting gratuito con dominio",
+    "que es hosting y dominio",
+    "hosting y dominio que es",
+    "que es un hosting y dominio",
+    "que es un hosting y que es un dominio"
+  ],
+  "title": "Dominio y hosting: qué son y cómo contratarlos bien",
+  "h1": "Dominio y hosting: qué es cada uno y cómo contratarlos",
+  "description": "El dominio es el nombre de tu página y el hosting es donde vive. Te explicamos cómo se conectan, qué revisar al contratar y si conviene juntarlos. Léelo hoy.",
+  "resumen": "La diferencia entre dominio y hosting, cómo se conectan y qué revisar al contratar",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El dominio es el nombre de tu página, como tunegocio.mx. El hosting es la computadora encendida todo el día donde viven los archivos de esa página.",
+    "Necesitas los dos para que tu página abra. Se pueden contratar juntos o separados, y lo importante es que ambos queden a tu nombre."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "La diferencia en una frase"
+    },
+    {
+      "p": "El dominio dice dónde encontrarte. El hosting guarda lo que la gente ve cuando llega."
+    },
+    {
+      "p": "Piensa en un local de tacos. La dirección del local es el dominio y el local mismo es el hosting."
+    },
+    {
+      "p": "Si tienes dirección sin local, la gente llega a un terreno vacío. Si tienes local sin dirección, nadie sabe cómo llegar."
+    },
+    {
+      "tabla": {
+        "titulo": "Dominio contra hosting",
+        "columnas": [
+          "Pregunta",
+          "Dominio",
+          "Hosting"
+        ],
+        "filas": [
+          [
+            "Qué es",
+            "El nombre de tu página",
+            "El espacio donde vive tu página"
+          ],
+          [
+            "Ejemplo",
+            "tunegocio.mx",
+            "Un servidor con tus archivos y fotos"
+          ],
+          [
+            "Cómo se paga",
+            "Renta por año",
+            "Mes a mes o por año"
+          ],
+          [
+            "Qué pasa si no pagas",
+            "Tu nombre queda libre para otro",
+            "Tu página deja de abrir"
+          ],
+          [
+            "Se puede mover",
+            "Sí, con un traslado",
+            "Sí, copiando los archivos"
+          ],
+          [
+            "Quién debe ser el dueño",
+            "Tú o tu negocio",
+            "La cuenta debe estar a tu nombre"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo se conectan el dominio y el hosting"
+    },
+    {
+      "p": "El dominio y el hosting se unen con unos registros llamados DNS. Son como un directorio que dice a qué computadora mandar a cada visitante."
+    },
+    {
+      "p": "Cuando contratas hosting te dan una dirección numérica o unos nombres de servidor. Esos datos se pegan en la cuenta de tu dominio."
+    },
+    {
+      "p": "Desde ese momento, quien escribe tu dominio llega a tu hosting. El cambio suele verse en minutos, aunque a veces tarda unas horas."
+    },
+    {
+      "tabla": {
+        "titulo": "Los dos caminos para conectarlos",
+        "columnas": [
+          "Camino",
+          "Qué cambias",
+          "Cuándo conviene"
+        ],
+        "filas": [
+          [
+            "Cambiar los servidores de nombre",
+            "Los registros NS del dominio",
+            "Cuando el hosting administra todo, incluido el correo"
+          ],
+          [
+            "Cambiar sólo el registro A o CNAME",
+            "Un registro que apunta a la página",
+            "Cuando el correo vive en otro servicio y no quieres moverlo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tienes correo con tu dominio, ten cuidado al cambiar los servidores de nombre. Si no copias los registros de correo, los mensajes dejan de llegar."
+    },
+    {
+      "h2": "Juntos o separados"
+    },
+    {
+      "p": "Muchos proveedores venden el dominio y el hosting en el mismo carrito. Es cómodo, pero no siempre es lo mejor para ti."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué ganas y qué arriesgas",
+        "columnas": [
+          "Forma",
+          "A favor",
+          "En contra"
+        ],
+        "filas": [
+          [
+            "Los dos con el mismo proveedor",
+            "Una sola factura y una sola cuenta",
+            "Si quieres irte, mueves dos cosas a la vez"
+          ],
+          [
+            "Dominio en un registrador y hosting en otro",
+            "Cambias de hosting sin tocar tu nombre",
+            "Dos cuentas y dos renovaciones que vigilar"
+          ],
+          [
+            "Paquete con página incluida",
+            "Alguien más conecta todo por ti",
+            "Debes pedir que el dominio quede a tu nombre"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio chico la regla es otra. Lo que importa es que tú puedas entrar a la cuenta del dominio cuando quieras."
+    },
+    {
+      "h2": "Qué revisar antes de contratar"
+    },
+    {
+      "p": "La mayoría de los problemas sale de no leer lo que se renueva. Revisa estos puntos antes de pagar."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "El titular del dominio",
+          "texto": "Pide que aparezca tu nombre o el de tu empresa. Nunca el de la agencia ni el del programador."
+        },
+        {
+          "titulo": "El precio de renovación",
+          "texto": "Muchos planes cobran poco el primer año. Busca cuánto cuesta el segundo año en adelante."
+        },
+        {
+          "titulo": "El correo incluido",
+          "texto": "Pregunta si el plan trae cuentas de correo con tu dominio o si se pagan aparte."
+        },
+        {
+          "titulo": "El certificado de seguridad",
+          "texto": "Tu página debe abrir con candado. Pregunta si el certificado viene incluido y se renueva solo."
+        },
+        {
+          "titulo": "Los respaldos",
+          "texto": "Pregunta cada cuánto se guarda una copia de tu página y cómo se recupera."
+        },
+        {
+          "titulo": "El soporte en español",
+          "texto": "Revisa por dónde se atiende y en qué horario. Un problema en domingo también cuenta."
+        },
+        {
+          "titulo": "La salida",
+          "texto": "Pregunta cómo te llevas tus archivos y tu dominio si un día decides cambiar."
+        }
+      ]
+    },
+    {
+      "h2": "Qué tipo de hosting necesita un negocio"
+    },
+    {
+      "p": "No todos los sitios necesitan lo mismo. Una tienda grande no se parece a la página de una estética."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de hosting y para quién son",
+        "columnas": [
+          "Tipo",
+          "Cómo funciona",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Compartido",
+            "Muchas páginas en la misma computadora",
+            "Páginas chicas con pocas visitas"
+          ],
+          [
+            "Administrado para creadores",
+            "El creador de páginas guarda tu sitio",
+            "Quien arma su página con un editor"
+          ],
+          [
+            "Servidor virtual",
+            "Una parte reservada de una computadora",
+            "Tiendas y sistemas con más tráfico"
+          ],
+          [
+            "Servidor dedicado",
+            "Una computadora completa para ti",
+            "Empresas grandes con equipo técnico"
+          ],
+          [
+            "Página estática en red de entrega",
+            "Copias de tu página en muchos países",
+            "Landings y páginas informativas rápidas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una landing de negocio pesa poco y no necesita un servidor grande. Lo que sí necesita es abrir rápido en el celular."
+    },
+    {
+      "h2": "Dominio y hosting gratis"
+    },
+    {
+      "p": "Hay ofertas que dicen dominio y hosting gratis. Conviene leerlas con calma antes de imprimir tarjetas."
+    },
+    {
+      "ul": [
+        "El dominio gratis suele ser un subdominio, como tunegocio.creador.com. No es tuyo y se va si cambias de servicio.",
+        "El dominio regalado el primer año se cobra completo desde el segundo.",
+        "El hosting gratis suele mostrar anuncios de otros o limita las visitas.",
+        "Algunas ofertas exigen pagar varios años por adelantado para dar el regalo."
+      ]
+    },
+    {
+      "p": "Lo gratis sirve para probar o aprender. Para un negocio que pone su dirección en una lona, conviene algo propio desde el principio."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "El correo con tu dominio"
+    },
+    {
+      "p": "Cuando tienes dominio puedes tener un correo como pedidos@tunegocio.mx. Ese correo necesita un servicio que lo reciba."
+    },
+    {
+      "p": "Ese servicio puede venir con tu hosting o contratarse aparte. El dominio sólo dice a dónde mandar los mensajes."
+    },
+    {
+      "tabla": {
+        "titulo": "Dónde puede vivir tu correo",
+        "columnas": [
+          "Opción",
+          "A favor",
+          "Qué cuidar"
+        ],
+        "filas": [
+          [
+            "Correo incluido en el hosting",
+            "No pagas otro servicio",
+            "Si el hosting falla, también falla el correo"
+          ],
+          [
+            "Servicio de correo aparte",
+            "Cambias de hosting sin tocar el correo",
+            "Una cuenta más que pagar y vigilar"
+          ],
+          [
+            "Sólo reenvío a tu correo personal",
+            "Recibes en la bandeja que ya usas",
+            "Responder desde tu dominio requiere configurarlo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio que apenas empieza, el reenvío puede bastar. Cuando tengas empleados, conviene una cuenta para cada uno."
+    },
+    {
+      "h2": "Cada cuánto se paga cada pieza"
+    },
+    {
+      "p": "El dominio y el hosting se renuevan en fechas distintas. Anotarlas evita sustos."
+    },
+    {
+      "ul": [
+        "El dominio se paga por año y vence el mismo día en que lo registraste.",
+        "El hosting puede ser mensual, anual o por varios años.",
+        "El certificado de candado suele renovarse solo si viene con el hosting.",
+        "El correo, si es aparte, tiene su propia fecha."
+      ]
+    },
+    {
+      "p": "Pon las cuatro fechas en el calendario de tu celular con una semana de aviso."
+    },
+    {
+      "h2": "Ejemplo de una tortillería que abre su página"
+    },
+    {
+      "p": "Ejemplo inventado para ver las piezas en orden. Doña Lupe tiene una tortillería en Tepic y quiere su página con pedidos por WhatsApp."
+    },
+    {
+      "ol": [
+        "Busca tortillerialupe.mx y ve que está libre.",
+        "Registra el dominio a su nombre con su correo personal.",
+        "Contrata un lugar donde vive la página o pide la página hecha con hosting incluido.",
+        "Conecta el dominio con los registros que le da el hosting.",
+        "Revisa que la página abra con candado en su celular.",
+        "Pone el dominio en su lona, su ficha de Google y sus bolsas."
+      ]
+    },
+    {
+      "p": "Si un día cambia de proveedor, Lupe se lleva el dominio. Su lona sigue sirviendo porque el nombre no cambió."
+    },
+    {
+      "h2": "Cuánto tarda en verse una página nueva"
+    },
+    {
+      "p": "Registrar un dominio toma unos minutos. Conectarlo con el hosting puede tardar unas horas en verse en todos lados."
+    },
+    {
+      "p": "Si tu página no abre justo después de conectarla, espera un poco. Prueba desde los datos del celular y no sólo desde el wifi de tu casa."
+    },
+    {
+      "p": "Si pasa un día completo y sigue sin abrir, revisa los registros. Casi siempre falta un punto o sobra un registro viejo."
+    },
+    {
+      "h2": "Señales de que tu hosting ya no te sirve"
+    },
+    {
+      "p": "El dominio casi nunca falla. El hosting es la pieza que más se nota cuando algo anda mal."
+    },
+    {
+      "ul": [
+        "Tu página tarda más de tres segundos en abrir con los datos del celular.",
+        "Se cae seguido y te enteras porque un cliente te avisa.",
+        "Cada renovación sube de precio sin que te den nada nuevo.",
+        "Nadie contesta cuando pides un cambio o reportas una falla.",
+        "Tu panel está lleno de opciones que no entiendes ni usas."
+      ]
+    },
+    {
+      "p": "Si te pasan dos o más, vale la pena cambiar. Tu dominio se queda igual y sólo apuntas a otro lugar."
+    },
+    {
+      "h2": "Fallas comunes con dominio y hosting"
+    },
+    {
+      "ul": [
+        "El dominio venció y nadie recibió el aviso porque el correo era de alguien más.",
+        "La agencia registró el dominio a su nombre y no lo quiere soltar.",
+        "Se cambiaron los servidores de nombre y el correo dejó de llegar.",
+        "La página abre sin candado y el navegador marca que no es segura.",
+        "La tarjeta de la renovación automática ya venció.",
+        "El hosting gratis puso anuncios de otra marca en tu página."
+      ]
+    },
+    {
+      "p": "Casi todas se evitan con dos cosas. Que el dominio esté a tu nombre y que el correo de avisos sea uno que tú revisas."
+    },
+    {
+      "h2": "Lo que debes pedir a quien te hace la página"
+    },
+    {
+      "p": "Si contratas a alguien para tu página, pide estas cosas por escrito. Te ahorran pleitos cuando el proyecto termina."
+    },
+    {
+      "ul": [
+        "El nombre del registrador donde quedó tu dominio y la fecha en que vence.",
+        "Un acceso a la cuenta del dominio con tu correo o el código para trasladarlo.",
+        "El nombre del proveedor donde vive la página y qué incluye la mensualidad.",
+        "Qué pasa con tu página si dejas de pagar la mensualidad.",
+        "Cómo te entregan tus textos y fotos si decides cambiar de proveedor."
+      ]
+    },
+    {
+      "p": "Un buen proveedor contesta estas preguntas sin problema. Si alguien se niega a poner el dominio a tu nombre, busca a otro."
+    },
+    {
+      "h2": "Cómo saber dónde está tu dominio y tu hosting"
+    },
+    {
+      "p": "Si alguien más hizo tu página, quizá no sabes dónde están las cuentas. Hay formas de averiguarlo."
+    },
+    {
+      "ul": [
+        "Busca tu dominio en una consulta pública de registro. Ahí aparece el registrador y la fecha de vencimiento.",
+        "Revisa tu correo con palabras como renovación, dominio o factura de hosting.",
+        "Pregunta a quien hizo tu página por las dos cuentas y pide acceso por escrito."
+      ]
+    },
+    {
+      "p": "Guarda los accesos en un lugar seguro. Anota también la fecha de vencimiento en tu calendario."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo tener dominio sin hosting?",
+      "respuesta": "Sí. Puedes registrar tu nombre y guardarlo sin página. Así nadie más lo toma mientras decides."
+    },
+    {
+      "pregunta": "¿Puedo tener hosting sin dominio?",
+      "respuesta": "Sí, pero tu página tendría una dirección larga del proveedor. Para un negocio no es lo ideal."
+    },
+    {
+      "pregunta": "¿Es mejor contratarlos juntos?",
+      "respuesta": "Depende. Juntos es más cómodo, separados te da más libertad para cambiar. En los dos casos el dominio debe quedar a tu nombre."
+    },
+    {
+      "pregunta": "¿Qué pasa con mi correo si cambio de hosting?",
+      "respuesta": "Nada, si copias los registros de correo antes del cambio. Si no los copias, los mensajes dejan de llegar."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en funcionar un dominio nuevo?",
+      "respuesta": "Minutos o pocas horas. Algunas redes guardan la versión vieja un rato más."
+    },
+    {
+      "pregunta": "¿Puedo cambiar de hosting sin perder mi dominio?",
+      "respuesta": "Sí. El dominio es tuyo y sólo cambias a dónde apunta."
+    },
+    {
+      "pregunta": "¿El certificado de candado va con el dominio o con el hosting?",
+      "respuesta": "Con el hosting. Se instala donde vive la página y debe renovarse solo."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "que-es-hosting",
+    "comprar-dominio",
+    "traslado-de-dominio",
+    "hosting-en-mexico",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Con Aliviane no contratas dominio y hosting por separado. Tu landing ya trae los dos.",
+    "titulo": "¿Te entregamos página, dominio y hosting en un solo paquete?",
+    "tituloCorto": "¿Mejor todo en un solo lugar?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.arsys.es/blog/que-diferencia-hay-entre-hosting-y-dominio",
+      "titulo": "¿Qué diferencia hay entre hosting y dominio?",
+      "promete": "Definición de cada uno con analogía de casa y dirección; escrito para España, sin pasos de conexión ni qué revisar en el contrato"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.hostinger.com/mx/tutoriales/",
+      "titulo": "Hosting y dominio: ¿cuál es la diferencia?",
+      "promete": "Explica la diferencia y empuja a comprar sus planes; no habla de a nombre de quién queda ni de la renovación"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tiendanube.com/blog/diferencia-entre-hosting-y-dominio/",
+      "titulo": "Diferencia entre hosting y dominio",
+      "promete": "Guía general orientada a tiendas en su plataforma; no explica DNS ni qué hacer si cambias de proveedor"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin precios de terceros (van en comprar-dominio con fuente). Top 3 leído con WebSearch el 12-nov-2026."
+}

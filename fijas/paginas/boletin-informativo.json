@@ -1,0 +1,475 @@
+{
+  "id": "boletin-informativo",
+  "slug": "boletin-informativo",
+  "molde": "guia",
+  "cabeza": "como hacer un boletin informativo",
+  "busquedas": [],
+  "title": "Cómo hacer un boletín informativo: pasos y ejemplo",
+  "h1": "Cómo hacer un boletín informativo para tu negocio o escuela",
+  "description": "Cómo hacer un boletín informativo impreso o por correo en 8 pasos. Qué secciones lleva, cada cuánto mandarlo y un ejemplo de un negocio. Arma el tuyo hoy.",
+  "resumen": "Las secciones, los pasos y un ejemplo de boletín impreso o por correo",
+  "categoria": "Diseño para imprimir",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un boletín informativo es una hoja o un correo que mandas cada cierto tiempo con noticias, avisos y consejos para un grupo de personas. Puede ser de una escuela, una empresa o un negocio para sus clientes.",
+    "Para hacerlo define a quién va y cada cuánto sale, junta tres o cuatro noticias cortas y dales un diseño fijo. Cierra siempre con una acción clara, como escribir por WhatsApp o visitar tu página."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un boletín informativo"
+    },
+    {
+      "p": "Un boletín es una publicación corta que sale con regularidad. Su trabajo es mantener informado a un grupo que ya te conoce."
+    },
+    {
+      "p": "No es un anuncio suelto. Es una cita fija, como el periódico del domingo, que la gente espera."
+    },
+    {
+      "p": "Puede ser impreso, en una hoja doblada o pegada en un tablero. También puede ser un correo, un PDF o un mensaje largo de WhatsApp."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de boletín y para quién son",
+        "columnas": [
+          "Tipo",
+          "Para quién",
+          "Ejemplo de contenido"
+        ],
+        "filas": [
+          [
+            "Boletín escolar",
+            "Papás y alumnos",
+            "Fechas de exámenes, eventos y avisos de la dirección"
+          ],
+          [
+            "Boletín interno",
+            "Empleados de una empresa",
+            "Cumpleaños, nuevas reglas y logros del mes"
+          ],
+          [
+            "Boletín de clientes",
+            "Clientes de un negocio",
+            "Productos nuevos, promociones y consejos"
+          ],
+          [
+            "Boletín de colonia o condominio",
+            "Vecinos",
+            "Cuotas, obras y juntas"
+          ],
+          [
+            "Boletín de asociación",
+            "Socios o miembros",
+            "Reuniones, cuentas y proyectos"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Las partes de un boletín"
+    },
+    {
+      "p": "Casi todos los boletines comparten la misma estructura. Tenerla fija te ahorra trabajo cada número."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Encabezado",
+          "texto": "Nombre del boletín, logo, número y fecha. Va igual en cada edición."
+        },
+        {
+          "titulo": "Nota principal",
+          "texto": "La noticia más importante del periodo, con una foto."
+        },
+        {
+          "titulo": "Notas cortas",
+          "texto": "Dos o tres avisos de un párrafo cada uno."
+        },
+        {
+          "titulo": "Sección fija",
+          "texto": "Algo que se repite siempre, como el consejo del mes o la receta."
+        },
+        {
+          "titulo": "Fechas importantes",
+          "texto": "Un calendario corto con lo que viene."
+        },
+        {
+          "titulo": "Llamada a la acción",
+          "texto": "Qué quieres que haga el lector. Escribir, inscribirse o visitar tu página."
+        },
+        {
+          "titulo": "Pie",
+          "texto": "Datos de contacto, redes y cómo dejar de recibirlo."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo hacer un boletín informativo en 8 pasos"
+    },
+    {
+      "p": "Estos pasos sirven para un boletín impreso o por correo. Sólo cambia la forma de entregarlo."
+    },
+    {
+      "ol": [
+        "Define para quién es y qué quieres lograr. Informar, vender o mantener contacto.",
+        "Elige cada cuánto sale. Mensual es una buena frecuencia para empezar.",
+        "Ponle un nombre fácil de recordar. Por ejemplo, Noticias de la Panadería.",
+        "Haz una lista de temas para tres números. Así no te quedas sin ideas.",
+        "Escribe cada nota en pocas líneas, con un título que diga de qué trata.",
+        "Elige fotos propias y claras. Una por nota es suficiente.",
+        "Arma el diseño con tu logo y tus colores, y guárdalo como plantilla.",
+        "Revisa fechas, precios y nombres antes de mandarlo."
+      ]
+    },
+    {
+      "p": "El paso cuatro es el que más se olvida. Con una lista de temas, cada número sale en una tarde."
+    },
+    {
+      "h2": "Qué escribir en un boletín de negocio"
+    },
+    {
+      "p": "La regla de oro es dar algo útil antes de vender. Si cada número es sólo promoción, la gente deja de leerlo."
+    },
+    {
+      "ul": [
+        "Un consejo para usar mejor lo que vendes.",
+        "Un producto o servicio nuevo, con foto y precio.",
+        "Una historia de un cliente o de tu equipo.",
+        "Una fecha importante, como un cambio de horario.",
+        "Una promoción para quienes reciben el boletín.",
+        "Una pregunta para que te contesten."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas por tipo de negocio",
+        "columnas": [
+          "Negocio",
+          "Idea de nota"
+        ],
+        "filas": [
+          [
+            "Veterinaria",
+            "Calendario de vacunas por edad del perro"
+          ],
+          [
+            "Ferretería",
+            "Cómo elegir la pintura para una pared húmeda"
+          ],
+          [
+            "Estética",
+            "Cuidados del cabello después de un tinte"
+          ],
+          [
+            "Restaurante",
+            "El platillo de temporada y su historia"
+          ],
+          [
+            "Gimnasio",
+            "Rutina de diez minutos para hacer en casa"
+          ],
+          [
+            "Papelería",
+            "Lista de útiles por grado escolar"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo escribir para que lo lean"
+    },
+    {
+      "p": "Un boletín se lee rápido o no se lee. Escribe como si le contaras algo a un cliente en el mostrador."
+    },
+    {
+      "ul": [
+        "Títulos cortos que digan la noticia, no frases de adorno.",
+        "Párrafos de tres o cuatro líneas como máximo.",
+        "Una idea por nota.",
+        "Fechas y precios escritos completos.",
+        "Nombres de personas cuando hables de tu equipo o de clientes."
+      ]
+    },
+    {
+      "h2": "Boletín impreso o por correo"
+    },
+    {
+      "p": "Cada formato tiene su lugar. Muchos negocios usan los dos."
+    },
+    {
+      "tabla": {
+        "titulo": "Impreso contra correo",
+        "columnas": [
+          "Punto",
+          "Impreso",
+          "Por correo"
+        ],
+        "filas": [
+          [
+            "Costo",
+            "Papel e impresión por cada copia",
+            "Casi nada por cada envío"
+          ],
+          [
+            "Alcance",
+            "Quien pasa por tu local",
+            "Toda tu lista, esté donde esté"
+          ],
+          [
+            "Medición",
+            "Difícil saber quién lo leyó",
+            "Puedes ver aperturas y clics"
+          ],
+          [
+            "Diseño",
+            "Tamaño carta o media carta",
+            "Una columna que se vea bien en celular"
+          ],
+          [
+            "Vida",
+            "Se queda en el refrigerador o el tablero",
+            "Se pierde en la bandeja si no se abre"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para escuelas y colonias, el impreso sigue funcionando. Para clientes de un negocio, el correo o el PDF por WhatsApp llega a más gente."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo diseñar un boletín"
+    },
+    {
+      "p": "El diseño debe ayudar a leer, no adornar. Repite la misma estructura cada número para que la gente se ubique."
+    },
+    {
+      "ul": [
+        "Usa tus colores y tu logo en el encabezado.",
+        "Elige una letra fácil de leer para el texto.",
+        "Deja espacio entre notas.",
+        "Pon la nota principal arriba y más grande.",
+        "En impreso, deja márgenes de al menos un centímetro.",
+        "En correo, usa una sola columna y botones grandes."
+      ]
+    },
+    {
+      "p": "Si necesitas una hoja de avisos rápida, nuestro [flyer informativo](id:flyer-informativo) baja en PDF listo para imprimir. Para algo de varias caras, usa el [folleto](id:folleto)."
+    },
+    {
+      "h2": "Cómo armar tu lista de contactos"
+    },
+    {
+      "p": "Un boletín por correo sólo llega a quien está en tu lista. Esa lista se construye poco a poco."
+    },
+    {
+      "ul": [
+        "Pide el correo al cobrar, con permiso del cliente.",
+        "Pon un formulario en tu página con una razón para suscribirse.",
+        "Pide el dato en eventos y ferias con una hoja de registro.",
+        "Nunca compres listas de correos."
+      ]
+    },
+    {
+      "p": "Agrega sólo a quien te dio permiso. Incluye siempre una forma clara de dejar de recibirlo."
+    },
+    {
+      "p": "Cuida esos datos como cuidas tu caja. Tu aviso de privacidad debe decir para qué los usas."
+    },
+    {
+      "h2": "Ejemplo de boletín de una panadería"
+    },
+    {
+      "p": "Ejemplo inventado para ver un número completo. La Panadería San Juan manda un boletín mensual a sus clientes."
+    },
+    {
+      "tabla": {
+        "titulo": "Número de noviembre de ejemplo",
+        "columnas": [
+          "Sección",
+          "Contenido"
+        ],
+        "filas": [
+          [
+            "Encabezado",
+            "Noticias de San Juan, número 4, noviembre"
+          ],
+          [
+            "Nota principal",
+            "Ya hay pan de muerto relleno de nata. Foto del pan recién salido."
+          ],
+          [
+            "Nota corta",
+            "Abrimos una hora antes los sábados para los desayunos."
+          ],
+          [
+            "Consejo del mes",
+            "Cómo calentar el pan del día anterior para que quede suave."
+          ],
+          [
+            "Fechas",
+            "Pedidos de roscas a partir del 15 de diciembre."
+          ],
+          [
+            "Llamada a la acción",
+            "Aparta tu rosca por WhatsApp desde nuestra página."
+          ],
+          [
+            "Pie",
+            "Dirección, horario, redes y cómo dejar de recibirlo."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El boletín cabe en una hoja y se lee en dos minutos. Cada mes cambia el contenido, la estructura se queda igual."
+    },
+    {
+      "h2": "Ejemplo de boletín escolar"
+    },
+    {
+      "p": "Ejemplo inventado para una primaria. El boletín sale cada quincena impreso y en PDF."
+    },
+    {
+      "ul": [
+        "Encabezado con el nombre de la escuela y la quincena.",
+        "Mensaje corto de la dirección.",
+        "Fechas de exámenes y entrega de boletas.",
+        "Logro de un grupo con foto, si hay permiso de los papás.",
+        "Recordatorio de cuotas o materiales.",
+        "Teléfono y horario de atención de la escuela."
+      ]
+    },
+    {
+      "h2": "Boletín por WhatsApp"
+    },
+    {
+      "p": "Mucha gente en México lee más WhatsApp que correo. Un boletín ahí funciona si respetas a quien lo recibe."
+    },
+    {
+      "ul": [
+        "Usa una lista de difusión o un canal, no un grupo donde todos contestan.",
+        "Manda sólo a quien guardó tu número y aceptó recibir noticias.",
+        "Usa una imagen o un PDF de una página, no diez mensajes seguidos.",
+        "Escribe arriba una línea con lo más importante, por si no abren el archivo.",
+        "Pon al final cómo dejar de recibirlo."
+      ]
+    },
+    {
+      "p": "Un mensaje al mes basta. Si mandas uno diario, la gente silencia tu chat."
+    },
+    {
+      "h2": "Cómo saber si tu boletín funciona"
+    },
+    {
+      "p": "No hace falta un sistema caro para medirlo. Fíjate en lo que pasa después de cada envío."
+    },
+    {
+      "ul": [
+        "Cuántas personas contestan o preguntan por lo que pusiste.",
+        "Cuántas usan la promoción del boletín.",
+        "Cuántas se dan de baja después de cada número.",
+        "Si mandas por correo, cuántos lo abren y cuántos tocan la liga."
+      ]
+    },
+    {
+      "p": "Si un tema genera muchas preguntas, repítelo con otro enfoque. Si nadie reacciona a nada, cambia los temas antes que el diseño."
+    },
+    {
+      "h2": "Cada cuánto mandar tu boletín"
+    },
+    {
+      "p": "La frecuencia importa menos que la constancia. Un boletín mensual que siempre sale gana a uno semanal que sale cuando se puede."
+    },
+    {
+      "p": "Elige el mismo día de cada mes. La gente se acostumbra y lo espera."
+    },
+    {
+      "p": "Si no tienes nada nuevo, manda un consejo útil. Es mejor un número corto que saltarte un mes."
+    },
+    {
+      "h2": "Fallas comunes al hacer un boletín"
+    },
+    {
+      "ul": [
+        "Llenarlo de promociones sin nada útil.",
+        "Cambiar el diseño cada número.",
+        "Mandarlo a gente que no pidió recibirlo.",
+        "Olvidar la llamada a la acción.",
+        "Escribir párrafos largos que nadie termina.",
+        "Sacarlo una vez y no volver a hacerlo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué debe llevar un boletín informativo?",
+      "respuesta": "Encabezado, nota principal, notas cortas y llamada a la acción. Al final van tus datos de contacto."
+    },
+    {
+      "pregunta": "¿Cada cuánto se manda un boletín?",
+      "respuesta": "Una vez al mes es una buena frecuencia para empezar. Lo importante es mandarlo siempre el mismo día."
+    },
+    {
+      "pregunta": "¿Puedo hacer un boletín en Word?",
+      "respuesta": "Sí. Usa una tabla o columnas para ordenar las notas y guárdalo en PDF antes de compartirlo."
+    },
+    {
+      "pregunta": "¿Puedo mandar mi boletín por WhatsApp?",
+      "respuesta": "Sí. Mándalo en PDF o como imagen a quien te dio permiso de escribirle."
+    },
+    {
+      "pregunta": "¿Necesito permiso para mandar un boletín por correo?",
+      "respuesta": "Sí. Agrega sólo a quien aceptó recibirlo y da una forma de darse de baja."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre boletín y folleto?",
+      "respuesta": "El boletín sale cada cierto tiempo con noticias. El folleto se hace una vez para explicar un producto o servicio."
+    }
+  ],
+  "relacionadas": [
+    "flyer-informativo",
+    "folleto",
+    "flyer",
+    "correo-corporativo",
+    "mensaje-de-recordatorio-para-clientes",
+    "marketing-de-contenidos"
+  ],
+  "venta": {
+    "puente": "Tu boletín necesita a dónde mandar a quien quiere más. Aliviane te hace esa página con tu dominio.",
+    "titulo": "¿Hacemos la página que acompaña a tu boletín?",
+    "tituloCorto": "¿Tu boletín ya tiene a dónde llevar?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.benchmarkemail.com/es/blog/boletin-informativo/",
+      "titulo": "Boletín informativo",
+      "promete": "Ocho pasos para boletines por correo con su herramienta; no cubre boletines impresos ni escolares"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/latam/diseno/7-pasos-para-hacer-un-boletin-exitoso",
+      "titulo": "7 pasos para hacer un boletín exitoso",
+      "promete": "Pasos generales y aviso de privacidad; sin ejemplo completo armado"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.crehana.com/blog/negocios/como-hacer-boletin-informativo/",
+      "titulo": "Cómo hacer un boletín informativo",
+      "promete": "Explica base de datos y diseño; sin secciones modelo ni ideas por tipo de negocio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin cifras de apertura ni de herramientas de envío (no leídas en fuente propia). Propuesta: modo «boletin» en editor-diseno volvería herramienta esta guía. Top 3 leído con WebSearch el 12-nov-2026."
+}

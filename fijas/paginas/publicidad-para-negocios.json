@@ -1,0 +1,519 @@
+{
+  "id": "publicidad-para-negocios",
+  "slug": "publicidad-para-negocios",
+  "molde": "guia",
+  "cabeza": "publicidad para negocios",
+  "busquedas": [
+    "anuncios gratis",
+    "mercadeo y publicidad",
+    "publicidad y mercadotecnia",
+    "diseño y publicidad"
+  ],
+  "title": "Publicidad para negocios: 15 ideas según tu presupuesto",
+  "h1": "Publicidad para negocios: ideas que puedes empezar esta semana",
+  "description": "15 ideas de publicidad para negocios ordenadas por presupuesto: gratis, poco dinero y anuncios pagados. Con cómo medir cada una y ejemplos. Elige la tuya.",
+  "resumen": "15 ideas ordenadas de gratis a pagadas, con cómo medir cada una",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "La publicidad para un negocio es todo lo que haces para que más gente sepa que existes y qué vendes. Va desde una lona en tu fachada hasta un anuncio pagado en Facebook.",
+    "Empieza por lo gratis, como tu ficha de Google y pedir recomendaciones, y luego suma lo pagado poco a poco. Cada idea debe llevar a un mismo lugar, como tu WhatsApp o tu página, para saber qué funciona."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Antes de anunciarte, ten listo esto"
+    },
+    {
+      "p": "La publicidad trae gente. Si al llegar no encuentra cómo comprarte, el dinero se pierde."
+    },
+    {
+      "ul": [
+        "Un lugar a donde mandar a la gente, como tu WhatsApp o tu página.",
+        "Precios claros o desde cuánto cuesta.",
+        "Horario y dirección visibles.",
+        "Alguien que conteste rápido los mensajes.",
+        "Una oferta concreta que se entienda en una frase."
+      ]
+    },
+    {
+      "h2": "Ideas gratis"
+    },
+    {
+      "p": "Estas ideas sólo cuestan tiempo. Son la base de todo lo demás."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Ficha de Google completa",
+          "texto": "Fotos, horario, teléfono y servicios. Es lo primero que ve quien te busca en el mapa. Lee nuestra guía de [Google Mi Negocio](id:google-mi-negocio)."
+        },
+        {
+          "titulo": "Reseñas de clientes contentos",
+          "texto": "Pide a cada cliente una reseña en Google. Las opiniones convencen a los que todavía no te conocen."
+        },
+        {
+          "titulo": "Publicaciones constantes en redes",
+          "texto": "Tres publicaciones por semana con fotos reales valen más que una diaria sin ganas."
+        },
+        {
+          "titulo": "Recomendaciones de boca en boca",
+          "texto": "Pide a tus clientes que te recomienden y agradece cuando lo hagan."
+        },
+        {
+          "titulo": "Grupos de tu colonia o ciudad",
+          "texto": "Muchos grupos de vecinos aceptan negocios locales. Lee las reglas antes de publicar."
+        },
+        {
+          "titulo": "Alianzas con negocios vecinos",
+          "texto": "Una estética recomienda a la tienda de ropa de al lado y al revés."
+        }
+      ]
+    },
+    {
+      "h2": "Ideas con poco dinero"
+    },
+    {
+      "p": "Estas ideas piden una inversión chica. Funcionan muy bien en negocios con local."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Lona o letrero en tu fachada",
+          "texto": "Mucha gente pasa frente a ti todos los días sin saber qué vendes. Una lona clara lo resuelve."
+        },
+        {
+          "titulo": "Volantes en tu zona",
+          "texto": "Repártelos donde está tu cliente, no en cualquier esquina. Pon una oferta y tu WhatsApp."
+        },
+        {
+          "titulo": "Tarjetas de presentación",
+          "texto": "Entrégalas con cada compra para que te recomienden. Pon un QR que lleve a tu página."
+        },
+        {
+          "titulo": "Promoción de estreno o temporada",
+          "texto": "Una oferta con fecha de fin hace que la gente se decida."
+        },
+        {
+          "titulo": "Página propia con tu dominio",
+          "texto": "Une todo lo demás en una dirección que puedes imprimir en todo."
+        }
+      ]
+    },
+    {
+      "p": "Diseña tu lona con nuestra herramienta de [lona publicitaria](id:lona-publicitaria). Para repartir, usa la de [volantes](id:volantes)."
+    },
+    {
+      "h2": "Ideas con anuncios pagados"
+    },
+    {
+      "p": "Aquí pagas para que tu mensaje llegue a más gente. Empieza con poco y mide antes de subir."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Anuncios en Facebook e Instagram",
+          "texto": "Puedes elegir zona, edad e intereses. Sirven para que te conozcan en tu ciudad."
+        },
+        {
+          "titulo": "Anuncios en Google",
+          "texto": "Apareces cuando alguien busca lo que vendes. Sirven para gente que ya quiere comprar."
+        },
+        {
+          "titulo": "Patrocinio local",
+          "texto": "Un equipo de futbol, una kermés o un evento escolar con tu logo."
+        },
+        {
+          "titulo": "Medios locales",
+          "texto": "Radio, periódico o revista de tu ciudad. Funcionan en ciudades medianas y pequeñas."
+        }
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas de publicidad según tu presupuesto",
+        "columnas": [
+          "Presupuesto",
+          "Ideas",
+          "Qué esperar"
+        ],
+        "filas": [
+          [
+            "Sin dinero",
+            "Ficha de Google y reseñas. Redes y recomendaciones",
+            "Resultados lentos pero que duran"
+          ],
+          [
+            "Poco",
+            "Lona y volantes. Tarjetas, promoción y página",
+            "Más gente de tu zona te conoce"
+          ],
+          [
+            "Medio",
+            "Anuncios en redes y Google",
+            "Más alcance y datos rápidos"
+          ],
+          [
+            "Alto",
+            "Medios locales, patrocinios y campañas completas",
+            "Reconocimiento de marca en tu ciudad"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué idea conviene a cada negocio"
+    },
+    {
+      "p": "No todas las ideas sirven igual a todos. Fíjate dónde está tu cliente."
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas sugeridas por giro",
+        "columnas": [
+          "Negocio",
+          "Ideas que suelen funcionar"
+        ],
+        "filas": [
+          [
+            "Restaurante o fonda",
+            "Ficha de Google con fotos, reseñas y menú visible"
+          ],
+          [
+            "Estética o barbería",
+            "Instagram con trabajos, recomendaciones y tarjeta de lealtad"
+          ],
+          [
+            "Taller mecánico",
+            "Ficha de Google, reseñas y lona clara en la fachada"
+          ],
+          [
+            "Tienda de ropa",
+            "Redes con fotos de prendas y anuncios en Instagram"
+          ],
+          [
+            "Consultorio",
+            "Página con servicios, ficha de Google y reseñas"
+          ],
+          [
+            "Servicio a domicilio",
+            "Anuncios en la zona, grupos de vecinos y volantes"
+          ],
+          [
+            "Escuela o academia",
+            "Volantes en temporada de inscripción y anuncios en redes"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Publicidad dentro de tu propio local"
+    },
+    {
+      "p": "El cliente que ya entró también es público. Lo que ve en tu local puede hacer que vuelva o que te recomiende."
+    },
+    {
+      "ul": [
+        "Un letrero con tus otros servicios, para que sepa todo lo que haces.",
+        "Un QR en el mostrador que lleve a tu página o a tu catálogo.",
+        "Una tarjeta de lealtad que premie la siguiente visita.",
+        "Bolsas o empaques con tu nombre, tu dirección y tu WhatsApp.",
+        "Un horario visible en la puerta, también para cuando está cerrado."
+      ]
+    },
+    {
+      "p": "Estas ideas cuestan poco y trabajan todos los días. Muchas veces dan más que un anuncio pagado."
+    },
+    {
+      "h2": "Cómo elegir dónde anunciarte"
+    },
+    {
+      "p": "Antes de pagar un medio, piensa dónde pasa su tiempo tu cliente. La mejor publicidad está donde él ya mira."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas para elegir medio",
+        "columnas": [
+          "Pregunta",
+          "Si la respuesta es sí"
+        ],
+        "filas": [
+          [
+            "¿Mi cliente vive o trabaja cerca?",
+            "Lona, volantes y anuncios por zona"
+          ],
+          [
+            "¿Mi cliente me busca cuando tiene un problema?",
+            "Ficha de Google y anuncios en Google"
+          ],
+          [
+            "¿Mi producto se ve bien en foto?",
+            "Instagram y Facebook"
+          ],
+          [
+            "¿Mi cliente es mayor y poco digital?",
+            "Radio local, periódico y recomendaciones"
+          ],
+          [
+            "¿Vendo a otras empresas?",
+            "Correo directo, visitas y directorios del ramo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo escribir un buen anuncio"
+    },
+    {
+      "p": "Un anuncio se lee en segundos. Tiene que decir qué, para quién y qué hacer."
+    },
+    {
+      "ul": [
+        "Una frase que diga qué vendes y por qué elegirte.",
+        "Un precio, una oferta o una fecha.",
+        "Una foto real de tu producto o tu local.",
+        "Un solo paso para contactarte, como escribir por WhatsApp."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Anuncios de ejemplo",
+        "columnas": [
+          "Negocio",
+          "Anuncio"
+        ],
+        "filas": [
+          [
+            "Lavandería",
+            "Lavamos y doblamos tu ropa en 24 horas. Recogemos en tu casa. Escríbenos por WhatsApp."
+          ],
+          [
+            "Fonda",
+            "Comida corrida a $95 con agua y postre. De lunes a viernes de 1 a 5."
+          ],
+          [
+            "Taller de costura",
+            "Ajustes de ropa en dos días. Trae tu prenda o pide recolección."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Busca más ideas de frases en nuestra guía de [frases para vender](id:frases-para-vender)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo saber qué publicidad funciona"
+    },
+    {
+      "p": "Si no mides, no sabes dónde poner tu dinero. La forma más fácil es preguntar y contar."
+    },
+    {
+      "ul": [
+        "Pregunta a cada cliente nuevo cómo te encontró.",
+        "Usa un mensaje de WhatsApp distinto para cada medio.",
+        "Pon un código de descuento distinto en volantes y en redes.",
+        "Anota en una libreta o una hoja cada respuesta.",
+        "Al final del mes, suma cuántos clientes llegaron por cada medio."
+      ]
+    },
+    {
+      "p": "Divide lo que gastaste en cada medio entre los clientes que trajo. Así sabes cuánto te cuesta cada cliente."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo inventado de cuenta al final del mes",
+        "columnas": [
+          "Medio",
+          "Gasto",
+          "Clientes que trajo",
+          "Costo por cliente"
+        ],
+        "filas": [
+          [
+            "Volantes",
+            "$600",
+            "6",
+            "$100"
+          ],
+          [
+            "Anuncio en Facebook",
+            "$1,000",
+            "20",
+            "$50"
+          ],
+          [
+            "Ficha de Google",
+            "$0",
+            "15",
+            "$0"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En este ejemplo, el anuncio funcionó mejor que los volantes. El mes siguiente conviene mover dinero hacia lo que rinde."
+    },
+    {
+      "h2": "Publicidad de temporada"
+    },
+    {
+      "p": "Cada negocio tiene meses fuertes y meses flojos. La publicidad rinde más si la preparas antes de la temporada."
+    },
+    {
+      "ul": [
+        "Regreso a clases para papelerías, uniformes y zapaterías.",
+        "Día de las madres para florerías, restaurantes y estéticas.",
+        "Buen Fin y diciembre para casi cualquier tienda.",
+        "Cuaresma para pescaderías y cocinas económicas.",
+        "Temporada de lluvias para impermeabilizantes y talleres."
+      ]
+    },
+    {
+      "p": "Empieza a anunciarte dos o tres semanas antes. Cuando la temporada llega, la gente ya sabe a dónde ir."
+    },
+    {
+      "h2": "Publicidad que conviene evitar"
+    },
+    {
+      "ul": [
+        "Prometer lo que no puedes cumplir, como entrega en una hora si no la tienes.",
+        "Usar fotos de internet que no son tuyas.",
+        "Precios que no incluyen todo y sorprenden al cobrar.",
+        "Anunciarte en medios donde no está tu cliente.",
+        "Gastar todo el presupuesto en un solo día."
+      ]
+    },
+    {
+      "h2": "Calendario de publicidad para un negocio chico"
+    },
+    {
+      "p": "La publicidad funciona mejor con constancia. Un calendario sencillo te ayuda a no olvidarla."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de mes de publicidad",
+        "columnas": [
+          "Semana",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "1",
+            "Actualizar fotos de la ficha de Google y pedir reseñas"
+          ],
+          [
+            "2",
+            "Repartir volantes con una promoción del mes"
+          ],
+          [
+            "3",
+            "Anuncio pagado de una semana en tu zona"
+          ],
+          [
+            "4",
+            "Revisar resultados y planear el mes siguiente"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ajusta el calendario a tus temporadas. Regreso a clases, Día de las madres y diciembre cambian todo."
+    },
+    {
+      "h2": "Ejemplo de una lavandería que empieza a anunciarse"
+    },
+    {
+      "p": "Ejemplo inventado para ver el orden. Una lavandería en Toluca abrió hace tres meses y casi nadie la conoce."
+    },
+    {
+      "p": "Primero llena su ficha de Google con fotos y horario. Luego reparte volantes en los edificios cercanos con una promoción de estreno."
+    },
+    {
+      "p": "Después pone un anuncio en Facebook sólo para su colonia. Pregunta a cada cliente cómo llegó y descubre que los volantes traen más gente de la que creía."
+    },
+    {
+      "h2": "Fallas comunes en la publicidad de un negocio"
+    },
+    {
+      "ul": [
+        "Anunciarse sin tener cómo atender los mensajes.",
+        "Cambiar de idea cada semana sin medir nada.",
+        "Copiar la publicidad de la competencia.",
+        "Olvidar la dirección o el teléfono en el anuncio.",
+        "Gastar en anuncios antes de tener reseñas y fotos."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es la mejor publicidad para un negocio pequeño?",
+      "respuesta": "La que llega a tu cliente con poco dinero. Para negocios locales suele ser la ficha de Google, las reseñas y una lona clara."
+    },
+    {
+      "pregunta": "¿Cómo hacer publicidad gratis?",
+      "respuesta": "Con tu ficha de Google y reseñas. Suma redes con fotos reales y recomendaciones de clientes."
+    },
+    {
+      "pregunta": "¿Cuánto debo gastar en publicidad?",
+      "respuesta": "Empieza con poco y mide. Sube el gasto sólo en lo que te trae clientes."
+    },
+    {
+      "pregunta": "¿Sirven todavía los volantes?",
+      "respuesta": "Sí, para negocios de zona. Repártelos donde está tu cliente y pon una oferta clara."
+    },
+    {
+      "pregunta": "¿Necesito página web para anunciarme?",
+      "respuesta": "No es obligatorio, pero ayuda. Te da un lugar fijo a donde mandar a la gente desde cualquier anuncio."
+    },
+    {
+      "pregunta": "¿Cómo sé si mi publicidad funciona?",
+      "respuesta": "Pregunta a cada cliente cómo te encontró y anota. Al final del mes suma por medio."
+    }
+  ],
+  "relacionadas": [
+    "campana-publicitaria",
+    "publicidad-en-facebook",
+    "agencia-de-marketing-digital",
+    "marketing-digital",
+    "lona-publicitaria",
+    "volantes"
+  ],
+  "venta": {
+    "puente": "Toda publicidad necesita un lugar a donde llevar a la gente. Aliviane te hace esa página con tu WhatsApp.",
+    "titulo": "¿Hacemos la página a donde llega tu publicidad?",
+    "tituloCorto": "¿Tu publicidad ya tiene a dónde llevar?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.merca20.com/3-recomendaciones-al-utilizar-publicidad-de-mano/",
+      "titulo": "Recomendaciones al utilizar publicidad de mano",
+      "promete": "Consejos sobre volantes; no ordena ideas por presupuesto ni explica cómo medir"
+    },
+    {
+      "posicion": 2,
+      "url": "https://expansion.mx/tecnologia/2026/11/09/5-000-pesos-pymes-anuncian-en-netflix-disney-prime-video",
+      "titulo": "Pymes anuncian en plataformas de video",
+      "promete": "Nota sobre anuncios en video; útil para empresas con presupuesto, no para un negocio de barrio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.nafin.com/portalnf/files/secciones/capacitacion_asitencia/pdf/Fundamentos%20de%20negocio/Mercadotecnia/mercadotecnia4_1.pdf",
+      "titulo": "Fundamentos de mercadotecnia",
+      "promete": "Material de capacitación antiguo; sin canales digitales actuales"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin cifras de inversión publicitaria ni precios de medios. Top 3 leído con WebSearch el 12-nov-2026."
+}

@@ -1,0 +1,529 @@
+{
+  "id": "tienda-en-linea",
+  "slug": "tienda-en-linea",
+  "molde": "guia",
+  "cabeza": "tienda online",
+  "busquedas": [
+    "tienda online gratis",
+    "tu tienda online",
+    "tienda online gratuita",
+    "tienda en línea gratis",
+    "mi tienda online",
+    "mi tienda virtual",
+    "tienda virtual gratis",
+    "crear tienda online",
+    "crear tienda online gratis",
+    "crear gratis tienda online",
+    "crear tienda virtual",
+    "hacer tienda online",
+    "crea tu tienda online",
+    "crear tienda virtual gratis",
+    "como crear una tienda online",
+    "como hacer una tienda virtual",
+    "como hacer una tienda online gratis",
+    "como crear una tienda online gratis",
+    "como hacer una tienda virtual gratis",
+    "como crear una tienda virtual gratis",
+    "como hacer una tienda en linea gratis"
+  ],
+  "title": "Tienda online: cómo crear la tuya y qué cuesta de verdad",
+  "h1": "Cómo crear una tienda en línea para tu negocio",
+  "description": "Los caminos para tener tienda online en México, qué cuesta cada uno y qué necesitas antes de abrir. Incluye cobros, envíos y una lista para empezar. Revísala.",
+  "resumen": "Los caminos para abrir tu tienda en línea, cobros, envíos y qué preparar antes",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una tienda en línea es una página donde tus clientes ven tus productos, eligen y pagan sin ir a tu local. Puedes armarla en una plataforma de tiendas, venderla en un mercado como Mercado Libre o pedirla hecha.",
+    "Antes de abrir necesitas fotos y precios, una forma de cobrar y un plan de envíos. Si vendes pocos productos, un catálogo con pedido por WhatsApp puede bastar para empezar."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Los cuatro caminos para vender en línea"
+    },
+    {
+      "p": "No hay una sola forma de tener tienda en internet. Cada camino tiene su costo y su trabajo."
+    },
+    {
+      "tabla": {
+        "titulo": "Caminos para tener tienda en línea en México",
+        "columnas": [
+          "Camino",
+          "Cómo funciona",
+          "Para quién conviene"
+        ],
+        "filas": [
+          [
+            "Mercado en línea",
+            "Publicas en Mercado Libre, Amazon u otro mercado",
+            "Quien quiere ventas sin atraer tráfico propio"
+          ],
+          [
+            "Plataforma de tiendas",
+            "Rentas una tienda armada y subes tus productos",
+            "Quien vende muchos productos y quiere carrito"
+          ],
+          [
+            "Tienda programada a la medida",
+            "Un equipo la construye para ti",
+            "Negocios con procesos o volumen especiales"
+          ],
+          [
+            "Catálogo con pedido por WhatsApp",
+            "Tu página muestra productos y el cliente te escribe",
+            "Negocios con pocos productos o venta por encargo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos negocios usan dos caminos a la vez. Venden en un mercado y tienen su página para clientes que regresan."
+    },
+    {
+      "h2": "Qué necesitas antes de abrir"
+    },
+    {
+      "p": "La plataforma es lo de menos. Lo que define una tienda es lo que preparas antes de subirla."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Lista de productos",
+          "texto": "Escribe nombre, precio, medidas y variantes de cada producto. Empieza con tus diez más vendidos."
+        },
+        {
+          "titulo": "Fotos claras",
+          "texto": "Una foto con fondo blanco y otra en uso. Tómalas con luz de día y el celular limpio."
+        },
+        {
+          "titulo": "Forma de cobrar",
+          "texto": "Decide si cobras con tarjeta, transferencia, efectivo en tienda o pago contra entrega."
+        },
+        {
+          "titulo": "Plan de envíos",
+          "texto": "Elige paquetería, mide tus cajas y calcula cuánto cobras por enviar."
+        },
+        {
+          "titulo": "Política de cambios",
+          "texto": "Escribe en qué casos aceptas devoluciones y en cuántos días."
+        },
+        {
+          "titulo": "Datos fiscales",
+          "texto": "Decide si vas a facturar y bajo qué régimen. Pregunta a tu contador antes de vender."
+        },
+        {
+          "titulo": "Dominio propio",
+          "texto": "Tu tienda debe tener tu nombre, como tunegocio.mx. Así no dependes de la dirección de otra empresa."
+        }
+      ]
+    },
+    {
+      "p": "Si te falta algo de esta lista, la tienda abre pero vende poco. Vale más abrir tarde que abrir a medias."
+    },
+    {
+      "h2": "Cómo crear tu tienda paso a paso"
+    },
+    {
+      "p": "Estos pasos sirven para cualquier plataforma. Los nombres de los botones cambian, el orden no."
+    },
+    {
+      "ol": [
+        "Elige el camino según cuántos productos vendes y cuánto tiempo tienes.",
+        "Registra tu dominio a tu nombre.",
+        "Crea la cuenta de la tienda con un correo que tú revises.",
+        "Sube tus productos con fotos, precio y descripción corta.",
+        "Conecta tu forma de cobro y haz una compra de prueba.",
+        "Configura las zonas de envío y su costo.",
+        "Escribe tus páginas de envíos, cambios y aviso de privacidad.",
+        "Pide a un amigo que compre desde su celular y te diga dónde se atoró.",
+        "Comparte tu tienda en tus redes, tu WhatsApp y tu ficha de Google."
+      ]
+    },
+    {
+      "p": "La compra de prueba es el paso que más se salta. Es el único que te dice si el cliente puede pagar de verdad."
+    },
+    {
+      "h2": "Tienda en línea gratis"
+    },
+    {
+      "p": "Algunas plataformas tienen un plan sin mensualidad. Sirve para empezar, pero conviene saber qué se paga después."
+    },
+    {
+      "ul": [
+        "Las comisiones por cada venta casi nunca son gratis.",
+        "El dominio propio suele ir en un plan de pago.",
+        "Algunos planes limitan el número de productos o las fotos.",
+        "Los temas más bonitos y las funciones extra se cobran aparte.",
+        "Cambiar de plataforma después obliga a subir todo otra vez."
+      ]
+    },
+    {
+      "p": "Lee la tabla de precios completa y la página de comisiones. Haz cuentas con una venta típica tuya, no con el ejemplo de la plataforma."
+    },
+    {
+      "h2": "Cuánto cuesta tener una tienda en línea"
+    },
+    {
+      "p": "El costo real tiene varias partes. Algunas son fijas y otras dependen de cuánto vendes."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes del costo de una tienda",
+        "columnas": [
+          "Parte",
+          "Tipo de costo",
+          "Cómo calcularlo"
+        ],
+        "filas": [
+          [
+            "Dominio",
+            "Fijo por año",
+            "Una renta anual por tu nombre"
+          ],
+          [
+            "Plataforma o hosting",
+            "Fijo por mes",
+            "La mensualidad del plan que elijas"
+          ],
+          [
+            "Comisión por cobro",
+            "Variable por venta",
+            "Un porcentaje del ticket más una cuota fija"
+          ],
+          [
+            "Envíos",
+            "Variable por pedido",
+            "Depende del peso, la medida y el destino"
+          ],
+          [
+            "Empaque",
+            "Variable por pedido",
+            "Cajas, bolsas, cinta y relleno"
+          ],
+          [
+            "Fotos y textos",
+            "Una vez",
+            "Lo haces tú o lo pagas a alguien"
+          ],
+          [
+            "Anuncios",
+            "Variable por mes",
+            "Lo que decidas invertir para atraer visitas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Suma todo y divídelo entre tus pedidos del mes. Ese número te dice cuánto te cuesta vender cada pedido en línea."
+    },
+    {
+      "p": "Ejemplo inventado para hacer la cuenta. Si gastas $3,000 al mes y haces 60 pedidos, cada pedido te cuesta $50 antes del producto."
+    },
+    {
+      "h2": "Cómo cobrar en tu tienda"
+    },
+    {
+      "p": "Tu cliente debe poder pagar como acostumbra. En México conviven la tarjeta, la transferencia y el efectivo."
+    },
+    {
+      "tabla": {
+        "titulo": "Formas de cobro en una tienda en línea",
+        "columnas": [
+          "Forma",
+          "Cómo paga el cliente",
+          "Qué revisar"
+        ],
+        "filas": [
+          [
+            "Tarjeta en la página",
+            "Escribe sus datos en un formulario seguro",
+            "Comisión, días de depósito y meses sin intereses"
+          ],
+          [
+            "Link de pago",
+            "Le mandas una liga y paga desde su celular",
+            "Vigencia del link y comisión"
+          ],
+          [
+            "Transferencia",
+            "Te manda el dinero a tu cuenta",
+            "Confirmar que llegó antes de enviar"
+          ],
+          [
+            "Efectivo en tienda de conveniencia",
+            "Paga con una referencia impresa",
+            "Días para que se acredite"
+          ],
+          [
+            "Pago contra entrega",
+            "Paga cuando recibe",
+            "Riesgo de que no esté o no pague"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si vendes por WhatsApp, un [link de pago](id:link-de-pago) es la forma más rápida de cobrar con tarjeta. Si vendes en persona, revisa nuestra guía de [terminal para cobrar con tarjeta](id:terminal-para-cobrar-con-tarjeta)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Envíos sin dolores de cabeza"
+    },
+    {
+      "p": "Los envíos son la parte que más quejas genera. Planéalos antes de vender el primer producto."
+    },
+    {
+      "ul": [
+        "Pesa y mide tus productos ya empacados. La paquetería cobra por el mayor entre peso real y volumen.",
+        "Compara dos o tres paqueterías con un mismo paquete y destino.",
+        "Decide si el envío lo pagas tú, el cliente o se reparte.",
+        "Manda la guía de rastreo por WhatsApp el mismo día.",
+        "Ofrece recoger en tu local si estás en la misma ciudad."
+      ]
+    },
+    {
+      "p": "Un envío gratis desde cierto monto ayuda a subir el ticket. Haz la cuenta para que no te coma la ganancia."
+    },
+    {
+      "h2": "Qué debe tener la página de cada producto"
+    },
+    {
+      "p": "La página del producto es tu vendedor en piso. Tiene que contestar lo que preguntaría un cliente en el mostrador."
+    },
+    {
+      "ul": [
+        "Nombre claro y precio visible sin hacer clic.",
+        "Fotos de frente, de lado y en uso.",
+        "Medidas, material y cuidados.",
+        "Tiempo de entrega y costo de envío.",
+        "Qué pasa si no le queda o llega dañado.",
+        "Botón para preguntar por WhatsApp antes de comprar."
+      ]
+    },
+    {
+      "h2": "Tienda en línea o catálogo con WhatsApp"
+    },
+    {
+      "p": "Una tienda con carrito tiene sentido cuando vendes muchos productos a gente que no conoces. Si vendes pocos o por encargo, el catálogo puede ser mejor."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo conviene cada uno",
+        "columnas": [
+          "Si tu negocio…",
+          "Conviene"
+        ],
+        "filas": [
+          [
+            "Vende más de cincuenta productos con precio fijo",
+            "Tienda con carrito"
+          ],
+          [
+            "Vende pasteles, arreglos o trabajos por encargo",
+            "Catálogo con pedido por WhatsApp"
+          ],
+          [
+            "Cotiza cada pedido",
+            "Página con formulario o WhatsApp"
+          ],
+          [
+            "Vende en persona y quiere que lo encuentren",
+            "Landing con mapa y catálogo"
+          ],
+          [
+            "Ya vende mucho en un mercado en línea",
+            "Página propia para clientes que regresan"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con nuestro [catálogo digital](id:catalogo-digital) puedes armar un PDF con botón de pedir por WhatsApp. Es una forma de vender en línea sin carrito."
+    },
+    {
+      "h2": "Ejemplo de una tienda de ropa que empieza"
+    },
+    {
+      "p": "Ejemplo inventado de un caso común. Una tienda de ropa en Guadalajara vende por Instagram y contesta todo por mensaje."
+    },
+    {
+      "p": "Primero arma un catálogo con sus treinta prendas más vendidas y sus tallas. Luego hace una página con ese catálogo, su dirección y su WhatsApp."
+    },
+    {
+      "p": "Cobra con link de pago y envía con una sola paquetería. Al llegar a cien pedidos al mes, pasa a una tienda con carrito."
+    },
+    {
+      "p": "Así no paga una plataforma grande antes de saber qué se vende. Y su dominio sigue siendo el mismo cuando cambia de camino."
+    },
+    {
+      "h2": "Cómo llevar visitas a tu tienda"
+    },
+    {
+      "p": "Abrir la tienda no trae clientes por sí solo. La gente tiene que saber que existe."
+    },
+    {
+      "ul": [
+        "Pon la dirección de tu tienda en tu perfil de Instagram, Facebook y WhatsApp Business.",
+        "Agrégala en tu ficha de Google para que salga junto a tu mapa.",
+        "Imprime un QR con la liga en tus bolsas, tickets y mostrador.",
+        "Avisa a tus clientes de siempre con un mensaje corto y una promoción de estreno.",
+        "Publica cada producto nuevo con su liga directa, no sólo la portada."
+      ]
+    },
+    {
+      "p": "Los anuncios pagados vienen después. Primero asegúrate de que quien llega pueda comprar sin trabarse."
+    },
+    {
+      "h2": "Lo legal que no puedes olvidar"
+    },
+    {
+      "p": "Vender en línea tiene reglas parecidas a vender en mostrador. Algunas son nuevas para quien siempre vendió en persona."
+    },
+    {
+      "ul": [
+        "Publica tus precios finales con impuestos incluidos.",
+        "Escribe tu política de cambios, devoluciones y garantías.",
+        "Publica un aviso de privacidad si pides datos personales.",
+        "Muestra tu nombre o razón social y una forma de contacto.",
+        "Emite factura cuando el cliente la pida y tengas obligación."
+      ]
+    },
+    {
+      "p": "Puedes armar tu texto con nuestro generador de [aviso de privacidad](id:aviso-de-privacidad). Para impuestos, la palabra final la tiene tu contador."
+    },
+    {
+      "h2": "Cómo atender a los clientes de tu tienda"
+    },
+    {
+      "p": "Una tienda en línea también tiene mostrador. Es el chat, el correo y la página de preguntas frecuentes."
+    },
+    {
+      "ul": [
+        "Contesta las preguntas sobre tallas, medidas y envío en menos de una hora en tu horario.",
+        "Manda un mensaje cuando el pedido sale, con su guía de rastreo.",
+        "Pregunta unos días después si llegó bien.",
+        "Resuelve un cambio con la misma rapidez con que cobraste.",
+        "Guarda las preguntas que más se repiten y súbelas a tu página."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas que conviene contestar en tu tienda",
+        "columnas": [
+          "Pregunta del cliente",
+          "Dónde contestarla"
+        ],
+        "filas": [
+          [
+            "¿Cuánto tarda en llegar?",
+            "En cada producto y en la página de envíos"
+          ],
+          [
+            "¿Puedo cambiarlo si no me queda?",
+            "En la página de cambios y en el pie de la tienda"
+          ],
+          [
+            "¿Es seguro pagar aquí?",
+            "Junto al botón de pagar, con las formas aceptadas"
+          ],
+          [
+            "¿Tienen tienda física?",
+            "En la portada, con dirección y mapa si la tienes"
+          ],
+          [
+            "¿Dan factura?",
+            "En preguntas frecuentes, con cómo pedirla"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Fallas comunes al abrir una tienda en línea"
+    },
+    {
+      "ul": [
+        "Subir cien productos con fotos oscuras en lugar de diez bien hechos.",
+        "No hacer una compra de prueba antes de anunciar.",
+        "Olvidar el costo de envío y perder dinero en cada pedido.",
+        "No tener página de cambios y devoluciones.",
+        "Dejar la tienda en la dirección gratis de la plataforma.",
+        "Tardar días en contestar mensajes de clientes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo crear una tienda en línea gratis?",
+      "respuesta": "Sí, para empezar. Las comisiones por venta, el dominio y los envíos se pagan aunque el plan no cobre mensualidad."
+    },
+    {
+      "pregunta": "¿Necesito darme de alta en el SAT para vender en línea?",
+      "respuesta": "Sí, si vendes de forma constante. Pregunta a tu contador qué régimen te conviene antes de abrir."
+    },
+    {
+      "pregunta": "¿Qué es mejor, mi tienda o Mercado Libre?",
+      "respuesta": "Depende. El mercado trae compradores, tu tienda te deja quedarte con el cliente. Muchos negocios usan los dos."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en estar lista una tienda?",
+      "respuesta": "Unos días si tienes fotos y precios listos. Lo que más tarda es preparar los productos."
+    },
+    {
+      "pregunta": "¿Puedo vender por WhatsApp sin tienda?",
+      "respuesta": "Sí. Un catálogo y un link de pago bastan para empezar con pocos productos."
+    },
+    {
+      "pregunta": "¿Aliviane hace tiendas con carrito y cobros?",
+      "respuesta": "Nuestra landing es una página con catálogo y WhatsApp. Una tienda con carrito y cobros en línea se cotiza aparte."
+    },
+    {
+      "pregunta": "¿Mi tienda necesita aviso de privacidad?",
+      "respuesta": "Sí. Si pides nombre, teléfono o dirección, debes publicar un aviso de privacidad."
+    }
+  ],
+  "relacionadas": [
+    "como-crear-una-pagina-web",
+    "como-vender-por-internet",
+    "link-de-pago",
+    "catalogo-digital",
+    "terminal-para-cobrar-con-tarjeta",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Si vendes pocos productos, una landing con catálogo y WhatsApp puede ser tu primera tienda. Aliviane te la hace.",
+    "titulo": "¿Empezamos con una página que vende por WhatsApp?",
+    "tituloCorto": "¿Tu primera tienda sin carrito?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/blog/mx/crear-tienda-online-gratis/",
+      "titulo": "¿Cómo crear una tienda online gratis y empezar a vender?",
+      "promete": "Pasos dentro de su plataforma y plan gratis; no compara con vender en mercados o por WhatsApp"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.neolo.com/blog/como-hacer-una-tienda-en-linea-gratis-en-mexico.php",
+      "titulo": "Cómo hacer una tienda en línea gratis en México",
+      "promete": "Lista de plataformas y su hosting; poco sobre envíos, devoluciones y factura"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.hostinger.com/mx/tienda-online",
+      "titulo": "Crea una tienda online",
+      "promete": "Página de venta de su creador de tiendas; no explica costos que siguen después del plan"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin precios ni comisiones de plataformas de tienda (no leídos hoy en fuente propia). Tienda con cobros se cotiza aparte: dicho una vez en preguntas. Top 3 leído con WebSearch el 12-nov-2026."
+}

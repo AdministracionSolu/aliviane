@@ -1,0 +1,499 @@
+{
+  "id": "slug-seo",
+  "slug": "slug-seo",
+  "molde": "guia",
+  "cabeza": "slug seo",
+  "busquedas": [],
+  "title": "Slug SEO: qué es y cómo escribir uno bueno con ejemplos",
+  "h1": "Slug SEO: cómo escribir la dirección de cada página",
+  "description": "El slug es la parte de la dirección que nombra cada página, como /menu-de-comida. Te enseñamos a escribirlo claro y a cambiarlo sin perder visitas. Revísalo.",
+  "resumen": "Qué es el slug, reglas para escribirlo y cómo cambiarlo sin romper ligas",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El slug es la parte final de la dirección de una página, la que va después de la última diagonal. En tunegocio.mx/pastel-de-chocolate, el slug es pastel-de-chocolate.",
+    "Un buen slug es corto, usa palabras que la gente entiende y separa con guiones. Escríbelo bien desde el principio, porque cambiarlo después rompe las ligas que ya existen."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un slug"
+    },
+    {
+      "p": "Toda página tiene una dirección. Esa dirección tiene varias partes y el slug es la última."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de una dirección web",
+        "columnas": [
+          "Parte",
+          "Ejemplo",
+          "Qué es"
+        ],
+        "filas": [
+          [
+            "Protocolo",
+            "https://",
+            "La forma segura de abrir la página"
+          ],
+          [
+            "Dominio",
+            "tunegocio.mx",
+            "El nombre de tu sitio"
+          ],
+          [
+            "Carpeta",
+            "/servicios/",
+            "Una sección que agrupa páginas"
+          ],
+          [
+            "Slug",
+            "corte-de-cabello",
+            "El nombre de esa página en particular"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La palabra slug viene del periodismo. Era el nombre corto con el que se identificaba una nota en la redacción."
+    },
+    {
+      "h2": "Por qué importa el slug"
+    },
+    {
+      "p": "El slug es una pista más de qué trata tu página. La lee la gente y la leen los buscadores."
+    },
+    {
+      "p": "Cuando alguien ve la liga en WhatsApp, el slug le dice qué va a abrir. Una liga clara se toca con más confianza que una llena de números."
+    },
+    {
+      "p": "Para Google es una señal ligera. No te va a subir solo, pero un slug confuso tampoco ayuda."
+    },
+    {
+      "p": "También importa para ti. Con slugs claros encuentras tus páginas rápido y sabes qué es cada una en tus estadísticas."
+    },
+    {
+      "h2": "Cómo escribir un buen slug"
+    },
+    {
+      "p": "Estas reglas sirven para cualquier sitio, hecho a mano o con un creador de páginas."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Usa minúsculas",
+          "texto": "Las mayúsculas pueden crear dos direcciones distintas para la misma página. Todo en minúsculas evita confusiones."
+        },
+        {
+          "titulo": "Separa con guiones",
+          "texto": "Usa guion medio entre palabras. Nada de espacios, guion bajo ni signos raros."
+        },
+        {
+          "titulo": "Quita acentos y ñ",
+          "texto": "Escribe diseno en lugar de diseño. Algunos sistemas convierten los acentos en códigos largos y feos."
+        },
+        {
+          "titulo": "Sé breve",
+          "texto": "Tres a cinco palabras bastan. Quita artículos y palabras de relleno cuando no hacen falta."
+        },
+        {
+          "titulo": "Usa la palabra que busca la gente",
+          "texto": "Si tus clientes buscan corte de cabello, no pongas servicios capilares."
+        },
+        {
+          "titulo": "Sin fechas ni números de versión",
+          "texto": "Una fecha en el slug envejece la página aunque actualices el texto."
+        },
+        {
+          "titulo": "Una sola idea",
+          "texto": "El slug dice de qué trata esa página y nada más."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplos de slugs buenos y malos"
+    },
+    {
+      "p": "Ejemplos inventados con negocios mexicanos. Fíjate en lo que se quita y en lo que se queda."
+    },
+    {
+      "tabla": {
+        "titulo": "Antes y después",
+        "columnas": [
+          "Slug a evitar",
+          "Slug mejor",
+          "Qué cambió"
+        ],
+        "filas": [
+          [
+            "/pagina.php?id=4521",
+            "/menu-del-dia",
+            "Palabras en lugar de números"
+          ],
+          [
+            "/Servicios_Dentales_2024",
+            "/limpieza-dental",
+            "Minúsculas, guiones y sin año"
+          ],
+          [
+            "/los-mejores-tacos-al-pastor-de-toda-la-ciudad",
+            "/tacos-al-pastor",
+            "Más corto y sin promesa"
+          ],
+          [
+            "/diseño-de-uñas",
+            "/diseno-de-unas",
+            "Sin ñ ni acentos"
+          ],
+          [
+            "/producto-nuevo",
+            "/pastel-tres-leches",
+            "Dice qué es"
+          ],
+          [
+            "/blog/como-elegir-una-llanta-para-tu-auto-en-temporada-de-lluvias",
+            "/blog/llantas-para-lluvia",
+            "Sólo lo esencial"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Slug, título y encabezado no son lo mismo"
+    },
+    {
+      "p": "Las tres cosas hablan del mismo tema, pero cada una tiene su trabajo. No tienen que ser iguales."
+    },
+    {
+      "tabla": {
+        "titulo": "Tres nombres para la misma página",
+        "columnas": [
+          "Pieza",
+          "Para qué sirve",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Título de la página",
+            "Lo que sale en Google y en la pestaña",
+            "Limpieza dental en Puebla con cita por WhatsApp"
+          ],
+          [
+            "Encabezado principal",
+            "Lo primero que lee quien ya entró",
+            "Limpieza dental en el centro de Puebla"
+          ],
+          [
+            "Slug",
+            "La dirección corta de la página",
+            "limpieza-dental"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El título puede cambiar cuando quieras. El slug conviene dejarlo quieto una vez publicado."
+    },
+    {
+      "h2": "Slug y palabras clave"
+    },
+    {
+      "p": "El slug es un buen lugar para la palabra clave principal de la página. Pero sólo la principal, no todas."
+    },
+    {
+      "p": "Si tu página es sobre uñas acrílicas en Zapopan, un slug como unas-acrilicas-zapopan funciona. No hace falta repetir cada variante."
+    },
+    {
+      "p": "Primero elige tus palabras con nuestra guía de [palabras clave](id:palabras-clave). Luego el slug sale casi solo."
+    },
+    {
+      "h2": "Slugs con ciudad o sin ciudad"
+    },
+    {
+      "p": "Si tu negocio atiende sólo una ciudad, la ciudad en el slug ayuda poco. Ya está en tu texto, tu dirección y tu ficha de Google."
+    },
+    {
+      "p": "Si atiendes varias ciudades con páginas distintas, ahí sí conviene. Cada página dice su ciudad en el slug."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo poner la ciudad",
+        "columnas": [
+          "Caso",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Una sola sucursal",
+            "/corte-de-cabello"
+          ],
+          [
+            "Varias sucursales con página propia",
+            "/sucursal-leon y /sucursal-irapuato"
+          ],
+          [
+            "Servicio por ciudad",
+            "/mudanzas-en-monterrey"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Carpetas y orden del sitio"
+    },
+    {
+      "p": "Si tu sitio tiene muchas páginas, agrúpalas en carpetas. La dirección completa cuenta la historia de dónde está cada una."
+    },
+    {
+      "ul": [
+        "/servicios/limpieza-dental",
+        "/servicios/blanqueamiento",
+        "/blog/cuidados-despues-de-una-extraccion",
+        "/contacto"
+      ]
+    },
+    {
+      "p": "No hagas carpetas dentro de carpetas sin necesidad. Dos niveles alcanzan para casi cualquier negocio."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo cambiar un slug sin perder visitas"
+    },
+    {
+      "p": "Cambiar un slug es como cambiar de domicilio. Si no dejas aviso, la gente llega a una puerta vacía."
+    },
+    {
+      "p": "Ese aviso se llama redirección permanente. Manda automáticamente a quien llega por la dirección vieja a la nueva."
+    },
+    {
+      "ol": [
+        "Anota la dirección vieja y la nueva.",
+        "Cambia el slug en tu creador de páginas o en tu sistema.",
+        "Crea una redirección permanente de la vieja a la nueva.",
+        "Abre la dirección vieja y revisa que te lleve a la nueva.",
+        "Actualiza las ligas internas de tu sitio.",
+        "Cambia la liga en tus redes, tu ficha de Google y tus QR impresos."
+      ]
+    },
+    {
+      "p": "Si no puedes hacer la redirección, mejor no cambies el slug. Una página que no abre pierde lo que había ganado."
+    },
+    {
+      "h2": "Cuándo sí vale la pena cambiarlo"
+    },
+    {
+      "ul": [
+        "La dirección tiene números o códigos sin sentido.",
+        "El slug habla de algo que ya no vendes.",
+        "Tiene una fecha vieja que confunde.",
+        "La página es nueva y casi nadie la conoce."
+      ]
+    },
+    {
+      "p": "Si la página ya trae visitas y el slug sólo es feo, piénsalo dos veces. Lo que ganas es poco y el riesgo es real."
+    },
+    {
+      "h2": "Slugs para productos de una tienda"
+    },
+    {
+      "p": "En una tienda cada producto tiene su página y su slug. Con muchos productos, el orden se vuelve importante."
+    },
+    {
+      "ul": [
+        "Usa el nombre del producto y la variante principal. Por ejemplo, tenis-blancos-de-piel.",
+        "No metas la talla o el color si se eligen dentro de la misma página.",
+        "Evita el código interno del inventario como slug.",
+        "Si un producto se agota para siempre, manda su dirección a uno parecido."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos inventados para una tienda de ropa",
+        "columnas": [
+          "Producto",
+          "Slug"
+        ],
+        "filas": [
+          [
+            "Blusa bordada de manta",
+            "/blusa-bordada-de-manta"
+          ],
+          [
+            "Vestido de lino color arena",
+            "/vestido-de-lino"
+          ],
+          [
+            "Huaraches de piel para hombre",
+            "/huaraches-de-piel-hombre"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Slug y las ligas que compartes"
+    },
+    {
+      "p": "A veces verás ligas con un signo de interrogación al final, como ?origen=instagram. Eso no es parte del slug."
+    },
+    {
+      "p": "Esa parte extra sirve para medir de dónde llega la gente. La página es la misma, sólo cambia la etiqueta que la acompaña."
+    },
+    {
+      "p": "Puedes usarla en tus redes y en tus QR para saber qué canal funciona. El slug se queda limpio y corto."
+    },
+    {
+      "h2": "Revisión antes de publicar una página"
+    },
+    {
+      "p": "Antes de publicar, revisa el slug con esta lista. Toma un minuto y te ahorra cambios después."
+    },
+    {
+      "ul": [
+        "Está en minúsculas y sin acentos.",
+        "Usa guiones entre palabras.",
+        "Tiene entre tres y cinco palabras.",
+        "Dice de qué trata la página.",
+        "No repite otra página de tu sitio.",
+        "No tiene fechas ni números sin sentido."
+      ]
+    },
+    {
+      "h2": "Slugs en creadores de páginas"
+    },
+    {
+      "p": "Casi todos los creadores de páginas dejan editar el slug. Lo encuentras en la configuración de cada página."
+    },
+    {
+      "ul": [
+        "Busca opciones como dirección de la página, liga permanente o ruta.",
+        "Algunos crean el slug con el título completo. Recórtalo antes de publicar.",
+        "Revisa que no agregue números al final por tener páginas repetidas."
+      ]
+    },
+    {
+      "h2": "Slugs y QR impresos"
+    },
+    {
+      "p": "Si vas a imprimir un QR que lleva a una página, el slug tiene que ser definitivo. Cambiarlo después deja tus impresos apuntando a nada."
+    },
+    {
+      "p": "Antes de imprimir, abre la liga en tu celular. Revisa que sea la dirección final y que cargue bien."
+    },
+    {
+      "p": "Puedes crear tu código con nuestro [generador de QR](id:generador-de-qr). Sale en PNG o SVG para imprenta."
+    },
+    {
+      "h2": "Ejemplo de un consultorio que ordena sus direcciones"
+    },
+    {
+      "p": "Ejemplo inventado para ver el cambio. Un consultorio de fisioterapia en Mérida tenía páginas con direcciones como /pagina-2 y /nueva-pagina-copia."
+    },
+    {
+      "p": "Antes de anunciarse, las renombró como /terapia-de-rodilla, /rehabilitacion-deportiva y /precios. Como eran nuevas, no necesitó redirecciones."
+    },
+    {
+      "p": "Ahora cada liga que manda por WhatsApp dice qué es. Y en sus estadísticas sabe qué servicio se ve más."
+    },
+    {
+      "h2": "Slugs de un blog"
+    },
+    {
+      "p": "Si tu negocio publica artículos, cada uno necesita un slug claro. Los títulos de artículos suelen ser largos y el slug no tiene por qué serlo."
+    },
+    {
+      "ul": [
+        "Quita las palabras como cómo, el, la y para cuando no cambian el sentido.",
+        "Deja el tema central, como llantas-para-lluvia o recetas-con-nopal.",
+        "No pongas el año aunque el artículo sea de temporada.",
+        "Si actualizas el artículo cada año, deja el mismo slug y cambia el texto."
+      ]
+    },
+    {
+      "p": "Así una nota de 2026 puede seguir viva en 2028 con su misma dirección."
+    },
+    {
+      "h2": "Fallas comunes con los slugs"
+    },
+    {
+      "ul": [
+        "Dejar el slug que el sistema puso solo, con números.",
+        "Copiar el título completo como slug.",
+        "Usar acentos y ñ en la dirección.",
+        "Cambiar slugs viejos sin redirección.",
+        "Repetir la palabra clave varias veces en el slug.",
+        "Imprimir un QR antes de tener la dirección final."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un slug en SEO?",
+      "respuesta": "Es la parte final de la dirección de una página. Por ejemplo, limpieza-dental en tunegocio.mx/limpieza-dental."
+    },
+    {
+      "pregunta": "¿El slug ayuda a posicionar mi página?",
+      "respuesta": "Un poco. Es una señal ligera para Google y ayuda más a que la gente entienda la liga."
+    },
+    {
+      "pregunta": "¿Puedo usar acentos en el slug?",
+      "respuesta": "Mejor no. Escribe la palabra sin acento y sin ñ para evitar códigos raros."
+    },
+    {
+      "pregunta": "¿Cuántas palabras debe tener un slug?",
+      "respuesta": "De tres a cinco suele bastar. Lo importante es que diga de qué trata la página."
+    },
+    {
+      "pregunta": "¿Qué pasa si cambio un slug?",
+      "respuesta": "La dirección vieja deja de funcionar. Crea una redirección permanente para no perder visitas."
+    },
+    {
+      "pregunta": "¿Se usa guion medio o guion bajo?",
+      "respuesta": "Guion medio. Es la forma más común y clara de separar palabras."
+    }
+  ],
+  "relacionadas": [
+    "seo",
+    "palabras-clave",
+    "seo-y-sem",
+    "seo-local",
+    "que-es-un-dominio",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "En las páginas que hace Aliviane, cada dirección se escribe con las palabras de tus clientes.",
+    "titulo": "¿Hacemos tu página con direcciones claras desde el día uno?",
+    "tituloCorto": "¿Tus direcciones dicen algo?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://seranking.com/es/blog/que-es-un-slug/",
+      "titulo": "Slug: qué es y cómo optimizarlo",
+      "promete": "Definición y consejos técnicos; ejemplos en inglés y sin casos de negocios en México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://ahrefs.com/blog/es/urls-amigables-con-seo",
+      "titulo": "Cómo crear URLs amigables con el SEO",
+      "promete": "Guía larga para expertos; no explica qué hacer al cambiar un slug en un sitio chico"
+    },
+    {
+      "posicion": 3,
+      "url": "https://es.semrush.com/blog/que-es-un-slug/",
+      "titulo": "¿Qué es un slug y por qué son importantes en el SEO?",
+      "promete": "Buena definición; sin tabla de antes y después ni reglas para acentos y ñ"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin cifras. Top 3 leído con WebSearch el 12-nov-2026."
+}

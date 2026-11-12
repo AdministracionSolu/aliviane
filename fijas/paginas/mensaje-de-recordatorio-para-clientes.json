@@ -1,0 +1,494 @@
+{
+  "id": "mensaje-de-recordatorio-para-clientes",
+  "slug": "mensaje-de-recordatorio-para-clientes",
+  "molde": "guia",
+  "cabeza": "mensaje de recordatorio para clientes",
+  "busquedas": [],
+  "title": "Mensaje de recordatorio para clientes: 30 ejemplos",
+  "h1": "Mensajes de recordatorio para clientes listos para usar",
+  "description": "30 mensajes de recordatorio para clientes por WhatsApp: citas, pagos, pedidos y renovaciones. Con reglas para no sonar insistente y cuándo mandarlos. Úsalos.",
+  "resumen": "30 ejemplos para citas, pagos, pedidos y renovaciones, y cuándo mandarlos",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un mensaje de recordatorio avisa al cliente de algo que acordó contigo, como una cita, un pago o un pedido por recoger. Debe decir qué, cuándo y dónde, en pocas líneas y con su nombre.",
+    "Mándalo un día antes y repite el mismo día sólo si es una cita. Termina con una forma fácil de confirmar o cambiar, como responder sí o tocar una liga."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué debe llevar un buen recordatorio"
+    },
+    {
+      "p": "Un recordatorio no es un anuncio. Es un favor que le haces al cliente para que no se le olvide algo que le importa."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "El nombre del cliente",
+          "texto": "Un mensaje con su nombre se siente personal. Uno sin nombre parece cadena."
+        },
+        {
+          "titulo": "Qué se recuerda",
+          "texto": "La cita, el pago o el pedido, dicho en palabras claras."
+        },
+        {
+          "titulo": "Cuándo",
+          "texto": "Fecha y hora completas. Mejor jueves 14 a las 5 de la tarde que mañana."
+        },
+        {
+          "titulo": "Dónde",
+          "texto": "La dirección o la liga, si aplica."
+        },
+        {
+          "titulo": "Qué hacer",
+          "texto": "Responder sí para confirmar o escribir para cambiar."
+        },
+        {
+          "titulo": "Quién lo manda",
+          "texto": "El nombre de tu negocio, para que no parezca un número desconocido."
+        }
+      ]
+    },
+    {
+      "h2": "Cuándo mandar cada recordatorio"
+    },
+    {
+      "p": "El momento importa tanto como el texto. Muy pronto se olvida y muy tarde ya no sirve."
+    },
+    {
+      "tabla": {
+        "titulo": "Momento sugerido por tipo de recordatorio",
+        "columnas": [
+          "Tipo",
+          "Primer aviso",
+          "Segundo aviso"
+        ],
+        "filas": [
+          [
+            "Cita en consultorio o estética",
+            "Un día antes",
+            "Dos o tres horas antes"
+          ],
+          [
+            "Pago próximo a vencer",
+            "Tres días antes",
+            "El día del vencimiento"
+          ],
+          [
+            "Pago vencido",
+            "Un día después",
+            "Una semana después"
+          ],
+          [
+            "Pedido listo para recoger",
+            "Cuando está listo",
+            "Dos días después si no pasa"
+          ],
+          [
+            "Renovación de servicio",
+            "Quince días antes",
+            "Tres días antes"
+          ],
+          [
+            "Reposición de producto",
+            "Cuando calculas que se le acaba",
+            "No repetir"
+          ],
+          [
+            "Evento o clase",
+            "Un día antes",
+            "Una hora antes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Manda en horario de oficina. Un mensaje a las once de la noche molesta aunque el texto sea perfecto."
+    },
+    {
+      "h2": "Recordatorios de citas"
+    },
+    {
+      "p": "Todos los ejemplos usan nombres y negocios inventados. Cambia los datos por los tuyos."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de recordatorio de cita",
+        "columnas": [
+          "Negocio",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Consultorio",
+            "Hola, Andrea. Te recordamos tu cita con la doctora Ruiz mañana jueves a las 10. Responde sí para confirmar."
+          ],
+          [
+            "Estética",
+            "Hola, Paola. Mañana a las 4 te esperamos para tu tinte. Si necesitas cambiar la hora, escríbenos hoy."
+          ],
+          [
+            "Barbería",
+            "Qué tal, Marco. Tu corte es hoy a las 6. Te apartamos la silla de siempre."
+          ],
+          [
+            "Taller mecánico",
+            "Hola, Sergio. Te esperamos el lunes a las 9 para el servicio de tu auto. Trae la tarjeta de circulación."
+          ],
+          [
+            "Dentista",
+            "Buen día, Luis. Tu limpieza dental es el martes 18 a las 12. Llega diez minutos antes, por favor."
+          ],
+          [
+            "Veterinaria",
+            "Hola, Rocío. Mañana toca la vacuna de Canela a las 11. Te esperamos en la clínica de siempre."
+          ],
+          [
+            "Asesoría o consulta en línea",
+            "Hola, Ernesto. Nuestra llamada es hoy a las 5. Aquí está la liga para entrar."
+          ],
+          [
+            "Clase o curso",
+            "Hola, Diana. Tu clase de prueba es el sábado a las 9. Trae ropa cómoda y agua."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Recordatorios de pago"
+    },
+    {
+      "p": "Cobrar incomoda a mucha gente. Un tono amable y claro cobra mejor que uno duro."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de recordatorio de pago",
+        "columnas": [
+          "Momento",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Antes de vencer",
+            "Hola, Carmen. Te recordamos que tu pago de $850 vence el viernes 20. Aquí está el link para pagar."
+          ],
+          [
+            "El día del vencimiento",
+            "Buen día, Ramón. Hoy vence tu mensualidad de $500. Si ya pagaste, ignora este mensaje y gracias."
+          ],
+          [
+            "Un día después",
+            "Hola, Julia. Vimos que tu pago de ayer quedó pendiente. ¿Te ayudo con algo para completarlo?"
+          ],
+          [
+            "Una semana después",
+            "Hola, Tomás. Tu pago de $1,200 sigue pendiente. Si necesitas otra fecha, escríbeme y lo vemos."
+          ],
+          [
+            "Abono acordado",
+            "Hola, Beatriz. Te recuerdo el abono de $300 que acordamos para hoy. Gracias por tu puntualidad."
+          ],
+          [
+            "Anticipo de un pedido",
+            "Hola, Iván. Para apartar tu pedido del sábado falta el anticipo de $400. Aquí está el link."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si el cliente ya pagó, agradece y cierra. Mandar otro recordatorio a quien ya pagó es la forma más rápida de molestarlo."
+    },
+    {
+      "p": "Para cobrar con tarjeta desde el mensaje, lee nuestra guía de [link de pago](id:link-de-pago)."
+    },
+    {
+      "h2": "Recordatorios de pedidos y entregas"
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos para pedidos",
+        "columnas": [
+          "Situación",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Pedido listo",
+            "Hola, Mariana. Tu pastel ya está listo. Puedes recogerlo hoy de 10 a 7."
+          ],
+          [
+            "Pedido sin recoger",
+            "Hola, Omar. Tus lentes siguen aquí esperándote. Abrimos de lunes a sábado de 9 a 6."
+          ],
+          [
+            "Envío en camino",
+            "Hola, Lucía. Tu paquete salió hoy. Este es tu número de guía para seguirlo."
+          ],
+          [
+            "Entrega mañana",
+            "Hola, Pedro. Mañana entre 9 y 12 llega tu pedido. ¿Habrá alguien para recibirlo?"
+          ],
+          [
+            "Cambio de fecha",
+            "Hola, Sandra. Tu pedido se retrasa un día por la paquetería. Llega el jueves. Gracias por la paciencia."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Recordatorios de renovación y reposición"
+    },
+    {
+      "p": "Estos mensajes ayudan a que el cliente vuelva sin que tú tengas que vender de más."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de renovación y reposición",
+        "columnas": [
+          "Situación",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Membresía de gimnasio",
+            "Hola, Arturo. Tu mensualidad vence el día 30. ¿Te la renuevo para que no pierdas tu horario?"
+          ],
+          [
+            "Servicio de mantenimiento",
+            "Hola, Gloria. Ya pasaron seis meses del servicio de tu minisplit. ¿Agendamos el siguiente?"
+          ],
+          [
+            "Agua o garrafones",
+            "Hola, Raúl. Normalmente pides garrafones los lunes. ¿Te llevamos dos mañana?"
+          ],
+          [
+            "Croquetas para mascota",
+            "Hola, Fernanda. Calculamos que se te acaban las croquetas esta semana. ¿Te apartamos un bulto?"
+          ],
+          [
+            "Póliza o seguro",
+            "Hola, Héctor. Tu póliza vence en quince días. Te mando las opciones para renovarla."
+          ],
+          [
+            "Revisión dental",
+            "Hola, Silvia. Ya toca tu revisión de cada seis meses. ¿Qué día te acomoda?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Recordatorios de eventos y temporadas"
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de temporada",
+        "columnas": [
+          "Situación",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Pedidos de rosca",
+            "Hola, Laura. Ya estamos tomando pedidos de rosca. Aparta la tuya antes del 3 de enero."
+          ],
+          [
+            "Regreso a clases",
+            "Hola, Mario. Ya tenemos las listas de útiles por grado. Te armamos el paquete y lo pasas a recoger."
+          ],
+          [
+            "Cierre por vacaciones",
+            "Hola, Teresa. Cerramos del 24 al 26 de diciembre. Si necesitas algo, pídelo antes del 23."
+          ],
+          [
+            "Día de las madres",
+            "Hola, Julio. Quedan pocos lugares para el arreglo floral del 10 de mayo. ¿Te apartamos uno?"
+          ],
+          [
+            "Taller o evento",
+            "Hola, Ana. El taller de pan es este sábado a las 10. Te esperamos con mandil."
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo no sonar insistente"
+    },
+    {
+      "p": "La línea entre recordar y presionar es delgada. Estas reglas te mantienen del lado bueno."
+    },
+    {
+      "ul": [
+        "Un mensaje por recordatorio, no tres seguidos.",
+        "Máximo dos avisos por el mismo tema.",
+        "Nada de mayúsculas ni de signos repetidos.",
+        "Ofrece una salida, como cambiar la fecha.",
+        "Agradece siempre, aunque el cliente vaya atrasado.",
+        "Si el cliente pide no recibir mensajes, respétalo y anótalo."
+      ]
+    },
+    {
+      "h2": "Cómo mandar recordatorios sin perder tiempo"
+    },
+    {
+      "p": "Escribir cada mensaje a mano funciona con pocos clientes. Cuando crecen, conviene ordenarlos."
+    },
+    {
+      "ul": [
+        "Guarda tus mensajes como respuestas rápidas en WhatsApp Business.",
+        "Usa etiquetas para separar citas de mañana, pagos pendientes y pedidos listos.",
+        "Lleva una lista con fecha, nombre y tipo de recordatorio.",
+        "Revisa la lista a la misma hora cada día."
+      ]
+    },
+    {
+      "p": "Si quieres programarlos, revisa nuestra guía de [mensajes programados en WhatsApp](id:mensajes-programados-whatsapp). Para respuestas automáticas, lee la de [mensajes automáticos](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "h2": "Recordatorios por correo o mensaje de texto"
+    },
+    {
+      "p": "WhatsApp no es el único canal. Algunos clientes prefieren correo, sobre todo en negocios con empresas."
+    },
+    {
+      "ul": [
+        "Por correo, pon el recordatorio en el asunto. Por ejemplo, tu cita es el jueves 14 a las 10.",
+        "Agrega la dirección con liga al mapa y un botón para confirmar o cambiar.",
+        "Por mensaje de texto, sé todavía más breve. No caben fotos ni ligas largas.",
+        "Firma siempre con el nombre de tu negocio y un teléfono."
+      ]
+    },
+    {
+      "p": "Usa el canal donde el cliente te contestó la última vez. Ese es el que revisa."
+    },
+    {
+      "h2": "Mensajes que conviene evitar"
+    },
+    {
+      "p": "Algunos textos suenan mal aunque la intención sea buena. Cámbialos por versiones más amables."
+    },
+    {
+      "tabla": {
+        "titulo": "Cómo mejorar un recordatorio",
+        "columnas": [
+          "En lugar de",
+          "Mejor"
+        ],
+        "filas": [
+          [
+            "Le recuerdo que debe su pago.",
+            "Te recuerdo que tu pago vence hoy. Aquí está el link."
+          ],
+          [
+            "Si no confirma, perderá su cita.",
+            "Responde sí para confirmar tu lugar. Si no puedes, lo cambiamos."
+          ],
+          [
+            "Urgente. Pague hoy.",
+            "Tu pago quedó pendiente. ¿Te ayudo con algo para completarlo?"
+          ],
+          [
+            "Recordatorio de cita.",
+            "Hola, Luisa. Tu cita es mañana a las 4 con Karla."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Ejemplo de una estética que ordena sus recordatorios"
+    },
+    {
+      "p": "Ejemplo inventado para ver el proceso. Una estética en Pachuca tenía muchas citas a las que nadie llegaba."
+    },
+    {
+      "p": "Ahora manda un mensaje un día antes con la hora y el nombre de la estilista. Si la clienta no contesta, manda otro dos horas antes."
+    },
+    {
+      "p": "Cada tarde revisa la lista de citas del día siguiente. Las que no confirman se ofrecen a clientas en lista de espera."
+    },
+    {
+      "h2": "Fallas comunes con los recordatorios"
+    },
+    {
+      "ul": [
+        "Mandar el mismo mensaje genérico a todos sin nombre.",
+        "Escribir mañana sin decir el día ni la hora.",
+        "Mandar recordatorios de pago a quien ya pagó.",
+        "Escribir de noche o en domingo temprano.",
+        "Mandar el aviso desde un número que el cliente no tiene guardado sin decir quién eres."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuándo debo mandar un recordatorio de cita?",
+      "respuesta": "Un día antes y, si quieres, unas horas antes el mismo día. Más avisos suelen molestar."
+    },
+    {
+      "pregunta": "¿Cómo recordar un pago sin ser grosero?",
+      "respuesta": "Con su nombre, el monto y la fecha. Ofrece una liga para pagar y una salida si necesita otra fecha."
+    },
+    {
+      "pregunta": "¿Puedo programar recordatorios en WhatsApp?",
+      "respuesta": "Sí, con algunas herramientas. WhatsApp Business por sí solo trae respuestas rápidas y etiquetas."
+    },
+    {
+      "pregunta": "¿Cuántos recordatorios puedo mandar por el mismo tema?",
+      "respuesta": "Dos como máximo. Después conviene una llamada o dejarlo."
+    },
+    {
+      "pregunta": "¿Debo pedir permiso para mandar recordatorios?",
+      "respuesta": "Sí, conviene. Pide al cliente su número y avísale que le recordarás sus citas o pagos."
+    },
+    {
+      "pregunta": "¿Qué hago si el cliente no contesta?",
+      "respuesta": "Manda un segundo aviso cerca de la fecha. Si sigue sin contestar, no insistas más ese día."
+    }
+  ],
+  "relacionadas": [
+    "link-de-whatsapp",
+    "mensajes-automaticos-whatsapp",
+    "mensajes-programados-whatsapp",
+    "whatsapp-business-para-empresas",
+    "link-de-pago",
+    "resenas-de-google"
+  ],
+  "venta": {
+    "puente": "Tus recordatorios funcionan mejor con una página donde el cliente vea tus servicios y vuelva a agendar.",
+    "titulo": "¿Hacemos la página a donde llevan tus recordatorios?",
+    "tituloCorto": "¿Tus mensajes llevan a tu página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://agendapro.com/blog/recordatorios-de-pago/",
+      "titulo": "Mensajes de recordatorio de pago",
+      "promete": "Ejemplos de cobro enfocados en su software de agenda; pocos mensajes de pedidos o renovaciones"
+    },
+    {
+      "posicion": 2,
+      "url": "https://leadsales.io/blog/mensajes-seguimiento-clientes-whatsapp-ejemplos/",
+      "titulo": "Mensajes de seguimiento a clientes en WhatsApp: 10 ejemplos",
+      "promete": "Diez ejemplos por tipo de negocio; no dice cuándo mandar ni cuántas veces"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tiendanube.com/blog/whatsapp-ejemplos-de-mensajes-de-cobranza/",
+      "titulo": "Mensajes de cobranza en WhatsApp: 20 ejemplos",
+      "promete": "Sólo cobranza; sin recordatorios de citas ni de pedidos"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Todos los mensajes son propios y marcados como ejemplo. Sin cifras de inasistencias (no hay fuente oficial). Top 3 leído con WebSearch el 12-nov-2026."
+}

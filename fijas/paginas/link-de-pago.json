@@ -1,0 +1,463 @@
+{
+  "id": "link-de-pago",
+  "slug": "link-de-pago",
+  "molde": "guia",
+  "cabeza": "link de pago",
+  "busquedas": [],
+  "title": "Link de pago: qué es, cuánto cobra y cómo crearlo",
+  "h1": "Link de pago: cómo cobrar con tarjeta por WhatsApp",
+  "description": "Un link de pago te deja cobrar con tarjeta mandando una liga por WhatsApp. Te explicamos cómo crearlo, qué comisiones revisar y cómo evitar fraudes. Compáralo.",
+  "resumen": "Cómo funciona, comisiones leídas en sus páginas y cómo cobrar sin fraudes",
+  "categoria": "Cobros",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un link de pago es una liga que mandas a tu cliente para que pague con tarjeta desde su celular. Él abre la liga, escribe los datos de su tarjeta en una página segura y el dinero llega a tu cuenta.",
+    "Lo crean bancos y empresas de cobro desde su aplicación, en menos de un minuto. Cobran una comisión por cada venta, así que revisa la tasa, el IVA y cuándo te depositan antes de elegir."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Cómo funciona un link de pago"
+    },
+    {
+      "p": "El link de pago reemplaza a la terminal cuando el cliente no está frente a ti. Sirve para pedidos por WhatsApp, redes o teléfono."
+    },
+    {
+      "ol": [
+        "Abres la aplicación de tu banco o de tu empresa de cobro.",
+        "Escribes el monto y el concepto, como pastel de chocolate para el sábado.",
+        "La aplicación crea una liga única para ese cobro.",
+        "Mandas la liga por WhatsApp, mensaje o correo.",
+        "Tu cliente la abre y paga con su tarjeta.",
+        "Te llega un aviso y el dinero se deposita según el plazo de tu servicio."
+      ]
+    },
+    {
+      "p": "Tu cliente no ve tus datos bancarios. Y tú no ves los datos de su tarjeta."
+    },
+    {
+      "h2": "Para qué negocios sirve"
+    },
+    {
+      "p": "Sirve para cualquiera que cobre a distancia. Es muy útil en ventas por encargo y en anticipos."
+    },
+    {
+      "ul": [
+        "Pastelerías y cocinas que piden anticipo por encargo.",
+        "Tiendas que venden por Instagram y envían por paquetería.",
+        "Consultorios y estéticas que cobran la cita por adelantado.",
+        "Talleres que cobran una refacción antes de pedirla.",
+        "Profesionistas que cobran una consulta en línea.",
+        "Escuelas y cursos que cobran inscripciones."
+      ]
+    },
+    {
+      "h2": "Cuánto cobran: dos ejemplos leídos hoy"
+    },
+    {
+      "p": "Cada empresa publica su tabla. Estas son las tasas que aparecen en sus páginas el 12 de noviembre de 2026."
+    },
+    {
+      "tabla": {
+        "titulo": "Comisiones publicadas en sus páginas (12 de noviembre de 2026)",
+        "columnas": [
+          "Servicio",
+          "Comisión por venta",
+          "Lo que dice su página"
+        ],
+        "filas": [
+          [
+            "BBVA, link de pago de Zona de cobro",
+            "2.99% + IVA con tarjetas nacionales",
+            "Sin mensualidades. Amex 3.5% + IVA e internacionales 3.7% + IVA"
+          ],
+          [
+            "Mercado Pago, link de pago con dinero al instante",
+            "3.49% + $4.00 por venta",
+            "A la tasa fija se suma IVA según su página"
+          ],
+          [
+            "Mercado Pago, dinero en 7 días",
+            "3.19% + $4.00 por venta",
+            "Tasa menor a cambio de esperar"
+          ],
+          [
+            "Mercado Pago, dinero en 30 días",
+            "2.95% + $4.00 por venta",
+            "La tasa más baja de su tabla"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las tasas cambian sin aviso y a veces hay promociones. Antes de elegir, revisa la página de cada servicio el mismo día."
+    },
+    {
+      "p": "Si el cliente paga a meses sin intereses, se suma otra comisión. En Mercado Pago, por ejemplo, su tabla marca 4.69% + IVA extra a 3 meses."
+    },
+    {
+      "h2": "Cómo calcular lo que te llega"
+    },
+    {
+      "p": "La comisión se resta del cobro. Haz la cuenta antes de dar el precio para no perder tu ganancia."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de un cobro de $1,000 con tarjeta nacional en BBVA",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Venta",
+            "$1,000.00"
+          ],
+          [
+            "Comisión de 2.99%",
+            "$29.90"
+          ],
+          [
+            "IVA de la comisión",
+            "$4.78"
+          ],
+          [
+            "Total que pagas",
+            "$34.68"
+          ],
+          [
+            "Lo que te queda",
+            "$965.32"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La cuenta usa la tasa publicada el 12 de noviembre de 2026. Con otro servicio o con meses sin intereses, el resultado cambia."
+    },
+    {
+      "h2": "Cómo crear un link de pago"
+    },
+    {
+      "p": "Los pasos se parecen en todos los servicios. Estos son los pasos que publican BBVA y Mercado Pago."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre tu aplicación de cobro",
+          "texto": "En BBVA se hace desde Zona de cobro en su aplicación. En Mercado Pago, desde la sección para cobrar."
+        },
+        {
+          "titulo": "Escribe el monto",
+          "texto": "Pon el total con envío incluido, si aplica. El cliente debe ver un solo número."
+        },
+        {
+          "titulo": "Personaliza el link",
+          "texto": "Pon un título que el cliente reconozca. Algunos servicios dejan elegir medios de pago, meses y fecha de vencimiento."
+        },
+        {
+          "titulo": "Comparte la liga",
+          "texto": "Mándala por WhatsApp con un mensaje corto que diga qué está pagando."
+        },
+        {
+          "titulo": "Revisa el aviso de pago",
+          "texto": "Espera la confirmación en tu aplicación antes de entregar."
+        }
+      ]
+    },
+    {
+      "p": "En BBVA el link vence a los 7 días por omisión, según su página. Puedes cambiar ese plazo al administrar tus links."
+    },
+    {
+      "h2": "Qué revisar antes de elegir"
+    },
+    {
+      "p": "La tasa no es lo único que importa. Compara estos puntos con tu forma de vender."
+    },
+    {
+      "ul": [
+        "Comisión por venta y si incluye IVA o se suma aparte.",
+        "Cuota fija por cada cobro, aunque sea chica.",
+        "Días para que el dinero llegue a tu cuenta.",
+        "Si acepta meses sin intereses y cuánto cuestan.",
+        "Si el cliente puede pagar en efectivo o con transferencia desde la misma liga.",
+        "Qué te piden para abrir la cuenta.",
+        "Cómo se resuelve un contracargo."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Mensaje para mandar el link"
+    },
+    {
+      "p": "Mandar sólo la liga puede parecer sospechoso. Acompáñala con un mensaje que diga quién eres y qué se paga."
+    },
+    {
+      "tabla": {
+        "titulo": "Mensajes de ejemplo",
+        "columnas": [
+          "Situación",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Anticipo de un pedido",
+            "Hola, Laura. Te mando el link para el anticipo de tu pastel del sábado. Son $400."
+          ],
+          [
+            "Pago completo",
+            "Listo, Daniel. Aquí está el link por tus dos camisas con envío. Son $780 en total."
+          ],
+          [
+            "Cita pagada",
+            "Te comparto el link para apartar tu cita del jueves a las 5. Son $250."
+          ],
+          [
+            "Recordatorio",
+            "Hola, Paty. Tu link de pago vence mañana. Si tienes dudas, aquí estoy."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo evitar fraudes con links de pago"
+    },
+    {
+      "p": "Los fraudes existen de los dos lados. Hay cuidados para ti y para tu cliente."
+    },
+    {
+      "p": "Para ti, como vendedor:"
+    },
+    {
+      "ul": [
+        "Entrega sólo cuando tu aplicación confirme el pago.",
+        "No aceptes capturas de pantalla como prueba.",
+        "Guarda la conversación y la guía de envío por si hay reclamo.",
+        "Desconfía de quien pide entregar a otra persona con prisa."
+      ]
+    },
+    {
+      "p": "Para tu cliente, que también tiene miedo:"
+    },
+    {
+      "ul": [
+        "Manda el link desde tu número de siempre.",
+        "Di tu nombre o el de tu negocio en el mensaje.",
+        "Pide que revise que la página de pago sea del banco o del servicio.",
+        "Ten una página propia donde el cliente confirme que existes."
+      ]
+    },
+    {
+      "h2": "Links fijos y links por cobro"
+    },
+    {
+      "p": "Hay dos formas de usar los links. Conviene saber cuál pide tu negocio."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de link de pago",
+        "columnas": [
+          "Tipo",
+          "Cómo funciona",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Link por cobro",
+            "Uno nuevo para cada cliente con su monto",
+            "Pedidos distintos y anticipos"
+          ],
+          [
+            "Link fijo de un producto",
+            "La misma liga para un producto con precio fijo",
+            "Inscripciones, cursos o productos que no cambian"
+          ],
+          [
+            "Link con monto abierto",
+            "El cliente escribe cuánto paga",
+            "Abonos o propinas, si el servicio lo permite"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un link fijo puede ir en tu página, en tu catálogo o en tu biografía. Así el cliente paga sin esperar a que le mandes la liga."
+    },
+    {
+      "p": "Revisa en tu servicio cuáles de estos tipos existen. No todos los ofrecen."
+    },
+    {
+      "h2": "Qué te piden para empezar"
+    },
+    {
+      "p": "Cada servicio pide cosas distintas. Lo común es una identificación, una cuenta donde recibir y tu teléfono."
+    },
+    {
+      "p": "Los bancos suelen pedir que seas cliente y tengas su aplicación. Las empresas de cobro suelen pedir una cuenta dentro de su propia aplicación."
+    },
+    {
+      "p": "Si vas a facturar, ten a la mano tu RFC y tu constancia. Te los pueden pedir para subir tus límites."
+    },
+    {
+      "h2": "Link de pago, terminal o transferencia"
+    },
+    {
+      "p": "Cada forma de cobro tiene su momento. Muchos negocios usan las tres."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo usar cada una",
+        "columnas": [
+          "Forma",
+          "Cuándo conviene",
+          "Qué cuidar"
+        ],
+        "filas": [
+          [
+            "Link de pago",
+            "El cliente está lejos y quiere pagar con tarjeta",
+            "La comisión y el vencimiento"
+          ],
+          [
+            "Terminal",
+            "El cliente está frente a ti",
+            "Costo del equipo y comisión"
+          ],
+          [
+            "Transferencia",
+            "El cliente tiene banca en el celular",
+            "Confirmar que el dinero llegó"
+          ],
+          [
+            "Código QR de cobro",
+            "Mostrador o puesto con mucha gente",
+            "Que el cliente tenga la aplicación"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para cobrar en persona, revisa nuestra guía de [terminal para cobrar con tarjeta](id:terminal-para-cobrar-con-tarjeta). Para cobrar con un código, lee [cobrar con QR](id:cobrar-con-qr)."
+    },
+    {
+      "h2": "El link de pago y tu factura"
+    },
+    {
+      "p": "Cobrar con link no reemplaza la factura. Si el cliente la pide y estás obligado, la emites aparte."
+    },
+    {
+      "p": "Guarda el comprobante de cada cobro con la fecha y el concepto. Te sirve para tu contabilidad y para aclarar dudas."
+    },
+    {
+      "p": "Para un comprobante sencillo, puedes mandar una [nota de venta](id:nota-de-venta) en PDF. No es factura, pero ordena tus cobros."
+    },
+    {
+      "h2": "Ejemplo de una pastelería que cobra anticipos"
+    },
+    {
+      "p": "Ejemplo inventado de un caso común. Una pastelería en Morelia recibe pedidos por WhatsApp y muchos clientes no llegaban por su pastel."
+    },
+    {
+      "p": "Ahora pide el 50 por ciento de anticipo con un link de pago al confirmar el pedido. El resto se paga al recoger."
+    },
+    {
+      "p": "Los pedidos sin anticipo no se agendan. Desde entonces casi todos los pasteles se recogen a tiempo."
+    },
+    {
+      "h2": "Fallas comunes al cobrar con link"
+    },
+    {
+      "ul": [
+        "Mandar la liga sin decir qué se está pagando.",
+        "Olvidar la comisión al poner el precio.",
+        "Entregar con una captura de pantalla como prueba.",
+        "Dejar vencer el link sin avisar al cliente.",
+        "No guardar el comprobante de cada cobro."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un link de pago?",
+      "respuesta": "Es una liga para cobrar con tarjeta. Tu cliente la abre en su celular y el dinero llega a tu cuenta."
+    },
+    {
+      "pregunta": "¿Cuánto cobra un link de pago?",
+      "respuesta": "Depende del servicio. BBVA publica 2.99% + IVA con tarjetas nacionales y Mercado Pago desde 2.95% + $4.00 según el plazo, leídos el 12 de noviembre de 2026."
+    },
+    {
+      "pregunta": "¿Mi cliente necesita una aplicación para pagar?",
+      "respuesta": "No. Sólo abre la liga en su celular y escribe los datos de su tarjeta."
+    },
+    {
+      "pregunta": "¿El link de pago vence?",
+      "respuesta": "Sí, en muchos servicios. En BBVA vence a los 7 días por omisión y puedes cambiar el plazo."
+    },
+    {
+      "pregunta": "¿Puedo cobrar a meses sin intereses con link?",
+      "respuesta": "Sí, en algunos servicios. Cada plazo suma una comisión extra que pagas tú."
+    },
+    {
+      "pregunta": "¿Un link de pago sirve como factura?",
+      "respuesta": "No. Es un comprobante de pago. La factura se emite aparte cuando corresponde."
+    },
+    {
+      "pregunta": "¿Es seguro pagar con un link?",
+      "respuesta": "Sí, si la liga es del banco o del servicio de cobro. Revisa la dirección antes de escribir tu tarjeta."
+    }
+  ],
+  "relacionadas": [
+    "terminal-para-cobrar-con-tarjeta",
+    "cobrar-con-qr",
+    "link-de-whatsapp",
+    "nota-de-venta",
+    "tienda-en-linea",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Un link de pago cobra, pero tu página es la que convence. Aliviane te la hace con tus precios y tu WhatsApp.",
+    "titulo": "¿Hacemos la página desde donde mandas tus links de pago?",
+    "tituloCorto": "¿Cobras por WhatsApp sin tener página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "BBVA México, Zona de cobro, link de pago (leído el 12-nov-2026)",
+      "url": "https://www.bbva.mx/personas/productos/zona-de-cobro/link-de-pago.html"
+    },
+    {
+      "texto": "Mercado Pago México, link de pago y comisiones (leído el 12-nov-2026)",
+      "url": "https://www.mercadopago.com.mx/herramientas-para-vender/link-de-pago"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.mercadopago.com.mx/herramientas-para-vender/link-de-pago",
+      "titulo": "Link de pago",
+      "promete": "Página de producto con pasos y tabla de comisiones propia; no compara con otras opciones"
+    },
+    {
+      "posicion": 2,
+      "url": "https://agendapro.com/blog/que-es-un-link-de-pago/",
+      "titulo": "Qué es un link de pago y cómo funciona: guía 2026",
+      "promete": "Explicación general orientada a agendas de citas; sin comisiones de México con fecha"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.bbva.mx/personas/productos/zona-de-cobro/link-de-pago.html",
+      "titulo": "Link de pago",
+      "promete": "Producto del banco con comisión y pasos; no habla de fraudes ni de cómo calcular lo que recibes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Comisiones leídas hoy en las páginas de BBVA (Zona de cobro) y Mercado Pago (link de pago). Clip no publica la comisión de su link en su portada: sin cifra. Top 3 leído con WebSearch el 12-nov-2026."
+}

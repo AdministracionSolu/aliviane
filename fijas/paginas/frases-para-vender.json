@@ -1,0 +1,699 @@
+{
+  "id": "frases-para-vender",
+  "slug": "frases-para-vender",
+  "molde": "guia",
+  "cabeza": "frases para negocios",
+  "busquedas": [
+    "frase de negocio",
+    "frase de emprendimiento",
+    "frases para emprendimiento",
+    "frases para vender",
+    "frases publicitarias para vender un producto",
+    "frases llamativas para atraer clientes",
+    "frase de venta"
+  ],
+  "title": "Frases para negocios: 80 ideas para atraer clientes",
+  "h1": "Frases para vender: 80 ideas para tu negocio",
+  "description": "80 frases para negocios ordenadas por uso: anuncios, WhatsApp, redes, promociones y cierre de venta. Con generador de slogans gratis. Elige las tuyas.",
+  "resumen": "80 frases por uso y un generador de slogans para tu giro",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una frase para vender es un texto corto que dice por qué elegirte y qué hacer ahora. Funciona mejor si nombra un beneficio concreto, como entrega hoy o precio con envío incluido.",
+    "Abajo tienes 80 frases ordenadas por uso y un generador de slogans para tu giro. Cambia las palabras por las de tu negocio y prueba cuál te trae más mensajes."
+  ],
+  "herramienta": {
+    "id": "slogan",
+    "modo": "general"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué hace que una frase venda"
+    },
+    {
+      "p": "Una frase que vende no es la más bonita. Es la que contesta lo que tu cliente se pregunta en ese momento."
+    },
+    {
+      "ul": [
+        "Dice un beneficio concreto, no una promesa vaga.",
+        "Usa las palabras de tu cliente.",
+        "Da una razón para actuar hoy.",
+        "Dice qué hacer después, como escribir o apartar.",
+        "Es corta y se entiende sin contexto."
+      ]
+    },
+    {
+      "p": "Compara dos frases. Calidad y servicio no dice nada. Tu pastel listo en 24 horas dice mucho."
+    },
+    {
+      "h2": "Frases para anuncios y lonas"
+    },
+    {
+      "p": "Una lona se lee en dos segundos desde la calle. La frase debe ser corta y decir qué vendes."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para anuncios",
+        "columnas": [
+          "Frase",
+          "Para qué negocio"
+        ],
+        "filas": [
+          [
+            "Comida corrida con sopa, guisado y agua.",
+            "Fonda"
+          ],
+          [
+            "Ajustamos tu ropa en dos días.",
+            "Taller de costura"
+          ],
+          [
+            "Llantas nuevas y usadas con instalación.",
+            "Llantera"
+          ],
+          [
+            "Tu auto lavado mientras desayunas.",
+            "Autolavado"
+          ],
+          [
+            "Cortes para toda la familia sin cita.",
+            "Peluquería"
+          ],
+          [
+            "Pasteles por encargo para cualquier fiesta.",
+            "Repostería"
+          ],
+          [
+            "Copias, impresiones y engargolados al momento.",
+            "Papelería"
+          ],
+          [
+            "Reparamos tu celular el mismo día.",
+            "Servicio técnico"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para WhatsApp"
+    },
+    {
+      "p": "En WhatsApp la frase abre una conversación. Debe sonar a persona, no a robot."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para mensajes",
+        "columnas": [
+          "Momento",
+          "Frase"
+        ],
+        "filas": [
+          [
+            "Saludo",
+            "Hola, gracias por escribir. ¿En qué te puedo ayudar hoy?"
+          ],
+          [
+            "Envío de precios",
+            "Te comparto la lista de hoy. Si algo te late, te lo aparto."
+          ],
+          [
+            "Seguimiento",
+            "¿Pudiste ver las opciones? Con gusto te resuelvo cualquier duda."
+          ],
+          [
+            "Duda de precio",
+            "Este incluye envío y garantía. Te explico la diferencia si quieres."
+          ],
+          [
+            "Cierre",
+            "Si me confirmas hoy, sale mañana temprano."
+          ],
+          [
+            "Agradecimiento",
+            "Gracias por tu compra. Avísame cuando llegue para saber que todo bien."
+          ],
+          [
+            "Cliente que regresa",
+            "Qué gusto saludarte otra vez. ¿Lo mismo de la vez pasada?"
+          ],
+          [
+            "Fuera de horario",
+            "Ya cerramos por hoy. Mañana a las 9 te contesto primero."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para redes sociales"
+    },
+    {
+      "p": "En redes la frase acompaña una foto. Tiene que hacer que la persona se detenga."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para publicaciones",
+        "columnas": [
+          "Frase",
+          "Uso"
+        ],
+        "filas": [
+          [
+            "Recién salido del horno.",
+            "Panadería con foto del pan"
+          ],
+          [
+            "Así quedó el antes y después de esta semana.",
+            "Estética o taller"
+          ],
+          [
+            "Tres formas de usar esta blusa.",
+            "Tienda de ropa"
+          ],
+          [
+            "Lo que más nos piden los viernes.",
+            "Restaurante"
+          ],
+          [
+            "Pregunta del día sobre el cuidado de tu auto.",
+            "Taller mecánico"
+          ],
+          [
+            "Te presentamos a quien prepara tu café.",
+            "Cafetería"
+          ],
+          [
+            "Llegaron colores nuevos.",
+            "Tienda de uñas o pinturas"
+          ],
+          [
+            "Guarda esta publicación para tu próxima visita.",
+            "Cualquier giro"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para promociones"
+    },
+    {
+      "p": "Una promoción necesita fecha. Sin fecha, la gente lo deja para después."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para ofertas",
+        "columnas": [
+          "Frase",
+          "Tipo de oferta"
+        ],
+        "filas": [
+          [
+            "Dos por uno sólo este martes.",
+            "Día fijo"
+          ],
+          [
+            "El segundo a mitad de precio hasta el domingo.",
+            "Descuento en el segundo"
+          ],
+          [
+            "Envío sin costo en pedidos desde $500.",
+            "Monto mínimo"
+          ],
+          [
+            "Trae a un amigo y los dos reciben descuento.",
+            "Recomendación"
+          ],
+          [
+            "Las primeras veinte personas se llevan un regalo.",
+            "Cupo limitado"
+          ],
+          [
+            "Precio de estreno durante la primera semana.",
+            "Apertura"
+          ],
+          [
+            "Paquete familiar con refresco incluido.",
+            "Combo"
+          ],
+          [
+            "Aparta con anticipo y paga el resto al recoger.",
+            "Pago en partes"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para cerrar una venta"
+    },
+    {
+      "p": "El cliente ya está interesado. La frase le ayuda a decidir sin presionarlo."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases de cierre",
+        "columnas": [
+          "Frase",
+          "Cuándo usarla"
+        ],
+        "filas": [
+          [
+            "¿Te lo aparto para mañana?",
+            "El cliente ya eligió"
+          ],
+          [
+            "Queda uno en esa talla.",
+            "Hay poco inventario de verdad"
+          ],
+          [
+            "Si prefieres, lo pagas al recibir.",
+            "El cliente duda del pago"
+          ],
+          [
+            "Te mando foto antes de enviarlo.",
+            "El cliente duda del producto"
+          ],
+          [
+            "Tienes siete días para cambiarlo.",
+            "El cliente teme equivocarse"
+          ],
+          [
+            "¿Prefieres recoger o que te lo llevemos?",
+            "Para pasar a la entrega"
+          ],
+          [
+            "Con este pedido te regalo el envío.",
+            "El cliente compara precios"
+          ],
+          [
+            "Si hoy no puedes, te lo guardo hasta el viernes.",
+            "El cliente pide tiempo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para confianza"
+    },
+    {
+      "p": "Quien no te conoce necesita razones para creerte. Estas frases las dan sin exagerar."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases de confianza",
+        "columnas": [
+          "Frase",
+          "Qué comunica"
+        ],
+        "filas": [
+          [
+            "Atendemos en la misma esquina desde 2012.",
+            "Trayectoria"
+          ],
+          [
+            "Te damos nota o factura con cada compra.",
+            "Formalidad"
+          ],
+          [
+            "Revisa nuestras reseñas en Google.",
+            "Opiniones de otros"
+          ],
+          [
+            "Pagas al recibir en tu colonia.",
+            "Menos riesgo"
+          ],
+          [
+            "Garantía de treinta días en reparaciones.",
+            "Respaldo"
+          ],
+          [
+            "Escríbenos y te contesta el dueño.",
+            "Trato directo"
+          ],
+          [
+            "Mira fotos reales de trabajos de esta semana.",
+            "Prueba"
+          ],
+          [
+            "Ingredientes frescos que compramos cada mañana.",
+            "Calidad concreta"
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Frases por tipo de negocio"
+    },
+    {
+      "p": "Cada giro tiene sus palabras. Estas frases ya vienen con el tono de cada uno."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases por giro",
+        "columnas": [
+          "Giro",
+          "Frase"
+        ],
+        "filas": [
+          [
+            "Taquería",
+            "Tacos al pastor con piña recién cortada."
+          ],
+          [
+            "Estética",
+            "Tu tinte con lavado y secado en una sola cita."
+          ],
+          [
+            "Ferretería",
+            "Si no lo tenemos, te lo conseguimos en un día."
+          ],
+          [
+            "Veterinaria",
+            "Consulta y vacunas con cita por WhatsApp."
+          ],
+          [
+            "Dentista",
+            "Limpieza dental en cuarenta minutos."
+          ],
+          [
+            "Gimnasio",
+            "Clases a las 6 de la mañana para empezar temprano."
+          ],
+          [
+            "Floristería",
+            "Arreglos entregados el mismo día en la ciudad."
+          ],
+          [
+            "Mudanzas",
+            "Empacamos y llevamos tus cosas con cuidado."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para temporadas"
+    },
+    {
+      "p": "Las fechas especiales piden su propia frase. Úsalas dos o tres semanas antes."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases de temporada",
+        "columnas": [
+          "Fecha",
+          "Frase"
+        ],
+        "filas": [
+          [
+            "Día de reyes",
+            "Aparta tu rosca y recógela el 6 de enero."
+          ],
+          [
+            "San Valentín",
+            "Detalles para regalar desde $150."
+          ],
+          [
+            "Día de las madres",
+            "Reserva la mesa de mamá desde hoy."
+          ],
+          [
+            "Regreso a clases",
+            "Útiles completos por grado listos para recoger."
+          ],
+          [
+            "Fiestas patrias",
+            "Pozole y antojitos para la noche del 15."
+          ],
+          [
+            "Día de muertos",
+            "Pan de muerto recién horneado todos los días."
+          ],
+          [
+            "Buen Fin",
+            "Precios especiales del viernes al lunes."
+          ],
+          [
+            "Diciembre",
+            "Pedidos para tu cena navideña hasta el 20."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para tarjetas y volantes"
+    },
+    {
+      "p": "Una tarjeta o un volante se guarda en la bolsa o en el refrigerador. La frase debe recordar qué haces y cómo contactarte."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para impresos",
+        "columnas": [
+          "Frase",
+          "Impreso"
+        ],
+        "filas": [
+          [
+            "Guarda esta tarjeta para tu próxima fuga.",
+            "Tarjeta de plomero"
+          ],
+          [
+            "Presenta este volante y tu primera clase es gratis.",
+            "Volante de academia"
+          ],
+          [
+            "Tu cuarta visita lleva corte de regalo.",
+            "Tarjeta de lealtad de barbería"
+          ],
+          [
+            "Pedidos a domicilio de 8 a 10 de la noche.",
+            "Volante de cenaduría"
+          ],
+          [
+            "Escanea el código y mira el menú completo.",
+            "Tarjeta de restaurante"
+          ],
+          [
+            "Recomiéndanos y te regalamos un lavado.",
+            "Volante de autolavado"
+          ],
+          [
+            "Cotización sin costo en tu domicilio.",
+            "Tarjeta de carpintería"
+          ],
+          [
+            "Pega este imán y llámanos cuando nos necesites.",
+            "Imán de cerrajería"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dónde poner cada frase"
+    },
+    {
+      "p": "Una misma frase no sirve en todos lados. Cada lugar pide un largo y un tono distinto."
+    },
+    {
+      "tabla": {
+        "titulo": "Largo sugerido por lugar",
+        "columnas": [
+          "Lugar",
+          "Largo",
+          "Tono"
+        ],
+        "filas": [
+          [
+            "Lona o letrero",
+            "Cinco a ocho palabras",
+            "Directo, sólo lo esencial"
+          ],
+          [
+            "Publicación en redes",
+            "Una o dos líneas",
+            "Cercano, como plática"
+          ],
+          [
+            "Mensaje de WhatsApp",
+            "Dos o tres frases",
+            "Personal, con el nombre del cliente"
+          ],
+          [
+            "Encabezado de tu página",
+            "Una frase con tu ciudad",
+            "Claro, dice qué y dónde"
+          ],
+          [
+            "Volante",
+            "Una frase grande y tres datos",
+            "Con oferta y fecha"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Frases para la página web de tu negocio"
+    },
+    {
+      "p": "La frase de arriba de tu página es la más importante. Dice qué haces y para quién en un vistazo."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases para el encabezado de una página",
+        "columnas": [
+          "Negocio",
+          "Frase"
+        ],
+        "filas": [
+          [
+            "Taller mecánico",
+            "Afinación y frenos en Celaya con entrega el mismo día."
+          ],
+          [
+            "Repostería",
+            "Pasteles por encargo en Saltillo con entrega a domicilio."
+          ],
+          [
+            "Consultorio",
+            "Fisioterapia en Mérida con citas por WhatsApp."
+          ],
+          [
+            "Lavandería",
+            "Lavamos y doblamos tu ropa en 24 horas en Toluca."
+          ],
+          [
+            "Fotógrafo",
+            "Fotos de XV años y bodas en León."
+          ],
+          [
+            "Contador",
+            "Declaraciones mensuales para pequeños negocios en Puebla."
+          ],
+          [
+            "Escuela de inglés",
+            "Clases de inglés para niños por las tardes."
+          ],
+          [
+            "Plomero",
+            "Fugas y destapes en Monterrey con visita el mismo día."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo adaptar una frase a tu negocio"
+    },
+    {
+      "p": "Copiar una frase tal cual rara vez funciona. Ajústala con estos pasos."
+    },
+    {
+      "ol": [
+        "Cambia el producto por el tuyo.",
+        "Pon tu ciudad o tu colonia si atiendes en una zona.",
+        "Agrega un dato real, como tiempo de entrega o precio.",
+        "Léela en voz alta y quita lo que sobre.",
+        "Prueba dos versiones una semana cada una y quédate con la que traiga más mensajes."
+      ]
+    },
+    {
+      "h2": "Cómo usar el generador de slogans"
+    },
+    {
+      "p": "Al principio de esta guía está un generador de slogans gratis. Te da ideas de frases cortas para tu marca según tu giro."
+    },
+    {
+      "ol": [
+        "Elige tu giro dentro de la herramienta.",
+        "Escribe el nombre de tu negocio.",
+        "Revisa las propuestas y copia las que te gusten.",
+        "Ajusta cada una con tu ciudad o un dato de tu servicio."
+      ]
+    },
+    {
+      "p": "Usa el slogan para tu marca y las frases de esta guía para tus promociones. Si quieres más ideas, abre la página del [generador de slogans](id:slogan)."
+    },
+    {
+      "h2": "Frases que conviene evitar"
+    },
+    {
+      "ul": [
+        "Promesas que no puedes cumplir, como el mejor precio de la ciudad.",
+        "Palabras vacías como calidad y excelencia sin un dato que las respalde.",
+        "Urgencia falsa, como últimas piezas cuando no es cierto.",
+        "Frases copiadas de otra marca conocida.",
+        "Mayúsculas y signos de exclamación por todos lados."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una frase para vender?",
+      "respuesta": "Es un texto corto que invita a comprar. Dice por qué elegirte y qué hacer ahora."
+    },
+    {
+      "pregunta": "¿Puedo usar estas frases en mi negocio?",
+      "respuesta": "Sí. Están escritas para que las adaptes con tu producto, tu ciudad y tus datos."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre slogan y frase de venta?",
+      "respuesta": "El slogan acompaña siempre a tu marca. La frase de venta cambia según la promoción o el momento."
+    },
+    {
+      "pregunta": "¿Cómo sé qué frase funciona mejor?",
+      "respuesta": "Pruébalas una semana cada una. Quédate con la que traiga más mensajes o ventas."
+    },
+    {
+      "pregunta": "¿El generador de slogans es gratis?",
+      "respuesta": "Sí. Funciona en tu navegador, no pide cuenta y puedes copiar las frases que quieras."
+    },
+    {
+      "pregunta": "¿Puedo poner frases de otras marcas?",
+      "respuesta": "No. Usar frases de marcas registradas puede meterte en problemas. Escribe las tuyas."
+    }
+  ],
+  "relacionadas": [
+    "slogan",
+    "frases-de-emprendedores",
+    "publicidad-para-negocios",
+    "campana-publicitaria",
+    "mensaje-de-recordatorio-para-clientes",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Una buena frase necesita un lugar donde vivir. Aliviane la pone arriba de tu página, junto a tu WhatsApp.",
+    "aviso": "Ya tienes tu frase. Si quieres verla en tu propia página con tu dominio, Aliviane te la hace.",
+    "titulo": "¿Ponemos tu frase en tu propia página?",
+    "tituloCorto": "¿Tu frase ya tiene página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/frases-para-promocionar-un-negocio",
+      "titulo": "+100 frases para promocionar un negocio y vender mucho",
+      "promete": "Lista larga por rubro; no explica cómo adaptarlas ni dónde usar cada una"
+    },
+    {
+      "posicion": 2,
+      "url": "https://agendapro.com/blog/frases-para-atraer-clientes-a-mi-negocio/",
+      "titulo": "Frases para atraer clientes a mi negocio",
+      "promete": "Frases para negocios de belleza y salud; pocas para WhatsApp o cierre de venta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.mercately.com/ventas/frases-que-venden",
+      "titulo": "20 frases que venden solas",
+      "promete": "Veinte frases genéricas; sin herramienta ni ejemplos por giro mexicano"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. La lista asigna el motor slogan (modo general, el giro se cambia dentro). Las 80 frases son propias, sin citas de terceros. Top 3 leído con WebSearch el 12-nov-2026."
+}

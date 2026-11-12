@@ -1,0 +1,550 @@
+{
+  "id": "valores-de-una-empresa",
+  "slug": "valores-de-una-empresa",
+  "molde": "guia",
+  "cabeza": "valores de una empresa",
+  "busquedas": [
+    "mision vision y valores",
+    "mision vision y valores de una empresa"
+  ],
+  "title": "Valores de una empresa: ejemplos y cómo definir los tuyos",
+  "h1": "Valores de una empresa: qué son y cómo escribir los de tu negocio",
+  "description": "Qué son los valores de una empresa, 40 ejemplos explicados con acciones reales y cómo definir los de tu negocio en 6 pasos. Para negocios chicos. Escríbelos.",
+  "resumen": "40 valores con ejemplos reales y 6 pasos para escribir los de tu negocio",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Los valores de una empresa son las reglas de conducta que todos en el negocio siguen, aunque nadie esté mirando. Por ejemplo, puntualidad, trato amable o cobrar lo justo.",
+    "Para definirlos elige de tres a cinco, explica cada uno con una acción que se pueda ver y úsalos al contratar y al decidir. Un valor que no cambia nada en tu día a día es sólo una palabra bonita."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué son los valores de una empresa"
+    },
+    {
+      "p": "Los valores dicen cómo se hacen las cosas en tu negocio. No lo que vendes, sino la forma en que lo vendes."
+    },
+    {
+      "p": "La misión dice para qué existe tu negocio. La visión dice a dónde quieres llegar. Los valores dicen cómo te vas a portar en el camino."
+    },
+    {
+      "p": "Si quieres escribir las tres cosas, empieza por nuestra guía de [misión y visión](id:mision-y-vision). Aquí nos enfocamos en los valores."
+    },
+    {
+      "h2": "Por qué importan en un negocio chico"
+    },
+    {
+      "p": "Mucha gente cree que los valores son cosa de empresas grandes. En un negocio chico pesan más, porque cada persona se nota."
+    },
+    {
+      "ul": [
+        "Ayudan a decidir rápido cuando no estás. Tu empleado sabe qué harías tú.",
+        "Sirven para contratar. Buscas gente que ya se porta así.",
+        "Dan una razón para elegirte. El cliente vuelve por el trato, no sólo por el precio.",
+        "Te ayudan a decir que no a clientes o tratos que no te convienen."
+      ]
+    },
+    {
+      "h2": "40 valores con ejemplos reales"
+    },
+    {
+      "p": "Un valor sin ejemplo se queda en el aire. En esta tabla cada valor lleva una acción que se puede ver en un negocio."
+    },
+    {
+      "tabla": {
+        "titulo": "Valores y cómo se ven en el día a día",
+        "columnas": [
+          "Valor",
+          "Cómo se ve en un negocio"
+        ],
+        "filas": [
+          [
+            "Puntualidad",
+            "Abrir a la hora que dice el letrero, todos los días"
+          ],
+          [
+            "Honestidad",
+            "Decir que un producto no sirve para lo que el cliente quiere"
+          ],
+          [
+            "Respeto",
+            "Tratar igual al que compra mucho y al que compra poco"
+          ],
+          [
+            "Responsabilidad",
+            "Reconocer una falla y arreglarla sin que el cliente insista"
+          ],
+          [
+            "Limpieza",
+            "Mostrador, baño y uniformes limpios a cualquier hora"
+          ],
+          [
+            "Calidad",
+            "Revisar cada pedido antes de entregarlo"
+          ],
+          [
+            "Trato amable",
+            "Saludar por su nombre a quien regresa"
+          ],
+          [
+            "Precio justo",
+            "Cobrar lo mismo a todos y explicar cada cargo"
+          ],
+          [
+            "Claridad",
+            "Precios a la vista y sin cobros que aparezcan al final"
+          ],
+          [
+            "Rapidez",
+            "Contestar los mensajes en menos de una hora en horario"
+          ],
+          [
+            "Cumplimiento",
+            "Entregar en la fecha prometida o avisar antes"
+          ],
+          [
+            "Trabajo en equipo",
+            "Ayudar en caja aunque no sea tu puesto"
+          ],
+          [
+            "Aprendizaje",
+            "Tomar un curso al año para mejorar el oficio"
+          ],
+          [
+            "Innovación",
+            "Probar un producto nuevo cada temporada"
+          ],
+          [
+            "Cuidado del cliente",
+            "Explicar cómo usar o cuidar lo que compró"
+          ],
+          [
+            "Seguridad",
+            "Seguir las reglas de higiene y protección siempre"
+          ],
+          [
+            "Lealtad",
+            "Recompensar a los clientes que vuelven"
+          ],
+          [
+            "Humildad",
+            "Pedir opinión y escuchar las críticas sin enojarse"
+          ],
+          [
+            "Orden",
+            "Saber dónde está cada cosa y llevar las cuentas al día"
+          ],
+          [
+            "Ahorro",
+            "No desperdiciar material ni energía"
+          ],
+          [
+            "Cuidado del ambiente",
+            "Separar basura y reducir bolsas de plástico"
+          ],
+          [
+            "Comunidad",
+            "Comprar a proveedores de la zona cuando se puede"
+          ],
+          [
+            "Inclusión",
+            "Atender bien a personas mayores o con discapacidad"
+          ],
+          [
+            "Constancia",
+            "Publicar, abrir y atender igual en temporada baja"
+          ],
+          [
+            "Discreción",
+            "Cuidar los datos y las historias de los clientes"
+          ],
+          [
+            "Paciencia",
+            "Explicar las veces que haga falta sin hacer sentir mal"
+          ],
+          [
+            "Orgullo por el oficio",
+            "Mostrar con gusto cómo se hace el trabajo"
+          ],
+          [
+            "Disponibilidad",
+            "Tener un número de contacto que sí contesta"
+          ],
+          [
+            "Formalidad",
+            "Dar nota o factura y cumplir con impuestos"
+          ],
+          [
+            "Gratitud",
+            "Dar las gracias en cada venta y en cada reseña"
+          ],
+          [
+            "Creatividad",
+            "Encontrar soluciones cuando falta algo"
+          ],
+          [
+            "Confianza",
+            "Dejar que el equipo decida en cosas pequeñas"
+          ],
+          [
+            "Justicia con el equipo",
+            "Pagar a tiempo y repartir el trabajo parejo"
+          ],
+          [
+            "Salud",
+            "Respetar horarios de comida y descanso del equipo"
+          ],
+          [
+            "Escucha",
+            "Preguntar al cliente qué necesita antes de ofrecer"
+          ],
+          [
+            "Sencillez",
+            "Explicar sin palabras técnicas"
+          ],
+          [
+            "Valentía",
+            "Probar algo nuevo aunque dé miedo"
+          ],
+          [
+            "Servicio",
+            "Resolver aunque no sea la venta más grande"
+          ],
+          [
+            "Tradición",
+            "Mantener la receta o el método que nos dio nombre"
+          ],
+          [
+            "Alegría",
+            "Que el cliente salga mejor de lo que entró"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "No necesitas cuarenta. Escoge los que de verdad ya practicas o quieres practicar."
+    },
+    {
+      "h2": "Cómo definir los valores de tu negocio en 6 pasos"
+    },
+    {
+      "p": "Estos pasos toman una tarde. Si tienes equipo, hazlos con ellos."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Recuerda tus mejores días",
+          "texto": "Piensa en tres momentos en que te sentiste orgulloso de tu negocio. Anota qué hiciste bien en cada uno."
+        },
+        {
+          "titulo": "Recuerda tus peores días",
+          "texto": "Piensa en lo que te molestó de un empleado, un proveedor o de ti mismo. Lo contrario suele ser un valor."
+        },
+        {
+          "titulo": "Haz una lista larga",
+          "texto": "Junta todas las palabras que salieron. Puedes usar la tabla de arriba para darte ideas."
+        },
+        {
+          "titulo": "Quédate con tres a cinco",
+          "texto": "Elige los que más te representan. Más de cinco ya nadie los recuerda."
+        },
+        {
+          "titulo": "Escribe una acción para cada uno",
+          "texto": "Al lado de cada valor, escribe cómo se ve en un día normal."
+        },
+        {
+          "titulo": "Ponlos a prueba",
+          "texto": "Durante un mes, revisa si se cumplen. Ajusta lo que suene bonito pero no se practique."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo escribir un valor para que sí sirva"
+    },
+    {
+      "p": "Una palabra sola se presta a interpretaciones. Una frase con acción no deja dudas."
+    },
+    {
+      "tabla": {
+        "titulo": "De palabra a acción",
+        "columnas": [
+          "Valor como palabra",
+          "Valor escrito con acción"
+        ],
+        "filas": [
+          [
+            "Puntualidad",
+            "Abrimos a las 8 en punto y entregamos el día que dijimos."
+          ],
+          [
+            "Calidad",
+            "Revisamos cada pastel antes de que salga de la cocina."
+          ],
+          [
+            "Respeto",
+            "Tratamos a cada cliente por su nombre y sin prisas."
+          ],
+          [
+            "Honestidad",
+            "Si algo no te conviene, te lo decimos aunque no vendamos."
+          ],
+          [
+            "Limpieza",
+            "Limpiamos la estación después de cada corte."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Ejemplos de valores por tipo de negocio"
+    },
+    {
+      "p": "Ejemplos inventados para ver cómo cambia cada giro. Toma la idea y escribe los tuyos."
+    },
+    {
+      "tabla": {
+        "titulo": "Valores de ejemplo por giro",
+        "columnas": [
+          "Negocio",
+          "Valores",
+          "Cómo se ven"
+        ],
+        "filas": [
+          [
+            "Taquería",
+            "Limpieza, rapidez y sazón constante",
+            "Plancha limpia a la vista, orden en cinco minutos y la misma receta siempre"
+          ],
+          [
+            "Taller mecánico",
+            "Honestidad y cumplimiento",
+            "Mostrar la pieza dañada y entregar el día prometido"
+          ],
+          [
+            "Estética",
+            "Trato amable e higiene",
+            "Preguntar antes de cortar y herramientas desinfectadas"
+          ],
+          [
+            "Consultorio",
+            "Escucha y discreción",
+            "Consulta sin prisa y expediente cuidado"
+          ],
+          [
+            "Tienda de abarrotes",
+            "Precio justo y cercanía",
+            "Precios marcados y fiado sólo a vecinos conocidos"
+          ],
+          [
+            "Escuela",
+            "Paciencia y constancia",
+            "Repetir sin regañar y avisar a papás cada semana"
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo usar tus valores todos los días"
+    },
+    {
+      "p": "Los valores sirven si se usan. Estas son formas concretas de llevarlos al día a día."
+    },
+    {
+      "ul": [
+        "Al contratar, pregunta cómo actuó la persona en una situación ligada a tus valores.",
+        "Al capacitar, explica cada valor con su acción.",
+        "Al revisar el mes, platica con tu equipo qué valor se cumplió y cuál no.",
+        "Al decidir algo difícil, pregunta qué valor está en juego.",
+        "Al reconocer a alguien, di qué valor practicó."
+      ]
+    },
+    {
+      "h2": "Preguntas para contratar según tus valores"
+    },
+    {
+      "p": "En una entrevista, pide ejemplos de cosas que ya pasaron. Lo que alguien hizo dice más que lo que promete."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas de entrevista ligadas a un valor",
+        "columnas": [
+          "Valor",
+          "Pregunta"
+        ],
+        "filas": [
+          [
+            "Puntualidad",
+            "Cuéntame de una vez que se te hizo tarde. ¿Qué hiciste?"
+          ],
+          [
+            "Honestidad",
+            "¿Alguna vez le dijiste a un cliente que no le convenía comprar algo?"
+          ],
+          [
+            "Trabajo en equipo",
+            "¿Qué haces cuando un compañero no termina su parte?"
+          ],
+          [
+            "Trato amable",
+            "Cuéntame del cliente más difícil que atendiste."
+          ],
+          [
+            "Responsabilidad",
+            "¿Qué haces cuando te equivocas con un pedido?"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Escucha si la persona habla de lo que hizo o sólo de lo que piensa. Las respuestas con ejemplos valen más."
+    },
+    {
+      "h2": "Ejemplo de texto para tu página"
+    },
+    {
+      "p": "Ejemplo inventado para la sección de quiénes somos de una taquería. Así se cuentan los valores sin sonar a discurso."
+    },
+    {
+      "p": "En Tacos Don Rafa la plancha se limpia frente a ti. Tu orden sale en cinco minutos y la salsa es la misma receta desde 1998. Si algo no te gustó, dínoslo y lo arreglamos."
+    },
+    {
+      "p": "Cada frase muestra un valor sin nombrarlo. Limpieza, rapidez, tradición y servicio."
+    },
+    {
+      "h2": "Dónde mostrar tus valores"
+    },
+    {
+      "p": "Tus valores también le hablan a tus clientes. Ponlos donde se vean, con ejemplos y no sólo palabras."
+    },
+    {
+      "ul": [
+        "En la sección de quiénes somos de tu página web.",
+        "En un cartel discreto junto a la caja.",
+        "En la presentación de tu negocio para proveedores o bancos.",
+        "En publicaciones que cuenten cómo los practicas."
+      ]
+    },
+    {
+      "p": "Una foto de tu equipo limpiando la cocina dice más que la palabra limpieza. Muestra el valor en acción."
+    },
+    {
+      "h2": "Valores, misión y visión: cómo se relacionan"
+    },
+    {
+      "tabla": {
+        "titulo": "Tres piezas de la identidad de tu negocio",
+        "columnas": [
+          "Pieza",
+          "Pregunta que contesta",
+          "Ejemplo para una panadería"
+        ],
+        "filas": [
+          [
+            "Misión",
+            "¿Para qué existe el negocio?",
+            "Llevar pan fresco a la colonia cada mañana"
+          ],
+          [
+            "Visión",
+            "¿A dónde quiere llegar?",
+            "Ser la panadería de confianza de tres colonias"
+          ],
+          [
+            "Valores",
+            "¿Cómo se porta en el camino?",
+            "Frescura, puntualidad y trato amable"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los tres deben sonar a lo mismo. Si tu misión habla de rapidez y ningún valor la sostiene, falta algo."
+    },
+    {
+      "h2": "Fallas comunes al definir valores"
+    },
+    {
+      "ul": [
+        "Copiar los valores de una empresa grande.",
+        "Escoger diez valores que nadie recuerda.",
+        "Usar palabras sin explicar cómo se ven.",
+        "Escribirlos y guardarlos en un cajón.",
+        "Exigirlos al equipo sin practicarlos tú.",
+        "Poner valores que no se cumplen y que el cliente nota."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuántos valores debe tener una empresa?",
+      "respuesta": "De tres a cinco. Con más, nadie los recuerda ni los practica."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre valores y misión?",
+      "respuesta": "La misión dice para qué existe tu negocio. Los valores dicen cómo se porta todos los días."
+    },
+    {
+      "pregunta": "¿Un negocio chico necesita valores?",
+      "respuesta": "Sí. Te ayudan a contratar, a decidir y a explicar por qué te eligen."
+    },
+    {
+      "pregunta": "¿Puedo cambiar mis valores?",
+      "respuesta": "Sí. Revísalos cada año y cambia los que ya no te describen."
+    },
+    {
+      "pregunta": "¿Dónde pongo los valores de mi negocio?",
+      "respuesta": "En tu página web, en tu local y en tu capacitación. Siempre con ejemplos de cómo se practican."
+    },
+    {
+      "pregunta": "¿Cuáles son los valores más comunes?",
+      "respuesta": "Honestidad, respeto, responsabilidad y calidad. Lo que distingue a tu negocio es cómo los practicas."
+    }
+  ],
+  "relacionadas": [
+    "mision-y-vision",
+    "analisis-foda",
+    "modelo-canvas",
+    "plan-de-negocios",
+    "frases-de-emprendedores",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus valores se notan mejor en tu página que en un cuadro en la pared. Aliviane los pone donde tus clientes los leen.",
+    "titulo": "¿Hacemos la página que cuenta quién eres?",
+    "tituloCorto": "¿Tus valores ya están en tu página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://economipedia.com/definiciones/mision-vision-y-valores-de-una-empresa.html",
+      "titulo": "Misión, visión y valores de una empresa",
+      "promete": "Definiciones y ejemplos de multinacionales; nada para un negocio de cinco personas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/blog/mision-de-la-empresa/",
+      "titulo": "Misión, visión y valores: la brújula de tu empresa",
+      "promete": "Mezcla los tres temas; pocos valores explicados con acciones concretas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://factorial.mx/blog/valores-empresa/",
+      "titulo": "Valores de una empresa",
+      "promete": "Lista amplia orientada a recursos humanos; sin pasos para escribirlos ni ejemplos por giro"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin valores de marcas reales (no se pudieron verificar en sus sitios hoy). Separada de mision-y-vision: aquí la lista de valores, conductas y pasos. Top 3 leído con WebSearch el 12-nov-2026."
+}

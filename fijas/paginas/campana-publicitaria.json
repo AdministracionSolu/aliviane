@@ -1,0 +1,579 @@
+{
+  "id": "campana-publicitaria",
+  "slug": "campana-publicitaria",
+  "molde": "guia",
+  "cabeza": "qué es una campaña publicitaria",
+  "busquedas": [
+    "que es una campañas publicitarias",
+    "campañas de marketing",
+    "campañas digitales",
+    "campaña digital",
+    "como hacer una campaña"
+  ],
+  "title": "Qué es una campaña publicitaria y cómo hacer la tuya",
+  "h1": "Campaña publicitaria: qué es y cómo armar una paso a paso",
+  "description": "Qué es una campaña publicitaria, qué partes tiene y cómo armar una en 8 pasos con presupuesto chico. Incluye plantilla de plan y un ejemplo. Arma la tuya.",
+  "resumen": "Partes de una campaña, 8 pasos y un plan de ejemplo para negocio chico",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una campaña publicitaria es un grupo de anuncios con un mismo mensaje y una misma meta, que corre durante un tiempo definido. Por ejemplo, un mes de anuncios para llenar las inscripciones de una escuela de natación.",
+    "Para hacer una necesitas una meta y un público. También un mensaje, los medios, un presupuesto y fechas. Al terminar mides el resultado y decides qué repetir."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es una campaña publicitaria"
+    },
+    {
+      "p": "Un anuncio suelto es una pieza. Una campaña es un plan que junta varias piezas para lograr algo concreto."
+    },
+    {
+      "p": "Todas las piezas dicen lo mismo con distintas palabras o formatos. Una lona, una publicación y un volante pueden ser parte de la misma campaña."
+    },
+    {
+      "p": "La campaña tiene principio y fin. Así puedes medir si funcionó y aprender para la siguiente."
+    },
+    {
+      "tabla": {
+        "titulo": "Anuncio suelto contra campaña",
+        "columnas": [
+          "Punto",
+          "Anuncio suelto",
+          "Campaña"
+        ],
+        "filas": [
+          [
+            "Meta",
+            "No siempre está clara",
+            "Una meta medible"
+          ],
+          [
+            "Duración",
+            "Sale una vez",
+            "Tiene fecha de inicio y fin"
+          ],
+          [
+            "Mensaje",
+            "Puede cambiar en cada pieza",
+            "Un mismo mensaje en todas las piezas"
+          ],
+          [
+            "Medios",
+            "Uno",
+            "Uno o varios coordinados"
+          ],
+          [
+            "Medición",
+            "Difícil",
+            "Se compara contra la meta"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Partes de una campaña"
+    },
+    {
+      "p": "Toda campaña, grande o chica, tiene las mismas partes. Si falta una, la campaña cojea."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Meta",
+          "texto": "Lo que quieres lograr, con un número y una fecha. Por ejemplo, cuarenta inscripciones antes del 15 de enero."
+        },
+        {
+          "titulo": "Público",
+          "texto": "A quién le hablas. Edad, zona, qué necesita y dónde pasa su tiempo."
+        },
+        {
+          "titulo": "Mensaje",
+          "texto": "La idea central en una frase. Lo que quieres que la gente recuerde."
+        },
+        {
+          "titulo": "Oferta",
+          "texto": "Lo que la persona gana si actúa ahora. Un precio, un regalo o una fecha límite."
+        },
+        {
+          "titulo": "Medios",
+          "texto": "Dónde va a aparecer la campaña. Puede ser en redes y Google o en volantes, radio y tu local."
+        },
+        {
+          "titulo": "Presupuesto",
+          "texto": "Cuánto vas a gastar en total y cómo lo repartes."
+        },
+        {
+          "titulo": "Calendario",
+          "texto": "Cuándo empieza, cuándo termina y qué sale cada semana."
+        },
+        {
+          "titulo": "Medición",
+          "texto": "Cómo vas a saber si llegaste a la meta."
+        }
+      ]
+    },
+    {
+      "h2": "Tipos de campaña"
+    },
+    {
+      "p": "Las campañas se clasifican según lo que buscan. Para un negocio chico, cuatro tipos cubren casi todo."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de campaña para negocios",
+        "columnas": [
+          "Tipo",
+          "Qué busca",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "De lanzamiento",
+            "Dar a conocer algo nuevo",
+            "Apertura de una sucursal"
+          ],
+          [
+            "De temporada",
+            "Aprovechar una fecha",
+            "Roscas de reyes o regreso a clases"
+          ],
+          [
+            "De promoción",
+            "Vender más en poco tiempo",
+            "Dos por uno en martes"
+          ],
+          [
+            "De recordación",
+            "Que no te olviden",
+            "Recordar tu servicio de mantenimiento cada seis meses"
+          ],
+          [
+            "De reputación",
+            "Mejorar cómo te ven",
+            "Mostrar cómo cuidas la higiene de tu cocina"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo hacer una campaña publicitaria en 8 pasos"
+    },
+    {
+      "p": "Estos pasos funcionan con presupuesto grande o chico. Lo que cambia es el tamaño de cada pieza."
+    },
+    {
+      "ol": [
+        "Escribe tu meta con número y fecha.",
+        "Describe a tu cliente en tres líneas.",
+        "Elige una oferta que de verdad le interese.",
+        "Escribe el mensaje central en una frase.",
+        "Elige dos o tres medios donde está tu cliente.",
+        "Reparte el presupuesto entre esos medios.",
+        "Haz las piezas con el mismo mensaje y la misma imagen.",
+        "Lanza, mide cada semana y ajusta lo que no funcione."
+      ]
+    },
+    {
+      "p": "El paso ocho es el que separa una campaña de un gasto. Sin medir no sabes qué repetir."
+    },
+    {
+      "h2": "Plantilla de plan de campaña"
+    },
+    {
+      "p": "Copia esta tabla en una hoja y llénala antes de gastar un peso. Si no puedes llenar una fila, falta pensar esa parte."
+    },
+    {
+      "tabla": {
+        "titulo": "Plan de campaña en una hoja",
+        "columnas": [
+          "Campo",
+          "Qué escribir"
+        ],
+        "filas": [
+          [
+            "Nombre de la campaña",
+            "Un nombre corto para identificarla"
+          ],
+          [
+            "Meta",
+            "Número y fecha"
+          ],
+          [
+            "Público",
+            "Quién es, dónde vive, qué necesita"
+          ],
+          [
+            "Mensaje central",
+            "Una frase"
+          ],
+          [
+            "Oferta",
+            "Qué gana la persona y hasta cuándo"
+          ],
+          [
+            "Medios",
+            "Dónde va a salir"
+          ],
+          [
+            "Presupuesto total",
+            "Cuánto y cómo se reparte"
+          ],
+          [
+            "Fechas",
+            "Inicio y fin"
+          ],
+          [
+            "Página de llegada",
+            "A dónde manda cada pieza"
+          ],
+          [
+            "Cómo se mide",
+            "Qué número revisas cada semana"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo escribir el mensaje central"
+    },
+    {
+      "p": "El mensaje es la frase que se repite en todas las piezas. Debe entenderse en un vistazo."
+    },
+    {
+      "ul": [
+        "Habla del beneficio para el cliente, no de tu negocio.",
+        "Usa palabras que tu cliente usa.",
+        "Di algo concreto, como un precio, una fecha o un resultado.",
+        "Que quepa en una lona y en una publicación sin cambiarlo."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Mensajes de ejemplo",
+        "columnas": [
+          "Negocio",
+          "Mensaje central"
+        ],
+        "filas": [
+          [
+            "Escuela de natación",
+            "Tu hijo nada solo en ocho clases o la novena es gratis."
+          ],
+          [
+            "Taller mecánico",
+            "Revisión de frenos en una hora antes de salir a carretera."
+          ],
+          [
+            "Panadería",
+            "Aparta tu rosca y recógela caliente el 6 de enero."
+          ],
+          [
+            "Gimnasio",
+            "Inscripción sin costo en enero si llegas con un amigo."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para más ideas de frases, revisa nuestra guía de [frases para vender](id:frases-para-vender)."
+    },
+    {
+      "h2": "La página de llegada"
+    },
+    {
+      "p": "Cada pieza de la campaña debe llevar a un mismo lugar. Esa es la página de llegada."
+    },
+    {
+      "p": "Debe repetir el mensaje y la oferta del anuncio. Si el anuncio dice dos por uno y la página no lo menciona, la gente se confunde y se va."
+    },
+    {
+      "ul": [
+        "El mismo mensaje y la misma imagen que el anuncio.",
+        "La oferta con su fecha de fin.",
+        "Un botón claro para escribir, apartar o comprar.",
+        "Tus datos de contacto y tu dirección."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo repartir el presupuesto"
+    },
+    {
+      "p": "Un presupuesto chico se reparte en pocos medios. Si lo divides en diez lugares, nadie te ve en ninguno."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo inventado de reparto con $3,000 al mes",
+        "columnas": [
+          "Medio",
+          "Monto",
+          "Para qué"
+        ],
+        "filas": [
+          [
+            "Anuncio en redes para tu zona",
+            "$1,500",
+            "Que te conozcan en tu colonia"
+          ],
+          [
+            "Volantes en escuelas cercanas",
+            "$800",
+            "Llegar a papás que no te siguen"
+          ],
+          [
+            "Lona en la fachada",
+            "$700",
+            "Que lo vea quien pasa"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Guarda una parte para la segunda mitad del mes. Si un medio funciona, le pones más."
+    },
+    {
+      "h2": "Ideas de campaña para cada mes"
+    },
+    {
+      "p": "Las fechas del calendario mexicano dan pretexto para una campaña. Planéalas con un mes de anticipación."
+    },
+    {
+      "tabla": {
+        "titulo": "Calendario de ideas de campaña",
+        "columnas": [
+          "Mes",
+          "Fecha o temporada",
+          "Idea de campaña"
+        ],
+        "filas": [
+          [
+            "Enero",
+            "Reyes y propósitos de año nuevo",
+            "Roscas por encargo o inscripciones al gimnasio"
+          ],
+          [
+            "Febrero",
+            "Día del amor y la amistad",
+            "Paquetes para regalar en pareja"
+          ],
+          [
+            "Marzo y abril",
+            "Cuaresma y Semana Santa",
+            "Menú de cuaresma o revisión del auto antes de viajar"
+          ],
+          [
+            "Mayo",
+            "Día del niño y Día de las madres",
+            "Regalos, flores y comidas familiares"
+          ],
+          [
+            "Junio",
+            "Día del padre y fin de clases",
+            "Promociones para papá y cursos de verano"
+          ],
+          [
+            "Julio y agosto",
+            "Vacaciones y regreso a clases",
+            "Útiles, uniformes, cortes de cabello escolares"
+          ],
+          [
+            "Septiembre",
+            "Fiestas patrias",
+            "Antojitos, decoración y eventos"
+          ],
+          [
+            "Octubre y noviembre",
+            "Día de muertos y Buen Fin",
+            "Pan de muerto, flores y descuentos de temporada"
+          ],
+          [
+            "Diciembre",
+            "Posadas, Navidad y fin de año",
+            "Pedidos para fiestas, regalos y cenas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "No hace falta hacer doce campañas. Elige las tres o cuatro fechas que más mueven tu negocio."
+    },
+    {
+      "h2": "Campañas en redes sociales"
+    },
+    {
+      "p": "Si tu campaña vive en Facebook e Instagram, la plataforma te pide ordenarla en niveles. Conviene entenderlos antes de entrar."
+    },
+    {
+      "ul": [
+        "La campaña lleva el objetivo, como recibir mensajes o visitas.",
+        "Dentro van uno o varios grupos con su público, su zona y su presupuesto.",
+        "Dentro de cada grupo van los anuncios con sus fotos y textos."
+      ]
+    },
+    {
+      "p": "Prueba dos anuncios distintos con el mismo público. Después de unos días, deja el que trae más mensajes."
+    },
+    {
+      "p": "Lee el paso a paso en nuestra guía de [publicidad en Facebook](id:publicidad-en-facebook)."
+    },
+    {
+      "h2": "Cómo medir tu campaña"
+    },
+    {
+      "p": "Al empezar define qué número vas a revisar. Luego revísalo cada semana, no al final."
+    },
+    {
+      "ul": [
+        "Mensajes de WhatsApp que mencionan la oferta.",
+        "Inscripciones, ventas o citas durante la campaña.",
+        "Personas que usaron el código o el volante.",
+        "Visitas a tu página de llegada.",
+        "Costo de cada cliente nuevo."
+      ]
+    },
+    {
+      "p": "Al terminar escribe tres cosas. Qué funcionó, qué no y qué cambiarías la próxima vez."
+    },
+    {
+      "h2": "Ejemplo completo de una campaña"
+    },
+    {
+      "p": "Ejemplo inventado de principio a fin. Una escuela de natación en Querétaro quiere llenar sus grupos de enero."
+    },
+    {
+      "tabla": {
+        "titulo": "Campaña de enero de la escuela de natación",
+        "columnas": [
+          "Campo",
+          "Plan"
+        ],
+        "filas": [
+          [
+            "Meta",
+            "40 inscripciones antes del 15 de enero"
+          ],
+          [
+            "Público",
+            "Papás con hijos de 4 a 10 años en tres colonias cercanas"
+          ],
+          [
+            "Mensaje",
+            "Tu hijo nada solo en ocho clases o la novena es gratis"
+          ],
+          [
+            "Oferta",
+            "Inscripción sin costo hasta el 15 de enero"
+          ],
+          [
+            "Medios",
+            "Anuncio en redes, volantes en dos primarias y lona en la entrada"
+          ],
+          [
+            "Presupuesto",
+            "$3,000 en total"
+          ],
+          [
+            "Fechas",
+            "Del 26 de diciembre al 15 de enero"
+          ],
+          [
+            "Página de llegada",
+            "Página con horarios, precios y botón de WhatsApp"
+          ],
+          [
+            "Medición",
+            "Inscripciones por semana y de dónde vino cada una"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "A la mitad descubren que los volantes traen más papás que el anuncio. Mueven parte del presupuesto a imprimir más volantes."
+    },
+    {
+      "h2": "Fallas comunes en una campaña"
+    },
+    {
+      "ul": [
+        "Empezar sin meta medible.",
+        "Cambiar el mensaje en cada pieza.",
+        "Mandar a la página principal en lugar de una página con la oferta.",
+        "Gastar todo el presupuesto en la primera semana.",
+        "No preguntar a los clientes cómo se enteraron.",
+        "Olvidar la fecha de fin de la oferta."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una campaña publicitaria?",
+      "respuesta": "Es un grupo de anuncios con una meta. Todos llevan el mismo mensaje y corren durante un tiempo definido."
+    },
+    {
+      "pregunta": "¿Cuánto debe durar una campaña?",
+      "respuesta": "Depende de la meta. Para un negocio chico, de dos a seis semanas suele bastar para medir."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta hacer una campaña?",
+      "respuesta": "Lo que decidas invertir. Una campaña local puede empezar con poco si eliges bien los medios."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre campaña publicitaria y campaña de marketing?",
+      "respuesta": "La publicitaria se enfoca en anuncios. La de marketing puede incluir precios, producto y atención."
+    },
+    {
+      "pregunta": "¿Necesito agencia para hacer una campaña?",
+      "respuesta": "No. Con un plan de una hoja puedes hacer una campaña chica tú mismo."
+    },
+    {
+      "pregunta": "¿Cómo sé si mi campaña funcionó?",
+      "respuesta": "Compara el resultado con la meta que pusiste al inicio. Si no pusiste meta, no puedes saberlo."
+    }
+  ],
+  "relacionadas": [
+    "publicidad-para-negocios",
+    "publicidad-en-facebook",
+    "frases-para-vender",
+    "agencia-de-marketing-digital",
+    "marketing-digital",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Cada campaña necesita una página de llegada que diga lo mismo que el anuncio. Aliviane te la hace.",
+    "titulo": "¿Hacemos la página de llegada de tu campaña?",
+    "tituloCorto": "¿Tu campaña ya tiene página de llegada?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/campanas-publicitarias",
+      "titulo": "¿Qué es una campaña publicitaria y cómo hacer una? Guía 2026",
+      "promete": "Definición y pasos generales; ejemplos de marcas grandes y poco de negocios con presupuesto chico"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.cyberclick.es/publicidad/campana-publicitaria",
+      "titulo": "Campaña publicitaria",
+      "promete": "Tipos y fases con vocabulario de agencia; escrito para España"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.hubspot.es/marketing/campana-marketing",
+      "titulo": "Cómo crear una campaña de marketing exitosa",
+      "promete": "Guía amplia ligada a su software; sin plantilla de plan de una hoja"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. La cabeza de la lista viene con error de concordancia («que es una campañas publicitarias»): cabeza puesta como «qué es una campaña publicitaria» y la de la lista queda en busquedas. Sin cifras. Top 3 leído con WebSearch el 12-nov-2026."
+}

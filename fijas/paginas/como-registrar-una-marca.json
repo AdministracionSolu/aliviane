@@ -1,0 +1,424 @@
+{
+  "id": "como-registrar-una-marca",
+  "slug": "como-registrar-una-marca",
+  "molde": "guia",
+  "cabeza": "cómo registrar una marca",
+  "busquedas": [
+    "cómo patentar una marca"
+  ],
+  "title": "Cómo registrar una marca en el IMPI: pasos y costo 2026",
+  "h1": "Cómo registrar una marca en México ante el IMPI",
+  "description": "Cómo registrar una marca ante el IMPI: búsqueda previa, clase, solicitud en línea y costo oficial de $2,695.18 más IVA por clase. Revisado en noviembre.",
+  "resumen": "Búsqueda previa, clases, solicitud en línea y costo oficial por clase",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para registrar una marca en México se presenta una solicitud ante el IMPI, de preferencia en línea con tu cuenta de Tu PASE. Antes revisas que nadie más tenga una marca parecida y eliges la clase de tus productos o servicios.",
+    "El estudio de la solicitud cuesta $2,695.18 más IVA por cada clase, con 10% de descuento si la presentas en línea. El IMPI marca de 4 a 6 meses de respuesta y el registro dura 10 años."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es registrar una marca"
+    },
+    {
+      "p": "Registrar tu marca es pedir al Estado el derecho exclusivo de usar un nombre o un logo para ciertos productos o servicios. En México ese trámite lo lleva el IMPI."
+    },
+    {
+      "p": "Según la página del IMPI, el registro da el derecho al uso exclusivo en todo el país por 10 años. Así puedes impedir que otro negocio use una marca igual o muy parecida en tu mismo ramo."
+    },
+    {
+      "p": "Registrar no es lo mismo que darte de alta en el SAT ni que comprar un dominio. Son tres cosas distintas y cada una protege algo diferente."
+    },
+    {
+      "tabla": {
+        "titulo": "Marca, razón social y dominio",
+        "columnas": [
+          "Qué",
+          "Qué protege",
+          "Dónde se tramita"
+        ],
+        "filas": [
+          [
+            "Marca",
+            "El nombre o logo con que vendes",
+            "IMPI"
+          ],
+          [
+            "Razón social o RFC",
+            "Tu identidad fiscal",
+            "SAT y notario si es sociedad"
+          ],
+          [
+            "Dominio",
+            "Tu dirección en internet",
+            "Un registrador de dominios"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Marca o patente"
+    },
+    {
+      "p": "Mucha gente busca cómo patentar una marca. Las marcas no se patentan, se registran."
+    },
+    {
+      "p": "La patente protege un invento, como una máquina o un proceso nuevo. La marca protege el nombre o el signo con que identificas lo que vendes."
+    },
+    {
+      "h2": "Qué se puede registrar"
+    },
+    {
+      "p": "No sólo nombres. El IMPI recibe varios tipos de signos."
+    },
+    {
+      "ul": [
+        "Un nombre o una palabra, como el de tu negocio.",
+        "Un logo o un diseño.",
+        "Un nombre junto con su logo.",
+        "Otros signos que identifiquen tus productos, según los tipos que acepta el IMPI."
+      ]
+    },
+    {
+      "p": "Hay signos que no se pueden registrar. Por ejemplo, palabras que sólo describen el producto, como pan sabroso para una panadería."
+    },
+    {
+      "h2": "Antes de solicitar: los pasos previos"
+    },
+    {
+      "p": "La página del IMPI recomienda tres pasos antes de llenar la solicitud. Son gratis y te ahorran un rechazo."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Ubica tu clase",
+          "texto": "Los productos y servicios se dividen en clases. Busca la tuya en Clasniza, la herramienta del IMPI."
+        },
+        {
+          "titulo": "Busca marcas parecidas",
+          "texto": "Revisa en el Acervo de Marcas y en MARCia que nadie tenga algo igual o parecido en tu clase."
+        },
+        {
+          "titulo": "Date de alta en Tu PASE",
+          "texto": "Crea tu cuenta con tu CURP, tu correo y una contraseña. Desde ahí haces todo el trámite."
+        }
+      ]
+    },
+    {
+      "p": "El paso de la búsqueda es el más importante. Una marca parecida en tu misma clase es la causa más común de problemas."
+    },
+    {
+      "h2": "Cuánto cuesta registrar una marca"
+    },
+    {
+      "p": "La ficha oficial del trámite en gob.mx dice el costo del estudio de la solicitud. Lo leímos el 12 de noviembre de 2026."
+    },
+    {
+      "tabla": {
+        "titulo": "Costo oficial del estudio de una solicitud de marca",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Estudio de la solicitud por clase",
+            "$2,695.18"
+          ],
+          [
+            "IVA",
+            "$431.23"
+          ],
+          [
+            "Total por clase presentando en ventanilla",
+            "$3,126.41"
+          ],
+          [
+            "Si la presentas en línea",
+            "10% de descuento sobre la cuota"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El precio es por cada clase. Si vendes productos de dos clases distintas, pagas dos veces."
+    },
+    {
+      "p": "El IMPI ha publicado campañas temporales con precio diferencial para ciertos grupos. Revisa en gob.mx/impi si hay una abierta antes de pagar."
+    },
+    {
+      "h2": "Lo que conviene tener a la mano"
+    },
+    {
+      "p": "Reúne esto antes de sentarte a llenar la solicitud. Así terminas en una sola sesión."
+    },
+    {
+      "ul": [
+        "Tu CURP y tu e.firma vigente con su contraseña.",
+        "Un correo que revises seguido para recibir avisos.",
+        "El nombre exacto de tu marca, escrito igual que en tus empaques.",
+        "El logo en archivo de imagen, si lo vas a registrar.",
+        "La lista de productos o servicios que vendes y su clase.",
+        "La dirección de tu negocio y la fecha desde que usas la marca, si ya la usas.",
+        "Una tarjeta o banca en línea para pagar la línea de captura."
+      ]
+    },
+    {
+      "h2": "Cómo registrar tu marca en línea paso a paso"
+    },
+    {
+      "p": "Estos son los pasos que publica la ficha del trámite para presentar en línea. El sistema se llama Marca en Línea."
+    },
+    {
+      "ol": [
+        "Regístrate en el Portal de Acceso a Servicios Electrónicos del IMPI, conocido como Tu PASE, con tu CURP o tu e.firma.",
+        "Lee y acepta los lineamientos de Marca en Línea.",
+        "Entra a Marca en Línea desde tu cuenta y elige nueva solicitud.",
+        "Captura los datos de la solicitud.",
+        "Genera la línea de captura y paga.",
+        "Firma la solicitud con tu e.firma.",
+        "Da seguimiento a tu expediente en tu cuenta y en las herramientas del IMPI."
+      ]
+    },
+    {
+      "p": "Para presentar en línea necesitas tu e.firma vigente y tu CURP. Si no tienes e.firma, tramítala antes en el SAT."
+    },
+    {
+      "h2": "Qué datos te piden"
+    },
+    {
+      "p": "La ficha lista los requisitos. Estos son los que aplican a la mayoría de los negocios."
+    },
+    {
+      "ul": [
+        "Tus datos generales como solicitante.",
+        "Tu domicilio y un domicilio para recibir notificaciones.",
+        "Los datos del signo, es decir, el nombre o el logo.",
+        "La lista de productos o servicios y su clase.",
+        "La ubicación del establecimiento, si ya usas la marca.",
+        "El comprobante de pago con su línea de captura.",
+        "Un poder, si lo tramita alguien en tu nombre."
+      ]
+    },
+    {
+      "h2": "Registrar en ventanilla"
+    },
+    {
+      "p": "También puedes presentar la solicitud en persona. La ficha menciona la oficina del IMPI en Arenal 550, en Xochimilco, y sus oficinas regionales."
+    },
+    {
+      "p": "También menciona las oficinas de representación de la Secretaría de Economía. Pregunta en la más cercana antes de ir."
+    },
+    {
+      "p": "En ventanilla pagas la cuota completa. El descuento de 10% sólo aplica a las solicitudes en línea."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cuánto tarda y qué pasa después"
+    },
+    {
+      "p": "La página del IMPI marca un plazo de respuesta de 4 a 6 meses. La ficha del trámite dice 5 meses."
+    },
+    {
+      "p": "Durante ese tiempo el IMPI revisa que tu marca cumpla y que no choque con otra. Puede mandarte un requerimiento si falta algo o si encuentra un parecido."
+    },
+    {
+      "p": "Si te piden algo, contesta dentro del plazo que te den. Si no contestas, puedes perder la solicitud."
+    },
+    {
+      "p": "Revisa el estado de tu expediente en tu cuenta de Tu PASE. Cuando lo aprueban, recibes tu título de registro."
+    },
+    {
+      "h2": "Cuánto dura una marca registrada"
+    },
+    {
+      "p": "El registro dura 10 años. Después puedes renovarlo para seguir protegido."
+    },
+    {
+      "p": "Anota la fecha de vencimiento en tu calendario. Si se te pasa, otra persona podría registrar tu marca."
+    },
+    {
+      "h2": "Cómo elegir una marca que sí se pueda registrar"
+    },
+    {
+      "p": "Una buena marca es distinta, fácil de decir y no describe sólo lo que vendes. Piensa en esto antes de pagar."
+    },
+    {
+      "tabla": {
+        "titulo": "Marcas fáciles y difíciles de registrar",
+        "columnas": [
+          "Más fácil de registrar",
+          "Más difícil de registrar",
+          "Por qué"
+        ],
+        "filas": [
+          [
+            "Panadería La Espiga Dorada",
+            "Pan Rico",
+            "La segunda sólo describe el producto"
+          ],
+          [
+            "Taller Tornado",
+            "Taller Mecánico",
+            "El genérico no distingue a nadie"
+          ],
+          [
+            "Uñas Coral",
+            "Uñas Bonitas",
+            "Parecida a muchas otras del ramo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa también que el dominio esté libre. Es bueno que tu marca y tu dirección en internet se llamen igual."
+    },
+    {
+      "p": "Busca ideas con nuestro generador de [nombres para empresas](id:nombres-para-empresas). Después revisa en el IMPI si están libres."
+    },
+    {
+      "h2": "Qué hacer si alguien ya usa un nombre parecido"
+    },
+    {
+      "p": "Si en tu búsqueda aparece una marca igual o muy parecida en tu clase, detente antes de pagar. Tienes varias opciones."
+    },
+    {
+      "ul": [
+        "Cambia tu nombre por uno más distinto mientras todavía es barato hacerlo.",
+        "Revisa si la otra marca está vigente o si ya venció.",
+        "Revisa si está registrada en otra clase que no choca con lo que vendes.",
+        "Consulta a un especialista en propiedad industrial si el caso no es claro."
+      ]
+    },
+    {
+      "p": "Cambiar de nombre al principio cuesta poco. Cambiarlo después de imprimir y anunciarte cuesta mucho más."
+    },
+    {
+      "h2": "Cuándo conviene pedir ayuda"
+    },
+    {
+      "p": "Muchas personas registran su marca solas. Hay casos donde un especialista te ahorra tiempo y rechazos."
+    },
+    {
+      "ul": [
+        "Tu marca es parecida a otra y no sabes si choca.",
+        "Vendes productos o servicios de varias clases.",
+        "Recibiste un requerimiento del IMPI y no entiendes qué piden.",
+        "Quieres proteger tu marca también en otros países."
+      ]
+    },
+    {
+      "p": "Pide que te expliquen por escrito qué incluye su servicio. La cuota oficial del IMPI se paga aparte de sus honorarios."
+    },
+    {
+      "h2": "Ejemplo de un negocio que registra su marca"
+    },
+    {
+      "p": "Ejemplo inventado para ver el proceso. Una cafetería en Oaxaca vende café molido con su nombre y quiere protegerlo."
+    },
+    {
+      "p": "Busca su clase en Clasniza y revisa en MARCia que no haya otra marca parecida. Crea su cuenta en Tu PASE con su e.firma."
+    },
+    {
+      "p": "Llena la solicitud en línea, paga con descuento y firma. Unos meses después recibe su título y registra también el dominio con el mismo nombre."
+    },
+    {
+      "h2": "Errores comunes al registrar una marca"
+    },
+    {
+      "ul": [
+        "No buscar marcas parecidas antes de pagar.",
+        "Elegir una clase que no corresponde a lo que vendes.",
+        "Registrar sólo el logo cuando lo valioso es el nombre.",
+        "No contestar un requerimiento del IMPI a tiempo.",
+        "Olvidar la fecha de renovación.",
+        "Imprimir lonas y empaques antes de saber si la marca es registrable."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta registrar una marca en México?",
+      "respuesta": "$2,695.18 más IVA por clase. Es la cuota de la ficha oficial leída el 12 de noviembre de 2026, con 10% de descuento en línea."
+    },
+    {
+      "pregunta": "¿Cuánto tarda el registro de una marca?",
+      "respuesta": "De 4 a 6 meses, según la página del IMPI. Puede tardar más si te piden aclaraciones."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo dura una marca registrada?",
+      "respuesta": "10 años. Después se puede renovar."
+    },
+    {
+      "pregunta": "¿Puedo registrar mi marca yo solo?",
+      "respuesta": "Sí. El trámite se hace en línea con tu cuenta de Tu PASE y tu e.firma."
+    },
+    {
+      "pregunta": "¿Se patenta o se registra una marca?",
+      "respuesta": "Se registra. La patente es para inventos, no para nombres ni logos."
+    },
+    {
+      "pregunta": "¿Mi registro vale en otros países?",
+      "respuesta": "No. El registro del IMPI protege tu marca en México. Para otros países se hace otro trámite."
+    },
+    {
+      "pregunta": "¿Necesito registrar mi marca para abrir mi negocio?",
+      "respuesta": "No es obligatorio. Conviene si piensas crecer o vender con tu nombre en empaques."
+    }
+  ],
+  "relacionadas": [
+    "como-emprender-un-negocio",
+    "nombres-para-empresas",
+    "crear-logo-gratis",
+    "isotipo-imagotipo-logotipo",
+    "que-es-un-dominio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu marca registrada merece un dominio con su nombre. Aliviane te hace la página con ese dominio incluido.",
+    "titulo": "¿Le damos a tu marca su página y su dominio?",
+    "tituloCorto": "¿Tu marca ya tiene su dominio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "gob.mx, ficha del trámite Solicitud de registro de marca IMPI-01-001-A (leída el 12-nov-2026)",
+      "url": "https://www.gob.mx/public/tramites/detalleTramite.xhtml?homoclave=IMPI-01-001-A"
+    },
+    {
+      "texto": "IMPI, Registro de marcas (leída el 12-nov-2026)",
+      "url": "https://www.gob.mx/impi/documentos/registro-de-marcas"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.elimparcial.com/mexico/2026/07/14/como-registrar-una-marca-ante-el-impi-el-caso-del-pato-merlin-explica-el-tramite-costo-y-beneficios-en-2026/",
+      "titulo": "Cómo registrar una marca ante el IMPI",
+      "promete": "Nota periodística con el trámite y el costo; sin pasos detallados ni cómo elegir la clase"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.milenio.com/negocios/impi-como-registrar-una-marca",
+      "titulo": "Cómo le hago para registrar una marca ante el IMPI",
+      "promete": "Pasos generales; cifras de años anteriores y sin errores comunes"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.gob.mx/impi/documentos/registro-de-marcas",
+      "titulo": "Registro de marcas",
+      "promete": "Página oficial con ligas y tarifa; no explica cómo saber si tu marca es registrable ni qué pasa después"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Costo, pasos, plazos y vigencia leídos HOY en gob.mx: ficha del trámite IMPI-01-001-A ($2,695.18 + IVA $431.23 = $3,126.41 presencial, 10% de descuento en Marca en Línea, respuesta 5 meses, vigencia 10 años) y página del IMPI «Registro de marcas» (4 a 6 meses, precio por clase, Clasniza, Acervo de Marcas, MARCia, Tu PASE). El total con descuento en línea no se escribe en pesos: la ficha sólo dice «10% sobre dicha cuota». Campañas de 90% de descuento de 2026 vistas sólo en resultados de búsqueda: se mencionan sin cifra ni fechas. Top 3 leído con WebSearch el 12-nov-2026."
+}

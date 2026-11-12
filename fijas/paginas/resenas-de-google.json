@@ -1,0 +1,505 @@
+{
+  "id": "resenas-de-google",
+  "slug": "resenas-de-google",
+  "molde": "guia",
+  "cabeza": "reseñas google",
+  "busquedas": [
+    "reseñas de google",
+    "google reseñas",
+    "mis reseñas google",
+    "reseña google maps"
+  ],
+  "title": "Reseñas Google: cómo pedirlas y contestarlas bien",
+  "h1": "Reseñas de Google: cómo conseguirlas y cómo contestarlas",
+  "description": "Cómo pedir reseñas de Google con un link o un QR, qué está prohibido y cómo contestar las buenas y las malas. Con mensajes listos para tus clientes. Úsalos.",
+  "resumen": "Link y QR para pedir reseñas, lo que Google prohíbe y respuestas listas",
+  "categoria": "Google",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Las reseñas de Google son las opiniones con estrellas que tus clientes dejan en tu Perfil de Negocio. Salen en Google Maps y junto a tu nombre cuando alguien te busca.",
+    "Para conseguirlas, copia el link de reseñas desde tu perfil y mándalo a tus clientes por WhatsApp o en un QR. Contesta todas, las buenas y las malas, con calma y con el nombre de la persona."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Por qué importan las reseñas"
+    },
+    {
+      "p": "Antes de visitar un negocio nuevo, mucha gente lee lo que otros dicen. Una ficha sin reseñas genera dudas aunque el negocio sea bueno."
+    },
+    {
+      "p": "Las reseñas cuentan cosas que tú no puedes decir de ti. Que el corte quedó bien, que el pastel llegó a tiempo o que el mecánico explicó todo."
+    },
+    {
+      "p": "También son una fuente de ideas. Lo que tus clientes repiten es lo que debes destacar en tu página y en tus anuncios."
+    },
+    {
+      "h2": "Lo que necesitas antes de pedir reseñas"
+    },
+    {
+      "p": "Para recibir reseñas tu negocio debe tener un Perfil de Negocio verificado. Si no lo tienes, empieza por nuestra guía de [Google Mi Negocio](id:google-mi-negocio)."
+    },
+    {
+      "p": "Quien deja una reseña debe entrar con una cuenta de Google. Puede crearla con un correo que no sea de Gmail."
+    },
+    {
+      "h2": "Cómo sacar el link de reseñas"
+    },
+    {
+      "p": "Google te da un link directo que abre la ventana para calificar. Con ese link tu cliente no tiene que buscarte."
+    },
+    {
+      "ol": [
+        "Entra a tu Perfil de Negocio desde business.google.com.",
+        "Elige la opción para leer opiniones.",
+        "Toca el ícono de compartir junto a obtener más opiniones.",
+        "Elige copiar para guardar el link.",
+        "Pégalo en tus respuestas rápidas de WhatsApp para tenerlo siempre a la mano."
+      ]
+    },
+    {
+      "p": "Los nombres de los botones pueden cambiar con el tiempo. Si no los ves, busca la palabra opiniones dentro de tu perfil."
+    },
+    {
+      "h2": "Cómo hacer un QR para pedir reseñas"
+    },
+    {
+      "p": "En el mismo lugar del link aparece un código QR. Puedes guardarlo como imagen e imprimirlo."
+    },
+    {
+      "p": "Según la ayuda de Google, el QR de opiniones sólo se genera desde el navegador de una computadora. Desde el celular sólo sale el link."
+    },
+    {
+      "p": "Si sólo tienes el link, conviértelo en QR con nuestro [generador de QR](id:generador-de-qr). Sale en PNG o SVG para imprimir."
+    },
+    {
+      "ul": [
+        "Ponlo junto a la caja o en el mostrador.",
+        "Imprímelo en el ticket o en la nota de venta.",
+        "Pégalo en la bolsa o en la caja del pedido.",
+        "Agrégalo a tu tarjeta de presentación por la parte de atrás."
+      ]
+    },
+    {
+      "h2": "Cuándo pedir una reseña"
+    },
+    {
+      "p": "El mejor momento es cuando el cliente está contento. Si esperas una semana, ya se le olvidó."
+    },
+    {
+      "tabla": {
+        "titulo": "Momento ideal según el negocio",
+        "columnas": [
+          "Negocio",
+          "Cuándo pedirla"
+        ],
+        "filas": [
+          [
+            "Restaurante o cafetería",
+            "Al traer la cuenta o al despedir"
+          ],
+          [
+            "Estética o barbería",
+            "Cuando el cliente se ve en el espejo"
+          ],
+          [
+            "Taller mecánico",
+            "Al entregar el auto y explicar lo que se hizo"
+          ],
+          [
+            "Consultorio",
+            "En el mensaje de seguimiento al día siguiente"
+          ],
+          [
+            "Tienda en línea",
+            "Dos o tres días después de la entrega"
+          ],
+          [
+            "Servicio a domicilio",
+            "Al terminar el trabajo, con el cliente presente"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Mensajes para pedir reseñas"
+    },
+    {
+      "p": "Un mensaje corto y personal funciona mejor que uno largo. Usa el nombre del cliente y lo que compró."
+    },
+    {
+      "tabla": {
+        "titulo": "Mensajes listos para WhatsApp",
+        "columnas": [
+          "Situación",
+          "Mensaje"
+        ],
+        "filas": [
+          [
+            "Después de una compra",
+            "Hola, Ana. Gracias por tu pedido. Si te gustó, ¿nos dejas una reseña en Google? Aquí está el link."
+          ],
+          [
+            "Después de un servicio",
+            "Gracias por venir hoy, Luis. Tu opinión nos ayuda mucho. Te dejo el link para escribirla."
+          ],
+          [
+            "Cliente frecuente",
+            "Ya son varias veces que nos visitas. ¿Nos ayudas con una reseña? Toma un minuto."
+          ],
+          [
+            "Pedido entregado",
+            "¿Llegó bien tu pedido? Si todo salió como esperabas, nos encantaría tu reseña en Google."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pide a todos tus clientes por igual. Elegir sólo a los que crees que pondrán cinco estrellas está prohibido por Google."
+    },
+    {
+      "h2": "Lo que está prohibido al pedir reseñas"
+    },
+    {
+      "p": "Google tiene reglas claras sobre las opiniones. Romperlas puede costarte las reseñas que ya tienes."
+    },
+    {
+      "ul": [
+        "Dar descuentos, regalos o pagos a cambio de una reseña.",
+        "Pedir reseñas sólo a los clientes contentos y no a todos.",
+        "Desalentar o impedir que alguien deje una opinión negativa.",
+        "Pedir a empleados o familiares que te califiquen.",
+        "Comprar reseñas o pedir a alguien que las escriba por ti.",
+        "Pedir a un cliente que cambie o quite su opinión a cambio de algo."
+      ]
+    },
+    {
+      "p": "Una rifa entre quienes dejan reseña también cuenta como incentivo. Pide la reseña sin ofrecer nada a cambio."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo contestar las reseñas positivas"
+    },
+    {
+      "p": "Contestar una reseña buena es dar las gracias en público. Quien lee ve que hay alguien del otro lado."
+    },
+    {
+      "ul": [
+        "Usa el nombre de la persona.",
+        "Menciona lo que compró o el servicio que recibió.",
+        "Agradece en una o dos frases.",
+        "Invítala a volver sin vender de más."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Respuestas de ejemplo a reseñas buenas",
+        "columnas": [
+          "Reseña",
+          "Respuesta"
+        ],
+        "filas": [
+          [
+            "Muy rico el pozole y rápido el servicio.",
+            "Gracias, Marta. Nos alegra que te gustó el pozole. Te esperamos el próximo jueves."
+          ],
+          [
+            "Me dejaron el auto como nuevo.",
+            "Gracias por confiar en nosotros, Jorge. Cualquier ruido raro, aquí estamos."
+          ],
+          [
+            "Excelente atención de la doctora.",
+            "Gracias, Sofía. Le pasamos tu mensaje a la doctora. Nos vemos en tu próxima revisión."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo contestar las reseñas negativas"
+    },
+    {
+      "p": "Una reseña mala no se borra, se contesta. Una buena respuesta convence más que diez estrellas."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Espera a estar en calma",
+          "texto": "No contestes en caliente. Lee la reseña, respira y vuelve en una hora."
+        },
+        {
+          "titulo": "Agradece y reconoce",
+          "texto": "Da las gracias por el comentario y reconoce lo que salió mal, si salió mal."
+        },
+        {
+          "titulo": "Explica sin pelear",
+          "texto": "Cuenta qué pasó en una o dos frases. No acuses al cliente ni discutas detalles."
+        },
+        {
+          "titulo": "Ofrece una salida",
+          "texto": "Invita a la persona a escribirte por WhatsApp o a regresar para arreglarlo."
+        },
+        {
+          "titulo": "Cumple lo que ofreces",
+          "texto": "Si dijiste que lo arreglas, arréglalo. Otros clientes leen la historia completa."
+        }
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Respuestas de ejemplo a reseñas malas",
+        "columnas": [
+          "Reseña",
+          "Respuesta"
+        ],
+        "filas": [
+          [
+            "Tardaron una hora en traer la comida.",
+            "Tienes razón, Pedro. Ese día nos faltó personal. Lo sentimos. Escríbenos y la próxima comida corre por la casa."
+          ],
+          [
+            "El corte no quedó como pedí.",
+            "Lamentamos que no quedara como querías, Karla. Ven esta semana y lo ajustamos sin costo."
+          ],
+          [
+            "Me cobraron más de lo que dijeron.",
+            "Gracias por avisar, Raúl. Revisamos tu nota y queremos aclararlo. Escríbenos al WhatsApp del perfil."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ofrecer arreglar el servicio después de una queja no es un incentivo. El incentivo es dar algo a cambio de escribir o de cambiar la reseña."
+    },
+    {
+      "h2": "Qué hacer con una reseña falsa"
+    },
+    {
+      "p": "A veces llega una reseña de alguien que nunca fue cliente. Google te deja reportarla."
+    },
+    {
+      "ul": [
+        "Revisa si de verdad no es un cliente. A veces usan otro nombre.",
+        "Repórtala desde tu Perfil de Negocio con la opción para denunciar opiniones.",
+        "Contesta con calma y di que no encuentras registro de esa visita.",
+        "No pidas a amigos que dejen reseñas para tapar la mala."
+      ]
+    },
+    {
+      "p": "Reportar no garantiza que la quiten. Por eso la respuesta pública también cuenta."
+    },
+    {
+      "h2": "Qué aprender de tus reseñas"
+    },
+    {
+      "p": "Tus reseñas son una encuesta gratis que nunca tuviste que mandar. Léelas todas de corrido una vez al mes."
+    },
+    {
+      "ul": [
+        "Anota las palabras que se repiten en las buenas. Eso es lo que te distingue.",
+        "Anota las quejas que se repiten en las malas. Eso es lo que debes arreglar primero.",
+        "Fíjate en los días y horarios de las quejas. A veces el problema es un turno.",
+        "Revisa si mencionan precios. Te dice si tu cliente siente que vale lo que paga."
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo inventado de lo que dicen las reseñas de una cafetería",
+        "columnas": [
+          "Se repite",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "El pan dulce siempre está fresco",
+            "Ponerlo en la primera foto de la página y la ficha"
+          ],
+          [
+            "Tardan en cobrar los domingos",
+            "Poner otra persona en caja ese día"
+          ],
+          [
+            "No hay dónde estacionarse",
+            "Indicar en la ficha el estacionamiento más cercano"
+          ],
+          [
+            "Muy buena atención de Rosa",
+            "Contarle a Rosa y usar el ejemplo con el equipo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Contestar desde el celular"
+    },
+    {
+      "p": "No necesitas computadora para contestar. Puedes hacerlo desde la aplicación de Google Maps o desde la búsqueda de Google."
+    },
+    {
+      "p": "Busca el nombre de tu negocio con la sesión de la cuenta dueña del perfil. Aparece el panel para administrarlo y ahí están las opiniones."
+    },
+    {
+      "p": "Contesta en un momento tranquilo del día. Una respuesta de dos frases el mismo día vale más que una larga una semana después."
+    },
+    {
+      "h2": "Cómo usar tus reseñas en tu página"
+    },
+    {
+      "p": "Tus reseñas también sirven fuera de Google. Pueden ir en tu página, en tus redes y en tu mostrador."
+    },
+    {
+      "ul": [
+        "Copia dos o tres reseñas reales con el nombre y la fecha.",
+        "Pon una liga para que lean todas en Google.",
+        "Usa las palabras que repiten tus clientes en tus textos de venta.",
+        "Nunca inventes reseñas ni cambies lo que dijo el cliente."
+      ]
+    },
+    {
+      "h2": "Ejemplo de una barbería que junta reseñas"
+    },
+    {
+      "p": "Ejemplo inventado para ver el proceso completo. Una barbería en Toluca tiene doce reseñas y quiere más."
+    },
+    {
+      "p": "Imprime un QR de reseñas y lo pega en el espejo de cada silla. Al terminar el corte, el barbero dice que su opinión les ayuda."
+    },
+    {
+      "p": "Contesta cada reseña el mismo día con el nombre del cliente. En tres meses tiene una ficha más completa y sabe qué destacan sus clientes."
+    },
+    {
+      "h2": "Reseñas en otros lugares"
+    },
+    {
+      "p": "Google no es el único lugar donde opinan tus clientes. Revisa también estos lugares cada mes."
+    },
+    {
+      "ul": [
+        "Las recomendaciones de tu página de Facebook.",
+        "Los comentarios en tus publicaciones de Instagram.",
+        "Las calificaciones en aplicaciones de entrega, si vendes comida.",
+        "Los mercados en línea, si vendes por ahí."
+      ]
+    },
+    {
+      "p": "Contesta con el mismo cuidado en todos. Un cliente molesto en Facebook también lo leen otros."
+    },
+    {
+      "h2": "Rutina semanal de reseñas"
+    },
+    {
+      "p": "Las reseñas funcionan mejor como hábito que como campaña de una vez. Esta rutina toma quince minutos por semana."
+    },
+    {
+      "ol": [
+        "Revisa las reseñas nuevas en tu Perfil de Negocio.",
+        "Contesta todas, primero las negativas.",
+        "Reporta las que rompan las reglas de Google.",
+        "Manda el link de reseñas a los clientes de la semana.",
+        "Anota en una libreta lo que se repitió."
+      ]
+    },
+    {
+      "p": "Pon un recordatorio fijo, como el lunes a primera hora. Así nunca se acumulan."
+    },
+    {
+      "h2": "Fallas comunes con las reseñas"
+    },
+    {
+      "ul": [
+        "Pedir reseñas una sola vez y olvidarse del tema.",
+        "Contestar con el mismo texto copiado a todos.",
+        "Discutir en público con un cliente molesto.",
+        "Dar un descuento a cambio de cinco estrellas.",
+        "No revisar la ficha en semanas y dejar reseñas sin respuesta."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo borrar una reseña mala de Google?",
+      "respuesta": "No. Sólo puedes contestarla o reportarla si rompe las reglas de Google."
+    },
+    {
+      "pregunta": "¿Puedo dar un descuento a quien deje una reseña?",
+      "respuesta": "No. Google prohíbe ofrecer pagos, descuentos o regalos a cambio de opiniones."
+    },
+    {
+      "pregunta": "¿Cómo consigo el link para que me dejen reseñas?",
+      "respuesta": "En tu Perfil de Negocio, en la opción para obtener más opiniones. Ahí copias el link o guardas el QR."
+    },
+    {
+      "pregunta": "¿Mis empleados pueden dejarme reseñas?",
+      "respuesta": "No. Google lo considera un conflicto de interés y puede quitar esas opiniones."
+    },
+    {
+      "pregunta": "¿Mi cliente necesita cuenta de Google para opinar?",
+      "respuesta": "Sí. Puede crearla con su correo aunque no sea de Gmail."
+    },
+    {
+      "pregunta": "¿Debo contestar todas las reseñas?",
+      "respuesta": "Sí, conviene. Una respuesta corta muestra que lees y que te importa tu cliente."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en salir una reseña nueva?",
+      "respuesta": "Suele salir en poco tiempo. Algunas pasan por revisión y tardan más."
+    }
+  ],
+  "relacionadas": [
+    "google-mi-negocio",
+    "seo-local",
+    "palabras-clave",
+    "generador-de-qr",
+    "mensaje-de-recordatorio-para-clientes",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus reseñas convencen a quien te busca. Una página propia le da a esa persona a dónde escribirte.",
+    "titulo": "¿Hacemos la página que acompaña a tus reseñas?",
+    "tituloCorto": "¿Tus reseñas ya llevan a tu página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de Google, crear un vínculo o código QR para pedir opiniones",
+      "url": "https://support.google.com/business/answer/16816815?hl=es-419"
+    },
+    {
+      "texto": "Ayuda de Google, opiniones en tu Perfil de Negocio",
+      "url": "https://support.google.com/business/answer/3474122?hl=es-419"
+    },
+    {
+      "texto": "Google, política de contenido de Maps sobre participación falsa",
+      "url": "https://support.google.com/contributionpolicy/answer/7400114?hl=es-419"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.arsys.es/blog/resenas-de-google-como-verlas-contestarlas-y-gestionarlas",
+      "titulo": "Reseñas de Google: cómo verlas, contestarlas y gestionarlas",
+      "promete": "Pasos para verlas y contestar; escrito para España, sin mensajes listos para negocios mexicanos"
+    },
+    {
+      "posicion": 2,
+      "url": "https://neilpatel.com/es/blog/como-dominar-las-resenas-de-google/",
+      "titulo": "Cómo dominar las reseñas de Google",
+      "promete": "Consejos generales de reputación; no explica cómo sacar el link ni el QR paso a paso"
+    },
+    {
+      "posicion": 3,
+      "url": "https://metricool.com/es/resenas-de-google/",
+      "titulo": "Reseñas de Google: todo lo que tienes que saber",
+      "promete": "Guía amplia ligada a su herramienta; no detalla qué está prohibido al pedir reseñas"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Pasos del link y QR y reglas de incentivos leídos hoy en la ayuda oficial de Google. Top 3 leído con WebSearch el 12-nov-2026."
+}

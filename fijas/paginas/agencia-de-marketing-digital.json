@@ -1,0 +1,561 @@
+{
+  "id": "agencia-de-marketing-digital",
+  "slug": "agencia-de-marketing-digital",
+  "molde": "guia",
+  "cabeza": "agencia de marketing",
+  "busquedas": [
+    "agencia marketing",
+    "marketing agencia",
+    "agencia de mkt",
+    "agencia de marketing digital",
+    "agencia marketing digital",
+    "marketing digital agencia",
+    "agencia digital marketing",
+    "agencia digital",
+    "digital agencia",
+    "agencia de mkt digital",
+    "empresas de marketing digital",
+    "empresas de marketing",
+    "servicio de marketing",
+    "agencia de transformacion digital"
+  ],
+  "title": "Agencia de marketing: cómo elegirla y qué pedir primero",
+  "h1": "Agencia de marketing digital: cómo elegir una para tu negocio",
+  "description": "Qué hace una agencia de marketing digital, qué preguntarle antes de firmar y qué contratar primero si tu negocio es chico. Con señales de alerta. Revísala.",
+  "resumen": "Qué hace una agencia, qué preguntarle y qué contratar primero si tu negocio es chico",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una agencia de marketing digital es un equipo que maneja la promoción de tu negocio en internet. Suele encargarse de redes sociales, anuncios pagados, posicionamiento en buscadores y contenido.",
+    "Antes de contratar una, define qué quieres lograr y cuánto puedes gastar al mes. Pide ver trabajos reales, reportes de ejemplo y quién será tu contacto directo."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué hace una agencia de marketing digital"
+    },
+    {
+      "p": "Una agencia junta varios oficios que un negocio chico no puede tener en nómina. Diseño y redacción, anuncios y análisis. A veces también programación."
+    },
+    {
+      "p": "No todas hacen lo mismo. Algunas sólo manejan redes, otras sólo anuncios y otras ofrecen de todo un poco."
+    },
+    {
+      "tabla": {
+        "titulo": "Servicios que ofrece una agencia",
+        "columnas": [
+          "Servicio",
+          "Qué hacen",
+          "Qué deberías recibir"
+        ],
+        "filas": [
+          [
+            "Redes sociales",
+            "Publican y contestan en tus cuentas",
+            "Calendario de publicaciones y reporte mensual"
+          ],
+          [
+            "Anuncios pagados",
+            "Arman campañas en Facebook, Instagram o Google",
+            "Gasto, alcance y mensajes recibidos por campaña"
+          ],
+          [
+            "Posicionamiento en buscadores",
+            "Mejoran tu página para que Google la entienda",
+            "Lista de cambios hechos y búsquedas que vigilan"
+          ],
+          [
+            "Contenido",
+            "Escriben artículos, guiones o correos",
+            "Textos aprobados por ti antes de salir"
+          ],
+          [
+            "Diseño",
+            "Hacen logo, piezas y fotos para tus redes",
+            "Archivos editables entregados a tu nombre"
+          ],
+          [
+            "Página web",
+            "Diseñan y publican tu sitio",
+            "Dominio y accesos a tu nombre"
+          ],
+          [
+            "Correo a clientes",
+            "Mandan boletines a tu lista",
+            "Lista de contactos que se queda contigo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Antes de buscar agencia, contesta tres preguntas"
+    },
+    {
+      "p": "Una agencia trabaja mejor con un cliente que sabe lo que quiere. Contesta esto antes de la primera llamada."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Qué quieres lograr",
+          "texto": "Más mensajes por WhatsApp, más visitas al local o más ventas en línea. Elige uno para empezar."
+        },
+        {
+          "titulo": "Cuánto puedes gastar cada mes",
+          "texto": "Separa lo que pagas a la agencia de lo que va a anuncios. Son dos bolsas distintas."
+        },
+        {
+          "titulo": "Qué tienes hoy",
+          "texto": "Anota tus redes, tu página, tu ficha de Google y tu logo. Así sabes qué falta y qué sobra."
+        }
+      ]
+    },
+    {
+      "p": "Con esas respuestas puedes comparar propuestas. Sin ellas, cada agencia te vende lo que más le conviene."
+    },
+    {
+      "h2": "Qué contratar primero si tu negocio es chico"
+    },
+    {
+      "p": "Un negocio chico no necesita todo al mismo tiempo. Conviene ir por orden, de lo más barato a lo más caro."
+    },
+    {
+      "tabla": {
+        "titulo": "Orden sugerido para un negocio que empieza",
+        "columnas": [
+          "Paso",
+          "Qué es",
+          "Por qué va en ese lugar"
+        ],
+        "filas": [
+          [
+            "1",
+            "Ficha de Google con fotos y horario",
+            "Es gratis y es donde te buscan primero"
+          ],
+          [
+            "2",
+            "Página propia con WhatsApp y dirección",
+            "Todo anuncio necesita a dónde mandar a la gente"
+          ],
+          [
+            "3",
+            "Redes con publicaciones constantes",
+            "La gente revisa que sigas abierto"
+          ],
+          [
+            "4",
+            "Pedir reseñas a clientes contentos",
+            "Ayudan a que otros se animen a escribirte"
+          ],
+          [
+            "5",
+            "Anuncios pagados con presupuesto chico",
+            "Ya tienes algo que mostrar y cómo medirlo"
+          ],
+          [
+            "6",
+            "Agencia para crecer",
+            "Cuando ya sabes qué funciona y quieres más"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los primeros cuatro pasos puedes hacerlos tú. Lee nuestra guía de [Google Mi Negocio](id:google-mi-negocio) para el primero."
+    },
+    {
+      "p": "Una agencia rinde más cuando ya tienes esas bases. Si no las tienes, gran parte del pago se va en armarlas."
+    },
+    {
+      "h2": "Tipos de agencia"
+    },
+    {
+      "p": "Las agencias se parecen en el nombre pero cambian mucho por dentro. Saber cuál es cuál te ahorra reuniones."
+    },
+    {
+      "ul": [
+        "Agencia completa. Hace estrategia, diseño, anuncios y contenido. Suele pedir contratos largos.",
+        "Agencia de anuncios. Sólo maneja campañas pagadas y cobra por gestión o por porcentaje del gasto.",
+        "Agencia de redes. Publica y contesta en tus cuentas. Es la más común para negocios locales.",
+        "Agencia de posicionamiento. Trabaja tu página para buscadores. Sus resultados tardan meses en notarse.",
+        "Persona independiente. Una sola persona que hace una o dos cosas bien. Es más barata y más flexible."
+      ]
+    },
+    {
+      "p": "Para una estética, un taller o una fonda, una persona independiente puede bastar. La agencia completa tiene sentido cuando ya hay equipo y presupuesto."
+    },
+    {
+      "h2": "Cómo cobran las agencias"
+    },
+    {
+      "p": "Hay varias formas de cobro. Pide que te expliquen la suya con números antes de firmar."
+    },
+    {
+      "tabla": {
+        "titulo": "Formas de cobro más comunes",
+        "columnas": [
+          "Forma",
+          "Cómo funciona",
+          "Qué revisar"
+        ],
+        "filas": [
+          [
+            "Mensualidad fija",
+            "Pagas lo mismo cada mes por un paquete",
+            "Qué incluye y qué se cobra aparte"
+          ],
+          [
+            "Por proyecto",
+            "Pagas una vez por algo terminado",
+            "Fecha de entrega y número de cambios"
+          ],
+          [
+            "Porcentaje del gasto en anuncios",
+            "Cobran una parte de lo que inviertes",
+            "Si el porcentaje sube cuando sube tu gasto"
+          ],
+          [
+            "Por resultado",
+            "Cobran por cada contacto o venta",
+            "Cómo cuentan un contacto y quién lo verifica"
+          ],
+          [
+            "Por hora",
+            "Pagas el tiempo trabajado",
+            "Un reporte de horas con lo que se hizo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ninguna forma es mala por sí misma. Lo que importa es que entiendas qué recibes por cada peso."
+    },
+    {
+      "h2": "Preguntas para hacerle a una agencia"
+    },
+    {
+      "p": "Lleva estas preguntas a la primera reunión. Las respuestas dicen mucho de cómo trabajan."
+    },
+    {
+      "ol": [
+        "¿Me pueden mostrar trabajos de negocios parecidos al mío?",
+        "¿Quién será mi contacto directo y en qué horario contesta?",
+        "¿Qué me van a entregar cada mes y en qué formato?",
+        "¿Las cuentas de anuncios quedan a mi nombre o al de ustedes?",
+        "¿Qué pasa con mis archivos y accesos si termino el contrato?",
+        "¿Cuánto tiempo me piden de permanencia mínima?",
+        "¿Cómo miden si una campaña funcionó o no?",
+        "¿Quién paga los anuncios y quién los aprueba?"
+      ]
+    },
+    {
+      "p": "Una agencia seria contesta todo con palabras claras. Si te contestan con palabras que no entiendes, pide que lo repitan en llano."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo leer una propuesta"
+    },
+    {
+      "p": "Una propuesta clara cabe en dos hojas. Si trae veinte páginas de teoría, pide un resumen con lo que harán."
+    },
+    {
+      "ul": [
+        "Lista de tareas con fecha. Por ejemplo, ocho publicaciones al mes o dos campañas activas.",
+        "Precio separado de la agencia y del gasto en anuncios.",
+        "Quién aprueba cada pieza antes de que salga.",
+        "Fecha del primer reporte y qué números trae.",
+        "Plazo mínimo del contrato y cómo se cancela."
+      ]
+    },
+    {
+      "p": "Compara dos o tres propuestas con esa lista. La más barata no siempre es la que más te da."
+    },
+    {
+      "h2": "Agencia de tu ciudad o a distancia"
+    },
+    {
+      "p": "Hoy casi todo se hace por videollamada. Aun así, hay casos en que conviene alguien cerca."
+    },
+    {
+      "ul": [
+        "Si necesitas fotos o video de tu local, una agencia local llega más fácil.",
+        "Si sólo manejan anuncios y reportes, la distancia importa poco.",
+        "Si tu negocio depende de una zona, pide que conozcan tu colonia y tu competencia."
+      ]
+    },
+    {
+      "p": "Lo importante es que contesten en tu horario. Un mensaje sin respuesta por días cuesta más que la distancia."
+    },
+    {
+      "h2": "Señales de alerta"
+    },
+    {
+      "p": "Hay promesas que ninguna agencia puede cumplir. Si las escuchas, toma distancia."
+    },
+    {
+      "ul": [
+        "Te garantizan la primera posición de Google. Nadie controla eso y Google no lo vende.",
+        "Te prometen un número fijo de ventas sin conocer tu negocio.",
+        "Te venden seguidores. Los seguidores comprados no compran nada.",
+        "No te dejan ver tus cuentas de anuncios ni tus estadísticas.",
+        "Registran tu dominio o tus redes a nombre de la agencia.",
+        "Te piden un contrato largo sin periodo de prueba.",
+        "Sus reportes sólo traen me gusta y alcance, nunca mensajes o visitas."
+      ]
+    },
+    {
+      "h2": "Lo que debe quedar a tu nombre"
+    },
+    {
+      "p": "Las agencias van y vienen. Lo que construyes debe quedarse contigo."
+    },
+    {
+      "tabla": {
+        "titulo": "Accesos que son tuyos",
+        "columnas": [
+          "Qué",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "Dominio de tu página",
+            "Si se pierde, cambias tarjetas, lonas y correo"
+          ],
+          [
+            "Cuenta de anuncios",
+            "Ahí está el historial de lo que funcionó"
+          ],
+          [
+            "Página de Facebook e Instagram",
+            "Son tu relación con tus clientes"
+          ],
+          [
+            "Ficha de Google",
+            "Ahí están tus reseñas y tu ubicación"
+          ],
+          [
+            "Lista de correos y teléfonos",
+            "Es tu base de clientes"
+          ],
+          [
+            "Archivos de diseño",
+            "Los necesitas para imprimir o cambiar de proveedor"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pide a la agencia acceso de administrador a todo. Tú das permisos a ellos, no al revés."
+    },
+    {
+      "h2": "Palabras que vas a oír en la primera reunión"
+    },
+    {
+      "p": "Las agencias usan muchas palabras en inglés o abreviadas. Pide que te expliquen cualquiera que no entiendas."
+    },
+    {
+      "tabla": {
+        "titulo": "Glosario de términos de agencia",
+        "columnas": [
+          "Término",
+          "Qué quiere decir"
+        ],
+        "filas": [
+          [
+            "Alcance",
+            "Cuántas personas vieron tu publicación o anuncio"
+          ],
+          [
+            "Interacción",
+            "Me gusta, comentarios y veces que se compartió"
+          ],
+          [
+            "Costo por resultado",
+            "Lo que pagaste en anuncios por cada mensaje o visita"
+          ],
+          [
+            "Embudo",
+            "El camino de alguien desde que te conoce hasta que compra"
+          ],
+          [
+            "Página de llegada",
+            "La página a donde manda el anuncio"
+          ],
+          [
+            "Retorno de la inversión",
+            "Cuánto ganaste por cada peso que pusiste"
+          ],
+          [
+            "Público",
+            "El grupo de personas al que se muestra un anuncio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "De todos, el costo por resultado es el que más se conecta con tu caja. Pide que aparezca en cada reporte."
+    },
+    {
+      "h2": "Qué esperar en el primer mes"
+    },
+    {
+      "p": "El primer mes casi siempre es de preparación. No esperes que tu teléfono suene desde el día uno."
+    },
+    {
+      "ul": [
+        "Una reunión para conocer tu negocio y tus clientes.",
+        "Una revisión de lo que ya tienes en redes, Google y página.",
+        "Un plan escrito con tareas y fechas.",
+        "Las primeras publicaciones o anuncios de prueba.",
+        "Un primer reporte corto con lo que se hizo y lo que sigue."
+      ]
+    },
+    {
+      "p": "Si al final del primer mes no hay plan escrito ni reporte, pregunta por qué. Es una buena señal de cómo será el resto."
+    },
+    {
+      "h2": "Cómo medir si la agencia está funcionando"
+    },
+    {
+      "p": "Un reporte bonito no paga la renta. Fíjate en números que se conectan con tu caja."
+    },
+    {
+      "ul": [
+        "Cuántos mensajes de WhatsApp llegaron este mes.",
+        "Cuántas llamadas o visitas al local vinieron de internet.",
+        "Cuánto costó en anuncios cada mensaje recibido.",
+        "Cuántas personas visitaron tu página y desde dónde.",
+        "Qué publicación generó más preguntas de clientes."
+      ]
+    },
+    {
+      "p": "Compara cada mes con el anterior. Da al menos tres meses antes de juzgar, salvo que no veas ningún avance."
+    },
+    {
+      "h2": "Ejemplo de una panadería que contrata ayuda"
+    },
+    {
+      "p": "Ejemplo inventado para ver el orden en un caso real. Una panadería en Querétaro quiere vender pasteles por encargo."
+    },
+    {
+      "p": "Primero llena su ficha de Google y pide reseñas a sus clientes de siempre. Luego hace una página con fotos de pasteles y un botón de WhatsApp."
+    },
+    {
+      "p": "Después contrata a una persona independiente para sus redes por tres meses. Le pide un reporte con mensajes recibidos cada semana."
+    },
+    {
+      "p": "Cuando ve qué pasteles piden más, anuncia esos con un presupuesto chico. Sólo al crecer busca una agencia completa."
+    },
+    {
+      "h2": "Agencia o hacerlo tú"
+    },
+    {
+      "p": "No siempre necesitas agencia. Muchos dueños manejan sus redes con una hora al día."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo conviene cada opción",
+        "columnas": [
+          "Situación",
+          "Opción"
+        ],
+        "filas": [
+          [
+            "Tienes tiempo y te gusta publicar",
+            "Hazlo tú con un calendario"
+          ],
+          [
+            "No tienes tiempo pero sabes qué quieres",
+            "Persona independiente"
+          ],
+          [
+            "Quieres anunciar en varias redes a la vez",
+            "Agencia de anuncios"
+          ],
+          [
+            "Tienes varias sucursales y equipo",
+            "Agencia completa"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Empieces como empieces, tu página y tus accesos deben ser tuyos. Así cambias de ayuda sin empezar de cero."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cobra una agencia de marketing digital?",
+      "respuesta": "Varía mucho según el servicio y la ciudad. Pide tres cotizaciones con lo que incluye cada una y compáralas línea por línea."
+    },
+    {
+      "pregunta": "¿Una agencia me garantiza ventas?",
+      "respuesta": "No. Ninguna agencia puede garantizar ventas ni la primera posición de Google. Puede comprometerse a tareas y reportes."
+    },
+    {
+      "pregunta": "¿Necesito página web si contrato una agencia?",
+      "respuesta": "Sí, conviene. Los anuncios y las redes funcionan mejor cuando mandan a una página tuya con tu WhatsApp."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tarda en verse un resultado?",
+      "respuesta": "Los anuncios dan datos en días. Las redes y el posicionamiento en buscadores tardan meses."
+    },
+    {
+      "pregunta": "¿Puedo cancelar si no me gusta el trabajo?",
+      "respuesta": "Depende del contrato. Lee la permanencia mínima antes de firmar y pide un periodo de prueba."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre agencia de marketing y agencia de publicidad?",
+      "respuesta": "La de publicidad se enfoca en anuncios y campañas. La de marketing suele abarcar también redes, contenido y estrategia."
+    },
+    {
+      "pregunta": "¿Aliviane es agencia de marketing?",
+      "respuesta": "No. Aliviane hace páginas web para negocios. Te entregamos la página a donde tu agencia o tus redes mandan a la gente."
+    }
+  ],
+  "relacionadas": [
+    "marketing-digital",
+    "publicidad-para-negocios",
+    "campana-publicitaria",
+    "seo",
+    "google-mi-negocio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Toda agencia necesita a dónde mandar a la gente. Aliviane te hace esa página con tu dominio y tu WhatsApp.",
+    "titulo": "¿Empezamos por la página a donde llegan tus clientes?",
+    "tituloCorto": "¿Ya tienes a dónde mandar a la gente?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://blog.mercately.com/es/agencias-de-marketing-digital-en-mexico",
+      "titulo": "Agencias de marketing digital en México",
+      "promete": "Lista de agencias y servicios; no dice qué contratar primero ni cómo leer un contrato"
+    },
+    {
+      "posicion": 2,
+      "url": "https://neilpatel.com/es/blog/elegir-agencia-marketing/",
+      "titulo": "Cómo elegir la agencia de marketing digital adecuada",
+      "promete": "Consejos generales de objetivos y testimonios; pensado para empresas medianas, sin ejemplos de negocios chicos en México"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.mediummultimedia.com/mexico/agencias-marketing-digital-mexico/",
+      "titulo": "Las mejores 20 agencias de marketing digital en México",
+      "promete": "Ranking de agencias grandes; no ayuda a un negocio de barrio a decidir si necesita una"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Aliviane no vende marketing: la guía orienta y la venta es la página. Sin precios de agencias (no hay fuente pública confiable). Top 3 leído con WebSearch el 12-nov-2026."
+}

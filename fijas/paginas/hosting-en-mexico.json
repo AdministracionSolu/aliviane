@@ -1,0 +1,473 @@
+{
+  "id": "hosting-en-mexico",
+  "slug": "hosting-en-mexico",
+  "molde": "guia",
+  "cabeza": "hosting méxico",
+  "busquedas": [
+    "servicio hosting",
+    "premium hosting",
+    "hosting profesional",
+    "ssd hosting"
+  ],
+  "title": "Hosting México: cómo elegir uno sin pagar de más",
+  "h1": "Hosting en México: qué revisar antes de contratar",
+  "description": "Qué revisar al contratar hosting en México: factura en pesos, soporte en español, renovación y velocidad. Con preguntas para el proveedor. Úsalas hoy.",
+  "resumen": "Factura, soporte, renovación y velocidad: lo que importa al elegir hosting aquí",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para un negocio en México, un buen hosting es el que abre rápido desde aquí, factura en pesos y contesta en español. El precio del primer año importa menos que el precio de renovación.",
+    "Antes de contratar, revisa dónde están sus servidores y qué incluye el plan. Pregunta también cómo te llevas tu página si un día te cambias. Si tu página es una landing, no necesitas un plan grande."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué significa hosting en México"
+    },
+    {
+      "p": "Hosting en México puede querer decir dos cosas. Un proveedor mexicano o un servidor que está físicamente en México."
+    },
+    {
+      "p": "No son lo mismo. Hay empresas mexicanas con servidores en otro país y empresas extranjeras con servidores aquí."
+    },
+    {
+      "p": "Para tu negocio lo que importa es el resultado. Que la página abra rápido para tus clientes, que te facturen bien y que te atiendan."
+    },
+    {
+      "h2": "Lo que importa de verdad al elegir"
+    },
+    {
+      "tabla": {
+        "titulo": "Puntos a revisar en un hosting para tu negocio",
+        "columnas": [
+          "Punto",
+          "Por qué importa",
+          "Qué preguntar"
+        ],
+        "filas": [
+          [
+            "Velocidad desde México",
+            "Tus clientes abren tu página desde aquí",
+            "¿Dónde están sus servidores o su red de entrega?"
+          ],
+          [
+            "Factura en pesos",
+            "Deduces el gasto y evitas cobros en dólares",
+            "¿Emiten CFDI con mis datos fiscales?"
+          ],
+          [
+            "Formas de pago",
+            "No todos tienen tarjeta",
+            "¿Aceptan transferencia o pago en tienda?"
+          ],
+          [
+            "Soporte en español",
+            "Los problemas no avisan",
+            "¿Por qué medio atienden y en qué horario?"
+          ],
+          [
+            "Precio de renovación",
+            "El primer año suele tener descuento",
+            "¿Cuánto cuesta el segundo año en adelante?"
+          ],
+          [
+            "Certificado de seguridad",
+            "Sin candado el navegador te marca como no seguro",
+            "¿Viene incluido y se renueva solo?"
+          ],
+          [
+            "Respaldos",
+            "Una falla puede borrar tu página",
+            "¿Cada cuánto respaldan y cómo restauro?"
+          ],
+          [
+            "Salida",
+            "Algún día puedes cambiarte",
+            "¿Cómo me llevo mis archivos y mi correo?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "La trampa del precio del primer año"
+    },
+    {
+      "p": "Muchos planes anuncian un precio muy bajo. Ese precio suele aplicar sólo al primer periodo y a veces exige pagar varios años juntos."
+    },
+    {
+      "p": "Al renovar, el precio sube al de lista. Para un negocio chico ese salto puede doler."
+    },
+    {
+      "p": "Haz la cuenta a tres años con el precio de renovación. Compara ese total y no el precio del anuncio."
+    },
+    {
+      "tabla": {
+        "titulo": "Cómo comparar dos planes de forma justa",
+        "columnas": [
+          "Paso",
+          "Qué haces"
+        ],
+        "filas": [
+          [
+            "1",
+            "Anota el precio del primer periodo y cuántos meses cubre"
+          ],
+          [
+            "2",
+            "Busca el precio de renovación en la letra de la tabla de precios"
+          ],
+          [
+            "3",
+            "Suma el costo total de tres años"
+          ],
+          [
+            "4",
+            "Suma lo que se paga aparte, como correo o respaldos"
+          ],
+          [
+            "5",
+            "Compara los totales y no los precios de entrada"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Términos que vas a ver en los planes"
+    },
+    {
+      "p": "Las páginas de hosting usan palabras que asustan. La mayoría es más sencilla de lo que parece."
+    },
+    {
+      "tabla": {
+        "titulo": "Glosario de planes de hosting",
+        "columnas": [
+          "Término",
+          "Qué quiere decir"
+        ],
+        "filas": [
+          [
+            "Hosting compartido",
+            "Tu página vive en una computadora con muchas otras"
+          ],
+          [
+            "Hosting premium o profesional",
+            "Un plan con más recursos o más funciones, el nombre cambia por empresa"
+          ],
+          [
+            "SSD",
+            "Discos más rápidos que los antiguos, hoy casi todos los usan"
+          ],
+          [
+            "Ancho de banda",
+            "Cuántos datos pueden salir de tu página al mes"
+          ],
+          [
+            "Panel de control",
+            "La pantalla donde administras tu hosting"
+          ],
+          [
+            "Servidor virtual",
+            "Una parte reservada de una computadora para ti"
+          ],
+          [
+            "Tiempo en línea",
+            "Qué tanto del mes tu página está disponible"
+          ],
+          [
+            "Red de entrega",
+            "Copias de tu página en varias ciudades para que abra más rápido"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Premium y profesional no son categorías técnicas. Son nombres de venta, así que revisa qué incluye cada plan en concreto."
+    },
+    {
+      "h2": "Qué plan necesita tu negocio"
+    },
+    {
+      "p": "No compres más de lo que vas a usar. Un plan grande no hace que tu página venda más."
+    },
+    {
+      "tabla": {
+        "titulo": "Plan sugerido según lo que tienes",
+        "columnas": [
+          "Lo que tienes",
+          "Qué necesitas"
+        ],
+        "filas": [
+          [
+            "Una landing con fotos y WhatsApp",
+            "El plan más chico o una página estática"
+          ],
+          [
+            "Un sitio de cinco a diez secciones",
+            "Hosting compartido de entrada"
+          ],
+          [
+            "Un blog que publica seguido",
+            "Hosting compartido con buenos respaldos"
+          ],
+          [
+            "Una tienda con carrito y pagos",
+            "Un plan para tiendas o un servidor virtual"
+          ],
+          [
+            "Un sistema propio con usuarios",
+            "Servidor virtual con alguien técnico que lo cuide"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo que más pesa en una página de negocio son las fotos. Redúcelas antes de subirlas y cualquier plan chico te alcanza."
+    },
+    {
+      "h2": "Cómo medir la velocidad desde México"
+    },
+    {
+      "p": "No te quedes con la palabra del proveedor. Mide tu página o una página de ejemplo alojada con ellos."
+    },
+    {
+      "ul": [
+        "Abre la página desde tu celular con datos móviles y no con wifi.",
+        "Prueba a distintas horas del día.",
+        "Usa la herramienta de velocidad de Google para páginas y fíjate en el resultado en celular.",
+        "Pide a alguien de otra ciudad que la abra y te diga cuánto tardó."
+      ]
+    },
+    {
+      "p": "Si tu página tarda más de tres segundos en mostrar algo, el cliente se impacienta. Muchas veces la culpa es de las fotos y no del hosting."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Factura y pagos para un negocio mexicano"
+    },
+    {
+      "p": "Si tu negocio factura, el hosting es un gasto que puedes deducir. Para eso necesitas un CFDI con tus datos."
+    },
+    {
+      "ul": [
+        "Pregunta si emiten factura a personas físicas y morales.",
+        "Revisa si cobran en pesos o en dólares.",
+        "Si cobran en dólares, tu banco puede sumar comisión por compra en el extranjero.",
+        "Guarda el comprobante de cada pago para tu contador."
+      ]
+    },
+    {
+      "p": "Algunas empresas extranjeras no emiten CFDI. Si para ti es importante, pregúntalo antes de pagar."
+    },
+    {
+      "h2": "Preguntas para hacerle al proveedor"
+    },
+    {
+      "p": "Escribe estas preguntas al chat de ventas antes de contratar. Cómo contestan te dice cómo atienden."
+    },
+    {
+      "ol": [
+        "¿Dónde están sus servidores y tienen red de entrega en México?",
+        "¿Cuánto cuesta la renovación de este plan?",
+        "¿El certificado de seguridad viene incluido y se renueva solo?",
+        "¿Cada cuánto hacen respaldos y cuánto tarda una restauración?",
+        "¿Incluye cuentas de correo con mi dominio?",
+        "¿Emiten factura con mis datos fiscales?",
+        "¿Cómo me ayudan si quiero mover mi página a otro lado?"
+      ]
+    },
+    {
+      "h2": "El correo y el hosting"
+    },
+    {
+      "p": "Muchos planes de hosting incluyen cuentas de correo con tu dominio. Es cómodo, pero conviene pensarlo dos veces."
+    },
+    {
+      "p": "Si tu correo vive en el mismo lugar que tu página, un problema del hosting tumba las dos cosas. Y si cambias de hosting, tienes que mover también los correos."
+    },
+    {
+      "p": "Otra opción es tener el correo en un servicio aparte. Así cambias de hosting sin tocar tu bandeja de entrada."
+    },
+    {
+      "ul": [
+        "Si usas pocas cuentas y poco espacio, el correo del hosting puede bastar.",
+        "Si tu negocio vive del correo, un servicio dedicado da más tranquilidad.",
+        "En los dos casos, el correo debe usar tu dominio y no uno gratuito."
+      ]
+    },
+    {
+      "h2": "Ejemplo de una ferretería que elige hosting"
+    },
+    {
+      "p": "Ejemplo inventado para ver la decisión completa. Una ferretería en Aguascalientes quiere una página con su catálogo y su WhatsApp."
+    },
+    {
+      "p": "Primero compara tres planes con el precio de renovación a tres años. Descarta uno porque cobra en dólares y no factura."
+    },
+    {
+      "p": "Luego pide una página de prueba y la abre desde su celular con datos. Elige el plan chico porque su página pesa poco."
+    },
+    {
+      "p": "Al final pide que su dominio quede a nombre de la ferretería. Y guarda los accesos en una libreta junto a la caja fuerte."
+    },
+    {
+      "h2": "Hosting incluido con tu página"
+    },
+    {
+      "p": "Otra opción es no contratar hosting por tu cuenta. Algunos servicios de páginas incluyen el lugar donde vive tu página en la mensualidad."
+    },
+    {
+      "tabla": {
+        "titulo": "Contratar tú contra hosting incluido",
+        "columnas": [
+          "Punto",
+          "Contratarlo tú",
+          "Incluido con tu página"
+        ],
+        "filas": [
+          [
+            "Quién lo configura",
+            "Tú o alguien que contrates",
+            "El que hace tu página"
+          ],
+          [
+            "Quién lo actualiza",
+            "Tú",
+            "El proveedor de tu página"
+          ],
+          [
+            "Cuántas cuentas manejas",
+            "Hosting, dominio y página por separado",
+            "Una sola relación"
+          ],
+          [
+            "Libertad para cambiar",
+            "Total",
+            "Depende de lo que diga el acuerdo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si eliges hosting incluido, pide que el dominio quede a tu nombre. Así puedes cambiarte cuando quieras."
+    },
+    {
+      "h2": "Cómo cambiar de hosting sin perder nada"
+    },
+    {
+      "p": "Cambiar de hosting da miedo, pero se hace en un orden claro."
+    },
+    {
+      "ol": [
+        "Baja una copia completa de tu página y tus correos.",
+        "Contrata el nuevo hosting y sube la copia.",
+        "Revisa la página nueva con una dirección temporal antes de conectar.",
+        "Copia tus registros de correo.",
+        "Apunta tu dominio al nuevo hosting.",
+        "Espera unas horas y revisa página y correo.",
+        "Cancela el hosting viejo sólo cuando todo funcione."
+      ]
+    },
+    {
+      "h2": "Señales de alerta en una oferta de hosting"
+    },
+    {
+      "p": "Algunas ofertas parecen buenas hasta que lees lo de abajo. Fíjate en estas señales antes de pagar."
+    },
+    {
+      "ul": [
+        "El precio sólo aparece por mes, pero el cobro es por varios años juntos.",
+        "Ilimitado en todo, sin decir qué pasa si usas mucho.",
+        "La renovación no aparece en ninguna parte de la tabla.",
+        "El soporte sólo es por correo y en otro idioma.",
+        "Para cancelar hay que llamar a otro país o llenar varios formularios.",
+        "No dicen cómo bajar una copia de tu página."
+      ]
+    },
+    {
+      "p": "Una oferta clara dice lo que cobra hoy y lo que cobrará después. Si tienes que adivinarlo, busca otra."
+    },
+    {
+      "h2": "Fallas comunes al elegir hosting"
+    },
+    {
+      "ul": [
+        "Elegir por el precio del primer año sin ver la renovación.",
+        "Comprar un plan grande para una landing de una página.",
+        "Contratar sin preguntar por factura y luego no poder deducir.",
+        "No tener respaldos propios.",
+        "Cancelar el hosting viejo antes de revisar el nuevo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Necesito que el servidor esté en México?",
+      "respuesta": "No necesariamente. Importa que la página abra rápido desde aquí, y eso también lo logra una red de entrega."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta un hosting en México?",
+      "respuesta": "Depende del plan y del periodo. Compara siempre el precio de renovación y el total a tres años."
+    },
+    {
+      "pregunta": "¿Qué es un hosting premium?",
+      "respuesta": "Es un nombre comercial de un plan con más recursos. Cada empresa lo define distinto, así que revisa qué incluye."
+    },
+    {
+      "pregunta": "¿Me pueden facturar el hosting?",
+      "respuesta": "Sí, si el proveedor emite CFDI. Pregúntalo antes de contratar, sobre todo si es extranjero."
+    },
+    {
+      "pregunta": "¿Puedo cambiar de hosting sin perder mi dominio?",
+      "respuesta": "Sí. El dominio es tuyo y sólo lo apuntas al nuevo hosting."
+    },
+    {
+      "pregunta": "¿Qué hosting necesita una landing?",
+      "respuesta": "Uno pequeño. Una landing pesa poco y lo importante es que abra rápido en el celular."
+    }
+  ],
+  "relacionadas": [
+    "que-es-hosting",
+    "dominio-y-hosting",
+    "precios-de-hostinger",
+    "certificado-ssl",
+    "traslado-de-dominio",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "La landing de Aliviane ya incluye el lugar donde vive tu página por $99 al mes, con cambios cada semana.",
+    "titulo": "¿Prefieres que tu página venga con todo incluido?",
+    "tituloCorto": "¿Mejor página con hosting incluido?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.bitcatcha.com/mx/mejores-hosting/",
+      "titulo": "Mejor hosting México",
+      "promete": "Ranking con ligas de afiliado; precios de promoción del primer año sin la renovación al lado"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/latam/stories/cuanto-cuesta-hosting-basico-precios-promedio",
+      "titulo": "¿Cuánto cuesta un hosting en México?",
+      "promete": "Rangos de precio desde su propia tienda; no explica factura ni soporte local"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.neolo.com/blog/mejor-hosting-en-mexico.php",
+      "titulo": "Cuál es el mejor hosting en México 2026",
+      "promete": "Comparativa escrita por un proveedor que se pone primero; sin lista de preguntas para el comprador"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. SIN CIFRAS de terceros: los precios de hosting que salieron en la búsqueda vienen de blogs de afiliados o páginas de promoción del primer año; no se leyó una tabla oficial confiable hoy. La comparativa precios-de-hostinger (H3) lleva sus cifras con fuente. Top 3 leído con WebSearch el 12-nov-2026."
+}

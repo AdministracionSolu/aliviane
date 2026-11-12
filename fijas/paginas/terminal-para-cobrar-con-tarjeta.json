@@ -1,0 +1,530 @@
+{
+  "id": "terminal-para-cobrar-con-tarjeta",
+  "slug": "terminal-para-cobrar-con-tarjeta",
+  "molde": "guia",
+  "cabeza": "terminal para cobrar con tarjeta",
+  "busquedas": [],
+  "title": "Terminal para cobrar con tarjeta: cómo elegir la tuya",
+  "h1": "Terminal para cobrar con tarjeta: cuál conviene a tu negocio",
+  "description": "Cómo elegir terminal para cobrar con tarjeta en México: comisión, costo del equipo, cuotas mensuales y depósitos. Con tasas leídas hoy y cuentas. Compara.",
+  "resumen": "Comisión, equipo, cuotas y depósitos: cómo comparar terminales con cuentas",
+  "categoria": "Cobros",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una terminal para cobrar con tarjeta es el aparato que lee la tarjeta de tu cliente y manda el pago a tu cuenta. Las de empresas de cobro se compran una vez. Las de banco se contratan con cuotas y requisitos.",
+    "Para elegir compara la comisión por venta, el costo del equipo, las cuotas mensuales y en cuántos días te depositan. Haz la cuenta con tus ventas reales, no con la venta de ejemplo del anuncio."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Por qué cobrar con tarjeta"
+    },
+    {
+      "p": "Mucha gente ya no carga efectivo. Si no aceptas tarjeta, algunos clientes se van a la tienda de enfrente."
+    },
+    {
+      "p": "También ganas orden. Cada cobro queda registrado y el dinero llega a tu cuenta sin ir al banco."
+    },
+    {
+      "p": "El costo es la comisión. Por eso conviene elegir bien y poner tus precios con esa comisión en mente."
+    },
+    {
+      "h2": "Tipos de terminal"
+    },
+    {
+      "p": "No todas las terminales son iguales. Se distinguen por cómo se conectan y por quién las ofrece."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de terminal para cobrar con tarjeta",
+        "columnas": [
+          "Tipo",
+          "Cómo funciona",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Lector que se conecta al celular",
+            "Se enlaza por bluetooth con una aplicación",
+            "Vendedores a domicilio y puestos chicos"
+          ],
+          [
+            "Terminal con chip de datos propio",
+            "Trae su propia conexión e imprime o manda ticket",
+            "Negocios con mostrador o que se mueven"
+          ],
+          [
+            "Terminal inteligente con pantalla",
+            "Funciona como un pequeño punto de venta",
+            "Tiendas con inventario y varios productos"
+          ],
+          [
+            "Terminal bancaria",
+            "La contratas con tu banco con cuotas y requisitos",
+            "Negocios con ventas altas y constantes"
+          ],
+          [
+            "Cobro con el celular sin terminal",
+            "El cliente acerca su tarjeta a tu teléfono, si tu servicio lo permite",
+            "Quien vende poco y quiere probar"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Lo que debes comparar"
+    },
+    {
+      "p": "La comisión es lo que más se anuncia. Pero hay otros costos que pesan igual o más."
+    },
+    {
+      "tabla": {
+        "titulo": "Puntos para comparar terminales",
+        "columnas": [
+          "Punto",
+          "Qué es",
+          "Qué preguntar"
+        ],
+        "filas": [
+          [
+            "Comisión por venta",
+            "Un porcentaje de cada cobro",
+            "¿Lleva IVA aparte? ¿Cambia con crédito o débito?"
+          ],
+          [
+            "Cuota fija por venta",
+            "Un monto fijo por cada cobro",
+            "¿Se cobra aunque la venta sea chica?"
+          ],
+          [
+            "Costo del equipo",
+            "Lo que pagas por la terminal",
+            "¿Es precio de promoción o de lista?"
+          ],
+          [
+            "Cuotas mensuales",
+            "Renta o penalización por vender poco",
+            "¿Hay mínimo de ventas al mes?"
+          ],
+          [
+            "Depósito",
+            "Cuándo llega el dinero a tu cuenta",
+            "¿Al instante, al día siguiente o en días?"
+          ],
+          [
+            "Meses sin intereses",
+            "Si tu cliente puede pagar a plazos",
+            "¿Cuánto me cuesta cada plazo?"
+          ],
+          [
+            "Requisitos",
+            "Lo que te piden para abrir",
+            "¿Necesito RFC o cuenta de empresa?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dos ejemplos con tasas leídas hoy"
+    },
+    {
+      "p": "Estas son las cifras que publican dos proveedores en sus páginas el 12 de noviembre de 2026. Cambian seguido, así que revísalas el día que contrates."
+    },
+    {
+      "tabla": {
+        "titulo": "Terminales Point de Mercado Pago (12 de noviembre de 2026)",
+        "columnas": [
+          "Terminal",
+          "Precio de promoción",
+          "Precio de lista"
+        ],
+        "filas": [
+          [
+            "Point Mini",
+            "$79",
+            "$499"
+          ],
+          [
+            "Point Air",
+            "$329",
+            "$2,999"
+          ],
+          [
+            "Point Smart 2",
+            "$419",
+            "$4,499"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Su página marca una comisión de 3.5% + IVA por cobro al contado, con débito o crédito. A meses sin intereses se suma otra tasa, por ejemplo 4.69% + IVA a 3 meses."
+    },
+    {
+      "tabla": {
+        "titulo": "Terminal punto de venta de BBVA empresas (12 de noviembre de 2026)",
+        "columnas": [
+          "Concepto",
+          "Monto en su tabla"
+        ],
+        "filas": [
+          [
+            "Afiliación del comercio",
+            "$300 una vez"
+          ],
+          [
+            "Penalización por facturar menos de $25,000 al mes",
+            "$359 al mes"
+          ],
+          [
+            "Terminal adicional",
+            "$150 al mes por equipo"
+          ],
+          [
+            "Procesamiento y comunicación por evento",
+            "$0.42"
+          ],
+          [
+            "Tasa de descuento de terminal portátil",
+            "2.15% por transacción"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La página del banco aclara que una de sus cuotas de contratación aplica a un producto que ya no ofrece al público. Pide la cotización vigente a tu ejecutivo."
+    },
+    {
+      "h2": "Cómo hacer la cuenta con tus ventas"
+    },
+    {
+      "p": "La terminal más barata depende de cuánto vendes. Un negocio que vende poco y uno que vende mucho eligen distinto."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de un cobro de $500 con comisión de 3.5% + IVA",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Venta",
+            "$500.00"
+          ],
+          [
+            "Comisión de 3.5%",
+            "$17.50"
+          ],
+          [
+            "IVA de la comisión",
+            "$2.80"
+          ],
+          [
+            "Total que pagas",
+            "$20.30"
+          ],
+          [
+            "Lo que te queda",
+            "$479.70"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ahora piensa en tu mes. Suma tus ventas con tarjeta, aplica la comisión y suma las cuotas fijas."
+    },
+    {
+      "p": "Si vendes poco con tarjeta, una cuota mensual o una penalización pesan mucho. Si vendes mucho, una tasa más baja compensa las cuotas."
+    },
+    {
+      "p": "Ejemplo inventado para comparar. Una fonda que cobra $15,000 al mes con tarjeta no llega a un mínimo de $25,000. Para ella pesa más una penalización mensual que una diferencia chica de tasa."
+    },
+    {
+      "h2": "Qué terminal conviene según tu negocio"
+    },
+    {
+      "p": "No hay una terminal mejor para todos. Depende de dónde cobras y cuánto vendes."
+    },
+    {
+      "tabla": {
+        "titulo": "Terminal sugerida por tipo de negocio",
+        "columnas": [
+          "Negocio",
+          "Lo que necesita",
+          "Tipo que suele convenir"
+        ],
+        "filas": [
+          [
+            "Vendedora por catálogo a domicilio",
+            "Cobrar donde esté el cliente",
+            "Lector que se conecta al celular"
+          ],
+          [
+            "Taquería o puesto en la calle",
+            "Cobrar rápido sin wifi",
+            "Terminal con chip de datos propio"
+          ],
+          [
+            "Tienda de abarrotes",
+            "Ticket y cobros muchas veces al día",
+            "Terminal con impresora"
+          ],
+          [
+            "Boutique con inventario",
+            "Registrar productos y tallas",
+            "Terminal inteligente con pantalla"
+          ],
+          [
+            "Restaurante con meseros",
+            "Llevar la terminal a la mesa",
+            "Terminal portátil con batería"
+          ],
+          [
+            "Negocio con ventas altas cada mes",
+            "Tasa más baja por volumen",
+            "Terminal bancaria"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si apenas empiezas, elige una sin renta ni mínimo mensual. Cuando tus ventas crezcan, compara de nuevo."
+    },
+    {
+      "h2": "Cómo poner tus precios con la comisión"
+    },
+    {
+      "p": "La comisión sale de tu ganancia. Si tu margen es chico, la terminal se lo come."
+    },
+    {
+      "ul": [
+        "Calcula tu ganancia por producto después de la comisión con IVA.",
+        "Si un producto deja muy poco, súbelo un poco o véndelo en paquete.",
+        "Muestra el mismo precio para todos los medios de pago.",
+        "Pon un monto mínimo para pagar con tarjeta sólo si tu proveedor y la ley lo permiten."
+      ]
+    },
+    {
+      "p": "Revisa tus números cada tres meses. Las tasas y tus costos cambian."
+    },
+    {
+      "h2": "Requisitos comunes"
+    },
+    {
+      "p": "Cada proveedor pide cosas distintas. Ten esto a la mano antes de solicitar."
+    },
+    {
+      "ul": [
+        "Identificación oficial vigente.",
+        "Una cuenta donde recibir el dinero.",
+        "Comprobante de domicilio.",
+        "RFC y constancia de situación fiscal, sobre todo con bancos.",
+        "Datos del negocio, como giro y dirección."
+      ]
+    },
+    {
+      "p": "Las empresas de cobro suelen pedir menos papeles. Los bancos piden más, pero a veces dan tasas más bajas a negocios con ventas altas."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Meses sin intereses en tu terminal"
+    },
+    {
+      "p": "Ofrecer meses sin intereses puede ayudar a vender cosas caras. Pero el costo de los meses lo pagas tú, no el cliente."
+    },
+    {
+      "ul": [
+        "Cada plazo suma una comisión extra sobre la venta.",
+        "Mientras más meses, más alta la comisión.",
+        "Ofrece meses sólo en productos con margen suficiente.",
+        "Pon un monto mínimo para pagar a meses."
+      ]
+    },
+    {
+      "p": "Haz la cuenta antes de anunciarlo. A veces conviene ofrecer pocos plazos y no todos."
+    },
+    {
+      "h2": "Cómo usar la terminal sin problemas"
+    },
+    {
+      "ul": [
+        "Pide al cliente que inserte o acerque su tarjeta él mismo.",
+        "Revisa que el ticket diga aprobado antes de entregar.",
+        "Guarda los tickets o los comprobantes digitales por si hay aclaración.",
+        "Ten carga en la batería y un cargador en el mostrador.",
+        "Si no hay señal, ten un plan B como transferencia o un QR de cobro.",
+        "Cuadra cada noche lo cobrado con lo que dice tu aplicación."
+      ]
+    },
+    {
+      "h2": "Contracargos y aclaraciones"
+    },
+    {
+      "p": "Un contracargo pasa cuando el dueño de la tarjeta desconoce un cobro. El banco puede regresarle el dinero y quitártelo a ti."
+    },
+    {
+      "ul": [
+        "Guarda el ticket firmado o el comprobante digital.",
+        "Anota qué se vendió y a quién, si es una venta grande.",
+        "Contesta rápido cuando tu proveedor te pida pruebas.",
+        "Desconfía de compras grandes con prisa y tarjetas de otra persona."
+      ]
+    },
+    {
+      "h2": "Terminal, link de pago o QR"
+    },
+    {
+      "p": "La terminal sirve cuando el cliente está frente a ti. Para otros casos hay otras herramientas."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué usar en cada caso",
+        "columnas": [
+          "Caso",
+          "Herramienta"
+        ],
+        "filas": [
+          [
+            "Cliente en tu mostrador",
+            "Terminal"
+          ],
+          [
+            "Cliente que pide por WhatsApp",
+            "[Link de pago](id:link-de-pago)"
+          ],
+          [
+            "Puesto con mucha gente y poco tiempo",
+            "[Cobro con QR](id:cobrar-con-qr)"
+          ],
+          [
+            "Cliente que prefiere banca en el celular",
+            "Transferencia"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos proveedores dan las tres cosas en la misma cuenta. Así ves todos tus cobros en un solo lugar."
+    },
+    {
+      "h2": "Preguntas para hacer antes de contratar"
+    },
+    {
+      "ol": [
+        "¿La comisión incluye IVA o se suma aparte?",
+        "¿Hay cuota fija por cada cobro?",
+        "¿El precio de la terminal es de promoción y hasta cuándo?",
+        "¿Hay renta, mínimo de ventas o penalización mensual?",
+        "¿En cuántos días llega el dinero a mi cuenta?",
+        "¿Cuánto cuesta cada plazo de meses sin intereses?",
+        "¿Qué pasa si la terminal se descompone?",
+        "¿Cómo cancelo y qué cobran por cancelar?"
+      ]
+    },
+    {
+      "h2": "Ejemplo de un taller que elige terminal"
+    },
+    {
+      "p": "Ejemplo inventado para ver la decisión completa. Un taller de motos en Culiacán cobra unas veinte reparaciones al mes con tarjeta."
+    },
+    {
+      "p": "Compara una terminal sin renta con una terminal bancaria con mínimo mensual. Como no llega al mínimo, elige la terminal sin renta."
+    },
+    {
+      "p": "Para refacciones caras ofrece tres meses sin intereses sólo arriba de cierto monto. Así no pierde margen en reparaciones chicas."
+    },
+    {
+      "h2": "Fallas comunes al elegir terminal"
+    },
+    {
+      "ul": [
+        "Elegir por el precio del equipo y no ver la comisión.",
+        "Olvidar que la comisión lleva IVA.",
+        "Contratar con mínimo mensual sin vender lo suficiente.",
+        "Ofrecer todos los plazos de meses sin hacer cuentas.",
+        "No guardar comprobantes y perder un contracargo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cobra una terminal por venta?",
+      "respuesta": "Depende del proveedor. Mercado Pago publica 3.5% + IVA en sus terminales Point, leído el 12 de noviembre de 2026."
+    },
+    {
+      "pregunta": "¿Necesito RFC para tener terminal?",
+      "respuesta": "Depende del proveedor. Los bancos suelen pedirlo y algunas empresas de cobro no lo piden para empezar."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta una terminal?",
+      "respuesta": "Varía mucho. Hay equipos desde precios de promoción bajos hasta varios miles de pesos de lista."
+    },
+    {
+      "pregunta": "¿Puedo cobrar a meses sin intereses?",
+      "respuesta": "Sí, en muchas terminales. Cada plazo suma una comisión que pagas tú."
+    },
+    {
+      "pregunta": "¿Cuándo me llega el dinero?",
+      "respuesta": "Depende del proveedor y del plan. Pregunta si es al instante, al día siguiente o en días."
+    },
+    {
+      "pregunta": "¿Puedo cobrar con tarjeta sin terminal?",
+      "respuesta": "Sí. Con un link de pago o un QR de cobro, según lo que ofrezca tu proveedor."
+    }
+  ],
+  "relacionadas": [
+    "link-de-pago",
+    "cobrar-con-qr",
+    "nota-de-venta",
+    "tienda-en-linea",
+    "como-vender-por-internet",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Ya cobras con tarjeta en tu mostrador. Una página propia hace que más gente sepa dónde está ese mostrador.",
+    "titulo": "¿Hacemos la página que lleva clientes a tu mostrador?",
+    "tituloCorto": "¿Ya te encuentran en internet?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Mercado Pago México, terminales Point (leído el 12-nov-2026)",
+      "url": "https://www.mercadopago.com.mx/herramientas-para-vender/lectores-point"
+    },
+    {
+      "texto": "BBVA México, terminal punto de venta para empresas (leído el 12-nov-2026)",
+      "url": "https://www.bbva.mx/empresas/productos/cobros-y-pagos/terminal-punto-de-venta.html"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/cual-es-la-mejor-terminal-punto-de-venta-mexico/",
+      "titulo": "Terminal punto de venta: ¿cuál es la mejor opción para tu marca?",
+      "promete": "Tabla de tasas con fecha de enero; no hace cuentas con ventas de un negocio chico"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.mercadopago.com.mx/blog/comisiones-point-mercado-pago-mexico",
+      "titulo": "Guía de comisiones Point",
+      "promete": "Explica sólo sus terminales; no compara con bancos ni con link de pago"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.mercadopago.com.mx/blog/mejores-terminales-de-pago",
+      "titulo": "Las mejores terminales de pago para negocios",
+      "promete": "Guía escrita por un proveedor; sin preguntas para revisar el contrato"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Cifras leídas hoy en la página de terminales Point de Mercado Pago y en la de terminal punto de venta de BBVA empresas. Clip publica «2.59% + $1 por venta» como promoción con asterisco y sin decir si lleva IVA: no se puso. Sin cifras de otras terminales. Top 3 leído con WebSearch el 12-nov-2026."
+}

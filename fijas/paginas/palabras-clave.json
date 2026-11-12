@@ -1,0 +1,583 @@
+{
+  "id": "palabras-clave",
+  "slug": "palabras-clave",
+  "molde": "guia",
+  "cabeza": "palabras clave",
+  "busquedas": [
+    "planificador de palabras clave",
+    "frases seo"
+  ],
+  "title": "Palabras clave: qué son y cómo encontrar las de tu negocio",
+  "h1": "Palabras clave: cómo encontrar las que usan tus clientes",
+  "description": "Las palabras clave son lo que tus clientes escriben en Google. Te enseñamos a encontrarlas gratis, elegir las buenas y dónde ponerlas en tu página. Con ejemplo.",
+  "resumen": "Cómo encontrar las búsquedas de tus clientes, elegir las buenas y dónde ponerlas",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Las palabras clave son las frases que la gente escribe en Google cuando busca algo. Para un negocio son pistas de cómo te buscan tus clientes, como dentista en Puebla o pastel de tres leches a domicilio.",
+    "Para encontrarlas basta con escuchar a tus clientes y mirar lo que Google sugiere al escribir. Después se ponen en el título, los encabezados y los textos de tu página, con naturalidad."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué son las palabras clave"
+    },
+    {
+      "p": "Cada búsqueda en Google es una pregunta con prisa. La gente no escribe oraciones completas, escribe pedazos."
+    },
+    {
+      "p": "Esos pedazos son las palabras clave. Por ejemplo, taller mecánico cerca de mí o cuánto cuesta un tatuaje chico."
+    },
+    {
+      "p": "Si tu página usa las mismas palabras que tu cliente, Google entiende mejor que eres una buena respuesta. Si usas otras, quizá ni te considera."
+    },
+    {
+      "p": "Un ejemplo común. Un negocio escribe soluciones automotrices integrales, pero sus clientes buscan taller mecánico."
+    },
+    {
+      "h2": "Tipos de palabras clave"
+    },
+    {
+      "p": "No todas las búsquedas valen lo mismo para tu negocio. Conviene separarlas por lo que la persona quiere hacer."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de búsqueda según la intención",
+        "columnas": [
+          "Tipo",
+          "Qué quiere la persona",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Informativa",
+            "Aprender algo",
+            "cómo quitar una mancha de grasa"
+          ],
+          [
+            "Comparativa",
+            "Elegir entre opciones",
+            "mejor gimnasio en Zapopan"
+          ],
+          [
+            "De compra",
+            "Contratar o comprar ya",
+            "plomero urgente en Coyoacán"
+          ],
+          [
+            "De marca",
+            "Llegar a un negocio que ya conoce",
+            "tacos el güero horario"
+          ],
+          [
+            "Local",
+            "Algo cerca de donde está",
+            "farmacia abierta cerca de mí"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio local, las de compra y las locales son oro. Son de gente que ya decidió y busca a quién."
+    },
+    {
+      "h2": "Palabras cortas y frases largas"
+    },
+    {
+      "p": "Las palabras cortas, como zapatos, tienen muchas búsquedas y mucha competencia. Las frases largas tienen menos búsquedas pero dicen exactamente qué quiere la persona."
+    },
+    {
+      "tabla": {
+        "titulo": "Cortas contra largas",
+        "columnas": [
+          "Tipo",
+          "Ejemplo",
+          "Ventaja",
+          "Desventaja"
+        ],
+        "filas": [
+          [
+            "Corta",
+            "pasteles",
+            "Mucha gente la busca",
+            "Compites con cadenas y recetarios"
+          ],
+          [
+            "Media",
+            "pasteles para boda",
+            "Más clara la intención",
+            "Aún hay mucha competencia"
+          ],
+          [
+            "Larga",
+            "pastel de boda sin gluten en Monterrey",
+            "Persona lista para encargar",
+            "Pocas búsquedas al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un negocio chico gana más con frases largas. Son menos personas, pero casi todas son clientes posibles."
+    },
+    {
+      "h2": "Cómo encontrar palabras clave gratis"
+    },
+    {
+      "p": "No necesitas pagar una herramienta para empezar. Estas fuentes están a la mano."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Pregunta a tus clientes",
+          "texto": "Anota cómo te piden las cosas por WhatsApp o en el mostrador. Esas son tus primeras palabras."
+        },
+        {
+          "titulo": "Usa el autocompletado de Google",
+          "texto": "Escribe el inicio de una búsqueda y mira lo que Google sugiere. Prueba con distintas letras al final."
+        },
+        {
+          "titulo": "Revisa las preguntas relacionadas",
+          "texto": "En los resultados aparecen preguntas que otros hacen. Cada una es una idea de texto o de pregunta frecuente."
+        },
+        {
+          "titulo": "Mira las búsquedas relacionadas",
+          "texto": "Al final de la página de resultados hay más ideas parecidas."
+        },
+        {
+          "titulo": "Revisa la competencia",
+          "texto": "Abre las tres primeras páginas de tu búsqueda y mira qué palabras usan en títulos y encabezados."
+        },
+        {
+          "titulo": "Consulta Search Console",
+          "texto": "Si ya tienes página, esta herramienta gratuita de Google te dice con qué búsquedas apareces."
+        },
+        {
+          "titulo": "Prueba el planificador de palabras clave",
+          "texto": "Está dentro de Google Ads. Da rangos aproximados de búsquedas y más ideas."
+        }
+      ]
+    },
+    {
+      "p": "Junta todo en una hoja. Al final tendrás treinta o cuarenta frases para ordenar."
+    },
+    {
+      "h2": "Cómo elegir las buenas"
+    },
+    {
+      "p": "No todas las frases de tu lista merecen una página. Fíltralas con estas preguntas."
+    },
+    {
+      "ul": [
+        "¿La persona que busca esto podría comprarme a mí?",
+        "¿Puedo dar una respuesta mejor que la que ya aparece?",
+        "¿La frase es de mi ciudad o de mi zona?",
+        "¿Hay gente que de verdad lo busca, aunque sean pocas?",
+        "¿Coincide con lo que vendo hoy y no con lo que vendía antes?"
+      ]
+    },
+    {
+      "p": "Si una frase pasa las cinco, vale la pena. Si pasa dos, guárdala para después."
+    },
+    {
+      "h2": "Ejemplo de una lista para un dentista"
+    },
+    {
+      "p": "Ejemplo inventado con un consultorio dental en Puebla. Así queda una lista ya ordenada."
+    },
+    {
+      "tabla": {
+        "titulo": "Lista de ejemplo para un dentista en Puebla",
+        "columnas": [
+          "Frase",
+          "Tipo",
+          "Dónde va"
+        ],
+        "filas": [
+          [
+            "dentista en Puebla",
+            "Local y de compra",
+            "Título de la página de inicio"
+          ],
+          [
+            "limpieza dental precio",
+            "De compra",
+            "Sección de servicios con precio"
+          ],
+          [
+            "blanqueamiento dental en Puebla",
+            "Local y de compra",
+            "Página o sección propia"
+          ],
+          [
+            "me duele una muela qué hago",
+            "Informativa",
+            "Pregunta frecuente con respuesta corta"
+          ],
+          [
+            "dentista abierto en domingo",
+            "Local",
+            "Horario visible y ficha de Google"
+          ],
+          [
+            "ortodoncia para adultos",
+            "Comparativa",
+            "Sección con opciones y fotos de casos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cada frase tiene un lugar. No se meten todas en un mismo párrafo."
+    },
+    {
+      "h2": "Cómo agrupar tu lista"
+    },
+    {
+      "p": "Una lista de cuarenta frases asusta. Agruparlas la vuelve un plan de trabajo."
+    },
+    {
+      "p": "Junta las frases que piden lo mismo con distintas palabras. Por ejemplo, limpieza dental, profilaxis y limpieza de dientes."
+    },
+    {
+      "p": "Cada grupo es una sección o una página. Dentro del grupo eliges la frase que más se busca como principal."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo inventado de grupos para una estética",
+        "columnas": [
+          "Grupo",
+          "Frase principal",
+          "Frases parecidas"
+        ],
+        "filas": [
+          [
+            "Cortes",
+            "corte de cabello para mujer",
+            "corte de pelo dama, cortes modernos"
+          ],
+          [
+            "Color",
+            "tinte de cabello precio",
+            "tinte y mechas, balayage precio"
+          ],
+          [
+            "Uñas",
+            "uñas acrílicas cerca de mí",
+            "uñas de gel, manicure y pedicure"
+          ],
+          [
+            "Eventos",
+            "peinado para boda",
+            "maquillaje y peinado para XV años"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con esta tabla sabes qué secciones necesita tu página. También sabes qué preguntas poner al final."
+    },
+    {
+      "h2": "Dónde poner las palabras clave en tu página"
+    },
+    {
+      "p": "Una vez que las tienes, se acomodan en lugares que Google lee con más atención."
+    },
+    {
+      "tabla": {
+        "titulo": "Lugares donde ponerlas",
+        "columnas": [
+          "Lugar",
+          "Qué poner",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Título de la página",
+            "La frase principal al inicio",
+            "Dentista en Puebla con citas por WhatsApp"
+          ],
+          [
+            "Descripción",
+            "La frase y un beneficio",
+            "Limpieza, resinas y blanqueamiento en el centro de Puebla"
+          ],
+          [
+            "Encabezado principal",
+            "La frase dicha con naturalidad",
+            "Tu dentista en el centro de Puebla"
+          ],
+          [
+            "Subtítulos",
+            "Frases secundarias",
+            "Blanqueamiento dental, precios y cuidados"
+          ],
+          [
+            "Dirección de la página",
+            "Pocas palabras con guiones",
+            "tunegocio.mx/blanqueamiento-dental"
+          ],
+          [
+            "Texto de las fotos",
+            "Lo que se ve en la foto",
+            "Consultorio dental en Puebla con sillón nuevo"
+          ],
+          [
+            "Preguntas frecuentes",
+            "Las preguntas tal como las escriben",
+            "¿Cuánto cuesta una limpieza dental?"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para la dirección de cada página, lee nuestra guía de [slug](id:slug-seo). Es la parte de la liga que va después de tu dominio."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cuántas veces repetir una palabra clave"
+    },
+    {
+      "p": "No hay un número mágico. Escribe para la persona y la frase aparece sola."
+    },
+    {
+      "p": "Si lees tu texto en voz alta y suena repetido, está de más. Google entiende sinónimos y frases parecidas."
+    },
+    {
+      "p": "Repetir la misma frase muchas veces se llama relleno. Hace que tu texto se lea feo y puede perjudicarte."
+    },
+    {
+      "tabla": {
+        "titulo": "Texto natural contra texto relleno",
+        "columnas": [
+          "Natural",
+          "Relleno"
+        ],
+        "filas": [
+          [
+            "Somos un taller mecánico en León. Hacemos afinación y frenos en un día.",
+            "Taller mecánico León, el mejor taller mecánico León para tu taller mecánico."
+          ],
+          [
+            "Hacemos pasteles para boda en Monterrey y los entregamos en tu salón.",
+            "Pasteles boda Monterrey pasteles baratos Monterrey pasteles."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Una página por intención"
+    },
+    {
+      "p": "Cada página de tu sitio debe contestar una búsqueda principal. Si mezclas todo en una página, Google no sabe para qué mostrarla."
+    },
+    {
+      "p": "Si vendes tres servicios distintos, considera una sección o página para cada uno. Así cada uno tiene su título y su respuesta."
+    },
+    {
+      "p": "Para una landing de una sola página, elige la frase de compra más importante. Las demás van como secciones y preguntas."
+    },
+    {
+      "h2": "Palabras clave para negocios locales"
+    },
+    {
+      "p": "Si atiendes en una zona, tus palabras deben decir dónde. La gente busca con el nombre de su ciudad, su colonia o con cerca de mí."
+    },
+    {
+      "ul": [
+        "Escribe tu ciudad y tu colonia en el texto de tu página.",
+        "Pon tu dirección completa y un mapa.",
+        "Usa las mismas palabras en tu ficha de Google.",
+        "Pide reseñas donde tus clientes mencionen lo que compraron."
+      ]
+    },
+    {
+      "p": "Lee nuestra guía de [SEO local](id:seo-local) para ver todo el proceso."
+    },
+    {
+      "h2": "Palabras clave fuera de tu página"
+    },
+    {
+      "p": "Tu página no es el único lugar donde importan. Las mismas palabras ayudan en otros canales."
+    },
+    {
+      "ul": [
+        "En tu ficha de Google, dentro de la descripción y los servicios.",
+        "En la biografía de Instagram y en la sección de información de Facebook.",
+        "En los títulos de tus videos y en la descripción de tus publicaciones.",
+        "En tu catálogo de WhatsApp Business, en el nombre de cada producto."
+      ]
+    },
+    {
+      "p": "Usar las mismas palabras en todos lados ayuda a que te reconozcan. El cliente ve lo mismo en Google, en tus redes y en tu página."
+    },
+    {
+      "h2": "Palabras clave por giro"
+    },
+    {
+      "p": "Cada negocio tiene sus propias frases. Estas son ideas para empezar tu lista, todas inventadas como ejemplo."
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas de palabras clave por giro",
+        "columnas": [
+          "Giro",
+          "Frases de compra",
+          "Frases informativas"
+        ],
+        "filas": [
+          [
+            "Taller mecánico",
+            "afinación precio, taller de frenos cerca de mí",
+            "cada cuánto cambiar el aceite"
+          ],
+          [
+            "Estética",
+            "corte de cabello mujer, tinte precio",
+            "cómo cuidar el cabello teñido"
+          ],
+          [
+            "Restaurante",
+            "comida a domicilio en mi colonia, menú del día",
+            "qué es la comida corrida"
+          ],
+          [
+            "Veterinaria",
+            "veterinario 24 horas, vacunas para perro precio",
+            "calendario de vacunas para perro"
+          ],
+          [
+            "Plomería",
+            "plomero urgente, destapar caño",
+            "cómo saber si tengo una fuga"
+          ],
+          [
+            "Repostería",
+            "pastel por encargo, pastel de tres leches",
+            "cuántas porciones tiene un pastel"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las frases de compra van en tus servicios y en el título. Las informativas son buenas preguntas frecuentes o publicaciones."
+    },
+    {
+      "h2": "Cómo saber si tus palabras clave funcionan"
+    },
+    {
+      "p": "Después de un par de meses con tu página publicada, revisa los resultados. Search Console te muestra con qué búsquedas apareces."
+    },
+    {
+      "ul": [
+        "Busca si aparecen las frases que elegiste.",
+        "Revisa cuántas personas vieron tu página en Google y cuántas entraron.",
+        "Fíjate en frases que no esperabas y que sí te traen visitas.",
+        "Compara mes contra mes, no día contra día."
+      ]
+    },
+    {
+      "p": "Si una frase importante no aparece, revisa que esté en tu título y en un encabezado. A veces basta con decirla más claro."
+    },
+    {
+      "h2": "Fallas comunes con palabras clave"
+    },
+    {
+      "ul": [
+        "Elegir palabras que tú usas y tus clientes no.",
+        "Perseguir sólo palabras cortas donde compiten las cadenas.",
+        "Meter la misma frase diez veces en un párrafo.",
+        "Hacer varias páginas casi iguales con una palabra cambiada.",
+        "Olvidar la ciudad en un negocio que sólo atiende en una zona.",
+        "No revisar después qué búsquedas sí te traen visitas."
+      ]
+    },
+    {
+      "h2": "Cada cuánto revisar tus palabras clave"
+    },
+    {
+      "p": "Las búsquedas cambian con las temporadas y con la moda. Revisa tu lista cada tres o cuatro meses."
+    },
+    {
+      "p": "Mira en Search Console qué búsquedas te traen visitas. Si aparece una frase nueva que vendes, dale su sección."
+    },
+    {
+      "p": "Si una frase ya no trae nada, revisa si tu texto todavía contesta lo que la gente busca."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una palabra clave?",
+      "respuesta": "Es la frase que alguien escribe en Google para buscar algo. Puede ser una palabra o varias."
+    },
+    {
+      "pregunta": "¿Cuántas palabras clave debe tener mi página?",
+      "respuesta": "Una principal por página y varias secundarias. Lo importante es que cada página conteste una búsqueda clara."
+    },
+    {
+      "pregunta": "¿Las palabras clave aseguran que salga primero en Google?",
+      "respuesta": "No. Ayudan a que Google entienda tu página, pero la posición depende de muchas otras cosas."
+    },
+    {
+      "pregunta": "¿Hay herramientas gratis para encontrar palabras clave?",
+      "respuesta": "Sí. El autocompletado de Google, Search Console y el planificador de Google Ads sirven para empezar."
+    },
+    {
+      "pregunta": "¿Debo poner la palabra clave con acentos?",
+      "respuesta": "Sí, en el texto. Escribe bien el español y Google entiende las búsquedas con y sin acento."
+    },
+    {
+      "pregunta": "¿Sirve poner palabras clave en las etiquetas ocultas?",
+      "respuesta": "Poco. Lo que cuenta es el título, el texto visible y los encabezados de tu página."
+    },
+    {
+      "pregunta": "¿Puedo usar las palabras clave de mi competencia?",
+      "respuesta": "Sí, si también vendes eso. Escribe tu propia respuesta y no copies su texto."
+    }
+  ],
+  "relacionadas": [
+    "seo",
+    "seo-y-sem",
+    "slug-seo",
+    "seo-local",
+    "google-mi-negocio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Cuando ya sabes qué busca tu cliente, falta una página que lo diga. Aliviane la escribe con esas palabras.",
+    "titulo": "¿Hacemos tu página con las palabras de tus clientes?",
+    "tituloCorto": "¿Ya tienes tus palabras? Falta tu página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://es.semrush.com/blog/palabras-clave-organicas-es/",
+      "titulo": "Palabras clave orgánicas: qué son y cómo encontrarlas",
+      "promete": "Guía que lleva a su herramienta de pago; pocos ejemplos de negocios locales en México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.seo.com/es/basics/glossary/keywords/",
+      "titulo": "Palabras clave",
+      "promete": "Definición de glosario y tipos; no explica dónde ponerlas en una página chica"
+    },
+    {
+      "posicion": 3,
+      "url": "https://ahrefs.com/blog/es/tipos-palabras-clave",
+      "titulo": "Tipos de palabras clave",
+      "promete": "Clasificación detallada para expertos; sin método gratis para un dueño de negocio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin cifras de volumen ni de herramientas de pago. Top 3 leído con WebSearch el 12-nov-2026."
+}

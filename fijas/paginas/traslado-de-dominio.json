@@ -1,0 +1,424 @@
+{
+  "id": "traslado-de-dominio",
+  "slug": "traslado-de-dominio",
+  "molde": "guia",
+  "cabeza": "que es el traslado de dominio",
+  "busquedas": [],
+  "title": "Qué es el traslado de dominio web y cómo hacerlo",
+  "h1": "Traslado de dominio: cómo mover tu dominio a otro proveedor",
+  "description": "El traslado de dominio mueve tu .mx o .com a otro registrador sin perder tu página ni tu correo. Te explicamos el código, los plazos y qué revisar. Hazlo bien.",
+  "resumen": "Qué es el código de traslado, cuánto tarda y cómo no perder tu correo",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El traslado de dominio es mover tu dominio de un registrador a otro. Tu nombre sigue siendo el mismo, sólo cambia la empresa donde lo renuevas y lo administras.",
+    "Para hacerlo pides un código de traslado al registrador actual, quitas el bloqueo y lo escribes en el nuevo. Antes copia tus registros de correo para que nada se caiga."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Traslado de dominio web y traslado de dominio de un inmueble"
+    },
+    {
+      "p": "En México la frase traslado de dominio también se usa para el cambio de dueño de una casa o un terreno. Ese es un trámite ante notario con su propio impuesto."
+    },
+    {
+      "p": "Esta guía habla del dominio de internet, como tunegocio.mx. Si buscas el trámite de un inmueble, consulta a un notario de tu estado."
+    },
+    {
+      "h2": "Qué es el traslado de un dominio web"
+    },
+    {
+      "p": "Tu dominio está registrado con una empresa llamada registrador. Ahí lo renuevas cada año y cambias sus registros."
+    },
+    {
+      "p": "Trasladarlo es pasarlo a otro registrador. El nombre, la página y el correo pueden seguir igual durante todo el proceso."
+    },
+    {
+      "p": "El traslado no cambia al dueño. Si el dominio está a tu nombre, sigue a tu nombre en el nuevo registrador."
+    },
+    {
+      "tabla": {
+        "titulo": "Traslado contra otros cambios que se confunden",
+        "columnas": [
+          "Cambio",
+          "Qué se mueve",
+          "Qué se queda igual"
+        ],
+        "filas": [
+          [
+            "Traslado de dominio",
+            "La empresa donde está registrado",
+            "El nombre y el dueño"
+          ],
+          [
+            "Cambio de hosting",
+            "El lugar donde vive tu página",
+            "El dominio y el registrador"
+          ],
+          [
+            "Cambio de titular",
+            "La persona dueña del dominio",
+            "El registrador y el nombre"
+          ],
+          [
+            "Cambio de DNS",
+            "A dónde apunta tu dominio",
+            "El registrador y el dueño"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchas veces no necesitas trasladar. Si sólo quieres cambiar de página, basta con apuntar tu dominio al nuevo hosting."
+    },
+    {
+      "h2": "Cuándo conviene trasladar tu dominio"
+    },
+    {
+      "ul": [
+        "Tu registrador actual sube mucho el precio de la renovación.",
+        "No tienes acceso a la cuenta y la agencia que lo registró no responde.",
+        "Quieres tener todos tus dominios en un solo lugar.",
+        "Necesitas funciones que tu registrador no ofrece.",
+        "Cambias de proveedor y quieres que todo quede junto."
+      ]
+    },
+    {
+      "p": "Si tu dominio está a tu nombre y tienes acceso, no hay prisa. Puedes dejarlo donde está y sólo cambiar los registros."
+    },
+    {
+      "h2": "Qué es el código de traslado"
+    },
+    {
+      "p": "El código de traslado es una clave única de cada dominio. Se le llama código EPP, clave de transferencia o código de autorización."
+    },
+    {
+      "p": "Sirve para probar que quien pide el traslado tiene permiso del dueño. Sin ese código, el nuevo registrador no puede recibir el dominio."
+    },
+    {
+      "p": "Lo pides en tu registrador actual. Algunos lo muestran en el panel y otros lo mandan al correo del titular."
+    },
+    {
+      "p": "Para los dominios genéricos como .com, la ayuda de ICANN dice que el registrador debe darte el código. Si no te deja generarlo tú, tiene cinco días naturales desde que lo pides."
+    },
+    {
+      "h2": "Requisitos antes de empezar"
+    },
+    {
+      "p": "Revisa estos puntos antes de pedir el código. Evitan que el traslado se rechace a medio camino."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Acceso al correo del titular",
+          "texto": "El código y las confirmaciones llegan ahí. Si ese correo ya no existe, actualízalo primero."
+        },
+        {
+          "titulo": "Dominio al corriente",
+          "texto": "En Akky, un .mx no se puede trasladar si está pendiente de pago. Renueva o paga antes."
+        },
+        {
+          "titulo": "Dominio sin vencer de más",
+          "texto": "Akky pide que un .mx no lleve más de 15 días vencido para recibirlo."
+        },
+        {
+          "titulo": "Tiempo desde el registro",
+          "texto": "Para .com, .net y .lat, Akky pide 60 días desde el registro o desde el último traslado."
+        },
+        {
+          "titulo": "Bloqueo apagado",
+          "texto": "Apaga el bloqueo de traslado en tu cuenta actual."
+        },
+        {
+          "titulo": "Servicios extra cancelados",
+          "texto": "Si tienes un servicio de seguridad avanzada, Akky pide cancelarlo antes."
+        },
+        {
+          "titulo": "Registros copiados",
+          "texto": "Guarda una copia de todos tus registros DNS, sobre todo los de correo."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo hacer el traslado paso a paso"
+    },
+    {
+      "p": "Los nombres cambian entre registradores, pero el orden es el mismo."
+    },
+    {
+      "ol": [
+        "Entra a la cuenta donde está tu dominio hoy.",
+        "Copia en una hoja todos los registros DNS de tu dominio.",
+        "Apaga el bloqueo de traslado.",
+        "Pide el código de traslado y espera el correo.",
+        "En el nuevo registrador, elige trasladar un dominio y escribe tu nombre de dominio.",
+        "Pega el código y paga si el nuevo registrador cobra el traslado.",
+        "Si tu registrador anterior pide autorizarlo, acepta desde tu cuenta o tu correo.",
+        "Cuando termine, revisa que tus registros DNS estén iguales en la nueva cuenta.",
+        "Prueba tu página y manda un correo de prueba a tu dirección con dominio."
+      ]
+    },
+    {
+      "p": "El paso dos es el que salva tu correo. Si los registros no pasan, los copias a mano en la nueva cuenta."
+    },
+    {
+      "h2": "Cuánto cuesta trasladar un dominio"
+    },
+    {
+      "p": "Cada registrador pone su precio. Algunos cobran el traslado como si fuera una renovación y otros lo cobran aparte."
+    },
+    {
+      "p": "Pregunta al nuevo registrador tres cosas antes de pagar. Cuánto cuesta el traslado, si suma tiempo a tu vigencia y cuánto cuesta renovar después."
+    },
+    {
+      "p": "Compara también el precio de la renovación del segundo año. Un traslado barato con renovación cara no te conviene."
+    },
+    {
+      "h2": "Trasladar o sólo apuntar"
+    },
+    {
+      "p": "Mucha gente traslada cuando sólo necesitaba apuntar el dominio a otro lugar. Esta tabla te ayuda a decidir."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué necesitas según tu caso",
+        "columnas": [
+          "Tu caso",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "Cambias de página o de hosting y tienes acceso al dominio",
+            "Sólo apunta el dominio al nuevo lugar"
+          ],
+          [
+            "Quieres pagar la renovación en otra empresa",
+            "Traslado de dominio"
+          ],
+          [
+            "No tienes acceso y el dominio está a tu nombre",
+            "Recupera el acceso y luego decide"
+          ],
+          [
+            "El dominio está a nombre de otra persona",
+            "Cambio de titular antes que nada"
+          ],
+          [
+            "Tu registrador cerró o no contesta",
+            "Contacta al registro de la terminación con tus pruebas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cuánto tarda un traslado"
+    },
+    {
+      "p": "No hay un plazo único. Cada terminación tiene sus reglas y cada registrador sus tiempos."
+    },
+    {
+      "p": "Akky dice que el traslado termina al concluir los plazos de cada terminación. También permite aceptar o rechazar el traslado para acelerarlo."
+    },
+    {
+      "p": "Si tu registrador anterior acepta rápido, puede tomar poco tiempo. Si nadie lo acepta, se espera el plazo completo."
+    },
+    {
+      "p": "Mientras tanto tu página y tu correo siguen funcionando, si no tocaste los registros. El traslado mueve la administración, no el lugar donde vive la página."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Qué pasa con tu correo y tu página"
+    },
+    {
+      "p": "El traslado por sí solo no apaga nada. Lo que puede romper el correo es cambiar los servidores de nombre sin copiar los registros."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué revisar después del traslado",
+        "columnas": [
+          "Pieza",
+          "Qué revisar",
+          "Si falla"
+        ],
+        "filas": [
+          [
+            "Página",
+            "Que abra con candado",
+            "Revisa el registro A o CNAME"
+          ],
+          [
+            "Correo",
+            "Que lleguen y salgan mensajes",
+            "Revisa los registros MX y TXT"
+          ],
+          [
+            "Verificaciones",
+            "Google, redes y otras herramientas",
+            "Vuelve a pegar los registros TXT"
+          ],
+          [
+            "Renovación",
+            "Que la fecha de vencimiento sea correcta",
+            "Pide al nuevo registrador que la revise"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu correo deja de llegar, no entres en pánico. Casi siempre falta un registro MX que puedes copiar de tu hoja."
+    },
+    {
+      "h2": "Si la agencia no quiere soltar tu dominio"
+    },
+    {
+      "p": "Es más común de lo que parece. Una agencia registra el dominio y luego no responde o pide dinero por soltarlo."
+    },
+    {
+      "ul": [
+        "Revisa en una consulta pública a nombre de quién está el dominio.",
+        "Si está a tu nombre, pide el código por escrito al registrador o a la agencia.",
+        "Si el registrador te lo niega sin razón, presenta una queja ante él con tus pruebas.",
+        "Para dominios genéricos, ICANN recibe quejas cuando el código no llega en cinco días naturales.",
+        "Si el dominio está a nombre de la agencia, necesitas un cambio de titular, no sólo un traslado."
+      ]
+    },
+    {
+      "p": "Guarda facturas, correos y contratos que prueben que pagaste por tu dominio. Te sirven en cualquier reclamo."
+    },
+    {
+      "h2": "Ejemplo de un consultorio que recupera su dominio"
+    },
+    {
+      "p": "Ejemplo inventado para ver el proceso completo. Un consultorio dental en Hermosillo tenía su .mx registrado por una agencia que cerró."
+    },
+    {
+      "p": "El dominio estaba a nombre del doctor, pero el correo de contacto era de la agencia. Primero pidió al registrador cambiar el correo con su identificación."
+    },
+    {
+      "p": "Después pidió el código, apagó el bloqueo y trasladó el dominio a un registrador nuevo. Copió sus registros y su correo nunca dejó de llegar."
+    },
+    {
+      "h2": "Fallas comunes al trasladar"
+    },
+    {
+      "ul": [
+        "Pedir el código cuando el correo del titular ya no existe.",
+        "Cambiar los servidores de nombre sin copiar los registros de correo.",
+        "Trasladar un dominio vencido o pendiente de pago.",
+        "Intentar trasladar un .com recién registrado.",
+        "Olvidar apagar el bloqueo de traslado.",
+        "No revisar la fecha de vencimiento después del cambio."
+      ]
+    },
+    {
+      "h2": "Antes y después: lista para imprimir"
+    },
+    {
+      "p": "Antes del traslado:"
+    },
+    {
+      "ul": [
+        "Tengo acceso al correo del titular.",
+        "El dominio está pagado y no está por vencer.",
+        "Copié todos mis registros DNS.",
+        "Apagué el bloqueo de traslado."
+      ]
+    },
+    {
+      "p": "Después del traslado:"
+    },
+    {
+      "ul": [
+        "Mi página abre con candado.",
+        "Mi correo manda y recibe.",
+        "La fecha de vencimiento es correcta.",
+        "La renovación automática quedó activa."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el traslado de dominio?",
+      "respuesta": "Es mover tu dominio de un registrador a otro. El nombre y el dueño siguen igual."
+    },
+    {
+      "pregunta": "¿Se cae mi página durante el traslado?",
+      "respuesta": "No, si no cambias los registros. El traslado mueve la administración, no el lugar donde vive la página."
+    },
+    {
+      "pregunta": "¿Dónde consigo el código de traslado?",
+      "respuesta": "En tu registrador actual. Algunos lo muestran en el panel y otros lo mandan al correo del titular."
+    },
+    {
+      "pregunta": "¿Puedo trasladar un dominio recién comprado?",
+      "respuesta": "Depende de la terminación. Para .com, .net y .lat, Akky pide 60 días desde el registro o el último traslado."
+    },
+    {
+      "pregunta": "¿Puedo trasladar un dominio vencido?",
+      "respuesta": "Depende. Akky recibe un .mx con hasta 15 días vencido y sin estar pendiente de pago."
+    },
+    {
+      "pregunta": "¿El traslado cambia al dueño del dominio?",
+      "respuesta": "No. Para cambiar de dueño se hace un cambio de titular, que es otro trámite."
+    },
+    {
+      "pregunta": "¿Tengo que trasladar mi dominio si cambio de página?",
+      "respuesta": "No. Basta con apuntar tu dominio al nuevo lugar donde vive la página."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "dominio-y-hosting",
+    "comprar-dominio",
+    "buscar-dominio",
+    "hosting-en-mexico",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Si te cambias con Aliviane, conectamos tu dominio copiando antes tus registros de correo. Y sigue a tu nombre.",
+    "titulo": "¿Movemos tu página a Aliviane con tu mismo dominio?",
+    "tituloCorto": "¿Cambias de proveedor y quieres ayuda?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Akky, transferencias de dominios (leído el 12-nov-2026)",
+      "url": "https://www.akky.mx/servicios/transferencias"
+    },
+    {
+      "texto": "ICANN, quejas sobre el código de autorización de traslado (leído el 12-nov-2026)",
+      "url": "https://www.icann.org/es/resources/compliance/complaints/transfer/auth"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.godaddy.com/es/dominios/transferir-dominio",
+      "titulo": "Transferir dominio",
+      "promete": "Página de venta de su servicio de traslado; no explica las reglas del .mx ni qué pasa con el correo"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.ionos.com/es-us/digitalguide/hosting/cuestiones-tecnicas/que-es-un-auth-code/",
+      "titulo": "El Auth Code: prueba de legitimidad para usar un dominio",
+      "promete": "Explica el código de traslado; sin pasos completos ni casos de agencias que no lo sueltan"
+    },
+    {
+      "posicion": 3,
+      "url": "https://knowledge.workspace.google.com/admin/domains/transfer-your-domain-to-another-host?hl=es",
+      "titulo": "Transferir tu dominio a otro host",
+      "promete": "Pasos para clientes de su servicio; no aplica a quien tiene su .mx en un registrador mexicano"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. La búsqueda «traslado de dominio» en México también es el trámite notarial de un inmueble: la guía lo aclara en un párrafo y se queda en el dominio web (familia dominio de la lista). Reglas leídas hoy en Akky (transferencias) e ICANN (código en 5 días naturales). Sin precio de traslado (Akky no lo publica en esa página). Top 3 leído con WebSearch el 12-nov-2026."
+}

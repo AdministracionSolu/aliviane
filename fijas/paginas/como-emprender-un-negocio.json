@@ -1,0 +1,453 @@
+{
+  "id": "como-emprender-un-negocio",
+  "slug": "como-emprender-un-negocio",
+  "molde": "guia",
+  "cabeza": "cómo emprender un negocio",
+  "busquedas": [
+    "cómo emprender",
+    "como emprender un negocio desde cero"
+  ],
+  "title": "Cómo emprender un negocio desde cero en 10 pasos",
+  "h1": "Cómo emprender un negocio desde cero en México",
+  "description": "Cómo emprender un negocio desde cero en 10 pasos: probar la idea con poco dinero, sacar cuentas, darte de alta y conseguir clientes. Con ejemplo. Empieza.",
+  "resumen": "Diez pasos de la idea a los primeros clientes, con cuentas y trámites",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para emprender un negocio desde cero empieza por un problema que la gente ya paga por resolver. Prueba tu idea en pequeño, con pocos clientes y poco dinero, antes de rentar local o comprar equipo.",
+    "Después saca cuentas de cuánto necesitas vender para no perder. Date de alta ante el SAT y busca clientes entre la gente que ya te conoce. Crece sólo con lo que funciona."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Los 10 pasos para emprender"
+    },
+    {
+      "p": "Cada paso tiene una pregunta que contestar. Si no puedes contestarla, todavía no pases al siguiente."
+    },
+    {
+      "tabla": {
+        "titulo": "Los pasos y la pregunta de cada uno",
+        "columnas": [
+          "Paso",
+          "Pregunta que contesta"
+        ],
+        "filas": [
+          [
+            "1. Elige un problema",
+            "¿Qué necesita la gente que tú sabes resolver?"
+          ],
+          [
+            "2. Mira a tu competencia",
+            "¿Quién ya lo resuelve y qué le falta?"
+          ],
+          [
+            "3. Prueba en pequeño",
+            "¿Alguien te paga antes de que inviertas fuerte?"
+          ],
+          [
+            "4. Saca cuentas",
+            "¿Cuánto debes vender al mes para no perder?"
+          ],
+          [
+            "5. Consigue el dinero inicial",
+            "¿De dónde sale lo que necesitas para arrancar?"
+          ],
+          [
+            "6. Ponle nombre y cara",
+            "¿Cómo te van a reconocer?"
+          ],
+          [
+            "7. Date de alta",
+            "¿Qué trámites te tocan para operar en regla?"
+          ],
+          [
+            "8. Abre tus canales",
+            "¿Dónde te van a encontrar y cómo te van a pagar?"
+          ],
+          [
+            "9. Consigue tus primeros clientes",
+            "¿Quién te compra primero?"
+          ],
+          [
+            "10. Mide y ajusta",
+            "¿Qué funciona y qué hay que cambiar?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Paso 1. Elige un problema, no sólo una idea"
+    },
+    {
+      "p": "Las ideas abundan. Lo que escasea es un problema por el que alguien ya está pagando."
+    },
+    {
+      "p": "Piensa en lo que te piden tus vecinos, en lo que sabes hacer bien y en lo que falta en tu colonia. Ahí suele estar la primera oportunidad."
+    },
+    {
+      "p": "Si te faltan ideas, revisa nuestra lista de [ideas de negocio](id:ideas-de-negocio). Elige una que puedas empezar con lo que ya tienes."
+    },
+    {
+      "h2": "Paso 2. Mira a tu competencia"
+    },
+    {
+      "p": "Que haya competencia es buena señal. Quiere decir que la gente sí compra eso."
+    },
+    {
+      "ul": [
+        "Visita tres negocios parecidos y compra algo en cada uno.",
+        "Anota precios, horarios y cómo atienden.",
+        "Lee sus reseñas en Google y fíjate en las quejas.",
+        "Pregúntate qué harías mejor o distinto."
+      ]
+    },
+    {
+      "p": "Lo que se queja la gente de tu competencia es tu primera ventaja. Un análisis [FODA](id:analisis-foda) te ayuda a ordenarlo."
+    },
+    {
+      "h2": "Paso 3. Prueba en pequeño"
+    },
+    {
+      "p": "Antes de rentar local, vende un poco desde donde estés. La prueba te dice si la idea camina sin arriesgar tus ahorros."
+    },
+    {
+      "ul": [
+        "Vende a conocidos y pide que te recomienden.",
+        "Ofrece tu servicio por WhatsApp a tu lista de contactos.",
+        "Pon un puesto en un tianguis o una feria un fin de semana.",
+        "Toma pedidos por encargo antes de comprar mucho inventario."
+      ]
+    },
+    {
+      "p": "Si después de unas semanas nadie te compra, cambia algo. El producto, el precio o a quién se lo ofreces."
+    },
+    {
+      "h2": "Paso 4. Saca cuentas antes de crecer"
+    },
+    {
+      "p": "Un negocio que vende mucho puede perder dinero. Las cuentas te dicen cuánto necesitas vender para estar tranquilo."
+    },
+    {
+      "p": "Separa tus costos en dos grupos. Los fijos se pagan aunque no vendas y los variables suben con cada venta."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo inventado de cuentas de un puesto de aguas frescas",
+        "columnas": [
+          "Concepto",
+          "Monto mensual"
+        ],
+        "filas": [
+          [
+            "Renta del espacio",
+            "$2,000"
+          ],
+          [
+            "Luz y agua",
+            "$500"
+          ],
+          [
+            "Tu sueldo mínimo",
+            "$6,000"
+          ],
+          [
+            "Total de costos fijos",
+            "$8,500"
+          ],
+          [
+            "Precio de un vaso",
+            "$25"
+          ],
+          [
+            "Costo de fruta, azúcar y vaso",
+            "$10"
+          ],
+          [
+            "Ganancia por vaso",
+            "$15"
+          ],
+          [
+            "Vasos para cubrir los fijos",
+            "567 al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En este ejemplo necesitas vender unos 19 vasos al día durante 30 días. Si ves que es posible, la idea tiene números. Si no, ajusta precio o costos."
+    },
+    {
+      "p": "Fíjate que tu sueldo va dentro de los costos. Si no te pagas, el negocio parece que gana cuando en realidad no."
+    },
+    {
+      "h2": "Paso 5. Consigue el dinero inicial"
+    },
+    {
+      "p": "Empieza con lo mínimo para probar. El equipo caro y el local bonito pueden esperar a que haya clientes."
+    },
+    {
+      "tabla": {
+        "titulo": "De dónde puede salir el dinero para empezar",
+        "columnas": [
+          "Fuente",
+          "A favor",
+          "Qué cuidar"
+        ],
+        "filas": [
+          [
+            "Ahorros propios",
+            "No debes a nadie",
+            "No uses el dinero de emergencias"
+          ],
+          [
+            "Familia o amigos",
+            "Condiciones flexibles",
+            "Pónganlo por escrito aunque sean familia"
+          ],
+          [
+            "Socio",
+            "Trae dinero y trabajo",
+            "Acuerden por escrito quién hace qué y cómo se reparte"
+          ],
+          [
+            "Crédito",
+            "Rápido de obtener",
+            "Que el pago mensual quepa en tus ventas reales"
+          ],
+          [
+            "Apoyos de gobierno",
+            "Pueden no pagarse de regreso",
+            "Revisa convocatorias en fuentes oficiales"
+          ],
+          [
+            "Preventa",
+            "El cliente paga antes",
+            "Cumple en tiempo lo que vendiste"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Paso 6. Ponle nombre y cara"
+    },
+    {
+      "p": "Tu negocio necesita un nombre fácil de decir, de escribir y de buscar. Revisa que el dominio esté libre antes de decidir."
+    },
+    {
+      "ul": [
+        "Nombre corto, sin letras raras y que diga algo de lo que vendes.",
+        "Un logo sencillo que se vea bien chico y en blanco y negro.",
+        "Dos o tres colores que uses en todo.",
+        "Un dominio con ese nombre, aunque todavía no tengas página."
+      ]
+    },
+    {
+      "p": "Si piensas crecer, considera registrar la marca. Lee [cómo registrar una marca](id:como-registrar-una-marca) ante el IMPI."
+    },
+    {
+      "h2": "Paso 7. Date de alta"
+    },
+    {
+      "p": "Operar en regla te abre puertas. Puedes facturar, pedir créditos y venderle a empresas."
+    },
+    {
+      "ul": [
+        "Inscríbete en el RFC ante el SAT con la actividad que vas a realizar.",
+        "Pregunta a un contador qué régimen fiscal te conviene.",
+        "Revisa en tu municipio qué permiso o licencia pide tu giro.",
+        "Si vendes alimentos, revisa los requisitos sanitarios.",
+        "Si contratas personas, regístralas ante el IMSS."
+      ]
+    },
+    {
+      "p": "Los trámites cambian por ciudad y por giro. Consulta siempre la página oficial de tu municipio y del SAT."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Paso 8. Abre tus canales"
+    },
+    {
+      "p": "Tus clientes tienen que encontrarte y poder pagarte. Arma lo básico antes de anunciarte."
+    },
+    {
+      "ul": [
+        "WhatsApp Business con catálogo, horario y respuestas rápidas.",
+        "Ficha en Google con fotos, dirección y horario.",
+        "Una página con tu dominio que junte todo.",
+        "Una forma de cobrar con tarjeta, transferencia o efectivo.",
+        "Redes donde esté tu cliente, no en todas."
+      ]
+    },
+    {
+      "h2": "Paso 9. Consigue tus primeros clientes"
+    },
+    {
+      "p": "Los primeros clientes casi siempre salen de tu círculo. No te dé pena ofrecerles."
+    },
+    {
+      "ul": [
+        "Avisa a tus contactos con un mensaje personal, no con una cadena.",
+        "Pide a cada cliente contento que te recomiende y te deje una reseña.",
+        "Ofrece algo especial para los primeros, como un precio de estreno.",
+        "Visita negocios vecinos y preséntate.",
+        "Reparte volantes en tu zona con una oferta y tu WhatsApp."
+      ]
+    },
+    {
+      "h2": "Paso 10. Mide y ajusta"
+    },
+    {
+      "p": "Cada semana revisa unos pocos números. Te dicen si vas bien antes de que sea tarde."
+    },
+    {
+      "ul": [
+        "Cuánto vendiste y cuánto gastaste.",
+        "Cuántos clientes nuevos llegaron y de dónde.",
+        "Qué producto o servicio se vende más.",
+        "Cuántos clientes regresaron."
+      ]
+    },
+    {
+      "p": "Si algo no se vende en un mes, cámbialo o quítalo. Si algo se vende solo, dale más espacio."
+    },
+    {
+      "h2": "Separa el dinero del negocio desde el primer día"
+    },
+    {
+      "p": "Mezclar el dinero de la casa con el del negocio es la forma más rápida de perder la cuenta. Sepáralos aunque el negocio sea chico."
+    },
+    {
+      "ul": [
+        "Abre una cuenta sólo para el negocio.",
+        "Págate un sueldo fijo cada semana o cada quincena.",
+        "Guarda los comprobantes de todo lo que compras para el negocio.",
+        "Anota cada venta el mismo día, aunque sea en una libreta.",
+        "Aparta una parte de cada venta para impuestos y reposición."
+      ]
+    },
+    {
+      "p": "Con las cuentas separadas sabes si el negocio gana. Y te será más fácil pedir un crédito cuando lo necesites."
+    },
+    {
+      "h2": "Emprender desde casa"
+    },
+    {
+      "p": "Muchos negocios mexicanos empiezan en la cocina o en la cochera. Es una forma de probar sin pagar renta."
+    },
+    {
+      "ul": [
+        "Define un horario de atención y respétalo.",
+        "Reserva un espacio de la casa sólo para el negocio.",
+        "Revisa si tu giro necesita algún permiso aunque sea en casa.",
+        "Cuida la imagen de tus fotos y empaques, el cliente no ve tu cocina."
+      ]
+    },
+    {
+      "p": "Cuando los pedidos ya no caben en casa, es momento de pensar en un local. Para entonces ya sabes cuánto vendes."
+    },
+    {
+      "h2": "Ejemplo de un negocio desde cero"
+    },
+    {
+      "p": "Ejemplo inventado para ver los pasos juntos. Mariana sabe hacer galletas decoradas y quiere vender en Puebla."
+    },
+    {
+      "p": "Primero vende a sus conocidas por WhatsApp durante un mes. Anota qué diseños piden más y cuánto le cuesta cada caja."
+    },
+    {
+      "p": "Saca cuentas y ve que necesita vender cuarenta cajas al mes para pagarse un sueldo. Se da de alta en el SAT con ayuda de un contador."
+    },
+    {
+      "p": "Abre su ficha de Google, hace una página con su catálogo y pide reseñas a sus primeras clientas. Seis meses después ya vende para fiestas infantiles."
+    },
+    {
+      "h2": "Errores comunes al emprender"
+    },
+    {
+      "ul": [
+        "Rentar local y comprar equipo antes de tener un solo cliente.",
+        "No pagarse un sueldo y creer que el negocio gana.",
+        "Mezclar el dinero de la casa con el del negocio.",
+        "Copiar lo que hace otro sin preguntarse qué hace mejor uno.",
+        "Abandonar en el primer mes flojo.",
+        "No anotar ventas ni gastos."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto dinero necesito para emprender?",
+      "respuesta": "Depende del giro. Muchos negocios se pueden probar con muy poco si empiezas por encargo o desde casa."
+    },
+    {
+      "pregunta": "¿Necesito darme de alta en el SAT para empezar?",
+      "respuesta": "Sí, para operar en regla y facturar. Pregunta a un contador qué régimen te conviene."
+    },
+    {
+      "pregunta": "¿Qué negocio puedo empezar con poco dinero?",
+      "respuesta": "Uno que use lo que ya sabes hacer. Comida por encargo, servicios a domicilio o reventa son comunes."
+    },
+    {
+      "pregunta": "¿Necesito un plan de negocios?",
+      "respuesta": "Sí, aunque sea corto. Una hoja con cliente, precio, costos y metas basta para empezar."
+    },
+    {
+      "pregunta": "¿Cuándo conviene rentar un local?",
+      "respuesta": "Cuando ya tienes clientes constantes. Rentar antes de vender es el riesgo más común."
+    },
+    {
+      "pregunta": "¿Necesito página web para empezar?",
+      "respuesta": "No es obligatorio el primer día. Te ayuda cuando quieres que te encuentren personas fuera de tu círculo."
+    },
+    {
+      "pregunta": "¿Puedo emprender mientras trabajo?",
+      "respuesta": "Sí. Muchos negocios empiezan en las tardes o los fines de semana mientras se prueba la idea."
+    }
+  ],
+  "relacionadas": [
+    "ideas-de-negocio",
+    "plan-de-negocios",
+    "analisis-foda",
+    "modelo-canvas",
+    "como-registrar-una-marca",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Cuando tu negocio ya existe, necesita que lo encuentren. Aliviane te hace la página con tu dominio desde el primer mes.",
+    "titulo": "¿Le hacemos su página a tu negocio nuevo?",
+    "tituloCorto": "¿Tu negocio nuevo ya tiene página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.mercadopago.com.mx/blog/como-emprender-un-negocio",
+      "titulo": "Cómo emprender un negocio en México paso a paso",
+      "promete": "Pasos generales y trámites; poco sobre probar la idea antes de invertir"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.hostinger.com/mx/tutoriales/",
+      "titulo": "Cómo empezar un negocio desde cero",
+      "promete": "Nueve pasos pensados para negocios en línea; sin cuentas de punto de equilibrio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.godaddy.com/resources/latam/stories/como-empezar-un-negocio",
+      "titulo": "Cómo empezar un negocio en 10 pasos",
+      "promete": "Guía general para Latinoamérica; no aterriza en ejemplos de negocios mexicanos"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G2, 12-nov. Sin cifras de supervivencia ni de trámites (los requisitos municipales cambian por ciudad; el régimen fiscal se remite al contador). Top 3 leído con WebSearch el 12-nov-2026."
+}
