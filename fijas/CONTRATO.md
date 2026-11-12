@@ -110,6 +110,34 @@ páginas pasan a guía (cambia el molde en la lista y vuelve a importar).
 La muestra `formato-de-cotizacion` promete que el motor `documento` acepta logo, marca IVA incluido o aparte, y baja
 PDF sin pedir correo. Si el motor no lo hace, ajusta el texto.
 
+### Motores existentes (12-nov-2026)
+
+Todos en `js/herramientas/<id>.js`, con `montar(contenedor, { modo, idioma: 'es-MX', textos? })`. Con un modo que no
+conoce, cada motor usa su modo por omisión (el primero de su lista). Los que no traen modo aceptan `''`.
+
+| Motor | Modos | Notas para la página |
+|---|---|---|
+| `qr` | link, whatsapp, wifi, texto, imagen, facebook, instagram, menu, telefono, correo, contacto | |
+| `whatsapp-link` | link, qr | |
+| `codigo-barras` | ean13, ean8, upca, code128, code39, itf, hoja | |
+| `paleta` | generador, complementarios, analogos, triada, monocromatico, imagen y por color: azul, cafe, gris, beige, naranja, tierra, lila, amarillo, blanco, elegante, frios, calidos, pastel, verde, rojo, rosa, morado, negro | `combinar` no existe como modo: se ve como el generador. |
+| `editor-diseno` | tarjeta-presentacion, flyer, volante, cartel, poster, banner, lona, letrero, letrero-abierto-cerrado, horario, se-vende, cupon, tarjeta-lealtad, portada-facebook, post-instagram, iconos-destacadas, folleto | |
+| `logo` | general, minimalista, 3d, letras, animado y por giro: restaurante, ropa, camisetas, unas, barberia, carniceria, constructora, transporte, futbol | |
+| `documento` | recibo, recibo-renta, recibo-honorarios, nota-remision, nota-venta, cotizacion, orden-compra, orden-servicio, lista-precios | |
+| `menu` | restaurante, cafeteria, digital | |
+| `catalogo` | (sin modo) | |
+| `visor-cfdi` | (sin modo) | |
+| `nombres` | general, tiendas, ropa, restaurante, polleria, barberia, salon-de-belleza, comida-rapida, variedades | `textos.ligaDominio` (p. ej. `/herramientas/buscar-dominio/`) pinta «Ver si está libre» en cada nombre, sólo cuando esa página esté publicada. |
+| `slogan` | general y los mismos giros de `nombres` | El giro se cambia dentro del motor. |
+| `texto-legal` | aviso-privacidad (integral y simplificado), terminos, devoluciones | LFPDPPP nueva (DOF 20-03-2025, reforma 14-11-2025) y LFPC (reforma 12-12-2025) leídas en diputados.gob.mx el 12-nov. No deja copiar ni bajar si faltan nombre, domicilio o correo. Revisar las leyes en cada `revisada`. |
+| `firma-correo` | (sin modo), gmail, outlook | El modo sólo abre primero los pasos de ese correo. |
+| `favicon` | (sin modo) | |
+| `lector-qr` | camara (o lector), wifi | Carga `js/vendor/jsQR.min.js` (Apache-2.0) sólo si el navegador no lee QR solo. |
+| `dominio-disponible` | (sin modo) | Única herramienta con red: RDAP y DNS sobre HTTPS desde el navegador. Acepta `?dominio=`. Su `textos.cierre` dice que la landing ya trae dominio. |
+
+Eventos: todos disparan `aliviane:resultado` al copiar o bajar. Además `lector-qr` dispara `leer` al leer un código y
+`dominio-disponible` dispara `consultar` al terminar una búsqueda: el aviso suave de venta también sale con ellos.
+
 ## Reglas de escritura que las pruebas barren
 
 Frases de 8 a 15 palabras (truena > 25, avisa si más de 20% pasan de 15), una coma por frase (truena con 3 o más),
