@@ -168,9 +168,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.qrcode-tiger.com/es/restaurant-qr-code",
+      "titulo": "Código QR del restaurante (QR Tiger)",
+      "promete": "QR de menú dinámico con plan de pago"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.qrcode-tiger.com/es/qr-code-restaurant-menu",
+      "titulo": "Código QR para el menú de un restaurante (QR Tiger)",
+      "promete": "Pedido por escaneo con su software"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.jotform.com/es/qr-code-generator/restaurant-menu/",
+      "titulo": "Generador de QR para menús (Jotform)",
+      "promete": "QR a un PDF o liga del menú; pide cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor qr modo menu (pone «Escanea para ver el menú» debajo). El motor no aloja el menú: la página lo dice claro."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor qr modo menu (pone «Escanea para ver el menú» debajo). El motor no aloja el menú: la página lo dice claro. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

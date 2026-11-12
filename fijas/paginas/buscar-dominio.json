@@ -194,7 +194,14 @@
       "respuesta": "Prueba otra terminación o agrega tu ciudad o tu giro al nombre."
     }
   ],
-  "relacionadas": ["pagina-web-para-negocio", "comprar-dominio", "dominio-y-hosting", "nombres-para-empresas", "que-es-hosting", "certificado-ssl"],
+  "relacionadas": [
+    "pagina-web-para-negocio",
+    "comprar-dominio",
+    "dominio-y-hosting",
+    "nombres-para-empresas",
+    "que-es-hosting",
+    "certificado-ssl"
+  ],
   "venta": {
     "puente": "Si haces tu página con Aliviane, el dominio ya viene incluido y queda a tu nombre.",
     "aviso": "¿Encontraste tu dominio libre? Con Aliviane va incluido en tu página.",
@@ -206,9 +213,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.hostinger.com/mx/country-code-domains",
+      "titulo": "Dominios de país (Hostinger)",
+      "promete": "Buscador de dominio que vende el registro; precios de promoción"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/es-es/tlds/dominios-com-mx",
+      "titulo": "Dominios .com.mx (GoDaddy)",
+      "promete": "Buscador y venta de .com.mx; no explica cómo elegir"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.arsys.es/dominios/commx",
+      "titulo": "Dominios .com.mx (Arsys)",
+      "promete": "Registro inmediato de .com.mx sin residencia; venta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Única herramienta con red (RDAP y DNS). Sin precios de registradores. ⚠️ lib.mjs no muestra el aviso suave con el evento «consultar»."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Única herramienta con red (RDAP y DNS). Sin precios de registradores. ⚠️ lib.mjs no muestra el aviso suave con el evento «consultar». serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

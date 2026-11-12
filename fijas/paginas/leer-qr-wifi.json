@@ -152,7 +152,14 @@
       "respuesta": "Con el [QR para wifi](id:qr-wifi). Escribes nombre y clave y lo bajas."
     }
   ],
-  "relacionadas": ["qr-wifi", "lector-qr", "generador-de-qr", "menu-qr", "codigo-qr-para-whatsapp", "landing-page"],
+  "relacionadas": [
+    "qr-wifi",
+    "lector-qr",
+    "generador-de-qr",
+    "menu-qr",
+    "codigo-qr-para-whatsapp",
+    "landing-page"
+  ],
   "venta": {
     "puente": "Tu negocio puede poner junto al wifi un QR que lleve a tu página con tu menú y tus promociones.",
     "aviso": "¿Das wifi a tus clientes? Que también encuentren tu página con un QR.",
@@ -164,9 +171,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.qrcode-tiger.com/es/how-to-use-qr-codes-to-connect-to-wifi-and-internet",
+      "titulo": "Cómo usar códigos QR para conectarse a wifi (QR Tiger)",
+      "promete": "Pasos por sistema; vende su generador"
+    },
+    {
+      "posicion": 2,
+      "url": "https://apps.apple.com/hn/app/wifi-qr-connect/id1577760901",
+      "titulo": "WiFi QR Connect (App Store)",
+      "promete": "App para leer QR de wifi, también desde imagen"
+    },
+    {
+      "posicion": 3,
+      "url": "https://es.digitaltrends.com/celular/como-compartir-contrasena-wifi-como-codigo-qr/",
+      "titulo": "Cómo compartir la contraseña wifi como código QR (Digital Trends)",
+      "promete": "Pasos en Android e iPhone; no lee una foto en línea"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

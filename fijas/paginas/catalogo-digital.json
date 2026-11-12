@@ -153,7 +153,14 @@
       "respuesta": "Los que quieras. El PDF agrega hojas solo."
     }
   ],
-  "relacionadas": ["menu-digital", "menu-de-restaurante", "menu-qr", "lista-de-precios", "pagina-web-para-negocio", "tienda-de-ropa"],
+  "relacionadas": [
+    "menu-digital",
+    "menu-de-restaurante",
+    "menu-qr",
+    "lista-de-precios",
+    "pagina-web-para-negocio",
+    "tienda-de-ropa"
+  ],
   "venta": {
     "puente": "Tu catálogo puede vivir en tu propia página con una liga que nunca caduca.",
     "aviso": "Tu catálogo ya está listo. ¿Quieres que también esté en una página con tu dominio?",
@@ -165,9 +172,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.oberlo.com/es/blog/catalogo-digital",
+      "titulo": "Cómo hacer un catálogo digital gratis (Oberlo)",
+      "promete": "Guía de pasos y herramientas; no hace el catálogo"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/blog/catalogo-virtual/?lang=mx",
+      "titulo": "Catálogo virtual: qué es y para qué sirve (Tiendanube)",
+      "promete": "Definición y ventajas; empuja a abrir una tienda"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.shopify.com/es/blog/como-crear-un-catalogo-digital-para-tu-tienda-online",
+      "titulo": "Cómo crear un catálogo digital (Shopify)",
+      "promete": "Pasos para tienda en línea; no da un PDF listo"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor catalogo (PDF con liga de WhatsApp por producto, PNG 1080×1350 por producto). MEJORA DE MOTOR: «catálogo en línea» pide una liga pública; el motor no aloja."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor catalogo (PDF con liga de WhatsApp por producto, PNG 1080×1350 por producto). MEJORA DE MOTOR: «catálogo en línea» pide una liga pública; el motor no aloja. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

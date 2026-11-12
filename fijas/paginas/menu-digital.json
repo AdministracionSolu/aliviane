@@ -169,9 +169,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.qrcode-tiger.com/es/digital-menu-for-restaurants",
+      "titulo": "Menú digital para restaurantes (QR Tiger)",
+      "promete": "Menú en línea con pedidos y pagos de pago mensual"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.restroworks.com/es/glossary/digital-menu/",
+      "titulo": "Menú digital (Restroworks)",
+      "promete": "Definición y ventajas; vende su punto de venta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.elcontribuyente.mx/2026/04/como-el-menu-digital-esta-cambiando-la-relacion-entre-restaurantes-y-clientes-en-mexico/",
+      "titulo": "Cómo el menú digital está cambiando la relación con clientes (El Contribuyente)",
+      "promete": "Nota sobre su uso en México; no da herramienta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo digital (formato celular, diseño moderno). MEJORA DE MOTOR anotada: «menú digital» suele pedir una liga en línea; el motor sólo baja imagen y PDF."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo digital (formato celular, diseño moderno). MEJORA DE MOTOR anotada: «menú digital» suele pedir una liga en línea; el motor sólo baja imagen y PDF. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

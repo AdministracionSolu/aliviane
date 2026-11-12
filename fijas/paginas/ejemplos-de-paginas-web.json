@@ -391,9 +391,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/blog/ejemplos-de-paginas-web-sencillos",
+      "titulo": "17 ejemplos de páginas web originales (Tiendanube)",
+      "promete": "Lista de sitios de marcas grandes; pocos negocios locales"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.getresponse.com/es/blog/mejores-ejemplos-de-paginas-web",
+      "titulo": "15 ejemplos de páginas web (GetResponse)",
+      "promete": "Galería para inspirarse; vende su creador"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.godaddy.com/resources/latam/crearweb/ejemplos-paginas-web-originales-inspiracion",
+      "titulo": "Ejemplos de páginas web originales (GoDaddy)",
+      "promete": "Inspiración por sector; vende su creador"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Sólo trabajos del portafolio de img/trabajos/ (sin Agroqs ni Avelina, pendientes de permiso). No se usan las muestras de sitios/: son de prospectos, no de clientes. Cabeza de 3K: no se leyó top 3."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Sólo trabajos del portafolio de img/trabajos/ (sin Agroqs ni Avelina, pendientes de permiso). No se usan las muestras de sitios/: son de prospectos, no de clientes. Cabeza de 3K: no se leyó top 3. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

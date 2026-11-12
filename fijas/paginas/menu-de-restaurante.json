@@ -186,7 +186,14 @@
       "respuesta": "No. Se edita aquí y se baja en PDF o imagen."
     }
   ],
-  "relacionadas": ["menu-de-cafeteria", "menu-digital", "negocio-de-comida", "catalogo-digital", "promociones-de-hamburguesas", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "menu-de-cafeteria",
+    "menu-digital",
+    "negocio-de-comida",
+    "catalogo-digital",
+    "promociones-de-hamburguesas",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Tu menú puede vivir en la página de tu restaurante con fotos, horario y pedidos por WhatsApp.",
     "aviso": "Tu menú ya está listo. ¿Lo subimos a una página con tu dominio y tu WhatsApp?",
@@ -198,9 +205,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://support.wix.com/es/article/wix-restaurants-imprimir-un-menu",
+      "titulo": "Imprimir un menú (Wix)",
+      "promete": "Exportar a PDF desde su plataforma de sitios"
+    },
+    {
+      "posicion": 2,
+      "url": "https://pos.toasttab.com/es-us/resources/menu-templates",
+      "titulo": "Plantillas de menú (Toast)",
+      "promete": "17 plantillas en PowerPoint para descargar"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_mx/menus/",
+      "titulo": "Menús (Canva)",
+      "promete": "Plantillas editables y descarga en PDF con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo restaurante (6 diseños, carta/media/celular, fotos, QR opcional). No exporta a Word."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo restaurante (6 diseños, carta/media/celular, fotos, QR opcional). No exporta a Word. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

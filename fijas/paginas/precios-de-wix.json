@@ -10,72 +10,57 @@
     "planes de wix",
     "wix vs aliviane"
   ],
-  "title": "Precios Wix en pesos y qué incluye cada plan",
+  "title": "Precios Wix y qué cambia del plan gratis al de pago",
   "h1": "Precios de Wix en México",
-  "description": "Precios Wix en pesos plan por plan, qué incluye el gratis y cuánto pagas al año con dominio. Compáralo con una página hecha por Aliviane desde $1,500.",
-  "resumen": "Los planes en pesos, el plan gratis y el costo al año con dominio",
+  "description": "Precios Wix explicados plan por plan, qué trae el gratis, qué pagas al conectar tu dominio y cómo compararlo con una página de Aliviane desde $1,500.",
+  "resumen": "Qué trae el plan gratis, qué cambia al pagar y cómo comparar",
   "categoria": "Página web",
   "revisada": "2026-11",
   "respuesta": [
-    "Wix tiene un plan gratis y cuatro planes de pago. Según la tabla en pesos publicada por Tooltester, van de $109 a $300 al mes con pago anual.",
-    "El plan gratis usa una dirección de Wix y muestra su anuncio. Para usar tu dominio necesitas al menos el plan Light."
+    "Wix tiene un plan gratis y planes Premium de pago. Sus precios cambian por país, forma de pago y promoción. Consulta el precio vigente en su sitio antes de pagar.",
+    "El plan gratis usa una dirección de Wix y no conecta tu dominio. Para conectar tu dominio y quitar los anuncios de Wix necesitas un plan Premium."
   ],
   "herramienta": null,
   "cuerpo": [
     {
-      "h2": "Planes de Wix en pesos"
+      "h2": "Cuánto cuesta Wix hoy"
     },
     {
-      "p": "Estos son los precios en pesos mexicanos que publica Tooltester. Su tabla se actualizó en septiembre de 2025."
+      "p": "En esta página no copiamos los precios de Wix porque cambian seguido. Wix muestra el precio según tu país, la forma de pago y la promoción del momento."
+    },
+    {
+      "p": "Consulta el precio vigente en su sitio y anota estos datos. Con ellos puedes comparar contra cualquier otra opción."
     },
     {
       "tabla": {
-        "titulo": "Precio por mes según la forma de pago",
+        "titulo": "Qué anotar al ver los precios de Wix",
         "columnas": [
-          "Plan",
-          "Pago mensual",
-          "Pago anual",
-          "Pago cada dos años"
+          "Dato",
+          "Por qué importa"
         ],
         "filas": [
           [
-            "Gratis",
-            "$0",
-            "$0",
-            "No aplica"
+            "Precio por mes con pago mensual",
+            "Es lo que pagas si no te comprometes"
           ],
           [
-            "Light",
-            "$145",
-            "$109",
-            "$95"
+            "Precio por mes con pago anual",
+            "Baja el precio pero pagas el año por adelantado"
           ],
           [
-            "Core",
-            "$260",
-            "$215",
-            "$195"
+            "Precio al renovar",
+            "Puede ser distinto al de la promoción"
           ],
           [
-            "Business",
-            "$330",
-            "$280",
-            "$250"
+            "Costo del dominio el segundo año",
+            "Se suma al plan cada año"
           ],
           [
-            "Business Elite",
-            "$395",
-            "$300",
-            "$300"
+            "Si el precio ya incluye IVA",
+            "Cambia la cuenta final"
           ]
         ]
       }
-    },
-    {
-      "p": "Wix cambia sus precios y sus promociones con frecuencia. El precio también puede variar según el país desde donde entras."
-    },
-    {
-      "p": "Antes de pagar revisa el precio vigente en tu cuenta de Wix. Las cifras de esta página sirven para comparar."
     },
     {
       "h2": "Qué trae el plan gratis de Wix"
@@ -85,24 +70,24 @@
     },
     {
       "ul": [
-        "Tu dirección queda como nombre.wixsite.com y no con tu dominio.",
-        "Cada página muestra un anuncio de Wix.",
-        "El espacio llega hasta 500 MB de almacenamiento."
+        "Tu dirección queda con el nombre de Wix y no con tu dominio.",
+        "Quitar los anuncios de Wix es una función de los planes Premium.",
+        "El espacio llega a 500 MB de almacenamiento y 1 GB de ancho de banda."
       ]
     },
     {
-      "p": "Wix lo explica en su centro de ayuda. Para quitar el anuncio y conectar tu dominio hay que pasar a un plan de pago."
+      "p": "Wix lo explica en su centro de ayuda. Para conectar tu dominio hay que pasar a un plan Premium."
     },
     {
       "h2": "Qué cambia de un plan a otro"
     },
     {
-      "p": "Los planes suben de precio según lo que necesitas vender. Esta es la idea general de cada uno."
+      "p": "Los planes suben de precio según lo que necesitas hacer. Wix les pone nombres y precios que cambian con el tiempo."
     },
     {
       "tabla": {
         "columnas": [
-          "Plan",
+          "Tipo de plan",
           "Para qué alcanza"
         ],
         "filas": [
@@ -111,69 +96,30 @@
             "Probar el editor sin dominio propio"
           ],
           [
-            "Light",
-            "Página informativa con tu dominio y sin anuncio de Wix"
+            "Premium sin tienda",
+            "Página informativa con tu dominio y sin anuncios de Wix"
           ],
           [
-            "Core",
-            "Cobrar en línea y abrir una tienda pequeña"
-          ],
-          [
-            "Business",
-            "Tienda con más funciones de venta"
-          ],
-          [
-            "Business Elite",
-            "Tiendas grandes con más espacio y soporte"
+            "Premium con tienda",
+            "Cobrar en línea y vender productos desde la página"
           ]
         ]
       }
     },
     {
-      "p": "Para una página informativa de negocio basta el plan Light. Si quieres cobrar dentro de tu página necesitas Core o uno mayor."
+      "p": "Para una página informativa basta el plan más barato que conecte tu dominio. Si quieres cobrar dentro de tu página necesitas un plan con tienda."
     },
     {
-      "h2": "Cuánto pagas al año con Wix"
+      "h2": "Cómo sacar lo que pagas al año con Wix"
     },
     {
-      "p": "Con pago anual el precio por mes baja. A cambio pagas los doce meses por adelantado."
+      "p": "Con pago anual el precio por mes suele bajar. A cambio pagas los doce meses por adelantado."
     },
     {
-      "tabla": {
-        "columnas": [
-          "Plan",
-          "Primer año con pago anual",
-          "Qué cambia el segundo año"
-        ],
-        "filas": [
-          [
-            "Light",
-            "$1,308",
-            "Se suma la renovación del dominio"
-          ],
-          [
-            "Core",
-            "$2,580",
-            "Se suma la renovación del dominio"
-          ],
-          [
-            "Business",
-            "$3,360",
-            "Se suma la renovación del dominio"
-          ],
-          [
-            "Business Elite",
-            "$3,600",
-            "Se suma la renovación del dominio"
-          ]
-        ]
-      }
+      "p": "Multiplica el precio mensual del plan anual por doce. Luego suma la renovación del dominio si tu plan sólo lo cubre un tiempo."
     },
     {
-      "p": "La cuenta es el precio anual por mes multiplicado por doce. Los planes anuales traen el dominio gratis el primer año."
-    },
-    {
-      "p": "Tooltester reporta una renovación de $355.50 al año para el dominio. Ese costo empieza en el segundo año."
+      "p": "Pregunta también cuánto cuesta el plan al renovar. El precio de bienvenida no siempre se repite el segundo año."
     },
     {
       "h2": "Wix contra una página hecha por Aliviane"
@@ -185,7 +131,7 @@
       "tabla": {
         "columnas": [
           "",
-          "Wix plan Light",
+          "Wix con plan Premium",
           "Aliviane landing"
         ],
         "filas": [
@@ -196,7 +142,7 @@
           ],
           [
             "Pago inicial",
-            "$1,308 por el año",
+            "El plan del año al precio vigente",
             "$1,500 por el diseño"
           ],
           [
@@ -206,12 +152,12 @@
           ],
           [
             "Dominio",
-            "Gratis el primer año",
+            "Se conecta con un plan Premium",
             "Incluido y a tu nombre"
           ],
           [
             "Renovación del dominio",
-            "Aparte",
+            "Revisa su precio en tu cuenta",
             "Incluida en los $99"
           ],
           [
@@ -226,7 +172,7 @@
           ],
           [
             "Tienda con cobros",
-            "Desde el plan Core",
+            "Con un plan que tenga tienda",
             "No lo hacemos"
           ],
           [
@@ -255,7 +201,7 @@
       ]
     },
     {
-      "p": "Wix tiene cientos de plantillas y un editor de arrastrar y soltar. Es una buena herramienta si vas a dedicarle horas."
+      "p": "Wix tiene muchas plantillas y un editor de arrastrar y soltar. Es una buena herramienta si vas a dedicarle horas."
     },
     {
       "h2": "Cuándo conviene Aliviane"
@@ -273,19 +219,19 @@
       "p": "La mayoría de los negocios locales no necesita carrito. Necesita que la gente vea qué vendes y te escriba."
     },
     {
-      "h2": "Un ejemplo con números"
+      "h2": "Un ejemplo para comparar"
     },
     {
       "p": "Piensa en una taquería que quiere enseñar su menú y recibir pedidos por WhatsApp. No necesita carrito ni cobro en línea."
     },
     {
-      "p": "En Wix elegiría el plan Light con pago anual. Pagaría $1,308 el primer año y armaría la página en sus tiempos libres."
+      "p": "En Wix elegiría el plan Premium más barato que conecte su dominio. Pagaría el año por adelantado y armaría la página en sus tiempos libres."
     },
     {
       "p": "Con Aliviane pagaría $1,500 y recibiría la página armada. Del segundo mes en adelante pagaría $99 con su ronda semanal de cambios."
     },
     {
-      "p": "En el primer año la cuenta es $1,308 contra $2,589 con cambios incluidos. La diferencia grande está en quién hace el trabajo y quién lo mantiene."
+      "p": "Con Aliviane el primer año suma $2,589 con cambios incluidos. Para comparar, anota el precio anual vigente de Wix y súmale tus horas de trabajo."
     },
     {
       "h2": "Qué preguntar antes de contratar cualquier opción"
@@ -398,19 +344,19 @@
   "faqs": [
     {
       "pregunta": "¿Wix es gratis?",
-      "respuesta": "Sí, tiene un plan gratis. Usa una dirección de Wix y muestra su anuncio en cada página."
+      "respuesta": "Sí, tiene un plan gratis. Usa una dirección de Wix y no conecta tu dominio."
     },
     {
       "pregunta": "¿Cuál es el plan más barato de Wix con dominio propio?",
-      "respuesta": "El plan Light. Según Tooltester cuesta $109 al mes con pago anual."
+      "respuesta": "El plan Premium de entrada. Consulta su precio vigente en el sitio de Wix porque cambia por país y promoción."
     },
     {
-      "pregunta": "¿Wix cobra en pesos mexicanos?",
-      "respuesta": "Sí, muestra precios en pesos al entrar desde México. Confirma el precio en tu cuenta antes de pagar."
+      "pregunta": "¿Cuánto cuesta Wix al mes?",
+      "respuesta": "Depende del plan y de la forma de pago. Consulta el precio vigente en su sitio antes de pagar."
     },
     {
       "pregunta": "¿El dominio de Wix es gratis para siempre?",
-      "respuesta": "No. Es gratis el primer año con plan anual y luego se paga la renovación."
+      "respuesta": "No siempre. Revisa en tu cuenta desde cuándo se cobra la renovación del dominio."
     },
     {
       "pregunta": "¿Puedo pasar mi página de Wix a Aliviane?",
@@ -448,15 +394,11 @@
   },
   "fuentes": [
     {
-      "texto": "Tooltester, precios de Wix en pesos (actualizado en septiembre de 2025)",
-      "url": "https://www.tooltester.com/es/?p=13505"
-    },
-    {
-      "texto": "Wix, crear un sitio web gratis",
+      "texto": "Wix, crear un sitio web gratis (leído el 12-nov-2026)",
       "url": "https://support.wix.com/es/article/crear-un-sitio-web-gratis"
     },
     {
-      "texto": "Wix, hacer upgrade a un plan premium",
+      "texto": "Wix, hacer upgrade a un plan Premium (leído el 12-nov-2026)",
       "url": "https://support.wix.com/es/article/hacer-upgrade-a-un-plan-premium-para-tu-p%C3%A1gina-web"
     }
   ],
@@ -482,6 +424,6 @@
   ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Muestra de molde comparativa (tanda 1). Precios de Wix de un tercero (Tooltester, sept-2025): antes de publicar, confirmar en wix.com desde México y actualizar la tabla y «revisada»."
+  "publicacion": "2026-11-12",
+  "nota": "P-Aliviane 12-nov-2026: la página de precios de Wix no se deja leer sin JavaScript (es.wix.com/upgrade/website sólo da el título); se quitaron todas las cifras de Wix (antes de Tooltester, sept-2025) y los nombres de plan no confirmados en la fuente oficial. Si un día se leen en wix.com, se pueden volver a poner con fecha."
 }
