@@ -16,7 +16,7 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "El editor arma las dos caras del letrero con el mismo estilo, una dice abierto y la otra cerrado. Puedes cambiar esas palabras y agregar tu horario y tu teléfono. Bajas un PDF de dos páginas que imprimes, pegas espalda con espalda y enmicas."
+    "El editor arma las dos caras del letrero con el mismo estilo, una dice abierto y la otra cerrado. Puedes cambiar esas palabras y agregar tu horario. El diseño «Mitad y mitad» también lleva tu teléfono. Bajas un PDF de dos páginas que imprimes, pegas espalda con espalda y enmicas."
   ],
   "herramienta": {
     "id": "editor-diseno",
@@ -37,8 +37,8 @@
           "texto": "Puedes escribir «Pásale» en lugar de abierto o «Volvemos pronto» en lugar de cerrado."
         },
         {
-          "titulo": "Agrega horario y teléfono",
-          "texto": "El horario sale en las dos caras. Así quien encuentra cerrado sabe cuándo volver."
+          "titulo": "Agrega tu horario",
+          "texto": "El horario sale en las dos caras. Así quien encuentra cerrado sabe cuándo volver. El teléfono sólo aparece en el diseño «Mitad y mitad»."
         },
         {
           "titulo": "Imprime, pega y enmica",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "p": "Cuida que el lado cerrado sea útil. Si pones tu WhatsApp ahí, una visita perdida se vuelve un pedido."
+      "p": "Cuida que el lado cerrado sea útil. Si escribes tu WhatsApp en su frase, una visita perdida se vuelve pedido."
     },
     {
       "h2": "Que dure colgado en la puerta"
@@ -133,7 +133,7 @@
           ],
           [
             "Mitad y mitad",
-            "Color partido con tu nombre al centro",
+            "Color partido con tu nombre y tu teléfono",
             "Estéticas y boutiques"
           ]
         ]
@@ -153,7 +153,7 @@
     },
     {
       "pregunta": "¿Puedo poner mi logo?",
-      "respuesta": "Sí. Sube tu logo y aparece en las dos caras."
+      "respuesta": "Sí. En «Punto de color» y «Mitad y mitad» sale en las dos caras. En los otros diseños va sólo en el lado abierto."
     },
     {
       "pregunta": "¿Puedo escribir otra palabra en lugar de abierto?",
@@ -161,7 +161,7 @@
     },
     {
       "pregunta": "¿Lleva código QR?",
-      "respuesta": "No. Este letrero no trae QR porque se mira de lejos. Pon tu teléfono escrito."
+      "respuesta": "No. Este letrero no trae QR porque se mira de lejos. Escribe tu teléfono en la frase o usa «Mitad y mitad»."
     },
     {
       "pregunta": "¿Cuánto cuesta?",

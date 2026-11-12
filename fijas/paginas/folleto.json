@@ -47,7 +47,7 @@
     { "h2": "Papel e impresión" },
     { "p": "Para doblar bien usa couché de gramaje medio o bond grueso. Una cartulina muy rígida se cuartea en el doblez." },
     { "p": "Si imprimes en casa, voltea la hoja por el lado largo. Haz una prueba primero porque cada impresora la jala distinto." },
-    { "p": "El PDF no trae sangría. Si tu imprenta la pide, deja fondos claros cerca de la orilla o pide que ajusten el archivo." },
+    { "p": "El PDF sale sin sangría a menos que la pidas. Marca la casilla de imprenta y sale con 3 mm de sangrado y marcas de corte." },
     { "h2": "Folleto, flyer o volante" },
     { "p": "El folleto explica varios servicios y se guarda. El [flyer](id:flyer) anuncia una sola cosa y se lee en segundos." },
     { "p": "Si sólo quieres repartir una promoción, un [volante](id:volantes) de media carta cuesta menos imprimir." }
@@ -57,7 +57,7 @@
     { "pregunta": "¿Cómo imprimo los dos lados?", "respuesta": "Por el lado largo. Imprime la página uno, voltea la hoja e imprime la dos." },
     { "pregunta": "¿Puedo poner un QR en el folleto?", "respuesta": "Sí. Puede abrir tu WhatsApp o una liga que escribas." },
     { "pregunta": "¿Se puede usar como folleto digital?", "respuesta": "Sí. Manda el PDF por WhatsApp o correo. Se lee bien en computadora y en tableta." },
-    { "pregunta": "¿El folleto tiene costo?", "respuesta": "No. Lo bajas gratis y sin marca de agua todas las veces que quieras." }
+    { "pregunta": "¿El folleto tiene costo?", "respuesta": "No. Lo bajas gratis y sin marca de agua todas las veces que quieras. La línea «Hecho con Aliviane» del pie es opcional." }
   ],
   "relacionadas": ["flyer", "volantes", "tarjetas-de-presentacion", "cartel-publicitario", "flyer-informativo", "diseno-de-paginas-web"],
   "venta": {
@@ -75,5 +75,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/folleto: sólo tríptico carta (la lista pedía díptico también: mejora de motor anotada). Sin sangría: anotado."
+  "nota": "H2. Top 3 con WebSearch 12-nov-2026. Motor editor-diseno/folleto: sólo tríptico carta (la lista pedía díptico también: mejora de motor anotada). Sangrado de 3 mm con la casilla de imprenta (R1)."
 }

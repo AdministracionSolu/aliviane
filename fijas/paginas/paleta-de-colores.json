@@ -67,7 +67,7 @@
   ],
   "faqs": [
     { "pregunta": "¿El generador de paletas es gratis?", "respuesta": "Sí. No pide cuenta ni correo. Puedes armar y bajar todas las paletas que quieras." },
-    { "pregunta": "¿Cuántos colores debe tener una paleta?", "respuesta": "Entre tres y cinco. Cada paleta de la herramienta trae cinco y puedes quitar los que no uses." },
+    { "pregunta": "¿Cuántos colores debe tener una paleta?", "respuesta": "Entre tres y cinco. Cada paleta de la herramienta trae cinco y usas sólo los que te sirvan." },
     { "pregunta": "¿Puedo sacar los colores de mi logo?", "respuesta": "Sí. Elige «Desde una imagen» y sube tu logo en PNG o JPG." },
     { "pregunta": "¿Mi foto se guarda en algún lado?", "respuesta": "No. Se lee dentro de tu navegador y nunca sale de tu equipo." },
     { "pregunta": "¿Cómo uso el archivo CSS?", "respuesta": "Pégalo al inicio de tu hoja de estilos. Cada color queda como una variable que puedes llamar por su nombre." },

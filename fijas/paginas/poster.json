@@ -109,7 +109,7 @@
       "p": "El de 60 × 90 cm requiere impresión de gran formato. Pide papel fotográfico mate si va en interiores con luz directa."
     },
     {
-      "p": "El PNG del editor se ajusta a la memoria de tu navegador. Para tamaños grandes, el PDF siempre conserva mejor las letras."
+      "p": "El PNG grande baja de 300 ppp para no trabar tu navegador. Para tamaños grandes, el PDF siempre conserva mejor las letras."
     },
     {
       "h2": "Detalles que hacen ver bien un póster"
@@ -153,11 +153,11 @@
     },
     {
       "pregunta": "¿Se guarda mi diseño?",
-      "respuesta": "Sí. Queda en este navegador para la siguiente vez que entres."
+      "respuesta": "Sí. Tus textos, colores y medida quedan en este navegador. La foto y el logo se vuelven a subir cada vez."
     },
     {
       "pregunta": "¿Tiene costo o marca de agua?",
-      "respuesta": "No. Creas y bajas tus pósters gratis."
+      "respuesta": "No. Creas y bajas tus pósters gratis. La línea «Hecho con Aliviane» del pie es opcional."
     }
   ],
   "relacionadas": [

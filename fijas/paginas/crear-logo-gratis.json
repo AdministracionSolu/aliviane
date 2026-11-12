@@ -23,7 +23,7 @@
       { "titulo": "Ajusta la que más te guste", "texto": "Cambia el símbolo, la letra, el espacio entre letras y los dos colores. La vista se actualiza al momento." },
       { "titulo": "Baja el paquete completo", "texto": "El ZIP trae SVG, tres tamaños de PNG, versión para fondo oscuro y foto de perfil cuadrada." }
     ] },
-    { "h2": "Los siete acomodos que puedes elegir" },
+    { "h2": "Los acomodos que puedes elegir" },
     { "tabla": {
       "columnas": ["Acomodo", "Cómo se ve", "Dónde funciona mejor"],
       "filas": [
@@ -32,7 +32,7 @@
         ["Sólo nombre", "El nombre con su tipografía, sin dibujo", "Nombres cortos y con carácter"],
         ["Sólo símbolo", "El dibujo solo", "Sellos, iconos de app, bordados chicos"],
         ["Sello", "Círculo con el nombre en curva", "Empaques, calcomanías, mandiles"],
-        ["Escudo", "Escudo con banda y nombre", "Equipos, escuelas, clubes"],
+        ["Escudo", "Escudo con banda y nombre", "Sólo en el creador para equipo de fútbol"],
         ["Iniciales", "Monograma con marco", "Despachos, marcas personales, ropa"]
       ]
     } },

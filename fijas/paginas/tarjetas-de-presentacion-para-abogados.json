@@ -12,7 +12,7 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "El editor de arriba abre en el diseño «Despacho», que usa letra con remate y colores sobrios. Escribe tu nombre con título, tu materia y tu número de cédula si quieres mostrarlo. Bajas la tarjeta de 9 × 5 cm o la hoja carta con 10 tarjetas y marcas de corte."
+    "El editor de arriba abre en el diseño «Despacho», que usa letra con remate y colores sobrios. Escribe tu nombre con título, tu materia y tu cédula junto al puesto si quieres mostrarla. Bajas la tarjeta de 9 × 5 cm o la hoja carta con 10 tarjetas y marcas de corte."
   ],
   "herramienta": { "id": "editor-diseno", "modo": "tarjeta-presentacion", "opciones": { "diseno": "despacho" } },
   "cuerpo": [

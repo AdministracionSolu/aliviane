@@ -273,7 +273,7 @@
   "faqs": [
     {
       "pregunta": "¿Las plantillas son gratis?",
-      "respuesta": "Sí. No piden cuenta ni correo y no ponen marca de agua."
+      "respuesta": "Sí. No piden cuenta ni correo y no ponen marca de agua. La línea «Hecho con Aliviane» del pie se quita con una casilla."
     },
     {
       "pregunta": "¿Puedo editar las plantillas desde el celular?",
@@ -293,7 +293,7 @@
     },
     {
       "pregunta": "¿Se guarda mi diseño?",
-      "respuesta": "Sí. Queda en este navegador para tu siguiente publicación."
+      "respuesta": "Sí. Tus textos y colores quedan en este navegador para tu siguiente publicación. La foto y el logo se suben otra vez."
     }
   ],
   "relacionadas": [

@@ -23,7 +23,7 @@
   "revisada": "2026-11",
   "respuesta": [
     "Elige el tipo de código, escribe tu número y el código de barras aparece al momento. Si es EAN o UPC, la herramienta calcula el dígito verificador.",
-    "Lo bajas en PNG o SVG, o en una hoja tamaño carta llena de etiquetas para imprimir. No pide cuenta ni pone marca de agua."
+    "Lo bajas en PNG o SVG, o en una hoja tamaño carta llena de etiquetas para imprimir. No pide cuenta. El PNG y la hoja llevan abajo una línea gris chica de Aliviane."
   ],
   "herramienta": {
     "id": "codigo-barras",
@@ -145,7 +145,7 @@
   "faqs": [
     {
       "pregunta": "¿El generador de código de barras es gratis?",
-      "respuesta": "Sí. Sin cuenta, sin marca de agua y sin límite de códigos."
+      "respuesta": "Sí. Sin cuenta y sin límite de códigos. El SVG sale sin la línea chica de Aliviane que lleva el PNG."
     },
     {
       "pregunta": "¿Puedo vender en supermercados con estos códigos?",

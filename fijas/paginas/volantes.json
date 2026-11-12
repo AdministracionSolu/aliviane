@@ -12,7 +12,7 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "Elige un diseño, escribe tu oferta y tu WhatsApp, y baja el volante en media carta. Es la medida que más rinde al imprimir y la más cómoda para repartir en mano. El PDF sale del tamaño real y sin marca de agua."
+    "Elige un diseño, escribe tu oferta y tu WhatsApp, y baja el volante en media carta. Es la medida que más rinde al imprimir y la más cómoda para repartir en mano. El PDF sale del tamaño real con una línea chica de Aliviane que quitas con una casilla."
   ],
   "herramienta": { "id": "editor-diseno", "modo": "volante" },
   "cuerpo": [
@@ -57,7 +57,7 @@
   ],
   "faqs": [
     { "pregunta": "¿Qué medida tiene un volante media carta?", "respuesta": "13.97 × 21.59 cm. Es la mitad de una hoja carta." },
-    { "pregunta": "¿Puedo imprimir dos volantes en una hoja carta?", "respuesta": "Sí. Pídelo así en la imprenta o imprime el PDF de carta dos veces. Luego corta a la mitad." },
+    { "pregunta": "¿Puedo imprimir dos volantes en una hoja carta?", "respuesta": "Sí. Lleva el PDF de media carta y pide a la imprenta dos por hoja. El editor baja un volante por página y ellos lo acomodan." },
     { "pregunta": "¿Puedo hacer el volante para WhatsApp?", "respuesta": "Sí. Cambia la medida a «Para redes» y baja el PNG vertical." },
     { "pregunta": "¿Puedo subir una foto de mi producto?", "respuesta": "Sí. Sube un JPG o PNG y acomódalo arrastrando. La foto no sale de tu equipo." },
     { "pregunta": "¿Cuesta algo?", "respuesta": "No. Diseñas y bajas los volantes gratis." },

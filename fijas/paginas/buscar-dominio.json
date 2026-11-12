@@ -12,7 +12,7 @@
   ],
   "title": "Dominios disponibles: busca .mx y .com al instante",
   "h1": "Buscar dominios disponibles",
-  "description": "Revisa si tu dominio está libre en .com.mx, .mx, .com y más. Ves quién lo tiene ocupado desde cuándo y opciones parecidas. Gratis y sin dejar tu correo.",
+  "description": "Revisa si tu dominio está libre en .com.mx, .mx, .com y más. Ves desde cuándo está ocupado y opciones parecidas. Gratis y sin dejar tu correo.",
   "resumen": "Revisa si tu dominio está libre en .com.mx, .mx y .com",
   "categoria": "Dominio y hosting",
   "categoriaApp": "UtilitiesApplication",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "p": "Un dominio vencido puede quedar libre para otra persona. Revisa la fecha de vencimiento que te mostramos cuando buscas el tuyo."
+      "p": "Un dominio vencido puede quedar libre para otra persona. Fuera de .mx y .com.mx te mostramos su fecha de vencimiento al buscar."
     },
     {
       "h2": "Tu búsqueda queda entre tú y el registro"

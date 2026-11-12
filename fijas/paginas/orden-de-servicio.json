@@ -122,7 +122,7 @@
       "p": "Un taller recibe un celular con la pantalla estrellada. En la orden anota marca, modelo y que el equipo sí enciende."
     },
     {
-      "p": "Desglosa la pantalla nueva y la mano de obra en dos renglones. El cliente firma en la tableta y se lleva su copia en PDF por WhatsApp."
+      "p": "Desglosa la pantalla nueva y la mano de obra en dos renglones. El técnico firma en la tableta y el cliente firma la hoja impresa. Después recibe su copia en PDF por WhatsApp."
     },
     {
       "p": "Cuando el cliente pague usa el [recibo de pago](id:recibo-de-pago). Si te pide precio antes de dejar el equipo, mándale una [cotización](id:formato-de-cotizacion)."
@@ -131,11 +131,11 @@
   "faqs": [
     {
       "pregunta": "¿La orden de servicio es gratis?",
-      "respuesta": "Sí. Sin registro y sin marca de agua."
+      "respuesta": "Sí. Sin registro y sin marca de agua. Al pie sale una línea chica que dice Hecho con Aliviane."
     },
     {
       "pregunta": "¿Puede firmar el cliente en la tableta?",
-      "respuesta": "Sí. Hay recuadros para firmar con el dedo."
+      "respuesta": "No. El recuadro para firmar con el dedo es del técnico. El cliente firma en la hoja impresa."
     },
     {
       "pregunta": "¿Sirve para taller mecánico?",

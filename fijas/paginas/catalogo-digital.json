@@ -71,7 +71,7 @@
         "filas": [
           [
             "Seis por hoja",
-            "Cuadrícula de tres por dos con foto chica",
+            "Dos columnas y tres filas con foto chica",
             "Ropa, dulces, papelería y regalos"
           ],
           [
@@ -130,7 +130,7 @@
   "faqs": [
     {
       "pregunta": "¿El catálogo digital es gratis?",
-      "respuesta": "Sí. Sin registro, sin marca de agua y sin límite de productos."
+      "respuesta": "Sí. Sin registro, sin marca de agua y sin límite de productos. Al pie sale una línea chica que dice Hecho con Aliviane."
     },
     {
       "pregunta": "¿El botón de WhatsApp funciona dentro del PDF?",

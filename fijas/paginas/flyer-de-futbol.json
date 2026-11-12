@@ -78,7 +78,7 @@
         },
         {
           "titulo": "Lista premios y reglas en renglones",
-          "texto": "Cada renglón de detalles es una línea con su marca. Tres o cuatro bastan."
+          "texto": "Cada renglón de detalles sale centrado en su propia línea. Tres o cuatro bastan."
         },
         {
           "titulo": "Activa el QR a tu WhatsApp",

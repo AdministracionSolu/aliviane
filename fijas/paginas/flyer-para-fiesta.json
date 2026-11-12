@@ -59,7 +59,7 @@
           [
             "Día y hora",
             "Sábado 29 · 9 pm",
-            "Debajo de la lista"
+            "Arriba del título"
           ],
           [
             "Lugar",
@@ -151,7 +151,7 @@
     },
     {
       "pregunta": "¿Es gratis?",
-      "respuesta": "Sí. Sin cuenta ni marca de agua."
+      "respuesta": "Sí. Sin cuenta ni marca de agua. Quita el pie «Hecho con Aliviane» desmarcando su casilla."
     }
   ],
   "relacionadas": [

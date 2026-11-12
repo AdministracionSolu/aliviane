@@ -63,7 +63,7 @@
     { "pregunta": "¿Puedo hacer una lona de 4 × 2 m?", "respuesta": "Sí. Elige «A tu medida» y escribe ancho y alto en centímetros." },
     { "pregunta": "¿Por qué aparece una persona en la vista?", "respuesta": "Para que veas la escala real. No sale en el archivo que bajas." },
     { "pregunta": "¿Puedo poner un QR?", "respuesta": "Sí. Úsalo sólo si la lona queda al alcance de la mano." },
-    { "pregunta": "¿Cuánto cuesta el diseño?", "respuesta": "Nada. Lo bajas gratis y sin marca de agua." }
+    { "pregunta": "¿Cuánto cuesta el diseño?", "respuesta": "Nada. Lo bajas gratis y sin marca de agua. Si no quieres la línea «Hecho con Aliviane» al pie, apaga su casilla." }
   ],
   "relacionadas": ["banner", "letreros-para-negocios", "letrero-se-vende", "cartel-publicitario", "poster", "pagina-web-para-negocio"],
   "venta": {

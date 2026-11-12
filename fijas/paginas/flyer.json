@@ -58,12 +58,12 @@
     { "p": "Para eventos con fecha mira el [flyer de fútbol](id:flyer-de-futbol), el [flyer de rifa](id:flyer-de-rifa) y el [flyer para fiesta](id:flyer-para-fiesta). Cada uno explica lo que ese evento necesita decir." }
   ],
   "faqs": [
-    { "pregunta": "¿Cuánto cuesta usar el editor de flyers?", "respuesta": "Nada. No pide cuenta ni tarjeta y no pone marca de agua. Puedes bajar todos los flyers que quieras." },
+    { "pregunta": "¿Cuánto cuesta usar el editor de flyers?", "respuesta": "Nada. No pide cuenta ni tarjeta y no pone marca de agua. La línea «Hecho con Aliviane» al pie es opcional. Puedes bajar todos los flyers que quieras." },
     { "pregunta": "¿El PDF sirve para la imprenta?", "respuesta": "Sí. Sale del tamaño real y con las letras en vectores. La imprenta lo abre igual en cualquier computadora." },
     { "pregunta": "¿Puedo poner mi logo y una foto?", "respuesta": "Sí. Sube un PNG o JPG y acomódalo arrastrando. El archivo se queda en tu equipo." },
     { "pregunta": "¿Puedo cambiar las letras y los colores?", "respuesta": "Sí. Hay combinaciones de color listas y puedes elegir el tuyo. También cambias la tipografía de títulos y de texto." },
     { "pregunta": "¿Se guarda lo que escribí?", "respuesta": "Sí, en este navegador. Si vuelves desde el mismo equipo encuentras tu último diseño." },
-    { "pregunta": "¿El flyer trae sangría para corte?", "respuesta": "No. El PDF sale al tamaño exacto sin margen extra. Si tu imprenta pide sangría, deja los textos lejos de la orilla." }
+    { "pregunta": "¿El flyer trae sangría para corte?", "respuesta": "Sí. Marca la casilla de imprenta y el PDF sale con 3 mm de sangrado. También trae marcas de corte para la guillotina." }
   ],
   "relacionadas": ["volantes", "flyer-informativo", "folleto", "cartel-publicitario", "banner", "landing-page"],
   "venta": {

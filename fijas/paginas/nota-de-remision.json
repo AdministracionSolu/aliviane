@@ -22,7 +22,7 @@
       { "titulo": "Tus datos y tu logo", "texto": "Escribe el nombre de tu negocio y tu teléfono. Sube tu logo si lo tienes." },
       { "titulo": "Cliente y lugar de entrega", "texto": "Pon a quién entregas y en qué domicilio. Ahorra dudas al repartidor." },
       { "titulo": "La mercancía", "texto": "Una línea por producto con cantidad, descripción y precio si quieres mostrarlo." },
-      { "titulo": "Firmas", "texto": "Firma como «Entregó». El cliente firma «Recibí de conformidad» en la hoja impresa o en la pantalla." }
+      { "titulo": "Firmas", "texto": "Firma como «Entregó». El cliente firma «Recibí de conformidad» en la hoja impresa al recibir." }
     ] },
     { "h2": "Para qué sirve una nota de remisión" },
     { "p": "La remisión prueba que entregaste algo y que alguien lo recibió completo. Es la hoja que firma el cliente cuando baja la mercancía." },
@@ -54,9 +54,9 @@
     { "p": "Cuando te paguen, entrega un [recibo de pago](id:recibo-de-pago). Para ventas de mostrador te sirve más la [nota de venta](id:nota-de-venta)." }
   ],
   "faqs": [
-    { "pregunta": "¿La nota de remisión es gratis?", "respuesta": "Sí. Sin registro, sin marca de agua y con todas las que necesites." },
+    { "pregunta": "¿La nota de remisión es gratis?", "respuesta": "Sí. Sin registro, sin marca de agua y con todas las que necesites. Al pie sale una línea chica que dice Hecho con Aliviane." },
     { "pregunta": "¿Se puede llenar a mano?", "respuesta": "Sí. Descárgala sin partidas y sale en blanco para escribir con pluma." },
-    { "pregunta": "¿El cliente puede firmar en el celular?", "respuesta": "Sí. Hay un recuadro para firmar con el dedo antes de descargar." },
+    { "pregunta": "¿El cliente puede firmar en el celular?", "respuesta": "No. El recuadro para firmar con el dedo es de quien entrega. El cliente firma la hoja impresa." },
     { "pregunta": "¿Qué es un remito?", "respuesta": "Es el nombre de la nota de remisión en Argentina. Sirve para lo mismo." },
     { "pregunta": "¿Se puede editar en Word o Excel?", "respuesta": "No. Se llena aquí y se descarga en PDF o imagen." },
     { "pregunta": "¿Mis datos se guardan?", "respuesta": "Sí, sólo en tu navegador. Hay un botón para borrarlos de tu equipo." }

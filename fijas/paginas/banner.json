@@ -59,11 +59,11 @@
   ],
   "faqs": [
     { "pregunta": "¿Puedo hacer un banner de otra medida?", "respuesta": "Sí. Elige «A tu medida» y escribe el ancho y el alto. El diseño se ajusta al nuevo tamaño." },
-    { "pregunta": "¿En qué resolución sale el PNG de un banner grande?", "respuesta": "Depende de la medida. El editor sube la resolución hasta donde tu navegador lo aguanta y lo indica antes de bajar." },
+    { "pregunta": "¿En qué resolución sale el PNG de un banner grande?", "respuesta": "Depende de la medida. El editor usa hasta 300 ppp y baja esa cifra en medidas grandes. Junto al botón ves los pixeles y los ppp antes de bajar." },
     { "pregunta": "¿Qué archivo le doy a la imprenta?", "respuesta": "El PDF. Está a escala real y las letras no se pixelean al imprimir en grande." },
     { "pregunta": "¿El banner para web sirve en Facebook?", "respuesta": "Sí. La medida de 1200 × 628 px funciona en publicaciones con liga y en encabezados de página." },
     { "pregunta": "¿Puedo agregar un código QR?", "respuesta": "Sí. Lleva a tu WhatsApp o a la liga que escribas. Ponlo a la altura de los ojos para que lo escaneen." },
-    { "pregunta": "¿Tiene costo o marca de agua?", "respuesta": "No. El banner es tuyo y lo bajas las veces que quieras." }
+    { "pregunta": "¿Tiene costo o marca de agua?", "respuesta": "No. El banner es tuyo y lo bajas las veces que quieras. La línea «Hecho con Aliviane» del pie se quita con una casilla." }
   ],
   "relacionadas": ["lona-publicitaria", "letreros-para-negocios", "cartel-publicitario", "flyer", "portada-de-facebook", "diseno-de-paginas-web"],
   "venta": {

@@ -63,7 +63,7 @@
       }
     },
     {
-      "p": "Antes de diseñar, pregunta a tu imprenta qué medida corta. Si te dicen otra, ajusta el archivo para que no se pierdan bordes."
+      "p": "Antes de diseñar, pregunta a tu imprenta qué medida corta. El editor arma la tarjeta sólo en 9 × 5 cm. Si cortan otra medida, pregunta si pueden ajustar tu PDF."
     },
     {
       "h2": "Cómo diseñar tu tarjeta con el editor"
@@ -492,7 +492,7 @@
     },
     {
       "pregunta": "¿El editor de tarjetas es gratis?",
-      "respuesta": "Sí. Diseñas y bajas PDF, PNG o la hoja carta sin registro y sin marca de agua."
+      "respuesta": "Sí. Diseñas y bajas PDF, PNG o la hoja carta sin registro y sin marca de agua. La línea chica «Hecho con Aliviane» del pie se quita con una casilla."
     },
     {
       "pregunta": "¿Puedo poner un código QR en mi tarjeta?",
@@ -500,7 +500,7 @@
     },
     {
       "pregunta": "¿Cuánto rebase lleva una tarjeta de presentación?",
-      "respuesta": "Depende de la imprenta. Pregúntales antes de mandar el archivo y deja el fondo un poco más grande si lo piden."
+      "respuesta": "Depende de la imprenta, aunque lo común son 3 mm por lado. Marca la casilla de imprenta y el PDF sale con 3 mm de sangrado y marcas de corte."
     },
     {
       "pregunta": "¿Puedo imprimir mis tarjetas en una impresora de casa?",
