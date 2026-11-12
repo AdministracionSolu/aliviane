@@ -177,8 +177,8 @@
     "pagina-web-para-negocio"
   ],
   "venta": {
-    "puente": "Tu letrero avisa cuando estás abierto y tu página vende cuando ya cerraste.",
-    "aviso": "Tu letrero ya está listo. ¿Quieres una página que reciba pedidos fuera de horario?",
+    "puente": "Tu letrero avisa cuando estás abierto y tu página informa aunque ya hayas cerrado.",
+    "aviso": "Tu letrero ya está listo. ¿Quieres una página que muestre tus productos fuera de horario?",
     "titulo": "¿Abrimos tu negocio también en internet?",
     "trabajos": [
       "laola",

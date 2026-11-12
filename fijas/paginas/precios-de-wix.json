@@ -227,7 +227,7 @@
           [
             "Tienda con cobros",
             "Desde el plan Core",
-            "Se cotiza aparte"
+            "No lo hacemos"
           ],
           [
             "Ves el resultado antes de pagar",
@@ -418,7 +418,7 @@
     },
     {
       "pregunta": "¿Aliviane hace tiendas en línea como Wix?",
-      "respuesta": "No en los paquetes de $1,500 y $5,000. Son páginas informativas y las tiendas se cotizan aparte."
+      "respuesta": "No. Los paquetes de $1,500 y $5,000 son páginas informativas con botones de contacto."
     },
     {
       "pregunta": "¿Qué pasa con mi página de Aliviane si dejo de pagar?",

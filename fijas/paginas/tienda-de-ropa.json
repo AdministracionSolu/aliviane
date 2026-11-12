@@ -22,7 +22,7 @@
   },
   "respuesta": [
     "Una tienda online de ropa necesita fotos claras, tallas y una forma fácil de pedir. Para muchas tiendas basta un catálogo con botón a WhatsApp.",
-    "Aliviane hace esa página desde $1,500 con tu dominio. Si quieres cobro en línea con carrito, se cotiza aparte."
+    "Aliviane hace esa página desde $1,500 con tu dominio. Tu clienta elige en el catálogo y te escribe por WhatsApp para pagar."
   ],
   "herramienta": null,
   "cuerpo": [
@@ -103,7 +103,7 @@
           [
             "Con Aliviane",
             "Landing $1,500 o sitio completo $5,000",
-            "Se cotiza aparte"
+            "No lo hacemos"
           ],
           [
             "Inventario",
@@ -243,7 +243,7 @@
     },
     {
       "pregunta": "¿Mis clientas pueden pagar en la página?",
-      "respuesta": "No en los paquetes. Te piden por WhatsApp y el cobro en línea se cotiza aparte."
+      "respuesta": "No. Te piden por WhatsApp y el pago lo acuerdan ustedes, con transferencia o link de pago."
     },
     {
       "pregunta": "¿Puedo cambiar las prendas cada semana?",

@@ -63,9 +63,9 @@
   ],
   "relacionadas": ["recibo-de-pago", "nota-de-venta", "orden-de-compra", "formato-de-cotizacion", "generador-de-codigo-de-barras", "pagina-web-para-negocio"],
   "venta": {
-    "puente": "Tus clientes pueden hacerte pedidos desde tu propia página antes de que llegue la remisión.",
-    "aviso": "Tu remisión ya está lista. ¿Quieres que tus clientes te hagan pedidos desde tu propia página?",
-    "titulo": "¿Hacemos la página donde te hacen pedidos?",
+    "puente": "Tus clientes pueden ver tus productos en tu página y pedirte por WhatsApp.",
+    "aviso": "Tu remisión ya está lista. ¿Quieres que tus clientes vean tus productos en tu propia página?",
+    "titulo": "¿Hacemos la página donde tus clientes ven tus productos?",
     "trabajos": ["comprafin", "makatea", "laola"]
   },
   "fuentes": [],

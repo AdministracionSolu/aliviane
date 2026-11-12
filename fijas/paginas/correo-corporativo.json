@@ -427,6 +427,10 @@
     {
       "pregunta": "¿Puedo usar Gmail con mi dominio?",
       "respuesta": "Sí. La forma más directa es Google Workspace, que es Gmail con tu dominio."
+    },
+    {
+      "pregunta": "¿Aliviane me da el correo con mi dominio?",
+      "respuesta": "No. Tu dominio queda a tu nombre y contratas el correo con el proveedor que prefieras."
     }
   ],
   "relacionadas": [

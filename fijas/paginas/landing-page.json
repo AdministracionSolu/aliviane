@@ -342,7 +342,7 @@
       "h2": "Qué no incluye"
     },
     {
-      "p": "La landing es informativa con botones de contacto. Pedidos en línea, cobros dentro de la página y sistemas se cotizan aparte."
+      "p": "La landing es informativa con botones de contacto. No lleva carrito, cobros dentro de la página, pedidos en línea ni paneles."
     }
   ],
   "faqs": [
@@ -384,7 +384,7 @@
     },
     {
       "pregunta": "¿La landing puede cobrar con tarjeta?",
-      "respuesta": "No en el paquete. Los cobros en línea se cotizan aparte."
+      "respuesta": "No. La landing lleva botones a tu WhatsApp, tu teléfono y tu mapa. El cobro lo acuerdas con tu cliente."
     }
   ],
   "relacionadas": [

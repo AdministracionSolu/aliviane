@@ -294,7 +294,7 @@
     },
     {
       "pregunta": "¿La página cobra los pedidos?",
-      "respuesta": "No en los paquetes. El cobro en línea se cotiza aparte."
+      "respuesta": "No. El botón abre tu WhatsApp con un mensaje listo. El cobro lo haces tú al entregar."
     }
   ],
   "relacionadas": [
@@ -306,7 +306,7 @@
     "pagina-web-para-negocio"
   ],
   "venta": {
-    "puente": "Tus promociones lucen más en tu propia página, junto a tu menú y tu botón de pedidos.",
+    "puente": "Tus promociones lucen más en tu propia página, junto a tu menú y tu botón de WhatsApp.",
     "tituloCorto": "La página de tu hamburguesería",
     "titulo": "¿Hacemos la página de tu hamburguesería?",
     "mensaje": "Hola, vi la página de promociones de hamburguesas en aliviane.mx y quiero una página para mi negocio. (ref f-promociones-de-hamburguesas)",
