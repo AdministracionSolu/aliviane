@@ -165,9 +165,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_co/logos/plantillas/restaurante/",
+      "titulo": "Plantillas de logos para restaurante (Canva)",
+      "promete": "Plantillas editables con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/business/descargables/logos-de-restaurantes/",
+      "titulo": "Logos de restaurantes (Crehana)",
+      "promete": "Descargable con registro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://pos.toasttab.com/es-us/blog/on-the-line/restaurant-logos",
+      "titulo": "Los mejores logos de restaurantes (Toast)",
+      "promete": "Inspiración de marcas; sin creador"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/restaurante (cubiertos, olla, cloche, chile; paleta P_COMIDA)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/restaurante (cubiertos, olla, cloche, chile; paleta P_COMIDA). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

@@ -317,9 +317,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://expansion.mx/mercadotecnia/2024/05/27/hamburguesa-carls-jr-1-peso",
+      "titulo": "Hamburguesa a 1 peso (Expansión)",
+      "promete": "Nota sobre una cadena; no aplica a un local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/mx/blog/craft/negocio-de-hamburguesas",
+      "titulo": "Negocio de hamburguesas (Crehana)",
+      "promete": "Ideas para emprender; curso de pago"
+    },
+    {
+      "posicion": 3,
+      "url": "https://asest.es/story/emprender-negocio-de-hamburguesas/",
+      "titulo": "Emprender negocio de hamburguesas (Asest)",
+      "promete": "Ideas generales sin números"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Intención mezclada: ideas de promociones + página de la hamburguesería. Cabeza de 3K: no se leyó top 3. Las promociones son ideas, no cifras de terceros."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Intención mezclada: ideas de promociones + página de la hamburguesería. Cabeza de 3K: no se leyó top 3. Las promociones son ideas, no cifras de terceros. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

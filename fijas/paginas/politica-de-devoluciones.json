@@ -181,7 +181,14 @@
       "respuesta": "Sí. También lo copias como texto o HTML."
     }
   ],
-  "relacionadas": ["terminos-y-condiciones", "aviso-de-privacidad", "tienda-en-linea", "nota-de-venta", "tienda-de-ropa", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "terminos-y-condiciones",
+    "aviso-de-privacidad",
+    "tienda-en-linea",
+    "nota-de-venta",
+    "tienda-de-ropa",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Tu política de devoluciones se lee mejor en tu propia página, junto a tu catálogo.",
     "aviso": "¿Ya tienes tu política? Publícala en tu página junto a tu catálogo.",
@@ -198,9 +205,28 @@
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
     }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.homedepot.com.mx/politica-devoluciones",
+      "titulo": "Política de devoluciones (Home Depot México)",
+      "promete": "Política de una cadena; no sirve de plantilla"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.walmart.com.mx/devoluciones",
+      "titulo": "Devoluciones (Walmart México)",
+      "promete": "Política de una cadena"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.apple.com/mx/shop/help/policies",
+      "titulo": "Políticas de venta (Apple México)",
+      "promete": "Política de una marca"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

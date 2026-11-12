@@ -169,9 +169,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://metricool.com/es/tamano-imagenes-facebook/",
+      "titulo": "Tamaño de imágenes en Facebook 2026 (Metricool)",
+      "promete": "Medidas citadas por terceros; vende su software"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.neolo.com/blog/medidas-para-facebook.php",
+      "titulo": "Medidas para Facebook 2026 (Neolo)",
+      "promete": "Lista de medidas; sin diseñador"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_ar/crear/portadas-facebook/",
+      "titulo": "Portadas de Facebook (Canva)",
+      "promete": "Plantillas con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/portada-facebook (1640 × 624 con guías de zona en celular). No se citan medidas oficiales de Meta: sólo lo que hace el motor."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/portada-facebook (1640 × 624 con guías de zona en celular). No se citan medidas oficiales de Meta: sólo lo que hace el motor. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

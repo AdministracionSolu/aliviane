@@ -179,9 +179,28 @@
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf"
     }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://contadormx.com/ejemplos-de-aviso-de-privacidad-y-para-la-proteccion-de-datos-personales-en-mexico/",
+      "titulo": "Ejemplos de aviso de privacidad en México (ContadorMX)",
+      "promete": "Ejemplos y multas; sin generador"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.legiscope.com/blog/aviso-privacidad-mexico-lfpdppp.html",
+      "titulo": "Aviso de privacidad México 2026 (Legiscope)",
+      "promete": "Tipos integral, simplificado y corto con modelo"
+    },
+    {
+      "posicion": 3,
+      "url": "https://mexico.justia.com/derecho-corporativo/aviso-de-privacidad/preguntas-y-respuestas-sobre-aviso-de-privacidad",
+      "titulo": "Preguntas y respuestas sobre aviso de privacidad (Justia)",
+      "promete": "Preguntas generales; sin plantilla"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

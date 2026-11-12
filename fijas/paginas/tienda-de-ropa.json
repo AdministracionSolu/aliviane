@@ -10,7 +10,9 @@
     "vender ropa por internet",
     "publicidad para tienda de ropa"
   ],
-  "cabeza_titulo": ["tienda online de ropa"],
+  "cabeza_titulo": [
+    "tienda online de ropa"
+  ],
   "title": "Tienda online de ropa: catálogo y pedidos por WhatsApp",
   "h1": "Tienda online de ropa para tu negocio",
   "description": "Tienda online de ropa con tu catálogo, tallas y pedidos por WhatsApp. Ideas de publicidad y tu página desde $1,500 con dominio incluido y cambios cada semana.",
@@ -287,9 +289,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/como-crear-una-tienda-de-ropa-online/",
+      "titulo": "Cómo crear una tienda de ropa online en 10 pasos (Tiendanube)",
+      "promete": "Pasos con su plataforma de tienda"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/mx/blog/como-vender-ropa-por-internet-en-mexico/",
+      "titulo": "Cómo vender ropa por internet en México (Tiendanube)",
+      "promete": "Guía que vende su plataforma"
+    },
+    {
+      "posicion": 3,
+      "url": "https://es.shopify.com/blog/vender-ropa-ecologica-online",
+      "titulo": "Vender ropa ecológica online (Shopify)",
+      "promete": "Guía que vende su plataforma"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. Lote H3 (12-nov-2026). Intención mezclada (comprar ropa contra vender ropa): se escribe para quien vende. Cabeza de 3K: no se leyó top 3. No hay tienda de ropa en el portafolio."
+  "publicacion": "2026-11-12",
+  "nota": "R2 12-nov: cabeza_titulo natural porque la cabeza de la lista suena torpe en el title. Lote H3 (12-nov-2026). Intención mezclada (comprar ropa contra vender ropa): se escribe para quien vende. Cabeza de 3K: no se leyó top 3. No hay tienda de ropa en el portafolio. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }
