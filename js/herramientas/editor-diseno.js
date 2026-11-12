@@ -1,5 +1,6 @@
 // Herramienta «editor-diseno» de Aliviane: editor de piezas impresas y para redes.
-// montar(contenedor, { modo, idioma: 'es-MX', textos })
+// montar(contenedor, { modo, idioma: 'es-MX', textos, diseno?, formato? })
+// diseno = id del diseño de arranque (p. ej. 'rifa' en flyer); formato = id de la medida de arranque.
 // Los diseños de arranque de cada modo viven en editor-diseno/<archivo>.js y se cargan al montar.
 // Todo pasa en el navegador: el texto se dibuja con trazos de fuentes/ y el PDF sale vectorial.
 
@@ -121,12 +122,15 @@ export function montar(contenedor, opciones = {}) {
 }
 
 function armar(contenedor, raiz, cfg, modo, t, opciones) {
-  const clave = 'aliviane-' + ID + '-' + modo;
-  const previo = leer(clave) || {};
   const disenos = cfg.disenos;
+  // opciones.diseno / opciones.formato: con qué abre la página (cada página guarda lo suyo aparte).
+  const disIni = disenos.findIndex((d) => d.id === opciones.diseno);
+  const fmtIni = cfg.formatos.some((f) => f.id === opciones.formato) ? opciones.formato : (cfg.formatoInicial || cfg.formatos[0].id);
+  const clave = 'aliviane-' + ID + '-' + modo + (disIni >= 0 ? '-' + opciones.diseno : '') + (opciones.formato ? '-' + opciones.formato : '');
+  const previo = leer(clave) || {};
   const st = {
-    dis: Math.max(0, disenos.findIndex((d) => d.id === previo.dis)),
-    formato: cfg.formatos.some((f) => f.id === previo.formato) ? previo.formato : (cfg.formatoInicial || cfg.formatos[0].id),
+    dis: disenos.some((d) => d.id === previo.dis) ? disenos.findIndex((d) => d.id === previo.dis) : Math.max(0, disIni),
+    formato: cfg.formatos.some((f) => f.id === previo.formato) ? previo.formato : fmtIni,
     medida: previo.medida || null,
     cara: 0,
     datos: {}, editados: new Set(previo.editados || []),

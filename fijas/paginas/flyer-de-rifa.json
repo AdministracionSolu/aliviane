@@ -12,11 +12,12 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "Elige el diseño «Rifa» en la galería del editor y escribe los premios, uno por renglón. El precio del boleto va en número grande y la fecha del sorteo abajo. Bájalo en media carta para repartir o como imagen vertical para los grupos de WhatsApp."
+    "El editor ya abre en el diseño «Rifa» y ahí escribes los premios por renglón. El precio del boleto va en número grande y la fecha del sorteo abajo. Bájalo en media carta para repartir o como imagen vertical para los grupos de WhatsApp."
   ],
   "herramienta": {
     "id": "editor-diseno",
-    "modo": "flyer"
+    "modo": "flyer",
+    "opciones": { "diseno": "rifa" }
   },
   "cuerpo": [
     {
@@ -43,8 +44,8 @@
     {
       "pasos": [
         {
-          "titulo": "Abre el diseño Rifa",
-          "texto": "Está en la galería del editor con fondo crema y morado. Puedes cambiar los colores."
+          "titulo": "Empieza con el diseño Rifa",
+          "texto": "Ya viene puesto en el editor con fondo crema y morado. Puedes cambiar los colores."
         },
         {
           "titulo": "Escribe la causa en el subtítulo",
@@ -171,5 +172,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Rifa» en la galería. Ley Federal de Juegos y Sorteos art. 4 leída en ordenjuridico.gob.mx el 12-nov-2026. Mejora de motor: boletos numerados con talón."
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Rifa» abre solo con herramienta.opciones.diseno (R1). Ley Federal de Juegos y Sorteos art. 4 leída en ordenjuridico.gob.mx el 12-nov-2026. Mejora de motor: boletos numerados con talón."
 }

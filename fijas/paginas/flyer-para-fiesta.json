@@ -14,11 +14,12 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "Elige el diseño «Fiesta» de la galería, con fondo oscuro y letras angostas que se leen de noche. Escribe el nombre del evento, quién toca, el cover y las promociones. Lo bajas vertical para estados y redes, o en media carta para repartir afuera del lugar."
+    "El editor abre en el diseño «Fiesta», con fondo oscuro y letras angostas que se leen de noche. Escribe el nombre del evento, quién toca, el cover y las promociones. Lo bajas vertical para estados y redes, o en media carta para repartir afuera del lugar."
   ],
   "herramienta": {
     "id": "editor-diseno",
-    "modo": "flyer"
+    "modo": "flyer",
+    "opciones": { "diseno": "fiesta" }
   },
   "cuerpo": [
     {
@@ -134,7 +135,7 @@
   "faqs": [
     {
       "pregunta": "¿Dónde encuentro el diseño de fiesta?",
-      "respuesta": "En la galería del editor, con el nombre «Fiesta»."
+      "respuesta": "Ya está puesto. El editor abre en el diseño «Fiesta»."
     },
     {
       "pregunta": "¿Puedo hacerlo para historias de Instagram?",
@@ -176,5 +177,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Fiesta» en la galería."
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Fiesta» abre solo con herramienta.opciones.diseno (R1)."
 }

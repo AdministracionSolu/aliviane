@@ -12,9 +12,9 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "Elige el diseño «Despacho» en el editor de arriba, que usa letra con remate y colores sobrios. Escribe tu nombre con título, tu materia y tu número de cédula si quieres mostrarlo. Bajas la tarjeta de 9 × 5 cm o la hoja carta con 10 tarjetas y marcas de corte."
+    "El editor de arriba abre en el diseño «Despacho», que usa letra con remate y colores sobrios. Escribe tu nombre con título, tu materia y tu número de cédula si quieres mostrarlo. Bajas la tarjeta de 9 × 5 cm o la hoja carta con 10 tarjetas y marcas de corte."
   ],
-  "herramienta": { "id": "editor-diseno", "modo": "tarjeta-presentacion" },
+  "herramienta": { "id": "editor-diseno", "modo": "tarjeta-presentacion", "opciones": { "diseno": "despacho" } },
   "cuerpo": [
     { "h2": "Lo que espera un cliente de la tarjeta de su abogado" },
     { "p": "Quien busca un abogado suele estar en un problema. La tarjeta tiene que transmitir calma, orden y que sabes de su asunto." },
@@ -34,7 +34,7 @@
     { "p": "La cédula profesional se puede consultar en el Registro Nacional de Profesionistas de la SEP. Mostrarla le ahorra al cliente esa duda." },
     { "h2": "Cómo hacer tu tarjeta de abogado" },
     { "pasos": [
-      { "titulo": "Abre el diseño Despacho", "texto": "Es el primero de la galería. Usa una letra clásica y un acento discreto." },
+      { "titulo": "Empieza con el diseño Despacho", "texto": "El editor ya abre con ese diseño puesto. Usa una letra clásica y un acento discreto." },
       { "titulo": "Escribe la materia en la frase corta", "texto": "«Derecho laboral» o «Amparos y juicios mercantiles» orienta al cliente correcto." },
       { "titulo": "Pon la dirección del despacho", "texto": "Si recibes con cita, agrega «Atención con cita previa» en la frase." },
       { "titulo": "Agrega un QR al reverso", "texto": "Que abra tu WhatsApp o tu página. El cliente te guarda sin teclear." }
@@ -73,5 +73,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion, diseño «Despacho» (el primero de la galería, sale por omisión). SignSolú (contratos) como trabajo afín."
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion, diseño «Despacho» fijo con herramienta.opciones.diseno (R1). SignSolú (contratos) como trabajo afín."
 }

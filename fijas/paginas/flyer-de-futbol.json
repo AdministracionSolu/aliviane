@@ -12,11 +12,12 @@
   "categoriaApp": "DesignApplication",
   "revisada": "2026-11",
   "respuesta": [
-    "En la galería del editor elige el diseño «Torneo», que trae fondo de cancha y letras deportivas. Escribe la categoría, el costo por equipo, los premios y la fecha límite de inscripción. Bájalo en carta para la unidad deportiva o vertical para los grupos de WhatsApp."
+    "El editor abre en el diseño «Torneo», con fondo de cancha y letras deportivas. Escribe la categoría, el costo por equipo, los premios y la fecha límite de inscripción. Bájalo en carta para la unidad deportiva o vertical para los grupos de WhatsApp."
   ],
   "herramienta": {
     "id": "editor-diseno",
-    "modo": "flyer"
+    "modo": "flyer",
+    "opciones": { "diseno": "futbol" }
   },
   "cuerpo": [
     {
@@ -68,8 +69,8 @@
     {
       "pasos": [
         {
-          "titulo": "Elige el diseño Torneo",
-          "texto": "Está en la galería de diseños. Trae verde de cancha y amarillo para lo importante."
+          "titulo": "Empieza con el diseño Torneo",
+          "texto": "El editor ya abre con ese diseño puesto. Trae verde de cancha y amarillo para lo importante."
         },
         {
           "titulo": "Pon el costo en el dato grande",
@@ -132,7 +133,7 @@
   "faqs": [
     {
       "pregunta": "¿Dónde está el diseño de fútbol?",
-      "respuesta": "En la galería del editor, con el nombre «Torneo»."
+      "respuesta": "Ya está puesto. El editor abre en el diseño «Torneo»."
     },
     {
       "pregunta": "¿Puedo poner el logo de la liga?",
@@ -174,5 +175,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Torneo» (futbol) se elige en la galería."
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Torneo» (futbol) abre solo con herramienta.opciones.diseno (R1)."
 }
