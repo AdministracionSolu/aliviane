@@ -8,7 +8,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { RAIZ, MOLDES, CARPETA, RESERVADAS, cargarPaginas, contexto, renderPagina, ruta, publicada, hoyCDMX, largo,
-  textoVisible, textoPropio, palabras, motorExiste, TRABAJOS, dependenciasMotor, dependenciasSinPublicar } from './lib.mjs';
+  textoVisible, textoPropio, palabras, motorExiste, TRABAJOS, dependenciasMotor, dependenciasSinPublicar, ACCIONES_AVISO } from './lib.mjs';
 
 const estricto = process.argv.includes('--estricto');
 const hoy = hoyCDMX();
@@ -163,6 +163,11 @@ if (fs.existsSync(dirMotores)) for (const f of fs.readdirSync(dirMotores)) {
     porMotor.get(p.herramienta.id).push(p);
   }
   for (const [id, ps] of porMotor) {
+    // El aviso suave sale con «aliviane:resultado» y una acción de ACCIONES_AVISO: el motor debe mandarla.
+    const src = fs.readFileSync(path.join(RAIZ, 'js', 'herramientas', id + '.js'), 'utf8');
+    const acciones = [...src.matchAll(/avisar\([^,]+,[^,]+,\s*'([a-z-]+)'\)/g)].map((m) => m[1]);
+    if (!acciones.length) mal(ps[0], `el motor ${id} nunca avisa su resultado (avisar(contenedor, ID, 'descargar'|'copiar'|…)): el aviso suave no sale`);
+    for (const a of new Set(acciones)) if (!ACCIONES_AVISO.includes(a)) mal(ps[0], `el motor ${id} avisa «${a}», que no está en ACCIONES_AVISO de lib.mjs: el aviso suave no sale con esa acción`);
     const { faltan } = dependenciasMotor(id);
     if (faltan.length) mal(null, `el motor ${id} carga lo que no existe: ${faltan.join(', ')}`);
     const fuera = dependenciasSinPublicar(id);

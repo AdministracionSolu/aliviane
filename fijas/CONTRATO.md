@@ -135,8 +135,11 @@ conoce, cada motor usa su modo por omisión (el primero de su lista). Los que no
 | `lector-qr` | camara (o lector), wifi | Carga `js/vendor/jsQR.min.js` (Apache-2.0) sólo si el navegador no lee QR solo. |
 | `dominio-disponible` | (sin modo) | Única herramienta con red: RDAP y DNS sobre HTTPS desde el navegador. Acepta `?dominio=`. Su `textos.cierre` dice que la landing ya trae dominio. |
 
-Eventos: todos disparan `aliviane:resultado` al copiar o bajar. Además `lector-qr` dispara `leer` al leer un código y
-`dominio-disponible` dispara `consultar` al terminar una búsqueda: el aviso suave de venta también sale con ellos.
+Eventos: todos disparan `aliviane:resultado` (con `avisar()` de `_comun.js`) al copiar o bajar. Además `lector-qr`
+avisa `leer` al leer un código, `visor-cfdi` avisa `leer` al abrir una factura y `dominio-disponible` avisa `consultar`
+al terminar una búsqueda. El aviso suave de venta sale con cualquier acción de `ACCIONES_AVISO` en `lib.mjs`
+(descargar, copiar, leer, consultar). `probar.mjs` truena si un motor usado no avisa nunca o avisa una acción que
+no está en esa lista: un motor nuevo que dé su resultado de otra forma agrega su acción ahí.
 
 ## Reglas de escritura que las pruebas barren
 

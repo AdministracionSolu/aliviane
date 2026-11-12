@@ -290,6 +290,10 @@ ${corta ? '' : `<p class="alterno">También por correo a <a href="mailto:${CORRE
 </section>`;
 }
 
+// Acciones de un motor que cuentan como «ya tiene su resultado» y muestran el aviso suave de venta.
+// Todos los motores las mandan con avisar() de js/herramientas/_comun.js en el evento «aliviane:resultado».
+export const ACCIONES_AVISO = ['descargar', 'copiar', 'leer', 'consultar'];
+
 function herramienta(p, ctx) {
   const h = p.herramienta;
   if (!h?.id) return '';
@@ -302,7 +306,7 @@ function herramienta(p, ctx) {
   return `<div class="herramienta-zona"><link rel="stylesheet" href="/css/herramientas.css"><div class="ah-herramienta" data-herramienta="${esc(h.id)}" data-modo="${esc(h.modo || '')}"></div>
 <script type="module">import{montar}from"/js/herramientas/${h.id}.js";montar(document.querySelector('.ah-herramienta'),${opciones});</script></div>
 <aside class="aviso" id="aviso-venta" hidden><p>${md(p.venta?.aviso || p.venta?.puente, ctx)} <a href="${ligaWhatsApp(p)}" target="_blank" rel="noopener">Pídela por WhatsApp</a></p></aside>
-<script>document.addEventListener('aliviane:resultado',function(){var a=document.getElementById('aviso-venta');if(a)a.hidden=false},{once:true});</script>`;
+<script>document.addEventListener('aliviane:resultado',function(e){var a=document.getElementById('aviso-venta');if(a&&e.detail&&${JSON.stringify(ACCIONES_AVISO)}.indexOf(e.detail.accion)>=0)a.hidden=false});</script>`;
 }
 
 function faqs(p, ctx) {

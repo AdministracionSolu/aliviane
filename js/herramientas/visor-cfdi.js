@@ -456,7 +456,7 @@ export function montar(contenedor, opciones = {}) {
       if (!datos.ok) { errores.append(h('p', { class: 'ah-error', text: datos.error === 'xml' ? t.errXml(f.name) : t.errCfdi(f.name) })); continue; }
       abiertos.push({ nombre: f.name, datos });
     }
-    if (abiertos.length > antes) mostrar(antes);
+    if (abiertos.length > antes) { mostrar(antes); avisar(contenedor, ID, 'leer'); }
   }
   entrada.addEventListener('change', () => { abrir([...entrada.files]); entrada.value = ''; });
   zona.addEventListener('dragover', (e) => { e.preventDefault(); zona.classList.add('ah-encima'); });
