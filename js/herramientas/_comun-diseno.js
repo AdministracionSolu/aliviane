@@ -474,7 +474,8 @@ export class PDF {
     return nombre;
   }
   // Agrega una página de ancho × alto en puntos con su contenido (unidades ya en pt, y hacia arriba).
-  pagina(ancho, alto, contenido, formas = []) { this.pags.push({ ancho, alto, contenido, formas }); }
+  // extra: entradas más del diccionario de la página (p. ej. /TrimBox y /BleedBox).
+  pagina(ancho, alto, contenido, formas = [], extra = '') { this.pags.push({ ancho, alto, contenido, formas, extra }); }
   // Forma reutilizable (una tarjeta) de ancho × alto pt.
   forma(ancho, alto, contenido) {
     const nombre = 'Fm' + (this.formas.length + 1);
@@ -535,7 +536,7 @@ export class PDF {
       const fl = await this.flujo(p.contenido);
       const c = this.obj(fl.filtro.slice(0) || '', fl.datos);
       this.objs[c - 1].dic = fl.filtro;
-      kids.push(this.obj(`/Type/Page/Parent ${pagesRef} 0 R/MediaBox[0 0 ${n3(p.ancho)} ${n3(p.alto)}]${this.recursos(p.formas)}/Contents ${c} 0 R`));
+      kids.push(this.obj(`/Type/Page/Parent ${pagesRef} 0 R/MediaBox[0 0 ${n3(p.ancho)} ${n3(p.alto)}]${p.extra || ''}${this.recursos(p.formas)}/Contents ${c} 0 R`));
     }
     this.objs[pagesRef - 1] = { dic: `/Type/Pages/Kids[${kids.map((k) => k + ' 0 R').join(' ')}]/Count ${kids.length}` };
     const cat = this.obj(`/Type/Catalog/Pages ${pagesRef} 0 R`);

@@ -22,8 +22,13 @@ export const MODOS = {
   banner: 'lona', lona: 'lona', letrero: 'letrero', 'letrero-abierto-cerrado': 'letrero-abierto-cerrado',
   horario: 'horario', 'se-vende': 'se-vende', cupon: 'cupon', 'tarjeta-lealtad': 'tarjeta-lealtad',
   'portada-facebook': 'portada-facebook', 'post-instagram': 'post-instagram', 'iconos-destacadas': 'iconos-destacadas',
-  folleto: 'folleto',
+  folleto: 'folleto', 'tarjeta-digital': 'tarjeta-presentacion',
 };
+// Modos que abren en otra medida que la de su archivo de diseños.
+const FORMATO_MODO = { 'tarjeta-digital': 'digital' };
+// Piezas de imprenta: su PDF puede llevar 3 mm de sangrado y marcas de corte (apagado por omisión).
+const CON_SANGRADO = ['tarjeta-presentacion', 'tarjeta-digital', 'tarjeta-lealtad', 'flyer', 'volante', 'cartel', 'poster', 'lona', 'banner', 'folleto'];
+const SANGRADO = 3, MARGEN_CORTE = 10; // mm
 
 export const TEXTOS = {
   cargando: 'Cargando el editor…',
@@ -57,6 +62,8 @@ export const TEXTOS = {
   fTexto: 'Para el resto',
   delDiseno: 'La del diseño',
   pie: 'Poner «Hecho con Aliviane · aliviane.mx» al pie',
+  sangrado: 'PDF para imprenta con 3 mm de sangrado y marcas de corte',
+  sangradoAyuda: (m) => `PDF de ${m} más 3 mm de sangrado por lado, con marcas de corte.`,
   mover: 'Mover y cambiar tamaño',
   moverAyuda: 'Arrastra un texto o una imagen en la vista. En celular, tócalo y usa los botones.',
   nada: 'Nada elegido',
@@ -125,7 +132,8 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
   const disenos = cfg.disenos;
   // opciones.diseno / opciones.formato: con qué abre la página (cada página guarda lo suyo aparte).
   const disIni = disenos.findIndex((d) => d.id === opciones.diseno);
-  const fmtIni = cfg.formatos.some((f) => f.id === opciones.formato) ? opciones.formato : (cfg.formatoInicial || cfg.formatos[0].id);
+  const hay = (id) => cfg.formatos.some((f) => f.id === id);
+  const fmtIni = hay(opciones.formato) ? opciones.formato : hay(FORMATO_MODO[modo]) ? FORMATO_MODO[modo] : (cfg.formatoInicial || cfg.formatos[0].id);
   const clave = 'aliviane-' + ID + '-' + modo + (disIni >= 0 ? '-' + opciones.diseno : '') + (opciones.formato ? '-' + opciones.formato : '');
   const previo = leer(clave) || {};
   const st = {
@@ -140,6 +148,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     imgs: {},
     qr: Object.assign({ activo: false, tipo: 'whatsapp', liga: '' }, previo.qr || {}),
     pie: previo.pie !== false,
+    sangrado: !!previo.sangrado,
     op: Object.assign({}, previo.op || {}),
   };
   for (const o of cfg.opciones || []) if (st.op[o.id] == null) st.op[o.id] = o.defecto;
@@ -282,6 +291,9 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
 
   const chkPie = h('input', { type: 'checkbox', checked: st.pie });
   chkPie.addEventListener('change', () => { st.pie = chkPie.checked; todo(); });
+  const chkSangrado = h('input', { type: 'checkbox', checked: st.sangrado });
+  chkSangrado.addEventListener('change', () => { st.sangrado = chkSangrado.checked; programar(0); });
+  const filaSangrado = h('label', { class: 'ah-check', hidden: true }, chkSangrado, h('span', { text: t.sangrado }));
 
   columna.append(grupoDis);
   if (chipsFormato) columna.append(chipsFormato, cajaMedida);
@@ -320,7 +332,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
   const bZIP = boton(t.zip, () => accion('zip'), 'ah-boton ah-boton-2');
   const ayudaDesc = h('p', { class: 'ah-nota ahd-ayuda-desc' });
   vista.append(chipsCara, escenario, medidaTxt, notaGuia, panelMover,
-    h('div', { class: 'ah-acciones' }, bPNG, bPDF, bHoja, bZIP), ayudaDesc, est);
+    h('div', { class: 'ah-acciones' }, bPNG, bPDF, bHoja, bZIP), filaSangrado, ayudaDesc, est);
 
   // ---------- estado derivado ----------
   function paleta() { return st.paleta || disenos[st.dis].paleta || PALETAS[0]; }
@@ -496,7 +508,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     notaGuia.hidden = !guias.length;
     pintarCapa(cara, w / cara.ancho);
     pintarDatosDescarga(fmt, caras.length);
-    guardar(clave, { dis: dis.id, formato: st.formato, medida: st.medida, datos: st.datos, editados: [...st.editados], paleta: st.paleta, fuentes: st.fuentes, qr: st.qr, pie: st.pie, op: st.op });
+    guardar(clave, { dis: dis.id, formato: st.formato, medida: st.medida, datos: st.datos, editados: [...st.editados], paleta: st.paleta, fuentes: st.fuentes, qr: st.qr, pie: st.pie, sangrado: st.sangrado, op: st.op });
   }
 
   function pintarCaras() {
@@ -688,10 +700,11 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     medidaTxt.textContent = fmtMedida(fmt) + (fmt.u !== 'px' && Math.max(fmt.ancho, fmt.alto) >= 700 ? t.persona : '');
     const hoja = hojaDe(fmt);
     bPDF.hidden = fmt.u === 'px';
+    filaSangrado.hidden = fmt.u === 'px' || !CON_SANGRADO.includes(modo);
     bHoja.hidden = !hoja;
     bZIP.hidden = n < 2;
     const partes = [t.pngAyuda(w, hh, ppp)];
-    if (fmt.u !== 'px') partes.push(t.pdfAyuda(fmtMedida(fmt)));
+    if (fmt.u !== 'px') partes.push(conSangrado(fmt) ? t.sangradoAyuda(fmtMedida(fmt)) : t.pdfAyuda(fmtMedida(fmt)));
     if (hoja) partes.push(t.hojaAyuda(hoja.n));
     ayudaDesc.textContent = partes.join(' ');
   }
@@ -713,6 +726,32 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     pintarCara(b, cara, { fuentes: fuentesCargadas, imagenes: st.imgs, pie: conPie });
     b.agregar('Q\n');
     return b.texto();
+  }
+  const conSangrado = (fmt) => st.sangrado && fmt.u !== 'px' && CON_SANGRADO.includes(modo);
+  // Copia de la cara con el fondo y lo que toca la orilla estirados SANGRADO mm hacia afuera.
+  function caraSangrada(cara) {
+    const b = SANGRADO, W = cara.ancho, H = cara.alto, e = 0.01;
+    const el = cara.el.map((x) => {
+      if (!x || x.oculto || !(x.w > 0) || !(x.h > 0) || !['rect', 'elipse', 'forma', 'imagen'].includes(x.tipo) || (x.tipo === 'imagen' && x.ajuste !== 'cubrir')) return x;
+      const y = Object.assign({}, x);
+      if (x.x <= e) { y.x -= b; y.w += b; }
+      if (x.x + x.w >= W - e) y.w += b;
+      if (x.y <= e) { y.y -= b; y.h += b; }
+      if (x.y + x.h >= H - e) y.h += b;
+      return y;
+    });
+    if (cara.fondo) el.unshift({ tipo: 'rect', x: -b, y: -b, w: W + 2 * b, h: H + 2 * b, color: cara.fondo });
+    return Object.assign({}, cara, { fondo: null, el });
+  }
+  // Página del PDF con sangrado: margen de MARGEN_CORTE mm, TrimBox/BleedBox y marcas de corte fuera del sangrado.
+  function paginaSangrada(pdf, cara, k) {
+    const m = MARGEN_CORTE, b = SANGRADO, W = cara.ancho + 2 * m, H = cara.alto + 2 * m, n = (v) => (v * k).toFixed(2);
+    let s = `q 1 0 0 1 ${n(m)} ${n(m)} cm\n` + contenidoPDF(pdf, caraSangrada(cara), k, st.pie) + 'Q\n0 0 0 RG 0.25 w ';
+    const fin = m - b - 1;
+    for (const x of [m, m + cara.ancho]) s += `${n(x)} 0 m ${n(x)} ${n(fin)} l S ${n(x)} ${n(H - fin)} m ${n(x)} ${n(H)} l S `;
+    for (const y of [m, m + cara.alto]) s += `0 ${n(y)} m ${n(fin)} ${n(y)} l S ${n(W - fin)} ${n(y)} m ${n(W)} ${n(y)} l S `;
+    const caja = (a) => `[${n(a)} ${n(a)} ${n(W - a)} ${n(H - a)}]`;
+    pdf.pagina(W * k, H * k, s, [], `/TrimBox${caja(m)}/BleedBox${caja(m - b)}`);
   }
   function marcasHoja(hoja, fmt, k) {
     const m = 7, g = 3, largo = 5 * k, sep = 1.5 * k;
@@ -766,7 +805,10 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
       } else if (tipo === 'pdf') {
         const k = 72 / 25.4;
         const pdf = new PDF();
-        for (const cara of caras) pdf.pagina(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, st.pie));
+        for (const cara of caras) {
+          if (conSangrado(fmt)) paginaSangrada(pdf, cara, k);
+          else pdf.pagina(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, st.pie));
+        }
         descargar(await pdf.blob(base), base + '.pdf');
       } else if (tipo === 'hoja') {
         const hoja = hojaDe(fmt);
