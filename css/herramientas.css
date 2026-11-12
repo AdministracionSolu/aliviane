@@ -98,7 +98,9 @@ select.ah-input { appearance: auto; }
 .ah-boton:hover { background: #fff; }
 .ah-boton-2 { background: transparent; color: var(--ah-texto); border-color: var(--ah-borde-fuerte); }
 .ah-boton-2:hover { background: transparent; border-color: var(--ah-texto); }
-.ah-boton:disabled { opacity: .4; cursor: not-allowed; }
+.ah-boton:disabled, .ah-boton[aria-disabled="true"] { opacity: .4; cursor: not-allowed; }
+a.ah-boton[aria-disabled="true"] { pointer-events: none; }
+a.ah-boton { text-decoration: none; }
 .ah-boton:focus-visible, .ah-liga:focus-visible { outline: 2px solid var(--ah-texto); outline-offset: 2px; }
 .ah-liga {
   background: none; border: 0; padding: 0; font: 400 15px var(--ah-sans); color: var(--ah-texto);
@@ -120,6 +122,7 @@ select.ah-input { appearance: auto; }
 
 /* ---------- qr ---------- */
 .ah-qr-lienzo { background: #fff; border-radius: 4px; padding: 0; overflow: hidden; max-width: 420px; width: 100%; }
+.ah-qr-lienzo:empty { display: none; }
 .ah-qr-lienzo svg { display: block; width: 100%; height: auto; }
 .ah-qr-lienzo.ah-apagado { opacity: .35; }
 .ah-qr-vista { display: grid; gap: 12px; }
@@ -165,3 +168,4 @@ select.ah-input { appearance: auto; }
 @media print {
   .ah { display: none; }
 }
+.ah-salida.ah-nota { font-family: var(--ah-sans); color: var(--ah-gris); }
