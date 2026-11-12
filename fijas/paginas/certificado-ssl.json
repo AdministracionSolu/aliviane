@@ -1,0 +1,433 @@
+{
+  "id": "certificado-ssl",
+  "slug": "certificado-ssl",
+  "molde": "guia",
+  "cabeza": "certificado web",
+  "busquedas": [
+    "certificados web",
+    "certificado ssl",
+    "certificado ssl gratis",
+    "ssl certificado gratis",
+    "ssl qué es",
+    "certificados de dominio",
+    "ssl es"
+  ],
+  "title": "Certificado web SSL: qué es y cómo tenerlo gratis",
+  "h1": "Certificado SSL: qué es el candado de tu página y cómo tenerlo",
+  "description": "El certificado SSL cifra los datos de tu página y pone el candado con https. Te explicamos sus tipos, si conviene el gratis y cómo revisarlo. Revisa el tuyo.",
+  "resumen": "Qué es el certificado SSL, sus tipos y cómo saber si tu página lo tiene bien",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un certificado SSL es un archivo que permite que tu página use https y muestre el candado en el navegador. Cifra los datos que viajan entre tu página y el visitante y confirma que el dominio es tuyo.",
+    "Para la página de un negocio basta un certificado gratis de validación de dominio. Lo importante es que se renueve solo, porque desde 2026 los certificados duran cada vez menos."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un certificado SSL"
+    },
+    {
+      "p": "SSL son las siglas de una tecnología de seguridad que ya fue reemplazada por otra llamada TLS. Por costumbre todos le siguen diciendo SSL."
+    },
+    {
+      "p": "El certificado es como una credencial de tu página. Dice que el dominio es de quien lo opera y trae la llave para cifrar la conexión."
+    },
+    {
+      "p": "Lo emite una autoridad de certificación. Es una empresa en la que los navegadores confían y que revisa que controlas el dominio."
+    },
+    {
+      "h2": "Para qué sirve"
+    },
+    {
+      "ul": [
+        "**Cifra la información.** Nadie en medio puede leer lo que se escribe en un formulario o un pago.",
+        "**Confirma el dominio.** El visitante sabe que llegó a la página correcta y no a una copia.",
+        "**Evita el aviso de no seguro.** Los navegadores marcan las páginas sin certificado con una advertencia.",
+        "**Da confianza.** La gente desconfía al ver un aviso de seguridad y se va.",
+        "**Es requisito para muchas funciones.** Pagos en línea, ubicación y otras funciones del navegador sólo trabajan con https."
+      ]
+    },
+    {
+      "h2": "Cómo saber si una página tiene certificado"
+    },
+    {
+      "p": "Revisarlo toma unos segundos. Funciona igual con tu página o con cualquier otra."
+    },
+    {
+      "ol": [
+        "Abre la página en el navegador.",
+        "Mira la barra de dirección.",
+        "Si empieza con https y muestra un candado o un ícono de ajustes, tiene certificado.",
+        "Si dice no seguro o empieza con http sin s, no lo tiene o está mal configurado.",
+        "Toca el ícono junto a la dirección para ver a nombre de qué dominio está y hasta cuándo vale."
+      ]
+    },
+    {
+      "p": "Revisa tanto tunegocio.mx como www.tunegocio.mx. A veces una de las dos versiones queda sin certificado."
+    },
+    {
+      "h2": "Tipos de certificado SSL"
+    },
+    {
+      "p": "Los certificados se distinguen por cuánto revisa la autoridad antes de emitirlos. El cifrado es igual de fuerte en todos."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de validación",
+        "columnas": [
+          "Tipo",
+          "Qué se revisa",
+          "Cuánto tarda",
+          "Para quién conviene"
+        ],
+        "filas": [
+          [
+            "Validación de dominio",
+            "Que controlas el dominio",
+            "Minutos",
+            "Páginas de negocio, landings y blogs"
+          ],
+          [
+            "Validación de organización",
+            "El dominio y que la empresa existe",
+            "Días",
+            "Empresas que quieren mostrar su razón social"
+          ],
+          [
+            "Validación extendida",
+            "Revisión más estricta de la empresa",
+            "Días o semanas",
+            "Bancos y sitios con requisitos especiales"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los navegadores actuales muestran igual el candado para los tres tipos. La diferencia sólo se ve al abrir los detalles del certificado."
+    },
+    {
+      "tabla": {
+        "titulo": "Según cuántos dominios cubre",
+        "columnas": [
+          "Tipo",
+          "Qué cubre",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Un dominio",
+            "Una dirección y casi siempre su versión con www",
+            "tunegocio.mx"
+          ],
+          [
+            "Comodín",
+            "Todos los subdominios de un dominio",
+            "tienda.tunegocio.mx y citas.tunegocio.mx"
+          ],
+          [
+            "Varios dominios",
+            "Una lista de dominios distintos",
+            "tunegocio.mx y tunegocio.com"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Certificado gratis o de pago"
+    },
+    {
+      "p": "Hay autoridades que emiten certificados gratis de validación de dominio. La más conocida es Let's Encrypt, una organización sin fines de lucro."
+    },
+    {
+      "p": "Un certificado gratis cifra igual que uno de pago. Para una landing o una página informativa es suficiente."
+    },
+    {
+      "p": "Los certificados de pago tienen sentido cuando necesitas validación de organización o extendida. También cuando un cliente o un trámite te lo exige."
+    },
+    {
+      "p": "Muchos servicios de hosting incluyen el certificado gratis y lo renuevan solos. Pregunta por esto antes de contratar."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cuánto dura un certificado"
+    },
+    {
+      "p": "Los certificados tienen fecha de vencimiento. Cuando vencen, el navegador muestra un aviso grande y la gente se asusta."
+    },
+    {
+      "p": "En 2025 el CA/Browser Forum aprobó reducir poco a poco la duración máxima. Pasa de 398 días a 47 días entre marzo de 2026 y marzo de 2029."
+    },
+    {
+      "p": "Esto quiere decir que renovar a mano ya no es práctico. Tu hosting debe renovar el certificado de forma automática."
+    },
+    {
+      "h2": "Qué pasa si tu certificado vence"
+    },
+    {
+      "ul": [
+        "El navegador muestra una pantalla roja de advertencia.",
+        "Muchas personas cierran la página sin entrar.",
+        "Los formularios y pagos pueden dejar de funcionar.",
+        "Los buscadores pueden mostrar menos tu página mientras no se arregle."
+      ]
+    },
+    {
+      "p": "Si te pasa, avisa a quien administra tu hosting. Casi siempre se arregla emitiendo un certificado nuevo en minutos."
+    },
+    {
+      "h2": "Cómo instalar un certificado SSL"
+    },
+    {
+      "p": "El proceso depende de tu hosting. En la mayoría basta con activarlo desde el panel."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Revisa si tu hosting lo incluye",
+          "texto": "Busca en el panel una sección de seguridad o de certificados."
+        },
+        {
+          "titulo": "Activa el certificado para tu dominio",
+          "texto": "Marca tu dominio y la versión con www."
+        },
+        {
+          "titulo": "Espera la validación",
+          "texto": "La autoridad confirma que controlas el dominio. Suele tardar minutos."
+        },
+        {
+          "titulo": "Fuerza el uso de https",
+          "texto": "Activa la opción que manda todas las visitas a la versión segura."
+        },
+        {
+          "titulo": "Revisa que no haya contenido mezclado",
+          "texto": "Imágenes o archivos que cargan con http rompen el candado. Cámbialos a https."
+        },
+        {
+          "titulo": "Confirma la renovación automática",
+          "texto": "Verifica que se renueve solo antes de vencer."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo funciona el cifrado en pocas palabras"
+    },
+    {
+      "p": "No necesitas saber matemáticas para entenderlo. Basta con seguir lo que pasa en el primer segundo de cada visita."
+    },
+    {
+      "ol": [
+        "El celular del visitante pide tu página con https.",
+        "Tu servidor responde con su certificado.",
+        "El navegador revisa que el certificado sea válido y que lo firmó una autoridad confiable.",
+        "Los dos acuerdan una llave secreta que sólo ellos conocen.",
+        "A partir de ahí todo lo que viaja va cifrado con esa llave."
+      ]
+    },
+    {
+      "p": "Todo esto pasa en milisegundos. El visitante sólo ve el candado y la página carga normal."
+    },
+    {
+      "h2": "Glosario del certificado"
+    },
+    {
+      "tabla": {
+        "titulo": "Palabras que vas a ver",
+        "columnas": [
+          "Término",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "HTTPS",
+            "La versión segura de la dirección de una página"
+          ],
+          [
+            "TLS",
+            "La tecnología actual de cifrado que sustituyó a SSL"
+          ],
+          [
+            "Autoridad de certificación",
+            "La empresa que revisa y firma los certificados"
+          ],
+          [
+            "Validación de dominio",
+            "La revisión que confirma que controlas el dominio"
+          ],
+          [
+            "Renovación automática",
+            "Cuando el hosting pide un certificado nuevo antes de que venza"
+          ],
+          [
+            "Contenido mezclado",
+            "Archivos que cargan sin https dentro de una página segura"
+          ],
+          [
+            "Redirección a https",
+            "La regla que manda a todos a la versión segura"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo detectar una página falsa aunque tenga candado"
+    },
+    {
+      "p": "Las estafas también usan certificados. Por eso el candado no basta para confiar."
+    },
+    {
+      "ul": [
+        "Revisa el dominio letra por letra, las copias cambian una letra.",
+        "Desconfía de dominios con palabras extra, como banco-seguro-acceso.",
+        "No entres a pagar desde un link que llegó por mensaje de un desconocido.",
+        "Busca el sitio en Google y compara la dirección.",
+        "Si te piden contraseñas o códigos por mensaje, no los des."
+      ]
+    },
+    {
+      "p": "Tus clientes también lo saben. Una página con tu dominio propio y tu nombre da más confianza que una dirección rara."
+    },
+    {
+      "h2": "Certificado SSL y formularios de contacto"
+    },
+    {
+      "p": "Si tu página tiene formulario, los datos del cliente viajan por internet. Sin certificado cualquiera en la misma red podría leerlos."
+    },
+    {
+      "p": "Esto pasa sobre todo en redes públicas, como la de un café o un aeropuerto. Con https esos datos viajan cifrados."
+    },
+    {
+      "p": "Si pides datos personales, también necesitas un aviso de privacidad. Puedes armarlo con nuestra herramienta de [aviso de privacidad](id:aviso-de-privacidad)."
+    },
+    {
+      "h2": "Qué preguntar a quien te hace la página"
+    },
+    {
+      "p": "Antes de pagar una página, confirma cómo van a manejar el certificado. Estas preguntas bastan."
+    },
+    {
+      "ul": [
+        "¿El certificado viene incluido o se paga aparte?",
+        "¿Se renueva solo o alguien tiene que hacerlo a mano?",
+        "¿Cubre la versión con www y la versión sin www?",
+        "¿Toda la página abre con https aunque escriban http?",
+        "¿Quién me avisa si algo falla con el certificado?"
+      ]
+    },
+    {
+      "p": "Si las respuestas son claras, vas bien. Si nadie sabe contestar, pide que lo revisen antes de publicar."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Tener certificado sólo en una versión del dominio.",
+        "Dejar imágenes que cargan sin https.",
+        "Renovar a mano y olvidarlo.",
+        "Pagar un certificado caro que no necesitas.",
+        "Pensar que el candado garantiza que el negocio es confiable."
+      ]
+    },
+    {
+      "p": "El candado sólo dice que la conexión está cifrada. Una página falsa también puede tener candado, así que revisa siempre el dominio."
+    },
+    {
+      "h2": "Certificado SSL y Google"
+    },
+    {
+      "p": "Google usa https como una de muchas señales al ordenar resultados. Es una señal pequeña, pero una página sin candado pierde visitas por el aviso."
+    },
+    {
+      "p": "Si cambias tu página de http a https, revisa que las direcciones viejas manden a las nuevas. Así no pierdes lo que ya tenías en Google."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un certificado SSL en palabras sencillas?",
+      "respuesta": "Es la credencial de seguridad de tu página. Permite el candado y cifra los datos de tus visitantes."
+    },
+    {
+      "pregunta": "¿El certificado SSL es gratis?",
+      "respuesta": "Puede serlo. Hay autoridades que emiten certificados gratis de validación de dominio y muchos hostings los incluyen."
+    },
+    {
+      "pregunta": "¿SSL y TLS son lo mismo?",
+      "respuesta": "Casi. TLS es la versión moderna de SSL, pero todos le siguen diciendo SSL."
+    },
+    {
+      "pregunta": "¿Cada cuánto se renueva un certificado SSL?",
+      "respuesta": "Cada vez más seguido. Desde marzo de 2026 la duración máxima empezó a bajar y llegará a 47 días en 2029."
+    },
+    {
+      "pregunta": "¿Mi página necesita certificado si no vende en línea?",
+      "respuesta": "Sí. Sin certificado el navegador la marca como no segura y la gente desconfía."
+    },
+    {
+      "pregunta": "¿El candado significa que la página es confiable?",
+      "respuesta": "No. Sólo indica que la conexión está cifrada. Revisa también que el dominio sea el correcto."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en activarse un certificado SSL?",
+      "respuesta": "Unos minutos en la mayoría de los casos. Los de validación de organización o extendida tardan días."
+    },
+    {
+      "pregunta": "¿Necesito un certificado distinto para cada subdominio?",
+      "respuesta": "No siempre. Un certificado comodín cubre todos los subdominios de tu dominio. También puedes emitir uno por subdominio."
+    }
+  ],
+  "relacionadas": [
+    "que-es-hosting",
+    "que-es-un-dominio",
+    "comprar-dominio",
+    "dominio-y-hosting",
+    "hosting-en-mexico",
+    "aviso-de-privacidad"
+  ],
+  "venta": {
+    "puente": "Las páginas de Aliviane llevan su candado de seguridad incluido y renovado sin que hagas nada.",
+    "titulo": "¿Hacemos tu página con el candado incluido?",
+    "tituloCorto": "¿Tu página ya tiene candado?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "CA/Browser Forum, votación SC-081v3 sobre la validez de los certificados",
+      "url": "https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/"
+    },
+    {
+      "texto": "Let's Encrypt, autoridad de certificación gratuita",
+      "url": "https://letsencrypt.org/es/"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.godaddy.com/resources/latam/stories/tipos-certificados-ssl",
+      "titulo": "Tipos de certificados SSL",
+      "promete": "Tipos de validación que llevan a su tienda; no dice que el certificado gratis basta para un negocio pequeño"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.mercately.com/sitio-web/certificado-ssl",
+      "titulo": "Certificado SSL: qué es y por qué es importante",
+      "promete": "Explicación general; afirma requisitos legales sin fuente y no enseña a revisar el candado"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.moncloa.com/certificado-ssl-web",
+      "titulo": "Por qué debes tener un certificado SSL en tu web",
+      "promete": "Nota breve de 2020; sin cambios recientes en la duración de los certificados"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Calendario de validez del CA/Browser Forum leído en su página el 12-nov-2026 (398 a 47 días entre marzo de 2026 y marzo de 2029). Sin precios de certificados pagados. Top 3 leído con WebSearch el 12-nov-2026."
+}

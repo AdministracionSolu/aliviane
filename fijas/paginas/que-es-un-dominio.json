@@ -1,0 +1,516 @@
+{
+  "id": "que-es-un-dominio",
+  "slug": "que-es-un-dominio",
+  "molde": "guia",
+  "cabeza": "dominio",
+  "busquedas": [
+    "dominio gratis",
+    "mi dominio",
+    "dominios gratis",
+    "mis dominios",
+    "dominios es",
+    "el dominios",
+    "registro de dominios",
+    "dominios web",
+    "web dominios",
+    "web y dominio",
+    "dominio web gratis",
+    "web dominio gratis",
+    "qué es un dominio",
+    "dominio que es",
+    "que es dominios web",
+    "que es un dominio web",
+    "definir dominio",
+    "que significa dominio",
+    "q significa dominio",
+    "define dominio",
+    "dominio propio",
+    "dominio propio que es"
+  ],
+  "title": "Dominio web: qué es, tipos y cómo elegir el tuyo",
+  "h1": "Qué es un dominio web y cómo elegir el de tu negocio",
+  "description": "Un dominio es el nombre de tu página, como tunegocio.mx. Te explicamos sus partes, tipos y cómo elegir uno fácil de dictar. Revisa la lista y elige el tuyo.",
+  "resumen": "Qué es un dominio, sus partes y cómo elegir uno fácil de dictar",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un dominio es el nombre de tu página en internet, como tunegocio.mx. Es la dirección que la gente escribe para encontrarte y la que va en tu correo.",
+    "Se compone de un nombre que eliges y una terminación, como .mx o .com. Se renta por año y debe quedar registrado a tu nombre."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un dominio en palabras sencillas"
+    },
+    {
+      "p": "Cada página de internet vive en una computadora con un número. Ese número se llama dirección IP y nadie lo recuerda."
+    },
+    {
+      "p": "El dominio es el nombre fácil que apunta a ese número. Es como el nombre de un contacto en tu celular en lugar de su teléfono."
+    },
+    {
+      "p": "Cuando alguien escribe tu dominio, internet busca a qué número corresponde. Luego le muestra tu página en menos de un segundo."
+    },
+    {
+      "p": "Cada dominio es único en el mundo. Si alguien ya registró tunegocio.mx, nadie más puede usar ese mismo nombre."
+    },
+    {
+      "h2": "Las partes de un dominio"
+    },
+    {
+      "p": "Un dominio tiene dos partes que se leen de derecha a izquierda. La terminación y el nombre que tú eliges."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un dominio",
+        "columnas": [
+          "Parte",
+          "Ejemplo",
+          "Qué es"
+        ],
+        "filas": [
+          [
+            "Terminación",
+            ".mx",
+            "La extensión que dice el país o el tipo de sitio"
+          ],
+          [
+            "Nombre",
+            "tunegocio",
+            "La palabra que eliges para tu negocio"
+          ],
+          [
+            "Subdominio",
+            "tienda.tunegocio.mx",
+            "Una sección aparte dentro de tu dominio"
+          ],
+          [
+            "Dirección completa",
+            "tunegocio.mx/menu",
+            "El dominio más la página concreta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El dominio y la dirección completa no son lo mismo. El dominio es sólo el nombre y la dirección incluye la página."
+    },
+    {
+      "h2": "Tipos de dominio"
+    },
+    {
+      "p": "Las terminaciones se dividen en dos grandes grupos. Las de país y las genéricas."
+    },
+    {
+      "tabla": {
+        "titulo": "Terminaciones que más se usan en México",
+        "columnas": [
+          "Terminación",
+          "Tipo",
+          "Para quién conviene"
+        ],
+        "filas": [
+          [
+            ".mx",
+            "De país",
+            "Negocios que venden en México"
+          ],
+          [
+            ".com.mx",
+            "De país, comercial",
+            "Empresas mexicanas, suele estar más libre"
+          ],
+          [
+            ".org.mx",
+            "De país, organizaciones",
+            "Asociaciones y organizaciones civiles"
+          ],
+          [
+            ".edu.mx",
+            "De país, educación",
+            "Escuelas con requisitos de registro"
+          ],
+          [
+            ".gob.mx",
+            "De país, gobierno",
+            "Sólo dependencias de gobierno"
+          ],
+          [
+            ".com",
+            "Genérica",
+            "Quien vende a varios países"
+          ],
+          [
+            ".net y .org",
+            "Genéricas",
+            "Proyectos de red y organizaciones"
+          ],
+          [
+            ".shop, .online y otras",
+            "Genéricas nuevas",
+            "Marcas que quieren un nombre corto"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una terminación de país le dice a Google en qué país estás. Para un negocio local en México, .mx o .com.mx es lo natural."
+    },
+    {
+      "h2": "Para qué sirve un dominio"
+    },
+    {
+      "p": "Tener dominio propio te da tres cosas que no te da una red social. Una dirección fija, un correo con tu nombre y confianza."
+    },
+    {
+      "ul": [
+        "Tu página se encuentra siempre en la misma dirección.",
+        "Tu correo puede ser contacto@tunegocio.mx en lugar de uno gratis.",
+        "Puedes cambiar de proveedor sin cambiar de dirección.",
+        "Tus tarjetas, lonas y vehículos llevan un nombre que no caduca.",
+        "Google entiende mejor que la página es de un negocio real."
+      ]
+    },
+    {
+      "p": "Un dominio también protege tu marca. Si no lo registras tú, alguien más puede hacerlo y pedirte dinero después."
+    },
+    {
+      "h2": "Dominio, hosting y página web"
+    },
+    {
+      "p": "Estas tres palabras se confunden mucho. Cada una es una pieza distinta."
+    },
+    {
+      "tabla": {
+        "titulo": "Dominio, hosting y página web",
+        "columnas": [
+          "Pieza",
+          "Qué es",
+          "Comparación con un local"
+        ],
+        "filas": [
+          [
+            "Dominio",
+            "El nombre y la dirección",
+            "La dirección de tu local"
+          ],
+          [
+            "Hosting",
+            "La computadora donde vive la página",
+            "El terreno donde está el local"
+          ],
+          [
+            "Página web",
+            "Lo que ve la gente",
+            "El local con su mostrador y su letrero"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Necesitas las tres para tener tu página en línea. Lee [qué es hosting](id:que-es-hosting) para entender la segunda pieza."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo funciona un dominio por dentro"
+    },
+    {
+      "p": "No necesitas saber esto para tener página. Pero ayuda a entender por qué a veces tarda en verse un cambio."
+    },
+    {
+      "ol": [
+        "Escribes tunegocio.mx en tu celular.",
+        "Tu celular pregunta a un directorio de internet dónde vive ese nombre.",
+        "El directorio contesta con la dirección IP de la computadora donde está la página.",
+        "Tu celular pide la página a esa computadora.",
+        "La computadora manda la página y tu celular la muestra."
+      ]
+    },
+    {
+      "p": "Ese directorio se llama DNS. Ahí se guardan los registros que dicen a dónde va tu página y a dónde va tu correo."
+    },
+    {
+      "p": "Cuando cambias de hosting, cambias esos registros. Los cambios pueden tardar unas horas en llegar a todo internet."
+    },
+    {
+      "h2": "Los registros de un dominio"
+    },
+    {
+      "p": "Dentro de la cuenta de tu dominio hay una lista de registros. Cada uno manda una parte del tráfico a un lugar."
+    },
+    {
+      "tabla": {
+        "titulo": "Registros que más vas a ver",
+        "columnas": [
+          "Registro",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "A",
+            "Dice en qué computadora vive tu página"
+          ],
+          [
+            "CNAME",
+            "Manda un nombre a otro nombre, como www a tu dominio"
+          ],
+          [
+            "MX",
+            "Dice qué servicio recibe tu correo"
+          ],
+          [
+            "TXT",
+            "Guarda textos para verificar que eres el dueño"
+          ],
+          [
+            "NS",
+            "Dice quién administra todos los demás registros"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si alguien te hace la página, va a pedirte cambiar alguno de estos registros. Nunca le des la contraseña de la cuenta, mejor dale acceso de técnico si el registrador lo permite."
+    },
+    {
+      "h2": "Cómo saber quién es el dueño de un dominio"
+    },
+    {
+      "p": "Cada dominio tiene un registro público con datos de su registro. Se consulta con una búsqueda llamada WHOIS o RDAP."
+    },
+    {
+      "p": "Ahí ves la fecha de alta, la fecha de vencimiento y la empresa donde está registrado. Los datos personales del titular suelen estar ocultos por privacidad."
+    },
+    {
+      "p": "Si quieres un dominio ocupado, revisa cuándo vence. A veces el dueño lo deja caducar y se libera."
+    },
+    {
+      "h2": "Dominio y correo con tu nombre"
+    },
+    {
+      "p": "Un correo con tu dominio se ve más serio que uno gratis. Un cliente confía más en ventas@tunegocio.mx que en una cuenta genérica."
+    },
+    {
+      "p": "El correo necesita un servicio aparte que lo reciba. El dominio sólo dice a dónde mandar los mensajes."
+    },
+    {
+      "p": "Puedes tener varias cuentas, una por persona o una por área. Así cuando alguien deja el negocio, la cuenta se queda contigo."
+    },
+    {
+      "h2": "Cómo elegir un buen dominio"
+    },
+    {
+      "p": "El dominio va a estar en todo lo que imprimas. Vale la pena pensarlo un rato antes de registrarlo."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Usa el nombre de tu negocio",
+          "texto": "Si tu negocio se llama Tacos El Güero, busca tacoselguero.mx. Es lo primero que la gente intenta."
+        },
+        {
+          "titulo": "Que se pueda dictar",
+          "texto": "Dilo por teléfono a alguien. Si tienes que deletrearlo, busca otra opción."
+        },
+        {
+          "titulo": "Corto y sin guiones",
+          "texto": "Los guiones se olvidan al dictar. Menos letras significa menos errores al escribir."
+        },
+        {
+          "titulo": "Sin acentos ni ñ",
+          "texto": "Muchas personas no escriben acentos en la barra. Usa la palabra sin acento."
+        },
+        {
+          "titulo": "Evita números confusos",
+          "texto": "Un 4 puede ser cuatro o for. Si lo usas, registra también la versión con letra."
+        },
+        {
+          "titulo": "Revisa que esté libre",
+          "texto": "Búscalo antes de enamorarte del nombre. Usa nuestro [buscador de dominios](id:buscar-dominio)."
+        },
+        {
+          "titulo": "Registra variantes si puedes",
+          "texto": "Si el .mx está libre, considera también el .com.mx para que nadie lo tome."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplos de dominios buenos y malos"
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos para un negocio en México",
+        "columnas": [
+          "Negocio",
+          "Mejor opción",
+          "Opción a evitar",
+          "Por qué"
+        ],
+        "filas": [
+          [
+            "Estética Sofía",
+            "esteticasofia.mx",
+            "estetica-sofia-belleza.com",
+            "Corto y sin guiones"
+          ],
+          [
+            "Taller Mecánico Ramírez",
+            "tallerramirez.mx",
+            "tallermecanicoramirezyasociados.mx",
+            "Se dicta en una respiración"
+          ],
+          [
+            "Panadería La Espiga",
+            "laespiga.mx",
+            "panaderialaespiga2024.mx",
+            "Sin año que caduque"
+          ],
+          [
+            "Dentista en Puebla",
+            "dentalpuebla.mx",
+            "dentistapueblaeconomico.com",
+            "No promete un precio en el nombre"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué significa que el dominio esté a tu nombre"
+    },
+    {
+      "p": "El dominio se registra a nombre de una persona o una empresa. Esa persona es la dueña legal mientras pague la renta."
+    },
+    {
+      "p": "Si una agencia lo registra a su nombre, tu dirección depende de ella. Si te peleas o cierra, puedes perderla."
+    },
+    {
+      "p": "Pide siempre que el titular seas tú o tu negocio. También pide acceso a la cuenta donde está registrado."
+    },
+    {
+      "ul": [
+        "El titular debe ser tu nombre o la razón social de tu negocio.",
+        "El correo de contacto debe ser uno que tú revises.",
+        "Debes poder entrar a la cuenta o pedir el código de traslado.",
+        "La renovación debe estar activa para que no caduque."
+      ]
+    },
+    {
+      "h2": "Qué pasa si no renuevas tu dominio"
+    },
+    {
+      "p": "El dominio se renta por periodos de uno o varios años. Si no lo renuevas a tiempo, deja de funcionar."
+    },
+    {
+      "p": "Primero tu página y tu correo dejan de abrir. Después hay un periodo de gracia para recuperarlo con un cargo extra."
+    },
+    {
+      "p": "Si pasa ese periodo, el dominio queda libre. Cualquier persona puede registrarlo y usarlo."
+    },
+    {
+      "p": "Activa la renovación automática y revisa que la tarjeta esté vigente. Es la forma más fácil de no perderlo."
+    },
+    {
+      "h2": "Existe el dominio gratis"
+    },
+    {
+      "p": "Hay servicios que dan una dirección gratis dentro de su propio dominio. Algo como tunegocio.creador.com."
+    },
+    {
+      "p": "Eso no es un dominio tuyo. Es un subdominio de otra empresa y se va si dejas su servicio."
+    },
+    {
+      "p": "Algunos planes de hosting regalan el dominio el primer año. Revisa cuánto cuesta la renovación antes de aceptar."
+    },
+    {
+      "p": "Para un negocio conviene un dominio propio desde el principio. Cambiarlo después obliga a reimprimir todo."
+    },
+    {
+      "h2": "Errores comunes al elegir dominio"
+    },
+    {
+      "ul": [
+        "Registrar el dominio a nombre de quien hizo la página.",
+        "Elegir un nombre largo que nadie recuerda.",
+        "Usar guiones o números sin necesidad.",
+        "No activar la renovación automática.",
+        "Usar la dirección gratis del creador de páginas en tus tarjetas.",
+        "Esperar a tener la página para registrar el dominio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un dominio en internet?",
+      "respuesta": "Es el nombre de tu página, como tunegocio.mx. La gente lo escribe para llegar a tu sitio."
+    },
+    {
+      "pregunta": "¿Un dominio es para siempre?",
+      "respuesta": "No. Se renta por uno o varios años y se renueva. Mientras pagues, sigue siendo tuyo."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre dominio y URL?",
+      "respuesta": "El dominio es sólo el nombre. La URL es la dirección completa de una página dentro de ese dominio."
+    },
+    {
+      "pregunta": "¿Conviene .mx o .com?",
+      "respuesta": "Para un negocio que vende en México, conviene .mx. Le dice a tus clientes y a Google que estás aquí."
+    },
+    {
+      "pregunta": "¿Puedo tener un dominio gratis?",
+      "respuesta": "No uno propio. Lo gratis suele ser una dirección dentro del dominio de otra empresa."
+    },
+    {
+      "pregunta": "¿Puedo cambiar mi dominio después?",
+      "respuesta": "Sí, pero cuesta trabajo. Tienes que avisar a tus clientes y cambiar todo lo impreso."
+    },
+    {
+      "pregunta": "¿Puedo tener correo con mi dominio?",
+      "respuesta": "Sí. Con tu dominio puedes crear cuentas como ventas@tunegocio.mx con un servicio de correo."
+    }
+  ],
+  "relacionadas": [
+    "comprar-dominio",
+    "que-es-hosting",
+    "certificado-ssl",
+    "dominio-y-hosting",
+    "buscar-dominio",
+    "como-crear-una-pagina-web"
+  ],
+  "venta": {
+    "puente": "Tu landing de Aliviane ya trae tu dominio incluido y registrado a tu nombre.",
+    "titulo": "¿Hacemos tu página con tu dominio incluido?",
+    "tituloCorto": "¿Tu dominio con todo y página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://blog.hubspot.es/website/que-es-un-dominio",
+      "titulo": "Qué es un dominio, para qué sirve y qué tipos existen",
+      "promete": "Definición y tipos de extensión; pensado para España y en general, sin consejos para elegir un nombre en México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/es/dominios/que-es-un-dominio",
+      "titulo": "Qué es un dominio",
+      "promete": "Explica nombre y extensión y empuja a comprar en su tienda; no aclara a nombre de quién queda"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.arsys.es/blog/que-es-dominio",
+      "titulo": "Qué es un dominio en Internet y cómo funciona",
+      "promete": "Explicación técnica de DNS; sin tabla de extensiones mexicanas ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Sin precios aquí (van en comprar-dominio con fuente). Top 3 leído con WebSearch el 12-nov-2026."
+}

@@ -1,0 +1,502 @@
+{
+  "id": "pagina-de-facebook-para-negocio",
+  "slug": "pagina-de-facebook-para-negocio",
+  "molde": "guia",
+  "cabeza": "como crear una pagina en facebook",
+  "busquedas": [
+    "crear página de facebook",
+    "crea una pagina de facebook",
+    "como hacer una pagina en facebook",
+    "como hacer una pagina de facebook",
+    "cómo crear una página en facebook para negocio",
+    "como crear una pagina de facebook para negocio"
+  ],
+  "title": "Cómo crear una página en Facebook para tu negocio",
+  "h1": "Cómo crear una página de Facebook para tu negocio paso a paso",
+  "description": "Crear una página de Facebook para tu negocio es gratis y toma 15 minutos. Te damos los 10 pasos, qué poner en cada campo y cómo conectar WhatsApp. Crea la tuya.",
+  "resumen": "Los pasos para abrir la página de tu negocio en Facebook y qué llenar en cada campo",
+  "categoria": "Redes sociales",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para crear una página de Facebook para tu negocio entras con tu perfil personal, abres Páginas en el menú y eliges crear una página. Escribes el nombre, eliges la categoría y luego agregas contacto, fotos y horario.",
+    "Crear la página es gratis y toma unos 15 minutos si tienes tu logo y fotos listos. Tu perfil personal queda como administrador y no se mezcla con la página."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Perfil personal y página de negocio"
+    },
+    {
+      "p": "Facebook distingue entre perfiles y páginas. Un perfil es de una persona y una página es de un negocio, marca o figura pública."
+    },
+    {
+      "p": "Muchos negocios abren un perfil personal con el nombre del negocio. No conviene porque rompe las reglas de Facebook y pierde funciones."
+    },
+    {
+      "tabla": {
+        "titulo": "Diferencias entre perfil personal y página",
+        "columnas": [
+          "Punto",
+          "Perfil personal",
+          "Página de negocio"
+        ],
+        "filas": [
+          [
+            "Para quién es",
+            "Una persona",
+            "Un negocio o marca"
+          ],
+          [
+            "Cómo se conecta la gente",
+            "Solicitud de amistad",
+            "Seguir la página"
+          ],
+          [
+            "Límite de contactos",
+            "Tiene límite de amigos",
+            "Seguidores sin ese límite"
+          ],
+          [
+            "Estadísticas",
+            "No tiene",
+            "Sí tiene"
+          ],
+          [
+            "Anuncios",
+            "No se pueden poner",
+            "Sí se pueden poner"
+          ],
+          [
+            "Botón de contacto",
+            "No",
+            "Sí, como WhatsApp o llamar"
+          ],
+          [
+            "Varios administradores",
+            "No",
+            "Sí"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Necesitas un perfil personal para crear la página. Tu perfil sólo la administra y tus datos personales no se muestran en ella."
+    },
+    {
+      "h2": "Antes de empezar"
+    },
+    {
+      "p": "Ten todo esto a la mano. Así terminas de una sola vez y la página no queda a medias."
+    },
+    {
+      "ul": [
+        "El nombre exacto de tu negocio.",
+        "Una frase corta que diga qué haces.",
+        "Tu logo en cuadro para la foto de perfil.",
+        "Una imagen horizontal para la portada.",
+        "Tu teléfono, tu WhatsApp y tu correo.",
+        "Tu dirección o la zona que atiendes.",
+        "Tu horario de atención.",
+        "La dirección de tu página web si ya la tienes."
+      ]
+    },
+    {
+      "h2": "Cómo crear la página paso a paso"
+    },
+    {
+      "p": "Estos pasos siguen la ayuda oficial de Facebook en computadora. En celular el orden es parecido desde el menú."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Entra a Facebook",
+          "texto": "Inicia sesión con tu perfil personal. Ese perfil va a quedar como administrador."
+        },
+        {
+          "titulo": "Abre Páginas",
+          "texto": "En el menú de la izquierda busca Páginas y elige crear una nueva."
+        },
+        {
+          "titulo": "Elige el tipo de página",
+          "texto": "Selecciona página pública y continúa."
+        },
+        {
+          "titulo": "Escribe nombre y categoría",
+          "texto": "Pon el nombre real de tu negocio. En categoría escribe tu giro y elige la opción más cercana."
+        },
+        {
+          "titulo": "Agrega una presentación",
+          "texto": "Escribe en una o dos frases qué haces y dónde. Después confirma para crear la página."
+        },
+        {
+          "titulo": "Completa contacto y ubicación",
+          "texto": "Agrega teléfono, correo y sitio web. Después pon tu dirección y tu horario."
+        },
+        {
+          "titulo": "Sube tus fotos",
+          "texto": "Pon tu logo como foto de perfil y una imagen de portada."
+        },
+        {
+          "titulo": "Elige el botón de acción",
+          "texto": "Escoge el botón principal, como enviar mensaje de WhatsApp o llamar."
+        },
+        {
+          "titulo": "Conecta WhatsApp",
+          "texto": "Facebook te ofrece conectar tu número. Puedes hacerlo ahora o después."
+        },
+        {
+          "titulo": "Invita y configura avisos",
+          "texto": "Invita a tus contactos a seguir la página y activa las notificaciones para contestar a tiempo."
+        }
+      ]
+    },
+    {
+      "h2": "Qué poner en cada campo"
+    },
+    {
+      "tabla": {
+        "titulo": "Guía de campos para un negocio mexicano",
+        "columnas": [
+          "Campo",
+          "Qué poner",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Nombre",
+            "El nombre de tu letrero, sin palabras extra",
+            "Taller Mecánico Ramírez"
+          ],
+          [
+            "Categoría",
+            "Tu giro principal",
+            "Taller de reparación de autos"
+          ],
+          [
+            "Presentación",
+            "Qué haces, dónde y algo que te distingue",
+            "Afinación y frenos en Zapopan con diagnóstico gratis"
+          ],
+          [
+            "Sitio web",
+            "Tu página con tu dominio",
+            "tallerramirez.mx"
+          ],
+          [
+            "Teléfono",
+            "El número donde contestas",
+            "Con lada de 10 dígitos"
+          ],
+          [
+            "Dirección",
+            "La dirección exacta o sólo la zona",
+            "Calle, número, colonia y ciudad"
+          ],
+          [
+            "Horario",
+            "El horario real de atención",
+            "Lunes a sábado de 9 a 19 h"
+          ],
+          [
+            "Botón de acción",
+            "Lo que más quieres que hagan",
+            "Enviar mensaje de WhatsApp"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Foto de perfil y portada"
+    },
+    {
+      "p": "La foto de perfil se ve chica y en círculo. Usa tu logo o tu isotipo con aire alrededor para que no se corte."
+    },
+    {
+      "p": "La portada es la imagen grande de arriba. Úsala para mostrar tu local, tu producto estrella o una promoción vigente."
+    },
+    {
+      "p": "En celular la portada se recorta por los lados. Deja el texto importante al centro."
+    },
+    {
+      "p": "Si no tienes portada, hazla gratis con nuestra herramienta de [portada de Facebook](id:portada-de-facebook)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo conectar WhatsApp a tu página"
+    },
+    {
+      "p": "Conectar WhatsApp permite que el botón de la página abra un chat contigo. También sirve para anuncios que llevan a WhatsApp."
+    },
+    {
+      "ol": [
+        "Entra a la configuración de tu página.",
+        "Busca la sección de WhatsApp o de cuentas vinculadas.",
+        "Escribe tu número de WhatsApp con código de país.",
+        "Confirma con el código que llega a ese número.",
+        "Cambia el botón de acción a enviar mensaje de WhatsApp."
+      ]
+    },
+    {
+      "p": "Conviene usar WhatsApp Business en ese número. Así tienes catálogo, respuestas rápidas y mensaje de ausencia."
+    },
+    {
+      "h2": "Primeras publicaciones"
+    },
+    {
+      "p": "Una página vacía no da confianza. Antes de invitar a la gente, publica al menos cinco cosas."
+    },
+    {
+      "ul": [
+        "Una presentación del negocio con foto del equipo o del local.",
+        "Tus servicios o productos principales con precio o rango.",
+        "Un trabajo terminado o un platillo con buena foto.",
+        "Cómo llegar o qué zonas atiendes.",
+        "Tus formas de pago y tu horario."
+      ]
+    },
+    {
+      "p": "Después publica de manera constante. Dos o tres publicaciones por semana bastan si son reales y útiles."
+    },
+    {
+      "h2": "Cómo conseguir tus primeros seguidores"
+    },
+    {
+      "p": "Los primeros seguidores salen de quien ya te conoce. Después llegan por recomendación."
+    },
+    {
+      "ul": [
+        "Invita a tus contactos desde la propia página.",
+        "Pon el link de la página en tu WhatsApp y tus tarjetas.",
+        "Imprime un código QR en el mostrador.",
+        "Pide a tus clientes que dejen su recomendación en la página.",
+        "Contesta rápido los mensajes y comentarios."
+      ]
+    },
+    {
+      "h2": "Página de Facebook o página web"
+    },
+    {
+      "p": "Una página de Facebook es útil, pero no sustituye a una página web propia. Cada una cumple una función distinta."
+    },
+    {
+      "tabla": {
+        "titulo": "Página de Facebook frente a página web propia",
+        "columnas": [
+          "Punto",
+          "Página de Facebook",
+          "Página web propia"
+        ],
+        "filas": [
+          [
+            "Costo",
+            "Gratis",
+            "Pago inicial y mensualidad"
+          ],
+          [
+            "Quién manda",
+            "Facebook pone las reglas",
+            "Tú decides todo"
+          ],
+          [
+            "Quién la ve",
+            "Sobre todo usuarios de Facebook",
+            "Cualquiera desde Google"
+          ],
+          [
+            "Diseño",
+            "El mismo para todos",
+            "Con tu marca y tu estilo"
+          ],
+          [
+            "Dirección",
+            "Dentro de facebook.com",
+            "Tu dominio propio"
+          ],
+          [
+            "Riesgo",
+            "Si suspenden la cuenta, la pierdes",
+            "Mientras renueves, es tuya"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo ideal es tener las dos y ligarlas entre sí. La página de Facebook atrae y conversa, la página web informa y cierra."
+    },
+    {
+      "h2": "Administradores y seguridad de tu página"
+    },
+    {
+      "p": "Una página con un solo administrador está en riesgo. Si esa persona pierde su cuenta, el negocio pierde la página."
+    },
+    {
+      "p": "Agrega al menos a otra persona de confianza con acceso completo. Puede ser tu socio o un familiar que trabaje contigo."
+    },
+    {
+      "p": "Activa la autenticación en dos pasos en los perfiles que administran la página. Así nadie entra sólo con la contraseña."
+    },
+    {
+      "ul": [
+        "Usa un correo que revises para el perfil administrador.",
+        "No compartas tu contraseña con quien te ayuda a publicar.",
+        "Da a cada ayudante sólo el permiso que necesita.",
+        "Quita el acceso a quien deja de trabajar contigo.",
+        "Desconfía de mensajes que dicen que tu página será borrada."
+      ]
+    },
+    {
+      "p": "Los mensajes falsos de soporte son una estafa común. Facebook no te pide tu contraseña por mensaje ni por correo."
+    },
+    {
+      "h2": "Meta Business Suite"
+    },
+    {
+      "p": "Meta Business Suite es la herramienta gratis de Meta para manejar tu página de Facebook y tu cuenta de Instagram juntas. Funciona en computadora y como aplicación."
+    },
+    {
+      "p": "Desde ahí contestas mensajes de las dos redes en una sola bandeja. También programas publicaciones y ves estadísticas."
+    },
+    {
+      "p": "Si vas a poner anuncios o vender con catálogo, vas a necesitarla. Para empezar basta con la página."
+    },
+    {
+      "h2": "Qué publicar según tu giro"
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas de publicaciones por giro",
+        "columnas": [
+          "Giro",
+          "Qué funciona"
+        ],
+        "filas": [
+          [
+            "Restaurante",
+            "Platillo del día, menú con precios y fotos del lugar lleno"
+          ],
+          [
+            "Estética",
+            "Antes y después, precios por servicio y horarios libres de la semana"
+          ],
+          [
+            "Taller mecánico",
+            "Trabajos terminados, consejos de mantenimiento y promociones de afinación"
+          ],
+          [
+            "Tienda de ropa",
+            "Prendas nuevas con talla y precio, y fotos con modelo real"
+          ],
+          [
+            "Consultorio",
+            "Consejos de salud, horario de consulta y ubicación"
+          ],
+          [
+            "Escuela",
+            "Inscripciones, actividades y logros de alumnos con permiso"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las fotos de clientes o alumnos siempre llevan su permiso. Con menores de edad, pide el permiso por escrito a los padres."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Crear un perfil personal con el nombre del negocio.",
+        "Dejar la página sin foto, sin horario o sin teléfono.",
+        "Poner un solo administrador que luego no está.",
+        "No contestar mensajes durante días.",
+        "Publicar sólo promociones sin mostrar el trabajo.",
+        "Comprar seguidores que no son clientes.",
+        "Ligar la página a un sitio que no existe o no carga."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Crear una página de Facebook cuesta?",
+      "respuesta": "No. Crear y usar la página es gratis. Sólo pagas si decides poner anuncios."
+    },
+    {
+      "pregunta": "¿Necesito perfil personal para crear la página?",
+      "respuesta": "Sí. La página se crea desde un perfil personal, pero tus datos personales no se muestran en ella."
+    },
+    {
+      "pregunta": "¿Puedo convertir mi perfil personal en página?",
+      "respuesta": "Sí. Facebook tiene una opción para hacerlo. Revisa antes qué datos y amigos se pasan a la página."
+    },
+    {
+      "pregunta": "¿Cuántos administradores puede tener una página?",
+      "respuesta": "Varios. Conviene tener al menos dos para no perder el acceso si uno se va."
+    },
+    {
+      "pregunta": "¿Puedo vender desde mi página de Facebook?",
+      "respuesta": "Sí. Puedes mostrar productos y recibir pedidos por mensaje o WhatsApp."
+    },
+    {
+      "pregunta": "¿Mi página de Facebook sustituye a una página web?",
+      "respuesta": "No. Ayuda mucho, pero depende de Facebook y no tiene tu dominio propio."
+    },
+    {
+      "pregunta": "¿Puedo crear la página desde el celular?",
+      "respuesta": "Sí. En la aplicación abres el menú, entras a Páginas y eliges crear. Los campos son los mismos que en computadora."
+    },
+    {
+      "pregunta": "¿Qué nombre le pongo a mi página?",
+      "respuesta": "El mismo de tu letrero. Si ya está ocupado, agrega tu ciudad al final para distinguirte."
+    }
+  ],
+  "relacionadas": [
+    "portada-de-facebook",
+    "publicidad-en-facebook",
+    "marketing-en-redes-sociales",
+    "link-en-bio",
+    "whatsapp-business-para-empresas",
+    "iconos-para-historias-destacadas"
+  ],
+  "venta": {
+    "puente": "Tu página de Facebook pide un sitio web. Aliviane te hace la landing con tu dominio para ese campo.",
+    "titulo": "¿Hacemos el sitio web que va en tu página de Facebook?",
+    "tituloCorto": "¿Tu página de Facebook ya tiene sitio web?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Servicio de ayuda de Facebook, crear una página",
+      "url": "https://www.facebook.com/help/104002523024878"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.cyberclick.es/numerical-blog/facebook-para-empresas-como-crear-la-pagina-perfecta-para-tu-negocio",
+      "titulo": "Facebook para empresas: cómo crear la página perfecta para tu negocio",
+      "promete": "Guía de España con capturas viejas; sin qué poner en cada campo para un negocio mexicano"
+    },
+    {
+      "posicion": 2,
+      "url": "https://ayuda.tiendanube.com/es_MX/123467-redes-sociales/como-crear-una-pagina-en-facebook-de-mi-marca",
+      "titulo": "Cómo crear una página en Facebook de mi marca",
+      "promete": "Pasos cortos para conectar su tienda; no explica perfil personal contra página ni errores comunes"
+    },
+    {
+      "posicion": 3,
+      "url": "https://socialbee.com/es/blog/como-crear-una-pagina-de-negocio-en-facebook/",
+      "titulo": "Cómo crear una página de negocio en Facebook y consejos para el crecimiento",
+      "promete": "Pasos y consejos generales; vende su programador de publicaciones y no habla de WhatsApp"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Pasos leídos en la ayuda oficial de Facebook el 12-nov-2026 (crear página, tipo Página pública). Sin precios de anuncios. Top 3 leído con WebSearch el 12-nov-2026."
+}

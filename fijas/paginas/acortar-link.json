@@ -1,0 +1,448 @@
+{
+  "id": "acortar-link",
+  "slug": "acortar-link",
+  "molde": "guia",
+  "cabeza": "acortar link",
+  "busquedas": [
+    "acortar un link",
+    "achicar link",
+    "cortar link",
+    "acortar url",
+    "acortar enlace",
+    "acortador link",
+    "acortador de url",
+    "acortador de link",
+    "acortar link gratis",
+    "achicar url",
+    "acortador de links",
+    "acortador de enlaces",
+    "acortador url",
+    "acortar url gratis",
+    "acortador de enlace",
+    "acortar enlaces gratis",
+    "acortador de link gratis",
+    "reductor url",
+    "acortadores url",
+    "acortar link google",
+    "google acortar links",
+    "acortar links con google",
+    "acortar url gratis google",
+    "acortador",
+    "acortar urls gratis"
+  ],
+  "title": "Acortar link gratis: cómo hacerlo y cuándo conviene",
+  "h1": "Cómo acortar un link gratis",
+  "description": "Acortar un link toma un minuto con un acortador conocido. Te decimos cuál usar, qué riesgos tiene y cómo hacer tu link de WhatsApp corto. Arma el tuyo.",
+  "resumen": "Cómo acortar un link en un minuto y cuándo te conviene más tu propio dominio",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para acortar un link copias la dirección larga y la pegas en un acortador conocido como Bitly o TinyURL. El servicio te da una dirección corta que lleva a la misma página.",
+    "Si el link es para que te escriban por WhatsApp, no necesitas acortador. Arma abajo tu link de wa.me con tu número y un mensaje listo."
+  ],
+  "herramienta": {
+    "id": "whatsapp-link",
+    "modo": "link"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué es acortar un link"
+    },
+    {
+      "p": "Un link largo es la dirección completa de una página con todos sus datos. Muchas veces trae letras y números que nadie puede leer en voz alta."
+    },
+    {
+      "p": "Un acortador guarda esa dirección larga en su sistema. A cambio te da una dirección corta con su propio dominio y un código."
+    },
+    {
+      "p": "Cuando alguien abre el link corto, el acortador lo manda a la dirección larga. A eso se le llama redirección y tarda menos de un segundo."
+    },
+    {
+      "p": "El link corto no cambia la página de destino. Sólo cambia la forma de llegar a ella."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de un link antes y después",
+        "columnas": [
+          "Tipo",
+          "Cómo se ve",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Link largo",
+            "La dirección completa de un producto con filtros y códigos de campaña",
+            "Funciona, pero no cabe en un letrero"
+          ],
+          [
+            "Link corto",
+            "El dominio del acortador más un código de 6 a 8 letras",
+            "Cabe en un mensaje, un volante o una historia"
+          ],
+          [
+            "Link con tu dominio",
+            "tunegocio.mx/menu",
+            "Se dicta por teléfono y da confianza"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo acortar un link paso a paso"
+    },
+    {
+      "p": "Todos los acortadores conocidos siguen el mismo camino. Estos pasos sirven igual en computadora y en celular."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Copia el link largo",
+          "texto": "Abre la página que quieres compartir y copia la dirección completa desde la barra del navegador."
+        },
+        {
+          "titulo": "Abre un acortador conocido",
+          "texto": "Entra a la página oficial del servicio que elegiste. Revisa que la dirección sea la correcta antes de pegar nada."
+        },
+        {
+          "titulo": "Pega el link y genera el corto",
+          "texto": "Pega la dirección larga en el campo principal y da clic en el botón para acortar."
+        },
+        {
+          "titulo": "Personaliza el final si se puede",
+          "texto": "Algunos servicios dejan cambiar el código por una palabra. Usa algo corto como el nombre de tu negocio."
+        },
+        {
+          "titulo": "Prueba el link corto",
+          "texto": "Ábrelo en otro equipo antes de imprimirlo. Confirma que llega a la página correcta."
+        },
+        {
+          "titulo": "Guarda el link y tu cuenta",
+          "texto": "Anota el link corto con su destino. Si creaste cuenta, guarda el acceso para poder editarlo después."
+        }
+      ]
+    },
+    {
+      "h2": "Acortadores conocidos y en qué se distinguen"
+    },
+    {
+      "p": "Hay muchos servicios para acortar links. Conviene usar uno que lleve años funcionando y que mucha gente reconozca."
+    },
+    {
+      "tabla": {
+        "titulo": "Comparación de acortadores conocidos",
+        "columnas": [
+          "Servicio",
+          "Lo bueno",
+          "Lo que debes revisar"
+        ],
+        "filas": [
+          [
+            "Bitly",
+            "Muy conocido y con estadísticas de clics",
+            "El plan gratis tiene límites y algunas funciones son de pago"
+          ],
+          [
+            "TinyURL",
+            "Acorta sin cuenta y deja escribir un alias",
+            "Las funciones de marca y estadística piden cuenta"
+          ],
+          [
+            "Acortar.link",
+            "En español y genera también un código QR",
+            "Las estadísticas piden registrarte"
+          ],
+          [
+            "Tu propio dominio",
+            "La dirección es tuya y no depende de nadie",
+            "Necesitas una página web con tu dominio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa los planes de cada servicio antes de imprimir miles de volantes. Las condiciones del plan gratis cambian con el tiempo."
+    },
+    {
+      "h2": "Qué pasó con el acortador de Google"
+    },
+    {
+      "p": "Mucha gente busca acortar links con Google. Google tuvo un acortador con direcciones que empezaban con goo.gl."
+    },
+    {
+      "p": "Google dejó de crear links cortos nuevos hace años. En 2025 anunció que los links viejos sin uso dejarían de funcionar."
+    },
+    {
+      "p": "Si tienes links impresos con goo.gl, ábrelos hoy para ver si todavía llegan. Si muestran un aviso, cámbialos por otro link."
+    },
+    {
+      "p": "Este caso enseña algo importante. Un link corto vive mientras viva el servicio que lo creó."
+    },
+    {
+      "h2": "Los riesgos de un link corto"
+    },
+    {
+      "p": "Un link corto oculta el destino real. Por eso algunas personas desconfían antes de abrirlo."
+    },
+    {
+      "p": "Quien manda estafas también usa acortadores para esconder páginas falsas. Por esa razón algunos correos y redes marcan los links cortos como sospechosos."
+    },
+    {
+      "ul": [
+        "Si el acortador cierra, todos tus links impresos dejan de funcionar.",
+        "Si pierdes la cuenta, ya no puedes cambiar el destino.",
+        "Si el código es al azar, nadie lo recuerda ni lo puede dictar.",
+        "Si mandas muchos links cortos por correo, algunos llegan a correo no deseado.",
+        "Si el plan gratis cambia, tus estadísticas pueden quedar fuera."
+      ]
+    },
+    {
+      "p": "Para un negocio, la mejor dirección corta es la que lleva su propio nombre. Algo como tunegocio.mx se lee, se dicta y da confianza."
+    },
+    {
+      "h2": "El link de WhatsApp no necesita acortador"
+    },
+    {
+      "p": "La mayoría de los negocios acortan links para que les escriban por WhatsApp. Para eso existe el formato wa.me, que ya es corto."
+    },
+    {
+      "p": "Un link de WhatsApp se arma con tu número y un mensaje opcional. Quien lo abre llega al chat contigo con el texto escrito."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un link de WhatsApp",
+        "columnas": [
+          "Parte",
+          "Qué lleva",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Dominio",
+            "Siempre wa.me",
+            "wa.me"
+          ],
+          [
+            "Número",
+            "Código de país 52 y tus 10 dígitos sin espacios",
+            "523311234567"
+          ],
+          [
+            "Mensaje",
+            "Texto opcional que aparece listo para enviar",
+            "Hola, quiero pedir informes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El mensaje largo es lo que hace crecer el link. Si quieres un link más corto, usa un mensaje de pocas palabras."
+    },
+    {
+      "p": "Con el generador de esta página escribes tu número y tu mensaje. Te da el link listo y también su código QR."
+    },
+    {
+      "p": "Puedes poner ese link en tu biografía de Instagram, en tu ficha de Google o en un [código QR para WhatsApp](id:codigo-qr-para-whatsapp)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cuándo conviene acortar y cuándo no"
+    },
+    {
+      "p": "No todos los links necesitan acortarse. A veces el link largo da más confianza porque se ve a dónde lleva."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo acortar un link",
+        "columnas": [
+          "Situación",
+          "Conviene",
+          "Por qué"
+        ],
+        "filas": [
+          [
+            "Volante o letrero impreso",
+            "Sí, o mejor tu dominio",
+            "Nadie escribe una dirección larga a mano"
+          ],
+          [
+            "Historia de Instagram",
+            "No hace falta",
+            "La liga va en un botón y no se ve"
+          ],
+          [
+            "Mensaje de WhatsApp a un cliente",
+            "No hace falta",
+            "WhatsApp muestra la vista previa del destino"
+          ],
+          [
+            "Correo a muchas personas",
+            "Mejor no",
+            "Los links cortos pueden mandar el correo a no deseado"
+          ],
+          [
+            "Tarjeta de presentación",
+            "Mejor tu dominio",
+            "Tu dominio se queda contigo para siempre"
+          ],
+          [
+            "Formulario o encuesta",
+            "Sí",
+            "Las direcciones de formularios son muy largas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo saber a dónde lleva un link corto"
+    },
+    {
+      "p": "Antes de abrir un link corto que te mandaron, puedes revisar su destino. Así evitas caer en una página falsa."
+    },
+    {
+      "ol": [
+        "Copia el link corto sin abrirlo.",
+        "Pégalo en un revisor de destino o en la vista previa del propio acortador.",
+        "Lee la dirección final completa.",
+        "Ábrelo sólo si el dominio final es el que esperabas."
+      ]
+    },
+    {
+      "p": "Algunos acortadores muestran la vista previa si agregas un signo al final del link. Revisa la ayuda del servicio para saber cuál usa."
+    },
+    {
+      "h2": "Link corto o código QR"
+    },
+    {
+      "p": "Un código QR resuelve el mismo problema que un link corto en papel. La persona apunta la cámara y llega sin escribir nada."
+    },
+    {
+      "p": "El QR no necesita acortador. Guarda la dirección completa dentro del dibujo y la cámara la lee."
+    },
+    {
+      "p": "Aun así conviene un link corto dentro del QR en dos casos. El primero es cuando la dirección es tan larga que el QR sale muy denso."
+    },
+    {
+      "p": "El segundo caso es cuando quieres cambiar el destino después de imprimir. Un QR con link editable te deja hacerlo sin reimprimir."
+    },
+    {
+      "p": "Si tu destino es fijo, haz el QR directo con nuestro [generador de QR](id:generador-de-qr). Así no dependes de ningún servicio intermedio."
+    },
+    {
+      "h2": "Cómo medir cuántas personas abren tu link"
+    },
+    {
+      "p": "Una ventaja de los acortadores es que cuentan los clics. Así sabes si tu volante o tu publicación funcionó."
+    },
+    {
+      "p": "Para medir bien, crea un link distinto para cada lugar donde lo pongas. Uno para el volante, otro para Instagram y otro para la tarjeta."
+    },
+    {
+      "p": "Al final del mes compara los números. El lugar con más clics es donde conviene invertir más."
+    },
+    {
+      "p": "Si tienes página propia, puedes medir lo mismo sin acortador. Basta con agregar una marca al final de cada dirección y revisar tus visitas."
+    },
+    {
+      "h2": "Errores comunes al acortar links"
+    },
+    {
+      "ul": [
+        "Imprimir un link corto sin probarlo en otro celular.",
+        "Usar un acortador desconocido que puede cerrar en meses.",
+        "Perder la contraseña de la cuenta donde creaste los links.",
+        "Poner un link corto en una tarjeta en lugar de tu dominio.",
+        "Mandar el mismo link corto a cientos de correos.",
+        "Acortar un link de WhatsApp que ya era corto."
+      ]
+    },
+    {
+      "h2": "Una dirección corta que es tuya"
+    },
+    {
+      "p": "Un dominio propio es la dirección corta más duradera. No depende de un acortador ni de su plan gratis."
+    },
+    {
+      "p": "Con tu dominio puedes hacer direcciones como tunegocio.mx/menu o tunegocio.mx/whatsapp. Cada una lleva a donde tú quieras."
+    },
+    {
+      "p": "Si todavía no tienes dominio, lee [qué es un dominio](id:que-es-un-dominio) para entender cómo funciona. Ahí verás cómo elegir uno fácil de dictar."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Acortar un link es gratis?",
+      "respuesta": "Sí. Los acortadores conocidos tienen un plan gratis para acortar links básicos. Las estadísticas y los links con tu marca suelen ser de pago."
+    },
+    {
+      "pregunta": "¿Puedo acortar un link con Google?",
+      "respuesta": "No. Google ya no crea links cortos nuevos. Hoy se usan otros servicios o tu propio dominio."
+    },
+    {
+      "pregunta": "¿Un link corto deja de funcionar?",
+      "respuesta": "Puede pasar. Si el servicio cierra o borra links sin uso, la dirección corta ya no lleva a ningún lado."
+    },
+    {
+      "pregunta": "¿Cómo acorto el link de mi WhatsApp?",
+      "respuesta": "No necesitas acortarlo. El formato wa.me ya es corto y lo armas arriba con tu número."
+    },
+    {
+      "pregunta": "¿Es seguro abrir un link corto?",
+      "respuesta": "Depende de quién lo manda. Revisa el destino antes de abrirlo si no conoces a la persona."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el destino de un link corto?",
+      "respuesta": "Sí, en algunos servicios. Necesitas cuenta y a veces un plan de pago para editar el destino."
+    }
+  ],
+  "relacionadas": [
+    "link-de-whatsapp",
+    "codigo-qr-para-whatsapp",
+    "link-en-bio",
+    "generador-de-qr",
+    "mensaje-de-recordatorio-para-clientes",
+    "que-es-un-dominio"
+  ],
+  "venta": {
+    "puente": "Un link corto ayuda, pero un dominio propio se dicta solo. Tu landing de Aliviane trae tu dominio incluido.",
+    "aviso": "Tu link ya está listo. Si quieres que lleve a tu propia página, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página de tu negocio con tu dominio?",
+    "tituloCorto": "¿Quieres una dirección que se dicte sola?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google para desarrolladores, cierre del acortador goo.gl",
+      "url": "https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://protecciondatos-lopd.com/empresas/acortar-url/",
+      "titulo": "Acortar URL: los mejores acortadores",
+      "promete": "Lista de acortadores y pasos genéricos; no dice cuándo un link corto da desconfianza ni sirve a un negocio mexicano"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.mercately.com/sitio-web/acortadores-de-url",
+      "titulo": "Acortadores de URL: los mejores servicios para acortar enlaces",
+      "promete": "Comparación de servicios con funciones de pago; no explica el link de WhatsApp ni los riesgos de que el servicio cierre"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.crehana.com/blog/marketing-digital/acortadores-de-links/",
+      "titulo": "Acortadores de links",
+      "promete": "Lista general de herramientas; sin pasos para celular ni consejo de cuándo usar dominio propio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Sin acortador propio por decisión de CONSTRUCCION.md (riesgo de phishing en el dominio que manda correos). Monta el generador de link de WhatsApp. Top 3 leído con WebSearch el 12-nov-2026."
+}

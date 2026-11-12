@@ -1,0 +1,491 @@
+{
+  "id": "seo",
+  "slug": "seo",
+  "molde": "guia",
+  "cabeza": "seo",
+  "busquedas": [
+    "seo online",
+    "marketing seo",
+    "seo marketing online",
+    "marketing online seo",
+    "posicionamiento seo",
+    "seo posicionamiento",
+    "posicionamiento y seo",
+    "seo mkt",
+    "seo google",
+    "posicionar seo",
+    "seo q es",
+    "posiciones seo",
+    "posicionamiento web",
+    "posicionamiento pagina web",
+    "posicionamiento en paginas web",
+    "posicionar web",
+    "posicionar página web",
+    "posiciona web"
+  ],
+  "title": "SEO: qué es y cómo funciona el posicionamiento web",
+  "h1": "Qué es el SEO y cómo empezar con la página de tu negocio",
+  "description": "El SEO es lo que haces para que tu página aparezca en Google sin pagar anuncios. Te explicamos cómo funciona y 10 tareas para un negocio pequeño. Empieza hoy.",
+  "resumen": "Cómo funciona el SEO y las tareas que un negocio pequeño puede hacer solo",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El SEO es el conjunto de cosas que haces para que tu página aparezca en Google sin pagar anuncios. Las siglas vienen del inglés y significan optimización para buscadores.",
+    "Funciona en tres partes. Que Google encuentre tu página, que entienda de qué trata y que la considere útil para quien busca.",
+    "Para un negocio pequeño lo más importante es una página clara, una ficha de Google completa y reseñas reales. Nadie puede garantizarte un lugar fijo en los resultados."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el SEO"
+    },
+    {
+      "p": "SEO son las siglas de search engine optimization. En español se le llama posicionamiento web o posicionamiento orgánico."
+    },
+    {
+      "p": "Orgánico quiere decir que no pagas por cada visita. Las visitas llegan porque Google eligió mostrar tu página."
+    },
+    {
+      "p": "Cuando alguien busca algo, Google enseña dos tipos de resultados. Los anuncios pagados, marcados como patrocinados, y los resultados orgánicos."
+    },
+    {
+      "p": "El SEO trabaja sólo con los orgánicos. Los anuncios pagados son otra disciplina que se llama SEM."
+    },
+    {
+      "h2": "Cómo funciona Google en tres pasos"
+    },
+    {
+      "p": "Google explica en su documentación oficial que su buscador trabaja en tres etapas. Entenderlas te dice qué puedes hacer en cada una."
+    },
+    {
+      "tabla": {
+        "titulo": "Las tres etapas de la Búsqueda de Google",
+        "columnas": [
+          "Etapa",
+          "Qué hace Google",
+          "Qué puedes hacer tú"
+        ],
+        "filas": [
+          [
+            "Rastreo",
+            "Sus programas recorren internet siguiendo enlaces",
+            "Que otras páginas y tu ficha de Google liguen a tu página"
+          ],
+          [
+            "Indexación",
+            "Lee tu página y la guarda en su índice",
+            "Que el texto esté escrito y no dentro de imágenes"
+          ],
+          [
+            "Publicación de resultados",
+            "Elige qué páginas mostrar a cada búsqueda",
+            "Que tu página conteste bien lo que la gente busca"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu página no está en el índice, no puede aparecer. Por eso el primer paso es que Google la conozca."
+    },
+    {
+      "h2": "Los tres tipos de SEO"
+    },
+    {
+      "p": "El SEO se suele dividir en tres partes. Cada una atiende un aspecto distinto de tu página."
+    },
+    {
+      "h3": "SEO en la página"
+    },
+    {
+      "p": "Es todo lo que está dentro de tu página. Incluye títulos y textos. También fotos, enlaces internos y la dirección de cada página."
+    },
+    {
+      "p": "Aquí entra elegir bien las palabras que usa tu cliente. Lee nuestra guía de [palabras clave](id:palabras-clave) para encontrarlas."
+    },
+    {
+      "h3": "SEO técnico"
+    },
+    {
+      "p": "Es lo que hace que tu página cargue rápido y que Google la pueda leer sin problemas. Incluye la velocidad, el candado de seguridad y la versión para celular."
+    },
+    {
+      "p": "La mayoría de la gente te busca desde el celular. Una página lenta en celular pierde visitas aunque tenga buen texto."
+    },
+    {
+      "h3": "SEO fuera de la página"
+    },
+    {
+      "p": "Es lo que otros dicen de ti en internet. Enlaces desde otras páginas, menciones en directorios y reseñas."
+    },
+    {
+      "p": "Un enlace desde el periódico local o la cámara de comercio vale más que cien enlaces de páginas desconocidas."
+    },
+    {
+      "h2": "SEO local"
+    },
+    {
+      "p": "Si tu negocio atiende en una ciudad, el SEO local es lo que más te importa. Es lo que hace que salgas en el mapa cuando alguien busca cerca."
+    },
+    {
+      "p": "El SEO local depende mucho de tu ficha de Google. Revisa nuestra guía de [Google Mi Negocio](id:google-mi-negocio) para dejarla completa."
+    },
+    {
+      "p": "También ayuda que tu nombre, dirección y teléfono sean iguales en todos lados. En tu página, tu ficha, tus redes y los directorios."
+    },
+    {
+      "p": "Para profundizar, lee nuestra guía de [SEO local](id:seo-local)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "10 tareas de SEO que puedes hacer tú"
+    },
+    {
+      "p": "No necesitas agencia para empezar. Estas tareas cubren lo básico de un negocio pequeño."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Ten tu propia página con tu dominio",
+          "texto": "Una red social no cuenta como página propia. Google necesita una dirección tuya para mostrarte."
+        },
+        {
+          "titulo": "Escribe un título claro en cada página",
+          "texto": "El título debe decir qué vendes y dónde. Por ejemplo, plomero en Zapopan con servicio el mismo día."
+        },
+        {
+          "titulo": "Usa las palabras de tu cliente",
+          "texto": "Si tu cliente busca mofles, no escribas sólo sistemas de escape. Escribe como te piden las cosas."
+        },
+        {
+          "titulo": "Pon tu texto en letras y no en imágenes",
+          "texto": "Google lee mejor el texto escrito. Un menú en foto no lo entiende bien."
+        },
+        {
+          "titulo": "Haz que cargue rápido en celular",
+          "texto": "Comprime las fotos y evita animaciones pesadas."
+        },
+        {
+          "titulo": "Ten el candado de seguridad",
+          "texto": "La dirección debe empezar con https. Si no, el navegador avisa que no es segura."
+        },
+        {
+          "titulo": "Completa tu ficha de Google",
+          "texto": "Liga tu página desde la ficha y llena horario, fotos y servicios."
+        },
+        {
+          "titulo": "Pide reseñas reales",
+          "texto": "Pide a cada cliente contento que deje su opinión. Contesta todas."
+        },
+        {
+          "titulo": "Consigue menciones locales",
+          "texto": "Pide que te liguen tus proveedores, tu cámara de comercio y medios de tu ciudad."
+        },
+        {
+          "titulo": "Da de alta tu página en Search Console",
+          "texto": "Es la herramienta gratis de Google para ver cómo te encuentra la gente."
+        }
+      ]
+    },
+    {
+      "h2": "Cuánto tarda el SEO en dar resultados"
+    },
+    {
+      "p": "El SEO no es inmediato. Google necesita encontrar tu página, leerla y compararla con otras."
+    },
+    {
+      "p": "Una página nueva suele tardar semanas en aparecer de forma estable. Subir en búsquedas con mucha competencia puede tomar meses."
+    },
+    {
+      "p": "Lo bueno es que lo que ganas no se apaga al día siguiente. A diferencia de un anuncio, tu página sigue apareciendo aunque no pagues cada clic."
+    },
+    {
+      "tabla": {
+        "titulo": "SEO frente a anuncios pagados",
+        "columnas": [
+          "Punto",
+          "SEO",
+          "Anuncios pagados"
+        ],
+        "filas": [
+          [
+            "Costo por visita",
+            "No pagas por cada clic",
+            "Pagas cada clic"
+          ],
+          [
+            "Tiempo para ver resultados",
+            "Semanas o meses",
+            "Desde el primer día"
+          ],
+          [
+            "Qué pasa si dejas de invertir",
+            "Los resultados bajan poco a poco",
+            "Las visitas se detienen"
+          ],
+          [
+            "Confianza del usuario",
+            "Alta, no se ve como anuncio",
+            "Se marca como patrocinado"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si quieres entender bien la diferencia, lee [SEO y SEM](id:seo-y-sem)."
+    },
+    {
+      "h2": "Ejemplo de una página que Google entiende"
+    },
+    {
+      "p": "Imagina un plomero en Zapopan que quiere aparecer cuando alguien busca plomero cerca. Así se vería su página ordenada."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de la página de un plomero",
+        "columnas": [
+          "Parte",
+          "Qué lleva",
+          "Por qué ayuda"
+        ],
+        "filas": [
+          [
+            "Título de la pestaña",
+            "Plomero en Zapopan con servicio el mismo día",
+            "Dice qué y dónde en pocas palabras"
+          ],
+          [
+            "Encabezado principal",
+            "Plomería a domicilio en Zapopan",
+            "Confirma el tema de la página"
+          ],
+          [
+            "Primer párrafo",
+            "Qué arregla, en qué colonias y en cuánto tiempo llega",
+            "Contesta lo que busca la persona"
+          ],
+          [
+            "Lista de servicios",
+            "Fugas, boilers, tinacos y destapes con rango de precio",
+            "Usa las palabras que escribe el cliente"
+          ],
+          [
+            "Fotos",
+            "Trabajos reales con una descripción corta",
+            "Muestran que el negocio existe"
+          ],
+          [
+            "Preguntas frecuentes",
+            "Horarios, formas de pago y garantía",
+            "Resuelven dudas sin llamar"
+          ],
+          [
+            "Contacto",
+            "Botón de WhatsApp, teléfono y mapa",
+            "Convierte la visita en cliente"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fíjate que el texto habla como habla el cliente. Nadie busca soluciones hidráulicas integrales, la gente busca plomero."
+    },
+    {
+      "h2": "Herramientas gratis para tu SEO"
+    },
+    {
+      "p": "No necesitas pagar programas caros para empezar. Estas herramientas son gratis y cubren lo básico."
+    },
+    {
+      "tabla": {
+        "titulo": "Herramientas gratis",
+        "columnas": [
+          "Herramienta",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Google Search Console",
+            "Ver búsquedas, clics y problemas de tu página en Google"
+          ],
+          [
+            "Herramientas para webmasters de Bing",
+            "Lo mismo para el buscador de Microsoft"
+          ],
+          [
+            "Perfil de Negocio de Google",
+            "Tu ficha en Google Maps y sus estadísticas"
+          ],
+          [
+            "PageSpeed Insights",
+            "Medir qué tan rápido carga tu página en celular"
+          ],
+          [
+            "El propio buscador",
+            "Ver qué páginas salen hoy para tu búsqueda y qué ofrecen"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La última es la más subestimada. Busca lo que buscaría tu cliente y anota qué tienen las páginas que salen arriba."
+    },
+    {
+      "h2": "SEO y buscadores con inteligencia artificial"
+    },
+    {
+      "p": "Cada vez más gente pregunta a asistentes con inteligencia artificial en lugar de buscar. Esos asistentes también leen páginas para contestar."
+    },
+    {
+      "p": "Lo que ayuda en Google ayuda también ahí. Texto claro, datos concretos, preguntas contestadas y tu negocio bien descrito."
+    },
+    {
+      "p": "Una página que dice qué haces, dónde y a qué precio es fácil de citar. Una página llena de frases vagas no le sirve a nadie."
+    },
+    {
+      "h2": "Cómo medir tu SEO"
+    },
+    {
+      "p": "Google Search Console es gratis y te dice cuántas veces apareciste y cuántas personas dieron clic. También te avisa si hay problemas en tu página."
+    },
+    {
+      "p": "Revisa estos números una vez al mes. Mira qué búsquedas te traen visitas y mejora las páginas que casi llegan."
+    },
+    {
+      "tabla": {
+        "titulo": "Números de Search Console",
+        "columnas": [
+          "Número",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "Impresiones",
+            "Cuántas veces apareció tu página en resultados"
+          ],
+          [
+            "Clics",
+            "Cuántas personas entraron desde Google"
+          ],
+          [
+            "CTR",
+            "El porcentaje de impresiones que se volvieron clic"
+          ],
+          [
+            "Posición media",
+            "El lugar promedio donde apareciste"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cuidado con las promesas de SEO"
+    },
+    {
+      "p": "Nadie controla el algoritmo de Google. Quien te garantiza el primer lugar está prometiendo algo que no depende de él."
+    },
+    {
+      "p": "Desconfía también de quien vende miles de enlaces baratos. Esas técnicas pueden hacer que Google castigue tu página."
+    },
+    {
+      "p": "Si contratas ayuda, pide un plan con tareas concretas y reportes mensuales. Lee qué revisar en una [agencia SEO](id:agencia-seo)."
+    },
+    {
+      "h2": "Errores comunes de SEO en negocios pequeños"
+    },
+    {
+      "ul": [
+        "No tener página propia y depender sólo de redes sociales.",
+        "Poner todo el texto dentro de imágenes.",
+        "Repetir la misma palabra muchas veces para forzar la posición.",
+        "Copiar textos de otras páginas.",
+        "Usar el mismo título en todas las páginas.",
+        "Olvidar la versión para celular.",
+        "Abandonar la ficha de Google después de crearla."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué significa SEO?",
+      "respuesta": "Optimización para buscadores. Viene de las siglas en inglés search engine optimization."
+    },
+    {
+      "pregunta": "¿El SEO es gratis?",
+      "respuesta": "En parte. No pagas por cada clic, pero sí inviertes tiempo o pagas a quien lo haga."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en funcionar el SEO?",
+      "respuesta": "Semanas para aparecer y meses para subir en búsquedas difíciles. Depende de tu competencia."
+    },
+    {
+      "pregunta": "¿Puedo hacer SEO sin página web?",
+      "respuesta": "Sólo en parte. Tu ficha de Google ayuda en el mapa, pero sin página pierdes los resultados normales."
+    },
+    {
+      "pregunta": "¿Alguien me puede garantizar el primer lugar?",
+      "respuesta": "No. Nadie controla los resultados de Google. Desconfía de esa promesa."
+    },
+    {
+      "pregunta": "¿Qué es el SEO local?",
+      "respuesta": "Es el SEO para salir en búsquedas cercanas. Depende mucho de tu ficha de Google y tus reseñas."
+    },
+    {
+      "pregunta": "¿Cada cuánto debo actualizar mi página para el SEO?",
+      "respuesta": "Cuando cambie algo real. Un precio nuevo, un servicio o una foto reciente bastan. No hace falta publicar por publicar."
+    }
+  ],
+  "relacionadas": [
+    "seo-y-sem",
+    "palabras-clave",
+    "seo-local",
+    "slug-seo",
+    "agencia-seo",
+    "google-mi-negocio"
+  ],
+  "venta": {
+    "puente": "El SEO empieza con una página bien hecha. Aliviane te entrega tu landing rápida en celular y con tu dominio.",
+    "titulo": "¿Hacemos una página lista para que Google la lea?",
+    "tituloCorto": "¿Tu página ya está lista para Google?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google Search Central, guía de SEO para principiantes",
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=es"
+    },
+    {
+      "texto": "Google Search Central, cómo funciona la Búsqueda de Google",
+      "url": "https://developers.google.com/search/docs/fundamentals/how-search-works?hl=es"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.cronista.com/informacion-gral/que-es-el-posicionamiento-web-o-seo/",
+      "titulo": "Qué es el posicionamiento web o SEO",
+      "promete": "Definición periodística; sin tareas concretas para un negocio ni orden de prioridad"
+    },
+    {
+      "posicion": 2,
+      "url": "https://marketing4ecommerce.net/que-es-posicionamiento-seo/",
+      "titulo": "Qué es el posicionamiento SEO",
+      "promete": "Teoría para tiendas en línea; no habla de SEO local ni de Google Maps"
+    },
+    {
+      "posicion": 3,
+      "url": "https://metricool.com/es/guia-seo/",
+      "titulo": "Prepara tu estrategia de posicionamiento: aplica el SEO para tu negocio",
+      "promete": "Guía larga con su herramienta; sin lista corta de tareas ni advertencia sobre promesas de posición"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Nunca prometer posiciones. Top 3 leído con WebSearch el 12-nov-2026."
+}

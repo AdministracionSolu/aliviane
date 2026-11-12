@@ -1,0 +1,492 @@
+{
+  "id": "mision-y-vision",
+  "slug": "mision-y-vision",
+  "molde": "guia",
+  "cabeza": "mision",
+  "busquedas": [
+    "mision de",
+    "ejemplo de mision",
+    "misión y visión",
+    "mision vision y",
+    "vision y mision",
+    "mision vision",
+    "ejemplo mision y vision",
+    "visión",
+    "vision y",
+    "ejemplos de vision",
+    "mision que es",
+    "visión de una empresa",
+    "vision empresa",
+    "vision de empresa",
+    "vision de la empresa",
+    "vision de las empresas ejemplos",
+    "mision y vision de una empresa",
+    "ejemplos de vision y mision de empresas",
+    "ejemplo de mision y vision de una empresa",
+    "ejemplo de la mision de una empresa",
+    "mision vision objetivo"
+  ],
+  "title": "Misión y visión: qué son, cómo redactarlas y ejemplos",
+  "h1": "Misión y visión de una empresa: cómo redactarlas con ejemplos",
+  "description": "La misión dice qué haces hoy y la visión a dónde quieres llegar. Te damos una fórmula, 10 ejemplos por giro y una lista para revisarlas. Escribe las tuyas.",
+  "resumen": "Diferencia entre misión y visión, fórmula para redactarlas y ejemplos por giro",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "La misión dice qué hace tu negocio hoy, para quién y por qué. La visión dice qué quieres lograr en algunos años.",
+    "La misión se escribe en presente y la visión en futuro. Las dos caben en una o dos frases cortas que cualquier empleado pueda repetir."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es la misión de una empresa"
+    },
+    {
+      "p": "La misión es la razón de ser de tu negocio. Contesta qué haces, para quién lo haces y qué te hace distinto."
+    },
+    {
+      "p": "Se escribe en presente porque describe lo que ya haces. No es un sueño, es tu trabajo de todos los días."
+    },
+    {
+      "p": "Una buena misión ayuda a decidir. Si una idea nueva no encaja con tu misión, probablemente no conviene."
+    },
+    {
+      "h2": "Qué es la visión de una empresa"
+    },
+    {
+      "p": "La visión es la imagen de tu negocio en el futuro. Dice a dónde quieres llegar en cinco o diez años."
+    },
+    {
+      "p": "Se escribe en futuro y debe ser alcanzable. Ser la mejor empresa del mundo no orienta a nadie."
+    },
+    {
+      "p": "Una buena visión motiva al equipo y da dirección. Les dice a todos hacia dónde reman."
+    },
+    {
+      "h2": "Diferencias entre misión y visión"
+    },
+    {
+      "tabla": {
+        "titulo": "Misión y visión lado a lado",
+        "columnas": [
+          "Punto",
+          "Misión",
+          "Visión"
+        ],
+        "filas": [
+          [
+            "Pregunta",
+            "¿Qué hacemos y para quién?",
+            "¿A dónde queremos llegar?"
+          ],
+          [
+            "Tiempo",
+            "Presente",
+            "Futuro, de 5 a 10 años"
+          ],
+          [
+            "Uso",
+            "Guía las decisiones diarias",
+            "Marca la dirección de largo plazo"
+          ],
+          [
+            "Cambia",
+            "Cuando cambia el negocio",
+            "Cuando se cumple o cambia la meta"
+          ],
+          [
+            "Ejemplo",
+            "Reparamos celulares en el día en Tlalpan",
+            "Ser el taller de confianza de cada colonia de Tlalpan"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una forma fácil de recordarlo es pensar en un viaje. La misión es el camión en el que vas y la visión es el lugar al que quieres llegar."
+    },
+    {
+      "h2": "Cómo redactar la misión paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe qué haces",
+          "texto": "Usa un verbo concreto como vendemos o reparamos. También sirven enseñamos, preparamos o diseñamos."
+        },
+        {
+          "titulo": "Di para quién",
+          "texto": "Nombra a tu cliente con detalle. Familias de la colonia dice más que todo público."
+        },
+        {
+          "titulo": "Agrega cómo lo haces distinto",
+          "texto": "Escribe lo que te distingue. Puede ser rapidez, trato, precio o calidad."
+        },
+        {
+          "titulo": "Quita palabras vacías",
+          "texto": "Borra palabras como excelencia o calidad total si no dicen nada concreto."
+        },
+        {
+          "titulo": "Léela en voz alta",
+          "texto": "Si suena a anuncio de banco, simplifica. Debe sonar como hablas tú."
+        }
+      ]
+    },
+    {
+      "h2": "Fórmula para la misión"
+    },
+    {
+      "p": "Una fórmula sirve para el primer borrador. Después la ajustas a tu forma de hablar."
+    },
+    {
+      "p": "**Verbo + qué ofreces + para quién + cómo lo haces distinto.**"
+    },
+    {
+      "p": "Ejemplo con la fórmula. Preparamos pasteles de encargo para fiestas familiares en Puebla con entrega a domicilio el mismo día."
+    },
+    {
+      "h2": "Cómo redactar la visión paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige un plazo",
+          "texto": "Piensa en cinco o diez años. Más lejos se vuelve un sueño sin forma."
+        },
+        {
+          "titulo": "Imagina el resultado",
+          "texto": "Describe cómo se ve tu negocio cuando lo logres. Cuántas sucursales, qué fama, qué clientes."
+        },
+        {
+          "titulo": "Hazla medible si puedes",
+          "texto": "Una cifra o un lugar ayudan. Tres sucursales en León dice más que crecer mucho."
+        },
+        {
+          "titulo": "Revisa que te motive",
+          "texto": "Si al leerla no sientes ganas de trabajar, reescríbela."
+        }
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Ejemplos de misión y visión por giro"
+    },
+    {
+      "p": "Estos ejemplos son de negocios de ejemplo. Sirven para ver el tono y adaptar el tuyo."
+    },
+    {
+      "tabla": {
+        "titulo": "Diez ejemplos de misión y visión",
+        "columnas": [
+          "Giro",
+          "Misión",
+          "Visión"
+        ],
+        "filas": [
+          [
+            "Taquería",
+            "Servimos tacos al pastor recién hechos para trabajadores de la zona industrial a buen precio",
+            "Abrir tres sucursales en Monterrey antes de 2031"
+          ],
+          [
+            "Estética",
+            "Cuidamos el cabello de mujeres de la colonia con trato cercano y productos que no dañan",
+            "Ser la estética más recomendada en Google de nuestro municipio"
+          ],
+          [
+            "Taller mecánico",
+            "Reparamos autos con diagnóstico claro y precio antes de empezar",
+            "Ser el taller que las familias de Mérida recomiendan sin dudar"
+          ],
+          [
+            "Papelería",
+            "Surtimos listas escolares completas y entregamos en casa en temporada",
+            "Tener la tienda escolar más completa del norte de la ciudad"
+          ],
+          [
+            "Consultorio dental",
+            "Atendemos a familias con tratamientos explicados y citas puntuales",
+            "Ser la clínica dental de cabecera de mil familias en Toluca"
+          ],
+          [
+            "Tienda de ropa",
+            "Vendemos ropa casual de diseñadores mexicanos con envío a todo el país",
+            "Llevar diseño mexicano a clientes de diez estados"
+          ],
+          [
+            "Cafetería",
+            "Preparamos café de especialidad mexicano para quien trabaja cerca",
+            "Ser el punto de encuentro del barrio por las mañanas"
+          ],
+          [
+            "Despacho contable",
+            "Llevamos la contabilidad de pequeños negocios con reportes que se entienden",
+            "Atender a cien negocios con cero multas del SAT por descuido nuestro"
+          ],
+          [
+            "Escuela de inglés",
+            "Enseñamos inglés práctico a adultos que trabajan con horarios flexibles",
+            "Que cada alumno pueda conversar en inglés al terminar un año"
+          ],
+          [
+            "Florería",
+            "Armamos arreglos frescos para cada ocasión con entrega en dos horas",
+            "Ser la florería favorita de Querétaro para fechas especiales"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo corregir una misión que no dice nada"
+    },
+    {
+      "p": "Muchas misiones se parecen porque usan las mismas palabras. Este cuadro muestra cómo pasar de una frase vacía a una que sirve."
+    },
+    {
+      "tabla": {
+        "titulo": "Antes y después",
+        "columnas": [
+          "Antes",
+          "Qué le falta",
+          "Después"
+        ],
+        "filas": [
+          [
+            "Brindar productos de excelencia a nuestros clientes",
+            "No dice qué productos ni para quién",
+            "Horneamos pan de caja sin conservadores para tiendas de abarrotes de Saltillo"
+          ],
+          [
+            "Ser líderes en servicios de limpieza",
+            "Es visión, no misión",
+            "Limpiamos oficinas pequeñas de noche para que abran listas cada mañana"
+          ],
+          [
+            "Satisfacer las necesidades del mercado con calidad",
+            "No dice nada concreto",
+            "Instalamos minisplits en casas de Hermosillo con garantía de un año"
+          ],
+          [
+            "Innovar para transformar el mundo",
+            "Es demasiado grande",
+            "Hacemos tazas personalizadas para regalos de empresas en dos días"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La versión corregida siempre tiene un verbo, un producto y un cliente. Con eso cualquier persona entiende a qué te dedicas."
+    },
+    {
+      "h2": "Cómo escribirlas con tu equipo"
+    },
+    {
+      "p": "Si tienes empleados, conviene escribir la misión con ellos. Así la sienten suya y la repiten con gusto."
+    },
+    {
+      "ol": [
+        "Pide a cada persona que escriba en una tarjeta qué hace el negocio y para quién.",
+        "Lean todas las tarjetas en voz alta.",
+        "Subrayen las palabras que se repiten.",
+        "Armen una frase con esas palabras siguiendo la fórmula.",
+        "Déjenla una semana y vuelvan a leerla antes de aprobarla."
+      ]
+    },
+    {
+      "p": "Para la visión, pregunta cómo imaginan el negocio en cinco años. Las respuestas muestran metas que tal vez no habías pensado."
+    },
+    {
+      "h2": "De la visión a los objetivos"
+    },
+    {
+      "p": "La visión es la meta grande. Para llegar hay que partirla en objetivos de un año."
+    },
+    {
+      "p": "Un objetivo dice qué, cuánto y para cuándo. Por ejemplo, abrir la segunda sucursal en marzo del próximo año."
+    },
+    {
+      "p": "Si tu visión es tener tres sucursales en cinco años, tu objetivo del primer año puede ser llenar la primera. El del segundo, juntar el dinero para la segunda."
+    },
+    {
+      "p": "Revisa tus objetivos cada tres meses. Si no avanzas, cambia el plan antes de cambiar la visión."
+    },
+    {
+      "h2": "Misión, visión y valores"
+    },
+    {
+      "p": "Muchas empresas agregan una tercera parte. Los valores son los principios que guían cómo trabajan."
+    },
+    {
+      "p": "La misión dice qué haces y la visión a dónde vas. Los valores dicen cómo te comportas en el camino."
+    },
+    {
+      "p": "Elige tres a cinco valores y explica cada uno con una acción. Puntualidad significa que la cita empieza a la hora acordada."
+    },
+    {
+      "p": "Lee nuestra guía de [valores de una empresa](id:valores-de-una-empresa) para ver ejemplos."
+    },
+    {
+      "h2": "Dónde usar tu misión y tu visión"
+    },
+    {
+      "p": "No sirven si se quedan en un cuadro en la pared. Úsalas en lugares donde ayuden a decidir y a vender."
+    },
+    {
+      "ul": [
+        "En la sección quiénes somos de tu página web.",
+        "En la capacitación de cada empleado nuevo.",
+        "En tu [plan de negocios](id:plan-de-negocios) si buscas crédito o socio.",
+        "En la descripción de tu ficha de Google o tus redes.",
+        "En las juntas cuando hay que elegir entre dos ideas."
+      ]
+    },
+    {
+      "h2": "Lista para revisar tu misión y visión"
+    },
+    {
+      "tabla": {
+        "titulo": "Revisión rápida",
+        "columnas": [
+          "Pregunta",
+          "Misión",
+          "Visión"
+        ],
+        "filas": [
+          [
+            "¿Cabe en una o dos frases?",
+            "Sí debe",
+            "Sí debe"
+          ],
+          [
+            "¿Dice para quién?",
+            "Sí debe",
+            "Puede"
+          ],
+          [
+            "¿Está en el tiempo correcto?",
+            "Presente",
+            "Futuro"
+          ],
+          [
+            "¿Tiene un plazo o meta?",
+            "No hace falta",
+            "Conviene"
+          ],
+          [
+            "¿La entiende un niño de doce años?",
+            "Sí debe",
+            "Sí debe"
+          ],
+          [
+            "¿Tu equipo la puede repetir?",
+            "Sí debe",
+            "Sí debe"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Escribir la misión en futuro como si fuera visión.",
+        "Llenarla de palabras como excelencia, liderazgo o innovación.",
+        "Copiar la misión de una empresa grande.",
+        "Hacer una visión imposible de medir.",
+        "Escribirlas y no volver a leerlas.",
+        "No cambiarlas cuando el negocio cambia de rumbo."
+      ]
+    },
+    {
+      "h2": "Misión y visión personal"
+    },
+    {
+      "p": "El mismo ejercicio sirve para una persona. Muchas escuelas lo piden en clases de orientación o de emprendimiento."
+    },
+    {
+      "p": "Tu misión personal dice qué haces y para quién. Tu visión personal dice quién quieres ser en unos años."
+    },
+    {
+      "p": "Ejemplo de misión personal. Ayudo a pequeños negocios de mi ciudad a llevar sus cuentas en orden."
+    },
+    {
+      "p": "Ejemplo de visión personal. En cinco años tendré mi propio despacho con tres personas a mi cargo."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué va primero, la misión o la visión?",
+      "respuesta": "La misión. Primero defines qué haces hoy y después a dónde quieres llegar."
+    },
+    {
+      "pregunta": "¿Qué tan larga debe ser la misión?",
+      "respuesta": "Una o dos frases. Si no la puedes decir de memoria, es demasiado larga."
+    },
+    {
+      "pregunta": "¿La misión y la visión pueden cambiar?",
+      "respuesta": "Sí. Cambian cuando el negocio cambia de cliente, de producto o cumple su meta."
+    },
+    {
+      "pregunta": "¿Un negocio pequeño necesita misión y visión?",
+      "respuesta": "Sí, conviene. Te ayudan a decidir y a explicar tu negocio a clientes y empleados."
+    },
+    {
+      "pregunta": "¿En qué tiempo verbal se escribe la visión?",
+      "respuesta": "En futuro. La misión va en presente."
+    },
+    {
+      "pregunta": "¿Dónde pongo mi misión en mi página web?",
+      "respuesta": "En la sección quiénes somos. También puede ir resumida en la portada bajo tu nombre."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre visión y objetivo?",
+      "respuesta": "La visión es la meta grande de varios años. Un objetivo es un paso medible con fecha que te acerca a ella."
+    }
+  ],
+  "relacionadas": [
+    "valores-de-una-empresa",
+    "analisis-foda",
+    "modelo-canvas",
+    "plan-de-negocios",
+    "ideas-de-negocio",
+    "frases-de-emprendedores"
+  ],
+  "venta": {
+    "puente": "Tu misión se lee mejor en tu propia página. Aliviane te la hace con tu dominio y tu historia.",
+    "titulo": "¿Hacemos la página que cuenta tu misión?",
+    "tituloCorto": "¿Dónde va a vivir tu misión?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://leadsales.io/blog/que-son-la-vision-y-mision-de-una-empresa/",
+      "titulo": "Qué son la visión y la misión de una empresa",
+      "promete": "Definiciones y ejemplos de empresas grandes; sin fórmula para un negocio pequeño"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.oberlo.com/es/blog/mision-vision-valores-empresa",
+      "titulo": "Misión, visión y valores de una empresa",
+      "promete": "Ejemplos de marcas globales; no hay lista para revisar la propia ni ejemplos por giro mexicano"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.crehana.com/blog/negocios/mision-y-vision/",
+      "titulo": "Misión y visión",
+      "promete": "Teoría para estudiantes; sin errores comunes ni dónde usarlas en el negocio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Ejemplos escritos para negocios de ejemplo; no copié misiones de empresas reales. Top 3 leído con WebSearch el 12-nov-2026."
+}

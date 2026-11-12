@@ -1,0 +1,536 @@
+{
+  "id": "analisis-foda",
+  "slug": "analisis-foda",
+  "molde": "guia",
+  "cabeza": "foda",
+  "busquedas": [
+    "ejemplo foda",
+    "foda ejemplos",
+    "ejemplo de foda",
+    "dofa matriz",
+    "matriz dofa",
+    "matriz dofa ejemplo",
+    "analisis dafo",
+    "dafo analisis",
+    "análisis foda",
+    "analisis de foda",
+    "analisis foda ejemplo",
+    "ejemplo de analisis foda",
+    "matriz foda",
+    "ejemplo matriz foda",
+    "dafo",
+    "matriz dafo",
+    "foda que es",
+    "informe dafo",
+    "foda de una empresa",
+    "ejemplo de foda de una empresa",
+    "analisis foda de una empresa",
+    "amenazas en foda",
+    "analisis dafo que es",
+    "analisis dofa",
+    "cuadro foda",
+    "foda que significa",
+    "foda significado"
+  ],
+  "title": "FODA: qué es, cómo hacerlo y ejemplo de un negocio",
+  "h1": "Análisis FODA: qué es y cómo hacerlo con un ejemplo de negocio",
+  "description": "El FODA ordena fortalezas, oportunidades, debilidades y amenazas de tu negocio. Te enseñamos a hacerlo en 6 pasos con ejemplo y matriz cruzada. Haz el tuyo.",
+  "resumen": "Las cuatro partes del FODA, cómo llenarlo y cómo volverlo acciones",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El análisis FODA es una tabla de cuatro cuadros para ver dónde está parado tu negocio. FODA quiere decir fortalezas, oportunidades, debilidades y amenazas.",
+    "Las fortalezas y las debilidades son internas y dependen de ti. Las oportunidades y las amenazas vienen de fuera y no las controlas."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el análisis FODA"
+    },
+    {
+      "p": "El FODA es una herramienta de planeación que cabe en una hoja. Sirve para tomar decisiones con la realidad enfrente."
+    },
+    {
+      "p": "Se hace con una tabla de dos filas y dos columnas. Arriba va lo bueno y abajo lo que preocupa."
+    },
+    {
+      "p": "En otros países se llama DAFO o DOFA. En inglés se conoce como SWOT. Todos son lo mismo con las letras en otro orden."
+    },
+    {
+      "p": "El FODA no resuelve nada por sí solo. Su valor está en lo que decides hacer después de llenarlo."
+    },
+    {
+      "tabla": {
+        "titulo": "Las cuatro partes del FODA",
+        "columnas": [
+          "Letra",
+          "Significa",
+          "Origen",
+          "Pregunta clave"
+        ],
+        "filas": [
+          [
+            "F",
+            "Fortalezas",
+            "Interno",
+            "¿Qué hacemos mejor que otros?"
+          ],
+          [
+            "O",
+            "Oportunidades",
+            "Externo",
+            "¿Qué está pasando afuera que nos puede ayudar?"
+          ],
+          [
+            "D",
+            "Debilidades",
+            "Interno",
+            "¿Qué nos falta o hacemos mal?"
+          ],
+          [
+            "A",
+            "Amenazas",
+            "Externo",
+            "¿Qué está pasando afuera que nos puede dañar?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Lo interno y lo externo"
+    },
+    {
+      "p": "La confusión más común es mezclar lo interno con lo externo. Una regla ayuda a separarlos."
+    },
+    {
+      "p": "Si lo puedes cambiar tú mañana, es interno. Si no depende de ti, es externo."
+    },
+    {
+      "p": "Tu servicio lento es una debilidad porque depende de ti. Una nueva plaza comercial junto a tu local es una oportunidad porque no la decidiste tú."
+    },
+    {
+      "ul": [
+        "**Fortaleza** es algo propio que ya funciona bien.",
+        "**Debilidad** es algo propio que te frena.",
+        "**Oportunidad** es un cambio de afuera que puedes aprovechar.",
+        "**Amenaza** es un cambio de afuera que te puede quitar clientes."
+      ]
+    },
+    {
+      "h2": "Cómo hacer un análisis FODA en 6 pasos"
+    },
+    {
+      "p": "No necesitas un consultor para hacer tu FODA. Necesitas una hora, una hoja y datos reales de tu negocio."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Define para qué lo haces",
+          "texto": "Escribe la decisión que quieres tomar. Puede ser abrir otra sucursal, subir precios o vender en línea."
+        },
+        {
+          "titulo": "Junta datos antes de opinar",
+          "texto": "Revisa tus ventas, tus reseñas y lo que dicen tus clientes. Mira también a tu competencia cercana."
+        },
+        {
+          "titulo": "Llena las fortalezas y debilidades",
+          "texto": "Haz una lista de lo interno. Pide a tu equipo o a un cliente frecuente que te ayude a ver lo que no ves."
+        },
+        {
+          "titulo": "Llena las oportunidades y amenazas",
+          "texto": "Piensa en tu colonia, en tus proveedores, en los precios y en la tecnología. Anota lo que cambió en el último año."
+        },
+        {
+          "titulo": "Quédate con lo importante",
+          "texto": "Deja tres a cinco puntos por cuadro. Si todo es importante, nada lo es."
+        },
+        {
+          "titulo": "Convierte el FODA en acciones",
+          "texto": "Cruza los cuadros para sacar estrategias. Cada estrategia lleva responsable y fecha."
+        }
+      ]
+    },
+    {
+      "h2": "Preguntas para llenar cada cuadro"
+    },
+    {
+      "p": "Si te quedas en blanco, estas preguntas ayudan. Contéstalas con datos y no con lo que te gustaría."
+    },
+    {
+      "h3": "Preguntas para tus fortalezas"
+    },
+    {
+      "ul": [
+        "¿Por qué te eligen tus clientes frecuentes?",
+        "¿Qué producto o servicio te piden más?",
+        "¿Qué tienes que tu competencia no tiene?",
+        "¿Qué dicen las reseñas buenas de tu negocio?"
+      ]
+    },
+    {
+      "h3": "Preguntas para tus debilidades"
+    },
+    {
+      "ul": [
+        "¿De qué se quejan tus clientes?",
+        "¿Qué tarea depende sólo de una persona?",
+        "¿En qué gastas más de lo que deberías?",
+        "¿Te pueden encontrar en internet si no te conocen?"
+      ]
+    },
+    {
+      "h3": "Preguntas para tus oportunidades"
+    },
+    {
+      "ul": [
+        "¿Hay nuevos vecinos, escuelas u oficinas cerca?",
+        "¿Tus clientes piden algo que hoy no vendes?",
+        "¿Hay un canal de venta nuevo que tu competencia no usa?",
+        "¿Hay una temporada fuerte que no aprovechas?"
+      ]
+    },
+    {
+      "h3": "Preguntas para tus amenazas"
+    },
+    {
+      "ul": [
+        "¿Abrió un competidor cerca o con mejores precios?",
+        "¿Subieron tus insumos o la renta?",
+        "¿Cambió la forma en que la gente compra tu producto?",
+        "¿Dependes de un solo proveedor o de un solo cliente?"
+      ]
+    },
+    {
+      "h2": "Ejemplo de FODA de un negocio"
+    },
+    {
+      "p": "Este es un ejemplo de una estética en una colonia de Guadalajara. Los datos son de ejemplo para que veas cómo se llena."
+    },
+    {
+      "tabla": {
+        "titulo": "FODA de una estética de barrio",
+        "columnas": [
+          "Cuadro",
+          "Puntos"
+        ],
+        "filas": [
+          [
+            "Fortalezas",
+            "Clientas fieles desde hace años. Precios menores al centro comercial. Una estilista con buen trabajo en color."
+          ],
+          [
+            "Debilidades",
+            "Las citas se apuntan en una libreta. No tiene página ni ficha de Google completa. Cierra cuando la dueña se enferma."
+          ],
+          [
+            "Oportunidades",
+            "Abrieron dos edificios de departamentos cerca. Las clientas jóvenes buscan por Google Maps. Hay demanda de uñas y pestañas."
+          ],
+          [
+            "Amenazas",
+            "Abrió una cadena de estéticas a tres cuadras. Subió el precio de los tintes. Las clientas comparan precios en redes."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con solo mirar la tabla aparecen decisiones. La estética tiene buen trabajo, pero la gente nueva no la encuentra."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "La matriz FODA cruzada"
+    },
+    {
+      "p": "El FODA cruzado convierte los cuatro cuadros en estrategias. Se combinan los cuadros de dos en dos."
+    },
+    {
+      "tabla": {
+        "titulo": "Las cuatro estrategias del FODA cruzado",
+        "columnas": [
+          "Cruce",
+          "Nombre",
+          "Qué buscas"
+        ],
+        "filas": [
+          [
+            "Fortalezas con oportunidades",
+            "Estrategia ofensiva",
+            "Usar lo que haces bien para aprovechar lo de afuera"
+          ],
+          [
+            "Debilidades con oportunidades",
+            "Estrategia de mejora",
+            "Corregir lo que te falta para no perder la oportunidad"
+          ],
+          [
+            "Fortalezas con amenazas",
+            "Estrategia defensiva",
+            "Usar lo que haces bien para resistir lo de afuera"
+          ],
+          [
+            "Debilidades con amenazas",
+            "Estrategia de supervivencia",
+            "Reducir el riesgo donde eres más débil"
+          ]
+        ]
+      }
+    },
+    {
+      "h3": "Ejemplo de estrategias para la estética"
+    },
+    {
+      "ul": [
+        "**Ofensiva.** Publicar fotos de trabajos de color en una página y en Maps para atraer a los nuevos vecinos.",
+        "**Mejora.** Pasar las citas de la libreta a un sistema con recordatorio por WhatsApp.",
+        "**Defensiva.** Ofrecer tarjeta de lealtad a las clientas fieles antes de que prueben la cadena.",
+        "**Supervivencia.** Buscar un segundo proveedor de tintes y entrenar a otra persona para cubrir ausencias."
+      ]
+    },
+    {
+      "p": "Cada estrategia necesita un responsable, una fecha y una forma de medirla. Si no, el FODA se queda en el cajón."
+    },
+    {
+      "h2": "Otro ejemplo: FODA de una tienda en línea"
+    },
+    {
+      "p": "El FODA cambia mucho según el tipo de negocio. Este ejemplo es de una tienda de ropa que vende por Instagram desde Monterrey."
+    },
+    {
+      "tabla": {
+        "titulo": "FODA de una tienda de ropa en línea",
+        "columnas": [
+          "Cuadro",
+          "Puntos"
+        ],
+        "filas": [
+          [
+            "Fortalezas",
+            "Fotos propias con buena luz. Entregas en el mismo día dentro de la ciudad. Trato cercano por mensaje."
+          ],
+          [
+            "Debilidades",
+            "Todo se vende por mensajes directos y se pierden pedidos. No tiene catálogo con tallas y precios. Depende de una sola red social."
+          ],
+          [
+            "Oportunidades",
+            "Más gente compra ropa por internet cada año. Las tiendas grandes tardan días en entregar. Hay ferias locales de diseño."
+          ],
+          [
+            "Amenazas",
+            "Tiendas extranjeras con precios muy bajos. Cambios en cómo la red social muestra las publicaciones. Robos de fotos por otras cuentas."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La debilidad más urgente es depender de una sola red social. Un catálogo propio con link de WhatsApp reduce ese riesgo."
+    },
+    {
+      "h2": "Cómo decidir qué atender primero"
+    },
+    {
+      "p": "Después de llenar el FODA tendrás más tareas de las que puedes hacer. Hay que elegir."
+    },
+    {
+      "p": "Califica cada punto del uno al tres en dos cosas. Qué tanto afecta tus ventas y qué tan fácil es atenderlo."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de priorización",
+        "columnas": [
+          "Punto",
+          "Impacto en ventas",
+          "Facilidad",
+          "Total"
+        ],
+        "filas": [
+          [
+            "No tiene ficha de Google completa",
+            "3",
+            "3",
+            "6"
+          ],
+          [
+            "Las citas se apuntan en libreta",
+            "2",
+            "2",
+            "4"
+          ],
+          [
+            "Subió el precio de los tintes",
+            "2",
+            "1",
+            "3"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Empieza por los puntos con mayor total. Suelen ser cambios baratos que se notan pronto."
+    },
+    {
+      "h2": "Cuándo conviene hacer un FODA"
+    },
+    {
+      "p": "El FODA sirve más cuando tienes una decisión enfrente. Hacerlo sin motivo da listas largas y nada más."
+    },
+    {
+      "ul": [
+        "Antes de abrir un negocio o una sucursal.",
+        "Cuando bajan las ventas sin razón clara.",
+        "Antes de pedir un préstamo o buscar socio.",
+        "Al preparar tu [plan de negocios](id:plan-de-negocios).",
+        "Una vez al año para revisar el rumbo."
+      ]
+    },
+    {
+      "p": "Si estás arrancando, combínalo con el [modelo Canvas](id:modelo-canvas). El Canvas describe cómo funciona tu negocio y el FODA dice dónde está parado."
+    },
+    {
+      "h2": "FODA personal"
+    },
+    {
+      "p": "El mismo método sirve para una persona. Muchas escuelas lo piden como tarea o en una entrevista de trabajo."
+    },
+    {
+      "p": "En el FODA personal las fortalezas son tus habilidades y tus logros. Las debilidades son lo que te falta aprender."
+    },
+    {
+      "p": "Las oportunidades son vacantes, cursos o contactos a tu alcance. Las amenazas son la competencia por el puesto o los cambios en tu oficio."
+    },
+    {
+      "h2": "Errores comunes al hacer un FODA"
+    },
+    {
+      "ul": [
+        "Poner como oportunidad algo que depende de ti.",
+        "Escribir frases vagas como buen servicio sin decir en qué.",
+        "Llenar cada cuadro con diez puntos sin prioridad.",
+        "Hacerlo solo, sin escuchar a clientes ni a tu equipo.",
+        "No convertirlo en acciones con fecha.",
+        "Hacerlo una vez y no volver a revisarlo."
+      ]
+    },
+    {
+      "h2": "Plantilla para tu FODA"
+    },
+    {
+      "p": "Copia esta tabla en una hoja o en un documento. Llena primero lo interno y después lo externo."
+    },
+    {
+      "tabla": {
+        "titulo": "Plantilla de análisis FODA",
+        "columnas": [
+          "Cuadro",
+          "Punto 1",
+          "Punto 2",
+          "Punto 3"
+        ],
+        "filas": [
+          [
+            "Fortalezas",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Debilidades",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Oportunidades",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Amenazas",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Al terminar, escribe debajo tus cuatro estrategias cruzadas. Pon a cada una su responsable y su fecha."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué significa FODA?",
+      "respuesta": "Fortalezas, oportunidades, debilidades y amenazas. Son los cuatro cuadros de la tabla."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre FODA, DAFO y DOFA?",
+      "respuesta": "Ninguna de fondo. Son el mismo análisis con las letras en otro orden según el país."
+    },
+    {
+      "pregunta": "¿Cuáles son los factores internos del FODA?",
+      "respuesta": "Las fortalezas y las debilidades. Dependen de ti y las puedes cambiar."
+    },
+    {
+      "pregunta": "¿Cuántos puntos debe tener cada cuadro?",
+      "respuesta": "Entre tres y cinco. Más puntos hacen difícil decidir qué atender primero."
+    },
+    {
+      "pregunta": "¿Cada cuánto conviene hacer un FODA?",
+      "respuesta": "Una vez al año o antes de una decisión grande. También cuando cambian mucho tus ventas."
+    },
+    {
+      "pregunta": "¿Para qué sirve el FODA cruzado?",
+      "respuesta": "Para convertir el análisis en estrategias. Cruza cada cuadro interno con uno externo."
+    },
+    {
+      "pregunta": "¿Puedo hacer un FODA de un negocio que todavía no abro?",
+      "respuesta": "Sí. Llena las fortalezas con lo que sabes hacer y las oportunidades con lo que viste en tu zona. Revísalo otra vez a los seis meses de abrir."
+    }
+  ],
+  "relacionadas": [
+    "modelo-canvas",
+    "mision-y-vision",
+    "plan-de-negocios",
+    "negocios-rentables",
+    "ideas-de-negocio",
+    "valores-de-una-empresa"
+  ],
+  "venta": {
+    "puente": "Si tu FODA dice que nadie te encuentra en internet, Aliviane te hace la página que lo resuelve.",
+    "titulo": "¿Convertimos esa debilidad en tu página web?",
+    "tituloCorto": "¿Tu FODA dice que te falta página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://blog.nubox.com/empresas/analisis-foda",
+      "titulo": "Análisis FODA",
+      "promete": "Definición y nueve pasos genéricos; ejemplo corto sin pasar a acciones ni a la matriz cruzada"
+    },
+    {
+      "posicion": 2,
+      "url": "https://questionpro.com/blog/es/analisis-foda",
+      "titulo": "Análisis FODA",
+      "promete": "Teoría y plantilla para empresas medianas; no aterriza en un negocio de barrio mexicano"
+    },
+    {
+      "posicion": 3,
+      "url": "https://xepelin.com/blog/emprendedores/analisis-foda",
+      "titulo": "Análisis FODA",
+      "promete": "Guía para emprendedores con ejemplos breves; sin preguntas guía por cuadrante ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Propuesta de la lista: motor «foda» (matriz editable a PDF) volvería herramienta esta guía. Top 3 leído con WebSearch el 12-nov-2026."
+}

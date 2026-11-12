@@ -1,0 +1,516 @@
+{
+  "id": "modelo-canvas",
+  "slug": "modelo-canvas",
+  "molde": "guia",
+  "cabeza": "modelo canvas",
+  "busquedas": [
+    "modelo de canvas",
+    "modelo canvas ejemplo",
+    "modelo canvas plantilla",
+    "plantilla modelo canvas",
+    "business modelo canvas",
+    "canvas business modelo",
+    "modelo de negocio canvas",
+    "canvas para que sirve",
+    "para que sirve canvas",
+    "canvas que es y para que sirve",
+    "lean canvas ejemplo",
+    "lean canvas plantilla",
+    "canvas pdf",
+    "canvas qué es",
+    "metodo canvas",
+    "metodologia canvas",
+    "lienzo canvas",
+    "formato canvas",
+    "canvas que significa",
+    "model canvas ejemplo",
+    "proyecto canvas"
+  ],
+  "title": "Modelo Canvas: los 9 bloques con ejemplo de negocio",
+  "h1": "Modelo Canvas: qué es, sus 9 bloques y un ejemplo para llenar",
+  "description": "El modelo Canvas resume tu negocio en 9 bloques en una sola hoja. Te explicamos cada bloque con preguntas y un ejemplo de cafetería. Llena el tuyo hoy.",
+  "resumen": "Los 9 bloques del modelo Canvas con preguntas guía y un ejemplo completo",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El modelo Canvas es una hoja con 9 bloques que explica cómo funciona tu negocio. Dice a quién le vendes, qué le ofreces, cómo le llegas y cómo ganas dinero.",
+    "Lo creó Alexander Osterwalder y se usa para planear un negocio nuevo o revisar uno que ya existe. Se llena con frases cortas o notas adhesivas."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el modelo Canvas"
+    },
+    {
+      "p": "El nombre completo es Business Model Canvas, que en español se traduce como lienzo del modelo de negocio. Lo publicó Alexander Osterwalder a mediados de los años 2000."
+    },
+    {
+      "p": "La idea es ver todo el negocio en una sola hoja. Así entiendes cómo se conectan las partes sin escribir un documento de cien páginas."
+    },
+    {
+      "p": "El lienzo tiene dos lados. A la derecha está lo que ve el cliente y a la izquierda lo que pasa dentro del negocio."
+    },
+    {
+      "p": "En medio está la propuesta de valor. Es el bloque que une a tu cliente con tu operación."
+    },
+    {
+      "h2": "Los 9 bloques del modelo Canvas"
+    },
+    {
+      "tabla": {
+        "titulo": "Los 9 bloques y la pregunta de cada uno",
+        "columnas": [
+          "Bloque",
+          "Pregunta que contesta",
+          "Lado"
+        ],
+        "filas": [
+          [
+            "Segmentos de clientes",
+            "¿Para quién creamos valor?",
+            "Cliente"
+          ],
+          [
+            "Propuesta de valor",
+            "¿Qué problema le resolvemos?",
+            "Centro"
+          ],
+          [
+            "Canales",
+            "¿Cómo llegamos al cliente?",
+            "Cliente"
+          ],
+          [
+            "Relación con clientes",
+            "¿Cómo lo atendemos y lo conservamos?",
+            "Cliente"
+          ],
+          [
+            "Fuentes de ingresos",
+            "¿Por qué nos paga y cómo?",
+            "Cliente"
+          ],
+          [
+            "Recursos clave",
+            "¿Qué necesitamos para operar?",
+            "Negocio"
+          ],
+          [
+            "Actividades clave",
+            "¿Qué tenemos que hacer bien?",
+            "Negocio"
+          ],
+          [
+            "Socios clave",
+            "¿Quién nos ayuda desde fuera?",
+            "Negocio"
+          ],
+          [
+            "Estructura de costos",
+            "¿En qué gastamos?",
+            "Negocio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cada bloque explicado"
+    },
+    {
+      "h3": "1. Segmentos de clientes"
+    },
+    {
+      "p": "Son los grupos de personas a quienes les vendes. Un negocio puede tener uno o varios segmentos."
+    },
+    {
+      "p": "Sé específico. Oficinistas de la zona que desayunan rápido dice más que todo público."
+    },
+    {
+      "h3": "2. Propuesta de valor"
+    },
+    {
+      "p": "Es la razón por la que te eligen a ti. Puede ser precio o rapidez. También calidad, cercanía o un trato especial."
+    },
+    {
+      "p": "Escríbela desde el cliente. Desayuno listo en cinco minutos sin hacer fila dice más que café de calidad."
+    },
+    {
+      "h3": "3. Canales"
+    },
+    {
+      "p": "Son los caminos para que el cliente te conozca, te compre y reciba lo que pagó. Incluye tu local, tu página, tus redes y tu WhatsApp."
+    },
+    {
+      "p": "Distingue los canales que son tuyos de los que rentas. Tu dominio es tuyo y una red social es prestada."
+    },
+    {
+      "h3": "4. Relación con clientes"
+    },
+    {
+      "p": "Es cómo tratas al cliente antes y después de la venta. Puede ser trato personal, autoservicio o una comunidad."
+    },
+    {
+      "p": "Aquí entran tus programas de lealtad, tus mensajes de seguimiento y tu forma de atender quejas."
+    },
+    {
+      "h3": "5. Fuentes de ingresos"
+    },
+    {
+      "p": "Son las formas en que entra dinero. Puede ser venta por pieza o suscripción. También renta, comisión o publicidad."
+    },
+    {
+      "p": "Anota también cómo te pagan. Efectivo, tarjeta, transferencia o pago en línea cambian tus costos."
+    },
+    {
+      "h3": "6. Recursos clave"
+    },
+    {
+      "p": "Son lo que necesitas para que todo funcione. Piensa en tu local y tu equipo. También en tus personas, tus recetas, tu marca y tus permisos."
+    },
+    {
+      "h3": "7. Actividades clave"
+    },
+    {
+      "p": "Son las tareas que tienes que hacer muy bien. En una cafetería es preparar rápido y mantener la calidad."
+    },
+    {
+      "h3": "8. Socios clave"
+    },
+    {
+      "p": "Son las empresas o personas de fuera que te ayudan. Proveedores, repartidores, contador o la plataforma de cobro."
+    },
+    {
+      "h3": "9. Estructura de costos"
+    },
+    {
+      "p": "Son tus gastos más importantes. Separa los gastos fijos de los variables. La renta es fija y los insumos cambian con las ventas."
+    },
+    {
+      "h2": "En qué orden se llena el Canvas"
+    },
+    {
+      "p": "No conviene llenarlo de izquierda a derecha. Se empieza por el cliente y se termina por los costos."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Segmentos de clientes",
+          "texto": "Define primero para quién es tu negocio. Todo lo demás depende de esto."
+        },
+        {
+          "titulo": "Propuesta de valor",
+          "texto": "Escribe qué problema le resuelves a ese cliente."
+        },
+        {
+          "titulo": "Canales y relación",
+          "texto": "Decide cómo le llegas y cómo lo conservas."
+        },
+        {
+          "titulo": "Fuentes de ingresos",
+          "texto": "Anota cómo y cuánto te va a pagar."
+        },
+        {
+          "titulo": "Recursos y actividades",
+          "texto": "Lista lo que necesitas tener y hacer para cumplir la propuesta."
+        },
+        {
+          "titulo": "Socios clave",
+          "texto": "Identifica quién te ayuda desde fuera."
+        },
+        {
+          "titulo": "Estructura de costos",
+          "texto": "Suma lo que cuesta todo lo anterior y compáralo con tus ingresos."
+        }
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Ejemplo de modelo Canvas de una cafetería"
+    },
+    {
+      "p": "Este ejemplo es de una cafetería pequeña junto a una zona de oficinas en Querétaro. Los datos son de ejemplo."
+    },
+    {
+      "tabla": {
+        "titulo": "Canvas de una cafetería de oficinas",
+        "columnas": [
+          "Bloque",
+          "Contenido"
+        ],
+        "filas": [
+          [
+            "Segmentos de clientes",
+            "Oficinistas de 25 a 45 años que desayunan rápido entre semana"
+          ],
+          [
+            "Propuesta de valor",
+            "Café y desayuno listos en cinco minutos, con pedido previo por WhatsApp"
+          ],
+          [
+            "Canales",
+            "Local, página con menú, ficha de Google y WhatsApp"
+          ],
+          [
+            "Relación con clientes",
+            "Tarjeta de lealtad y mensaje con el menú del día"
+          ],
+          [
+            "Fuentes de ingresos",
+            "Venta por pieza y paquete semanal de desayunos pagado por adelantado"
+          ],
+          [
+            "Recursos clave",
+            "Máquina de café, cocina pequeña, dos baristas y la receta propia"
+          ],
+          [
+            "Actividades clave",
+            "Preparar rápido, contestar pedidos y mantener inventario fresco"
+          ],
+          [
+            "Socios clave",
+            "Tostador local, panadería vecina y servicio de cobro con tarjeta"
+          ],
+          [
+            "Estructura de costos",
+            "Renta y sueldos como fijos. Café, pan y luz como variables"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Al ver el lienzo completo aparece algo útil. El paquete semanal adelanta dinero y asegura clientes de lunes a viernes."
+    },
+    {
+      "h2": "Preguntas guía para cada bloque"
+    },
+    {
+      "p": "Si un bloque se queda vacío, usa estas preguntas. Contéstalas con datos de tus clientes y no con suposiciones."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas para llenar tu Canvas",
+        "columnas": [
+          "Bloque",
+          "Preguntas que ayudan"
+        ],
+        "filas": [
+          [
+            "Segmentos de clientes",
+            "¿Quién compra hoy? ¿Quién paga y quién usa? ¿Dónde vive o trabaja?"
+          ],
+          [
+            "Propuesta de valor",
+            "¿Qué le duele al cliente? ¿Qué le ahorras? ¿Por qué no se va con otro?"
+          ],
+          [
+            "Canales",
+            "¿Dónde te busca? ¿Por dónde te escribe? ¿Cómo recibe lo que compra?"
+          ],
+          [
+            "Relación con clientes",
+            "¿Cómo lo saludas? ¿Cómo lo traes de vuelta? ¿Cómo atiendes una queja?"
+          ],
+          [
+            "Fuentes de ingresos",
+            "¿Cuánto paga en promedio? ¿Cada cuánto vuelve? ¿Cómo te paga?"
+          ],
+          [
+            "Recursos clave",
+            "¿Qué no puede faltar para abrir mañana? ¿Qué es difícil de copiar?"
+          ],
+          [
+            "Actividades clave",
+            "¿Qué tarea, si falla, pierde clientes? ¿Qué haces todos los días?"
+          ],
+          [
+            "Socios clave",
+            "¿Qué compras afuera? ¿Quién te entrega? ¿Quién cobra por ti?"
+          ],
+          [
+            "Estructura de costos",
+            "¿Cuál es tu gasto más grande? ¿Qué sube cuando vendes más?"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo saber si tu Canvas tiene sentido"
+    },
+    {
+      "p": "Un Canvas lleno no siempre es un buen negocio. Al terminar haz tres revisiones rápidas."
+    },
+    {
+      "ol": [
+        "Lee la propuesta de valor junto al segmento. Pregúntate si ese cliente de verdad tiene ese problema.",
+        "Revisa que cada canal llegue al segmento que elegiste. Un canal que tu cliente no usa no sirve.",
+        "Compara tus ingresos con tus costos de un mes normal. Si no alcanza, cambia precio, cliente o costos."
+      ]
+    },
+    {
+      "p": "Después habla con cinco clientes reales o posibles. Enséñales tu propuesta y escucha si les interesa pagar por ella."
+    },
+    {
+      "p": "Lo que aprendas de esas pláticas vale más que cualquier plantilla. Ajusta el lienzo con lo que te digan."
+    },
+    {
+      "h2": "Canvas y Lean Canvas"
+    },
+    {
+      "p": "El Lean Canvas es una versión pensada para negocios nuevos que todavía prueban su idea. Lo propuso Ash Maurya."
+    },
+    {
+      "p": "Cambia cuatro bloques del original. Pone problema, solución, métricas clave y ventaja injusta."
+    },
+    {
+      "tabla": {
+        "titulo": "Diferencias entre Canvas y Lean Canvas",
+        "columnas": [
+          "Canvas original",
+          "Lean Canvas",
+          "Por qué cambia"
+        ],
+        "filas": [
+          [
+            "Socios clave",
+            "Problema",
+            "Al inicio importa más el problema del cliente"
+          ],
+          [
+            "Actividades clave",
+            "Solución",
+            "Se prueba una solución antes de operar"
+          ],
+          [
+            "Recursos clave",
+            "Métricas clave",
+            "Se mide si la idea funciona"
+          ],
+          [
+            "Relación con clientes",
+            "Ventaja injusta",
+            "Lo que otros no pueden copiar fácil"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Usa el Lean Canvas si tu idea todavía no tiene clientes. Usa el Canvas original si ya vendes y quieres ordenar tu negocio."
+    },
+    {
+      "h2": "Canvas, FODA y plan de negocios"
+    },
+    {
+      "p": "Estas tres herramientas se complementan. Cada una contesta una pregunta distinta."
+    },
+    {
+      "ul": [
+        "El **Canvas** explica cómo funciona tu negocio.",
+        "El [análisis FODA](id:analisis-foda) muestra dónde está parado frente a su entorno.",
+        "El [plan de negocios](id:plan-de-negocios) pone todo en números y fechas."
+      ]
+    },
+    {
+      "p": "Un orden práctico es Canvas, luego FODA y al final plan. Si vas a pedir crédito, te pedirán el plan con números."
+    },
+    {
+      "h2": "Errores comunes al llenar el Canvas"
+    },
+    {
+      "ul": [
+        "Poner todo el mundo como segmento de clientes.",
+        "Escribir la propuesta de valor desde el producto y no desde el cliente.",
+        "Llenar bloques con párrafos en lugar de frases cortas.",
+        "Olvidar cómo te va a pagar el cliente.",
+        "No comparar costos con ingresos al final.",
+        "Hacerlo una vez y no actualizarlo cuando cambia el negocio."
+      ]
+    },
+    {
+      "h2": "Cómo hacer tu Canvas"
+    },
+    {
+      "p": "Puedes hacerlo en una cartulina con notas adhesivas. Así mueves las ideas sin borrar."
+    },
+    {
+      "p": "También sirve una hoja de cálculo con nueve celdas. Lo importante es verlo completo de un vistazo."
+    },
+    {
+      "p": "Revisa tu lienzo cada seis meses. Si cambió tu cliente o tu forma de vender, cambia el Canvas también."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Para qué sirve el modelo Canvas?",
+      "respuesta": "Para ver tu negocio completo en una hoja. Te ayuda a detectar huecos antes de invertir."
+    },
+    {
+      "pregunta": "¿Quién creó el modelo Canvas?",
+      "respuesta": "Alexander Osterwalder. Lo publicó a mediados de los años 2000 con Yves Pigneur."
+    },
+    {
+      "pregunta": "¿Cuál es el bloque más importante?",
+      "respuesta": "La propuesta de valor. Une lo que quiere tu cliente con lo que hace tu negocio."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre Canvas y Lean Canvas?",
+      "respuesta": "El Lean Canvas cambia cuatro bloques. Está pensado para ideas nuevas que todavía no tienen clientes."
+    },
+    {
+      "pregunta": "¿El Canvas sustituye al plan de negocios?",
+      "respuesta": "No. El Canvas resume el modelo y el plan agrega números, fechas y responsables."
+    },
+    {
+      "pregunta": "¿Puedo hacer un Canvas para un proyecto escolar?",
+      "respuesta": "Sí. El método es el mismo para un proyecto, una tarea o un negocio real."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo toma llenar un Canvas?",
+      "respuesta": "Una primera versión toma una o dos horas. Lo valioso viene después, cuando lo pruebas con clientes y lo corriges."
+    }
+  ],
+  "relacionadas": [
+    "analisis-foda",
+    "plan-de-negocios",
+    "mision-y-vision",
+    "ideas-de-negocio",
+    "negocios-rentables",
+    "como-emprender-un-negocio"
+  ],
+  "venta": {
+    "puente": "Tu Canvas tiene un bloque de canales. Una página propia con tu dominio es el canal que no depende de nadie.",
+    "titulo": "¿Hacemos la página que va en tu bloque de canales?",
+    "tituloCorto": "¿Ya tienes tu canal propio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/blog/modelo-canvas/",
+      "titulo": "Modelo Canvas",
+      "promete": "Define los nueve bloques con ejemplo de tienda en línea; sin preguntas guía por bloque ni errores comunes"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.holded.com/es/blog/en-que-consiste-el-modelo-canvas-a-la-hora-de-planificar-tu-negocio",
+      "titulo": "Modelo canvas: qué es y cómo elaborarlo con ejemplos",
+      "promete": "Ejemplos de empresas grandes de España; no aterriza un negocio de barrio mexicano"
+    },
+    {
+      "posicion": 3,
+      "url": "https://economipedia.com/definiciones/modelo-canvas.html",
+      "titulo": "Modelo Canvas: qué es, usos y cómo hacer uno",
+      "promete": "Definición académica; sin plantilla para llenar ni orden recomendado de llenado"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Propuesta de la lista: motor «canvas» (lienzo editable a PDF). Top 3 leído con WebSearch el 12-nov-2026. No usé las cifras de HubSpot (2.5 veces, 40%) porque no tienen fuente verificable."
+}

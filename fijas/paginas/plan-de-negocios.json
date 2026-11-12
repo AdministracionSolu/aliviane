@@ -1,0 +1,497 @@
+{
+  "id": "plan-de-negocios",
+  "slug": "plan-de-negocios",
+  "molde": "guia",
+  "cabeza": "plan de negocios",
+  "busquedas": [
+    "plan negocio",
+    "plan de negocios ejemplo",
+    "plan de negocios ejemplos pdf",
+    "planificacion de negocios",
+    "planeacion de negocios",
+    "plan de negocio que es"
+  ],
+  "title": "Plan de negocios: estructura, pasos y ejemplo",
+  "h1": "Plan de negocios: qué es, qué lleva y cómo hacer el tuyo",
+  "description": "Un plan de negocios pone por escrito qué vendes, a quién, cómo y con qué números. Te damos la estructura en 9 partes, un ejemplo y una plantilla. Haz el tuyo.",
+  "resumen": "Las 9 partes de un plan de negocios, cómo llenarlas y un ejemplo con números",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un plan de negocios es un documento que explica qué vas a vender, a quién, cómo lo vas a hacer y cuánto dinero necesitas. Sirve para decidir con números y para pedir un crédito o un socio.",
+    "Lleva nueve partes básicas, desde el resumen hasta las finanzas. Para un negocio pequeño puede caber en diez páginas o incluso en una versión de una sola hoja."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un plan de negocios"
+    },
+    {
+      "p": "El plan de negocios es la versión escrita de tu idea. Convierte lo que tienes en la cabeza en metas, pasos y cifras."
+    },
+    {
+      "p": "No es un trámite para la escuela o el banco. Es la herramienta que te dice si la idea aguanta antes de meter tus ahorros."
+    },
+    {
+      "p": "Un buen plan contesta cinco preguntas. Qué vendes y a quién. Contra quién compites, cómo llegas al cliente y cuánto vas a ganar."
+    },
+    {
+      "h2": "Para qué sirve"
+    },
+    {
+      "ul": [
+        "Para saber si tu idea puede dejar dinero antes de invertir.",
+        "Para pedir un crédito o convencer a un socio.",
+        "Para ordenar tareas y fechas de arranque.",
+        "Para que tu equipo entienda hacia dónde va el negocio.",
+        "Para comparar cada mes lo que planeaste contra lo que pasó."
+      ]
+    },
+    {
+      "h2": "Las 9 partes de un plan de negocios"
+    },
+    {
+      "tabla": {
+        "titulo": "Estructura de un plan de negocios",
+        "columnas": [
+          "Parte",
+          "Qué contesta",
+          "Extensión sugerida"
+        ],
+        "filas": [
+          [
+            "Resumen ejecutivo",
+            "De qué trata todo el plan en breve",
+            "Una página"
+          ],
+          [
+            "Descripción del negocio",
+            "Qué haces, misión, visión y forma legal",
+            "Una página"
+          ],
+          [
+            "Producto o servicio",
+            "Qué vendes y qué problema resuelve",
+            "Una o dos páginas"
+          ],
+          [
+            "Análisis de mercado",
+            "Quién es tu cliente y cuántos hay",
+            "Una o dos páginas"
+          ],
+          [
+            "Competencia",
+            "Quién más vende lo mismo y en qué te distingues",
+            "Una página"
+          ],
+          [
+            "Marketing y ventas",
+            "Cómo te van a conocer y cómo vas a vender",
+            "Una o dos páginas"
+          ],
+          [
+            "Operación",
+            "Dónde, con quién y cómo se hace el trabajo",
+            "Una página"
+          ],
+          [
+            "Finanzas",
+            "Inversión, costos, ventas y punto de equilibrio",
+            "Dos páginas"
+          ],
+          [
+            "Plan de acción",
+            "Qué se hace, quién lo hace y cuándo",
+            "Una página"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo hacer un plan de negocios paso a paso"
+    },
+    {
+      "p": "El orden de escritura no es el mismo que el orden del documento. El resumen se escribe al final."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Describe tu negocio",
+          "texto": "Escribe qué haces, dónde y para quién. Agrega tu [misión y visión](id:mision-y-vision) si ya las tienes."
+        },
+        {
+          "titulo": "Define tu producto o servicio",
+          "texto": "Lista lo que vas a vender con precio. Explica qué problema le resuelve al cliente."
+        },
+        {
+          "titulo": "Estudia a tu cliente",
+          "texto": "Describe a tu cliente ideal con edad, zona, ingreso y hábitos. Habla con al menos diez posibles clientes."
+        },
+        {
+          "titulo": "Revisa a tu competencia",
+          "texto": "Visita o busca a cinco competidores. Anota precios, horarios, reseñas y lo que les falta."
+        },
+        {
+          "titulo": "Haz tu FODA",
+          "texto": "Ordena fortalezas, debilidades, oportunidades y amenazas con un [análisis FODA](id:analisis-foda)."
+        },
+        {
+          "titulo": "Escribe tu plan de marketing",
+          "texto": "Decide canales, mensaje y presupuesto. Incluye tu página web y tu ficha de Google."
+        },
+        {
+          "titulo": "Describe la operación",
+          "texto": "Explica dónde vas a trabajar, con qué equipo y con cuántas personas."
+        },
+        {
+          "titulo": "Haz los números",
+          "texto": "Calcula inversión inicial, gastos fijos y costos variables. Después estima ventas y tu punto de equilibrio."
+        },
+        {
+          "titulo": "Arma el plan de acción",
+          "texto": "Pon cada tarea con responsable y fecha para los primeros seis meses."
+        },
+        {
+          "titulo": "Escribe el resumen",
+          "texto": "Al final, resume todo en una página. Es lo primero que lee un banco o un socio."
+        }
+      ]
+    },
+    {
+      "h2": "Preguntas guía para cada parte"
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas que debe contestar tu plan",
+        "columnas": [
+          "Parte",
+          "Preguntas"
+        ],
+        "filas": [
+          [
+            "Descripción",
+            "¿Qué hace tu negocio? ¿Dónde está? ¿Eres persona física o moral?"
+          ],
+          [
+            "Producto",
+            "¿Qué vendes? ¿A qué precio? ¿Por qué te comprarían a ti?"
+          ],
+          [
+            "Mercado",
+            "¿Quién compra? ¿Cuántos clientes posibles hay en tu zona? ¿Cada cuánto compran?"
+          ],
+          [
+            "Competencia",
+            "¿Quién vende lo mismo? ¿A qué precio? ¿Qué dicen sus clientes?"
+          ],
+          [
+            "Marketing",
+            "¿Cómo te van a conocer? ¿Cuánto vas a gastar al mes en darte a conocer?"
+          ],
+          [
+            "Operación",
+            "¿Qué equipo necesitas? ¿Quién hace cada tarea? ¿Qué permisos te piden?"
+          ],
+          [
+            "Finanzas",
+            "¿Cuánto necesitas para abrir? ¿Cuánto gastas al mes? ¿Cuándo dejas de perder?"
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Ejemplo de plan de negocios resumido"
+    },
+    {
+      "p": "Este ejemplo es de un taller de costura y arreglos de ropa en Aguascalientes. Los números son de ejemplo para mostrar el cálculo."
+    },
+    {
+      "tabla": {
+        "titulo": "Plan resumido de un taller de costura",
+        "columnas": [
+          "Parte",
+          "Contenido"
+        ],
+        "filas": [
+          [
+            "Descripción",
+            "Taller de arreglos y confección por encargo, persona física en régimen simplificado"
+          ],
+          [
+            "Producto",
+            "Bastillas, ajustes, cierres y uniformes escolares por encargo"
+          ],
+          [
+            "Cliente",
+            "Mujeres de 25 a 55 años de tres colonias cercanas y escuelas de la zona"
+          ],
+          [
+            "Competencia",
+            "Dos talleres a menos de un kilómetro, sin página ni ficha de Google"
+          ],
+          [
+            "Ventaja",
+            "Entrega en 48 horas y recolección a domicilio"
+          ],
+          [
+            "Marketing",
+            "Ficha de Google, landing con lista de precios, WhatsApp y volantes en escuelas"
+          ],
+          [
+            "Operación",
+            "Local pequeño con dos máquinas y una ayudante de medio tiempo"
+          ],
+          [
+            "Inversión inicial",
+            "$45,000 en máquinas, mobiliario, depósito y primer material"
+          ],
+          [
+            "Meta del año",
+            "Recuperar la inversión y llegar a 400 arreglos al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "h3": "Números del ejemplo"
+    },
+    {
+      "tabla": {
+        "titulo": "Finanzas del taller de ejemplo",
+        "columnas": [
+          "Concepto",
+          "Monto mensual"
+        ],
+        "filas": [
+          [
+            "Gastos fijos de renta, luz y sueldo de ayudante",
+            "$16,000"
+          ],
+          [
+            "Precio promedio por arreglo",
+            "$90"
+          ],
+          [
+            "Costo de material por arreglo",
+            "$10"
+          ],
+          [
+            "Margen por arreglo",
+            "$80"
+          ],
+          [
+            "Arreglos para no perder",
+            "200 al mes"
+          ],
+          [
+            "Arreglos esperados al sexto mes",
+            "350 al mes"
+          ],
+          [
+            "Ganancia esperada al sexto mes antes de impuestos",
+            "$12,000"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con estos números el taller sabe su meta diaria. Necesita unos ocho arreglos al día para no perder, abriendo 26 días."
+    },
+    {
+      "h2": "Dónde conseguir datos para tu análisis de mercado"
+    },
+    {
+      "p": "Un plan con datos de verdad convence más que uno con suposiciones. En México hay fuentes públicas y gratis."
+    },
+    {
+      "tabla": {
+        "titulo": "Fuentes de datos para tu plan",
+        "columnas": [
+          "Fuente",
+          "Qué te da"
+        ],
+        "filas": [
+          [
+            "DENUE del INEGI",
+            "Cuántos negocios de tu giro hay en tu colonia, con su ubicación en el mapa"
+          ],
+          [
+            "Censos y encuestas del INEGI",
+            "Cuánta gente vive en tu zona y cómo se compone"
+          ],
+          [
+            "Google Maps",
+            "Reseñas, horarios y fotos de tu competencia"
+          ],
+          [
+            "Tu propia encuesta",
+            "Lo que tus posibles clientes dicen que pagarían"
+          ],
+          [
+            "Proveedores",
+            "Precios de insumos y qué se vende más en la zona"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El DENUE es especialmente útil. Puedes ver en un mapa cuántas estéticas o talleres hay alrededor del local que piensas rentar."
+    },
+    {
+      "h2": "La forma legal en tu plan"
+    },
+    {
+      "p": "Tu plan debe decir si vas a operar como persona física o como empresa. Cambia tus obligaciones fiscales y cómo te ven los bancos."
+    },
+    {
+      "p": "Muchos negocios pequeños empiezan como persona física con actividad empresarial. Una sociedad conviene cuando hay socios o cuando el negocio crece."
+    },
+    {
+      "p": "Pide a un contador que revise tu caso antes de darte de alta. Un buen régimen desde el inicio evita multas y pagos de más."
+    },
+    {
+      "h2": "Plan de negocios de una hoja"
+    },
+    {
+      "p": "No todos los negocios necesitan un documento largo. Si vas a empezar en pequeño y con tu dinero, una hoja basta para ordenar ideas."
+    },
+    {
+      "ol": [
+        "Qué vendo y a qué precio.",
+        "Quién me compra y dónde está.",
+        "Por qué me compraría a mí.",
+        "Cómo me va a conocer.",
+        "Cuánto necesito para empezar.",
+        "Cuánto gasto al mes.",
+        "Cuántas ventas necesito para no perder.",
+        "Qué tengo que hacer en los próximos tres meses."
+      ]
+    },
+    {
+      "p": "Si después buscas crédito o socio, conviertes esa hoja en el plan completo. El [modelo Canvas](id:modelo-canvas) también ayuda a resumir."
+    },
+    {
+      "h2": "Qué te pide un banco o un inversionista"
+    },
+    {
+      "p": "Si usas el plan para pedir dinero, cuida tres cosas. Que los números cuadren, que sean realistas y que expliques cómo vas a pagar."
+    },
+    {
+      "ul": [
+        "Estados de cuenta o comprobantes de ingresos actuales.",
+        "Cotizaciones del equipo que vas a comprar.",
+        "Proyección de ventas mes por mes del primer año.",
+        "Explicación de cómo vas a pagar el crédito en meses flojos.",
+        "Tu experiencia en el giro."
+      ]
+    },
+    {
+      "p": "Un plan con ventas que crecen sin explicación pierde credibilidad. Mejor una proyección modesta con datos que una optimista sin respaldo."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Escribir el plan para impresionar y no para decidir.",
+        "Copiar una plantilla sin adaptar a tu zona.",
+        "Calcular ventas sin hablar con clientes reales.",
+        "Olvidar tu propio sueldo en los gastos.",
+        "No dejar un colchón para los primeros meses.",
+        "Guardar el plan y no compararlo con la realidad."
+      ]
+    },
+    {
+      "h2": "Cada cuánto revisar tu plan"
+    },
+    {
+      "p": "Un plan de negocios no es un documento que se escribe una vez. Se revisa conforme el negocio avanza."
+    },
+    {
+      "p": "Compara cada mes tus ventas reales con las planeadas. Cada seis meses ajusta metas, precios y plan de marketing."
+    },
+    {
+      "p": "Si algo no se cumple tres meses seguidos, no lo ignores. Cambia el plan antes de que se acabe el dinero."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un plan de negocios en pocas palabras?",
+      "respuesta": "Un documento con tu idea y sus números. Explica qué vendes y a quién. Te ayuda a decidir si la idea funciona."
+    },
+    {
+      "pregunta": "¿Cuántas páginas debe tener?",
+      "respuesta": "Para un negocio pequeño, entre cinco y quince. Una versión de una hoja sirve para empezar."
+    },
+    {
+      "pregunta": "¿Qué parte se escribe primero?",
+      "respuesta": "La descripción del negocio. El resumen ejecutivo se escribe al final aunque vaya al principio."
+    },
+    {
+      "pregunta": "¿Necesito un plan de negocios para pedir crédito?",
+      "respuesta": "Casi siempre sí. Los bancos y programas de apoyo piden ver números y cómo vas a pagar."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre plan de negocios y modelo Canvas?",
+      "respuesta": "El Canvas resume el modelo en una hoja. El plan agrega números, fechas y responsables."
+    },
+    {
+      "pregunta": "¿Cada cuánto se actualiza un plan de negocios?",
+      "respuesta": "Se revisa cada mes contra la realidad. Se ajusta a fondo cada seis meses o cuando cambia algo grande."
+    },
+    {
+      "pregunta": "¿Puedo hacer un plan de negocios sin saber de finanzas?",
+      "respuesta": "Sí. Basta con sumar lo que cuesta abrir, lo que gastas al mes y lo que deja cada venta. Un contador puede revisar tus cifras después."
+    },
+    {
+      "pregunta": "¿Dónde consigo un ejemplo de plan de negocios?",
+      "respuesta": "En esta misma guía tienes uno resumido con números. Úsalo como base y cambia los datos por los de tu zona."
+    }
+  ],
+  "relacionadas": [
+    "modelo-canvas",
+    "analisis-foda",
+    "mision-y-vision",
+    "negocios-rentables",
+    "plan-de-ventas",
+    "como-emprender-un-negocio"
+  ],
+  "venta": {
+    "puente": "Tu plan de marketing necesita una página propia. Aliviane te la hace con tu dominio por $1,500.",
+    "titulo": "¿Hacemos la página que va en tu plan de negocios?",
+    "tituloCorto": "¿Tu plan ya tiene página web?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://platzi.com/blog/que-es-plan-de-negocios/",
+      "titulo": "Qué es y cómo hacer un plan de negocios",
+      "promete": "Estructura general para emprendedores digitales; sin ejemplo con números de un negocio local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/mx/blog/plan-de-negocios/",
+      "titulo": "Plan de negocios: guía con estructura, cómo hacerlo y ejemplos",
+      "promete": "Estructura completa enfocada en tienda en línea; sin versión corta ni qué pide un banco"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.bbva.mx/educacion-financiera/empresa/pyme/plan-de-negocios.html",
+      "titulo": "Plan de negocios",
+      "promete": "Explicación breve de banco; no trae plantilla ni preguntas guía por sección"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Ejemplo con números de ejemplo, marcados como tales. Top 3 leído con WebSearch el 12-nov-2026."
+}

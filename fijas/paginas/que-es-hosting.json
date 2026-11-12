@@ -1,0 +1,458 @@
+{
+  "id": "que-es-hosting",
+  "slug": "que-es-hosting",
+  "molde": "guia",
+  "cabeza": "qué es hosting",
+  "busquedas": [
+    "hosting que es",
+    "que es un hosting",
+    "que es el hosting",
+    "hosting",
+    "hostings",
+    "hosting gratis",
+    "que un hosting",
+    "hosting gratuito",
+    "hosting que es y para que sirve",
+    "hoster web"
+  ],
+  "title": "Qué es hosting, tipos y cuál necesita tu negocio",
+  "h1": "Qué es el hosting y cuál necesita la página de tu negocio",
+  "description": "El hosting es la computadora donde vive tu página para que abra a cualquier hora. Te explicamos los tipos, qué revisar y si el gratis conviene. Elige el tuyo.",
+  "resumen": "Qué es el hosting, sus tipos y qué revisar antes de contratar uno",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El hosting es el servicio que guarda los archivos de tu página en una computadora conectada a internet todo el día. Gracias a él tu página abre cuando alguien escribe tu dominio.",
+    "Se paga por mes o por año y hay varios tipos según el tamaño del sitio. Una página de negocio pequeño casi siempre necesita un hosting compartido o administrado."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el hosting en palabras sencillas"
+    },
+    {
+      "p": "Tu página web es un conjunto de archivos. Textos, fotos, estilos y programas que el navegador sabe mostrar."
+    },
+    {
+      "p": "Esos archivos tienen que estar guardados en una computadora que nunca se apague. A esa computadora se le llama servidor."
+    },
+    {
+      "p": "El hosting es la renta de un espacio en ese servidor. La empresa que te lo renta se encarga de la luz, el internet y el mantenimiento."
+    },
+    {
+      "p": "En español también se dice alojamiento web. Es la misma cosa con otro nombre."
+    },
+    {
+      "h2": "Cómo trabajan juntos el hosting y el dominio"
+    },
+    {
+      "p": "El dominio es el nombre y el hosting es el lugar. Uno sin el otro no sirve para tener página."
+    },
+    {
+      "p": "Cuando alguien escribe tu dominio, internet busca en qué servidor está tu página. Luego ese servidor manda los archivos al celular de la persona."
+    },
+    {
+      "p": "Puedes tener el dominio en una empresa y el hosting en otra. Sólo hay que apuntar el dominio al servidor correcto."
+    },
+    {
+      "p": "Si quieres entender el dominio a fondo, lee [qué es un dominio](id:que-es-un-dominio)."
+    },
+    {
+      "h2": "Qué incluye un hosting"
+    },
+    {
+      "p": "Cada proveedor arma sus planes distinto. Estos son los conceptos que vas a ver en cualquier oferta."
+    },
+    {
+      "tabla": {
+        "titulo": "Conceptos de un plan de hosting",
+        "columnas": [
+          "Concepto",
+          "Qué significa",
+          "Qué necesita un negocio pequeño"
+        ],
+        "filas": [
+          [
+            "Almacenamiento",
+            "Espacio para tus archivos",
+            "Poco, una landing ocupa muy poco"
+          ],
+          [
+            "Transferencia",
+            "Cuántos datos se mandan a los visitantes al mes",
+            "Suficiente para tus visitas normales"
+          ],
+          [
+            "Certificado de seguridad",
+            "El candado y la dirección con https",
+            "Indispensable"
+          ],
+          [
+            "Correo",
+            "Cuentas de correo con tu dominio",
+            "Útil si no tienes otro servicio de correo"
+          ],
+          [
+            "Respaldos",
+            "Copias de tu página por si algo falla",
+            "Indispensable"
+          ],
+          [
+            "Disponibilidad",
+            "Qué tanto tiempo está en línea",
+            "Lo más cercano al cien por ciento"
+          ],
+          [
+            "Soporte",
+            "Ayuda cuando algo falla",
+            "En español y por un canal que contesten"
+          ],
+          [
+            "Ubicación del servidor",
+            "En qué país está la computadora",
+            "Cerca de tus clientes carga más rápido"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Tipos de hosting"
+    },
+    {
+      "p": "No todos los sitios necesitan lo mismo. El tipo de hosting cambia según cuántas visitas recibes y cuánto control quieres."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de hosting y para quién conviene",
+        "columnas": [
+          "Tipo",
+          "Cómo funciona",
+          "Para quién conviene",
+          "Lo que debes saber"
+        ],
+        "filas": [
+          [
+            "Compartido",
+            "Muchas páginas comparten un mismo servidor",
+            "Páginas pequeñas con pocas visitas",
+            "Barato, pero un vecino ruidoso puede hacerte lento"
+          ],
+          [
+            "Administrado",
+            "El proveedor se encarga de todo lo técnico",
+            "Negocios que no quieren tocar nada",
+            "Pagas por la tranquilidad"
+          ],
+          [
+            "Servidor privado virtual",
+            "Un pedazo de servidor reservado para ti",
+            "Sitios medianos o tiendas con más visitas",
+            "Necesitas saber administrarlo"
+          ],
+          [
+            "Dedicado",
+            "Un servidor completo para ti solo",
+            "Sitios grandes con mucho tráfico",
+            "Caro y requiere técnico"
+          ],
+          [
+            "En la nube",
+            "Tu página se reparte en varios servidores",
+            "Sitios que crecen o tienen picos de visitas",
+            "Se paga por uso y puede variar"
+          ],
+          [
+            "Estático",
+            "Sólo sirve archivos sin programas detrás",
+            "Landings y páginas informativas",
+            "Muy rápido y seguro para páginas que no cambian cada minuto"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para la página de un negocio local, un hosting administrado o estático suele bastar. No necesitas un servidor dedicado para mostrar tu menú."
+    },
+    {
+      "h2": "La disponibilidad explicada en minutos"
+    },
+    {
+      "p": "Los proveedores prometen disponibilidad con números como 99.9 por ciento. Suena casi perfecto, pero conviene traducirlo a tiempo."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué significa cada nivel de disponibilidad",
+        "columnas": [
+          "Disponibilidad",
+          "Tiempo fuera de línea al mes",
+          "Tiempo fuera de línea al año"
+        ],
+        "filas": [
+          [
+            "99 por ciento",
+            "Unas 7 horas",
+            "Unos 3.6 días"
+          ],
+          [
+            "99.9 por ciento",
+            "Unos 43 minutos",
+            "Unas 8.8 horas"
+          ],
+          [
+            "99.99 por ciento",
+            "Unos 4 minutos",
+            "Unos 53 minutos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La diferencia entre 99 y 99.9 son horas de página caída cada mes. Si tu negocio vende en línea, eso importa."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Qué revisar antes de contratar hosting"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Lo que vas a pagar al renovar",
+          "texto": "Muchos planes tienen precio de entrada y otro precio al renovar. Lee los dos antes de pagar."
+        },
+        {
+          "titulo": "El certificado de seguridad",
+          "texto": "Debe venir incluido y renovarse solo. Sin él, el navegador marca tu página como no segura."
+        },
+        {
+          "titulo": "Los respaldos",
+          "texto": "Pregunta cada cuánto respaldan y cómo recuperas una copia."
+        },
+        {
+          "titulo": "El soporte",
+          "texto": "Revisa si contestan en español, por qué canal y en qué horario."
+        },
+        {
+          "titulo": "La velocidad en celular",
+          "texto": "Prueba una página que tengan alojada y mide cuánto tarda."
+        },
+        {
+          "titulo": "Cómo te vas si quieres cambiar",
+          "texto": "Pregunta si puedes bajar tus archivos y llevarte tu página."
+        },
+        {
+          "titulo": "A nombre de quién queda",
+          "texto": "La cuenta debe estar a tu nombre o al de tu negocio."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo cambiar de hosting paso a paso"
+    },
+    {
+      "p": "Mudar tu página a otro hosting no es tan difícil si sigues un orden. Lo importante es no apagar el viejo antes de que funcione el nuevo."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Haz un respaldo completo",
+          "texto": "Baja todos los archivos de tu página y, si tiene, la base de datos."
+        },
+        {
+          "titulo": "Contrata el nuevo hosting",
+          "texto": "Elige el plan y crea tu cuenta a nombre de tu negocio."
+        },
+        {
+          "titulo": "Sube tu página al nuevo servidor",
+          "texto": "Copia los archivos y revisa que se vea bien con la dirección temporal que te den."
+        },
+        {
+          "titulo": "Configura el certificado de seguridad",
+          "texto": "Confirma que el nuevo hosting lo emite para tu dominio."
+        },
+        {
+          "titulo": "Cambia los registros de tu dominio",
+          "texto": "Apunta tu dominio al nuevo servidor desde la cuenta donde lo registraste."
+        },
+        {
+          "titulo": "Espera y revisa",
+          "texto": "Los cambios tardan unas horas en llegar a todos. Prueba desde varios celulares."
+        },
+        {
+          "titulo": "Cancela el viejo hosting",
+          "texto": "Hazlo sólo cuando todo funcione y tengas tu respaldo guardado."
+        }
+      ]
+    },
+    {
+      "p": "Si tu correo está en el mismo hosting, múdalo también o cámbialo a otro servicio. Si no, puedes dejar de recibir mensajes."
+    },
+    {
+      "h2": "Hosting y correo con tu dominio"
+    },
+    {
+      "p": "Muchos planes de hosting incluyen cuentas de correo. Es cómodo, pero mezcla dos servicios en el mismo lugar."
+    },
+    {
+      "p": "Si el hosting falla, también falla tu correo. Si cambias de hosting, tienes que mover los dos."
+    },
+    {
+      "p": "Por eso muchos negocios usan un servicio de correo aparte. Así la página y el correo no dependen uno del otro."
+    },
+    {
+      "h2": "Cómo saber dónde está alojada tu página"
+    },
+    {
+      "p": "A veces heredas una página y no sabes quién la aloja. Hay formas de averiguarlo sin ser técnico."
+    },
+    {
+      "ol": [
+        "Busca en tu correo facturas o avisos de renovación de hosting.",
+        "Pregunta a quien te hizo la página a nombre de quién está la cuenta.",
+        "Consulta el registro público de tu dominio para ver a qué servidores apunta.",
+        "Revisa en la cuenta de tu dominio los registros de tipo A o NS."
+      ]
+    },
+    {
+      "p": "Cuando lo encuentres, pide el acceso a tu nombre. Es tu página y debes poder entrar sin pedir permiso."
+    },
+    {
+      "h2": "Hosting gratis"
+    },
+    {
+      "p": "Existen servicios que alojan páginas sin cobrar. Suelen tener límites que no convienen a un negocio."
+    },
+    {
+      "ul": [
+        "Usan una dirección dentro de su propio dominio.",
+        "Muestran anuncios o su marca en tu página.",
+        "Limitan el espacio y las visitas.",
+        "No siempre incluyen respaldos ni soporte.",
+        "Pueden cerrar o cambiar sus reglas sin aviso."
+      ]
+    },
+    {
+      "p": "Para una prueba personal funcionan. Para la página que va en tus tarjetas y tu ficha de Google, conviene un servicio de pago o uno que lo incluya."
+    },
+    {
+      "h2": "Hosting y velocidad de tu página"
+    },
+    {
+      "p": "La velocidad depende del hosting, pero también de cómo está hecha la página. Un buen hosting no salva una página con fotos enormes."
+    },
+    {
+      "p": "Cuida estas cosas para que tu página abra rápido en cualquier celular."
+    },
+    {
+      "ol": [
+        "Fotos comprimidas y del tamaño que se van a mostrar.",
+        "Pocos programas y complementos.",
+        "Servidor cerca de tus clientes o con red de distribución.",
+        "Certificado de seguridad bien configurado.",
+        "Página sin animaciones pesadas en la portada."
+      ]
+    },
+    {
+      "h2": "Señales de que tu hosting ya no sirve"
+    },
+    {
+      "ul": [
+        "Tu página tarda varios segundos en abrir.",
+        "Se cae seguido y te enteras por tus clientes.",
+        "El soporte tarda días en contestar.",
+        "Te cobran extras por cosas que antes venían incluidas.",
+        "No puedes hacer respaldos ni recuperar una versión anterior."
+      ]
+    },
+    {
+      "p": "Si notas dos o más de estas señales, vale la pena cambiar. Antes de mover, haz un respaldo completo y guarda el acceso a tu dominio."
+    },
+    {
+      "h2": "Errores comunes con el hosting"
+    },
+    {
+      "ul": [
+        "Contratar el plan más grande sin necesitarlo.",
+        "Pagar tres años por adelantado sin probar el servicio.",
+        "Dejar la cuenta a nombre de quien hizo la página.",
+        "No revisar el precio de renovación.",
+        "Olvidar la fecha de pago y perder la página.",
+        "No tener respaldo fuera del propio hosting."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un hosting en palabras sencillas?",
+      "respuesta": "Es la renta de un espacio en una computadora conectada a internet. Ahí vive tu página para que abra a cualquier hora."
+    },
+    {
+      "pregunta": "¿Es lo mismo hosting que dominio?",
+      "respuesta": "No. El dominio es el nombre de tu página y el hosting es el lugar donde están sus archivos."
+    },
+    {
+      "pregunta": "¿Puedo tener página sin hosting?",
+      "respuesta": "No una propia. Toda página necesita un servidor. A veces el hosting viene incluido en el servicio que pagas."
+    },
+    {
+      "pregunta": "¿Conviene el hosting gratis?",
+      "respuesta": "No para un negocio. Suele tener anuncios, límites y una dirección que no es tuya."
+    },
+    {
+      "pregunta": "¿Qué tipo de hosting necesita una landing?",
+      "respuesta": "Uno compartido, administrado o estático. Una landing pesa poco y no necesita un servidor propio."
+    },
+    {
+      "pregunta": "¿Puedo cambiar de hosting sin perder mi página?",
+      "respuesta": "Sí. Respaldas los archivos, los subes al nuevo hosting y apuntas tu dominio al nuevo servidor."
+    },
+    {
+      "pregunta": "¿Dónde conviene que esté el servidor de mi página?",
+      "respuesta": "Cerca de tus clientes o detrás de una red de distribución. Así la página abre más rápido en México."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "dominio-y-hosting",
+    "hosting-en-mexico",
+    "certificado-ssl",
+    "comprar-dominio",
+    "precios-de-hostinger"
+  ],
+  "venta": {
+    "puente": "Con Aliviane no contratas hosting aparte. Los $99 al mes incluyen tu página en línea y cambios cada semana.",
+    "titulo": "¿Hacemos tu página con hosting incluido?",
+    "tituloCorto": "¿Prefieres no pelearte con el hosting?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.godaddy.com/resources/es/hosting/que-es-el-hosting-web-y-para-que-sirve",
+      "titulo": "Qué es el hosting web y para qué sirve",
+      "promete": "Definición y tipos que llevan a su tienda; sin tabla de qué revisar ni qué necesita un negocio pequeño"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/blog/hosting/",
+      "titulo": "Qué es un hosting, para qué sirve y qué tipos existen",
+      "promete": "Tipos de hosting en general; no explica disponibilidad en minutos ni el riesgo del hosting gratis"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.hubspot.es/website/hosting",
+      "titulo": "Qué es un hosting: características, tipos y ejemplos",
+      "promete": "Lista de proveedores con ejemplos de España; sin consejos para México ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Sin precios de proveedores de hosting (no leí tarifas oficiales hoy). Top 3 leído con WebSearch el 12-nov-2026."
+}

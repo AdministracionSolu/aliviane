@@ -1,0 +1,579 @@
+{
+  "id": "negocios-rentables",
+  "slug": "negocios-rentables",
+  "molde": "guia",
+  "cabeza": "negocios rentables",
+  "busquedas": [
+    "negocios que dejan dinero diario",
+    "ideas de negocios rentables",
+    "emprendimientos rentables",
+    "negocios para invertir",
+    "negocios pequeños rentables",
+    "negocios rentables con poco dinero",
+    "pequeños negocios que dejan dinero",
+    "negocios rentables con poca inversion",
+    "q negocio es rentable",
+    "negocios pequeños que dejan dinero",
+    "q negocio es mas rentable",
+    "negocios de poca inversión y mucha ganancia",
+    "los 30 negocios más rentables"
+  ],
+  "title": "Negocios rentables en México: cómo elegir y 20 ideas",
+  "h1": "Negocios rentables en México: cómo saber si uno deja dinero",
+  "description": "Un negocio es rentable cuando lo que vende cubre costos y deja ganancia. Te enseñamos a calcularlo y 20 ideas con poca inversión en México. Haz tus cuentas.",
+  "resumen": "Cómo calcular si un negocio deja dinero y 20 ideas con poca inversión",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un negocio es rentable cuando lo que vende alcanza para pagar todos sus costos y todavía deja ganancia. Depende menos del giro que de tu zona, tu precio y tus gastos.",
+    "Antes de elegir, calcula tu punto de equilibrio y prueba la idea con clientes reales. Abajo tienes la fórmula, un ejemplo y 20 ideas con poca inversión."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué hace rentable a un negocio"
+    },
+    {
+      "p": "Muchas listas prometen el negocio más rentable del año. Ningún giro deja dinero por sí solo."
+    },
+    {
+      "p": "Una taquería puede ser un gran negocio en una esquina y perder dinero dos calles después. Cambia la renta, la competencia y quién pasa por ahí."
+    },
+    {
+      "p": "La rentabilidad sale de tres números. Cuánto vendes, cuánto te cuesta cada venta y cuánto pagas cada mes aunque no vendas."
+    },
+    {
+      "tabla": {
+        "titulo": "Los tres números de cualquier negocio",
+        "columnas": [
+          "Número",
+          "Qué es",
+          "Ejemplo en una cafetería"
+        ],
+        "filas": [
+          [
+            "Precio de venta",
+            "Lo que cobra por cada producto",
+            "$45 por un café"
+          ],
+          [
+            "Costo variable",
+            "Lo que gasta en cada producto vendido",
+            "$15 en café, leche, vaso y tapa"
+          ],
+          [
+            "Gastos fijos",
+            "Lo que paga al mes aunque no venda",
+            "Renta, sueldos, luz e internet"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo calcular si un negocio deja dinero"
+    },
+    {
+      "p": "La herramienta más útil es el punto de equilibrio. Te dice cuántas ventas necesitas al mes para no perder."
+    },
+    {
+      "p": "**Punto de equilibrio = gastos fijos ÷ (precio − costo variable).**"
+    },
+    {
+      "p": "A la resta de precio menos costo variable se le llama margen de contribución. Es lo que cada venta aporta para pagar tus gastos fijos."
+    },
+    {
+      "h3": "Ejemplo con números"
+    },
+    {
+      "p": "Estos números son de ejemplo para ver la fórmula. Usa los de tu zona."
+    },
+    {
+      "tabla": {
+        "titulo": "Punto de equilibrio de una cafetería de ejemplo",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Precio de un café",
+            "$45"
+          ],
+          [
+            "Costo variable por café",
+            "$15"
+          ],
+          [
+            "Margen por café",
+            "$30"
+          ],
+          [
+            "Gastos fijos al mes",
+            "$36,000"
+          ],
+          [
+            "Cafés para no perder",
+            "1,200 al mes"
+          ],
+          [
+            "Cafés por día abriendo 26 días",
+            "47 al día"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si en tu zona pasan suficientes personas para vender 47 cafés al día, la idea tiene base. Si no, cambia el precio, los costos o el lugar."
+    },
+    {
+      "p": "Todo lo que vendas arriba del punto de equilibrio es ganancia antes de impuestos. Por eso conviene que el punto de equilibrio sea bajo."
+    },
+    {
+      "h2": "Por qué muchos negocios cierran pronto"
+    },
+    {
+      "p": "El INEGI calculó la esperanza de vida de los negocios en México. En promedio, un negocio nuevo vive 7.7 años."
+    },
+    {
+      "p": "Los comercios son los más frágiles, con 6.6 años en promedio. Las manufacturas viven más, con 9.5 años."
+    },
+    {
+      "tabla": {
+        "titulo": "Esperanza de vida al nacer de los negocios en México",
+        "columnas": [
+          "Sector",
+          "Años en promedio"
+        ],
+        "filas": [
+          [
+            "Manufacturas",
+            "9.5"
+          ],
+          [
+            "Servicios privados no financieros",
+            "8.0"
+          ],
+          [
+            "Comercio",
+            "6.6"
+          ],
+          [
+            "Promedio de los tres sectores",
+            "7.7"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fuente: INEGI, Esperanza de vida de los negocios en México 2014. Los negocios más chicos tienen las cifras más bajas."
+    },
+    {
+      "p": "La lección no es tener miedo. Es hacer cuentas antes de invertir y empezar con poco para probar."
+    },
+    {
+      "h2": "Cómo elegir un negocio rentable para ti"
+    },
+    {
+      "p": "El mejor negocio es el que puedes sostener con tu dinero, tu tiempo y lo que sabes hacer. Estas preguntas ayudan a decidir."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Qué sabes hacer",
+          "texto": "Un negocio donde ya tienes experiencia comete menos errores al inicio."
+        },
+        {
+          "titulo": "Cuánto puedes invertir sin endeudarte",
+          "texto": "Separa el dinero del negocio del dinero de tu casa. Guarda para tres meses de gastos fijos."
+        },
+        {
+          "titulo": "Quién te va a comprar",
+          "texto": "Nombra a tu cliente y dónde está. Si no lo puedes describir, todavía no tienes negocio."
+        },
+        {
+          "titulo": "Quién más vende lo mismo cerca",
+          "texto": "Visita a tu competencia. Fíjate en precios, horarios y qué dicen sus reseñas."
+        },
+        {
+          "titulo": "Cuál es tu punto de equilibrio",
+          "texto": "Haz la cuenta con datos reales de renta y costos."
+        },
+        {
+          "titulo": "Cómo lo vas a probar con poco",
+          "texto": "Vende primero a amigos, por pedido o en un bazar antes de rentar local."
+        }
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "20 negocios con poca inversión en México"
+    },
+    {
+      "p": "Estas ideas se pueden empezar en pequeño y crecer con las ventas. La inversión es una referencia y cambia mucho por ciudad."
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas de negocio por nivel de inversión",
+        "columnas": [
+          "Negocio",
+          "Inversión inicial",
+          "Lo que más pesa"
+        ],
+        "filas": [
+          [
+            "Comida por encargo desde casa",
+            "Baja",
+            "Permisos sanitarios y empaques"
+          ],
+          [
+            "Postres y pasteles por pedido",
+            "Baja",
+            "Horno y entregas a tiempo"
+          ],
+          [
+            "Venta de ropa por catálogo",
+            "Baja",
+            "Buenas fotos y un proveedor confiable"
+          ],
+          [
+            "Reparación de celulares",
+            "Media",
+            "Herramienta y refacciones"
+          ],
+          [
+            "Estética o barbería en casa",
+            "Media",
+            "Sillón, productos y clientela"
+          ],
+          [
+            "Uñas y pestañas",
+            "Baja",
+            "Curso, material y fotos de trabajos"
+          ],
+          [
+            "Limpieza de casas y oficinas",
+            "Baja",
+            "Personal de confianza y transporte"
+          ],
+          [
+            "Lavado de autos a domicilio",
+            "Baja",
+            "Equipo y agua"
+          ],
+          [
+            "Clases particulares",
+            "Baja",
+            "Tu conocimiento y tu horario"
+          ],
+          [
+            "Paseo y baño de mascotas",
+            "Baja",
+            "Confianza de los dueños"
+          ],
+          [
+            "Venta de café en carrito",
+            "Media",
+            "Permiso de vía pública y máquina"
+          ],
+          [
+            "Regalos personalizados",
+            "Media",
+            "Máquina de sublimado o corte"
+          ],
+          [
+            "Mantenimiento de minisplits",
+            "Media",
+            "Herramienta y certificación"
+          ],
+          [
+            "Jardinería",
+            "Baja",
+            "Herramienta y transporte"
+          ],
+          [
+            "Fotografía de productos para negocios",
+            "Media",
+            "Cámara y luz"
+          ],
+          [
+            "Contabilidad para pequeños negocios",
+            "Baja",
+            "Título y conocimiento fiscal"
+          ],
+          [
+            "Diseño de logos y publicidad",
+            "Baja",
+            "Computadora y portafolio"
+          ],
+          [
+            "Venta de plantas",
+            "Baja",
+            "Espacio y riego"
+          ],
+          [
+            "Renta de mobiliario para fiestas",
+            "Alta",
+            "Sillas, mesas y vehículo"
+          ],
+          [
+            "Lavandería",
+            "Alta",
+            "Lavadoras, local y servicios"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para ver más ideas por tipo, revisa nuestra guía de [ideas de negocio](id:ideas-de-negocio)."
+    },
+    {
+      "h2": "Cómo calcular tu margen de ganancia"
+    },
+    {
+      "p": "El margen te dice qué parte de cada venta se queda contigo. Se calcula en porcentaje para comparar productos."
+    },
+    {
+      "p": "**Margen = (precio − costo variable) ÷ precio × 100.**"
+    },
+    {
+      "p": "En el café de ejemplo, el margen es 30 entre 45. Eso da un margen de 66.7 por ciento antes de gastos fijos."
+    },
+    {
+      "tabla": {
+        "titulo": "Margen de tres productos de ejemplo",
+        "columnas": [
+          "Producto",
+          "Precio",
+          "Costo variable",
+          "Margen"
+        ],
+        "filas": [
+          [
+            "Café americano",
+            "$45",
+            "$15",
+            "66.7 por ciento"
+          ],
+          [
+            "Sándwich",
+            "$70",
+            "$35",
+            "50 por ciento"
+          ],
+          [
+            "Agua embotellada",
+            "$20",
+            "$14",
+            "30 por ciento"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con esta tabla decides qué empujar. Conviene ofrecer primero lo que más deja, siempre que se venda."
+    },
+    {
+      "h2": "Cuánto dinero necesitas para arrancar"
+    },
+    {
+      "p": "La inversión inicial no es sólo el equipo. Hay que sumar lo que gastas antes de que el negocio camine solo."
+    },
+    {
+      "ol": [
+        "Equipo y mobiliario para operar.",
+        "Primer inventario o materia prima.",
+        "Permisos, trámites y depósito del local.",
+        "Tu página, tu logo y tus primeros letreros.",
+        "Gastos fijos de tres meses como colchón."
+      ]
+    },
+    {
+      "p": "El colchón es lo que más se olvida. Casi ningún negocio llega a su punto de equilibrio el primer mes."
+    },
+    {
+      "h2": "Desde casa o con local"
+    },
+    {
+      "p": "Abrir desde casa baja mucho el riesgo al principio. Rentar local da visibilidad, pero sube los gastos fijos."
+    },
+    {
+      "tabla": {
+        "titulo": "Comparación rápida",
+        "columnas": [
+          "Punto",
+          "Desde casa",
+          "Con local"
+        ],
+        "filas": [
+          [
+            "Gastos fijos",
+            "Bajos",
+            "Renta, luz y mantenimiento"
+          ],
+          [
+            "Clientes que pasan por la calle",
+            "Pocos",
+            "Muchos si la ubicación es buena"
+          ],
+          [
+            "Dependencia de internet",
+            "Alta, te buscan en línea",
+            "Media, también te ven al pasar"
+          ],
+          [
+            "Riesgo si la idea no funciona",
+            "Bajo",
+            "Alto por el contrato de renta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un camino común es empezar en casa y rentar local cuando ya tienes clientes que repiten."
+    },
+    {
+      "h2": "Negocios que dejan dinero diario"
+    },
+    {
+      "p": "Mucha gente busca negocios con venta diaria. Son los que venden productos de consumo frecuente a precio bajo."
+    },
+    {
+      "p": "Comida, café y abarrotes venden todos los días. También las recargas, las tortillas y el lavado de autos. Su reto es el margen chico y el trabajo diario."
+    },
+    {
+      "p": "Un servicio como contabilidad o mantenimiento cobra menos seguido, pero cada cobro deja más. Elige según cómo quieres vivir tu día."
+    },
+    {
+      "h2": "Cómo probar tu idea antes de invertir"
+    },
+    {
+      "p": "Probar barato evita perder tus ahorros. Estas son formas de validar sin rentar local."
+    },
+    {
+      "ul": [
+        "Vende por pedido a conocidos y anota quién repite.",
+        "Pon un puesto en un bazar o tianguis por un fin de semana.",
+        "Abre una página con tu oferta y mide cuántos te escriben.",
+        "Pregunta a diez posibles clientes cuánto pagarían.",
+        "Haz una preventa con apartado antes de comprar inventario."
+      ]
+    },
+    {
+      "p": "Si después de un mes nadie repite, cambia algo antes de crecer. Si la gente repite y recomienda, vas por buen camino."
+    },
+    {
+      "h2": "Gastos que la gente olvida"
+    },
+    {
+      "p": "Muchos cálculos fallan porque dejan fuera gastos reales. Revisa que tu cuenta incluya estos."
+    },
+    {
+      "ul": [
+        "Tu propio sueldo como dueño.",
+        "Impuestos y el pago al contador.",
+        "Comisiones por cobro con tarjeta.",
+        "Mermas, productos que se echan a perder o se rompen.",
+        "Mantenimiento de equipo.",
+        "Publicidad y tu página web.",
+        "Un fondo para meses flojos."
+      ]
+    },
+    {
+      "h2": "Errores comunes al buscar un negocio rentable"
+    },
+    {
+      "ul": [
+        "Copiar el negocio de moda sin ver si hay clientes en tu zona.",
+        "Calcular sin tu propio sueldo.",
+        "Rentar local antes de probar la idea.",
+        "Pedir prestado más de lo que puedes pagar en meses malos.",
+        "Mezclar el dinero de la casa con el del negocio.",
+        "No tener forma de que te encuentren en internet."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es el negocio más rentable en México?",
+      "respuesta": "No hay uno solo. La rentabilidad depende de tu zona, tu precio y tus costos más que del giro."
+    },
+    {
+      "pregunta": "¿Qué negocio puedo poner con poco dinero?",
+      "respuesta": "Uno de servicio o por pedido. Comida desde casa, clases o limpieza piden poca inversión inicial."
+    },
+    {
+      "pregunta": "¿Cómo sé si mi negocio es rentable?",
+      "respuesta": "Con el punto de equilibrio. Divide tus gastos fijos entre lo que te deja cada venta."
+    },
+    {
+      "pregunta": "¿Cuánto vive un negocio en México?",
+      "respuesta": "En promedio 7.7 años, según el INEGI. Los comercios viven menos que las manufacturas."
+    },
+    {
+      "pregunta": "¿Conviene una franquicia?",
+      "respuesta": "Depende. Te da marca y método, pero cobra cuota y regalías. Haz las mismas cuentas que con un negocio propio."
+    },
+    {
+      "pregunta": "¿Mi negocio necesita página web?",
+      "respuesta": "Sí, conviene. La gente busca en internet antes de comprar o visitar un local."
+    },
+    {
+      "pregunta": "¿Cuánto tarda un negocio en ser rentable?",
+      "respuesta": "Varía mucho. Muchos negocios pequeños tardan meses en cubrir sus gastos fijos. Por eso conviene guardar para tres meses de gastos."
+    },
+    {
+      "pregunta": "¿Qué margen de ganancia es bueno?",
+      "respuesta": "Depende del giro. La comida preparada suele dejar más margen por pieza que la reventa de productos de marca."
+    }
+  ],
+  "relacionadas": [
+    "ideas-de-negocio",
+    "plan-de-negocios",
+    "analisis-foda",
+    "modelo-canvas",
+    "negocios-desde-casa",
+    "franquicias-baratas"
+  ],
+  "venta": {
+    "puente": "Un negocio rentable también necesita que lo encuentren. Aliviane te hace la página con tu dominio y tu WhatsApp.",
+    "titulo": "¿Hacemos la página de tu nuevo negocio?",
+    "tituloCorto": "¿Ya tienes el negocio? Falta que te encuentren",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "INEGI, Esperanza de vida de los negocios en México 2014 (boletín 2015)",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2015/especiales/especiales2015_02_38.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.elimparcial.com/dinero/2025/04/13/conoce-estas-10-ideas-de-negocios-rentables-que-no-requieren-gran-inversion/",
+      "titulo": "10 ideas de negocios rentables que no requieren gran inversión",
+      "promete": "Lista corta de ideas sin cómo calcular si dejan dinero ni riesgos"
+    },
+    {
+      "posicion": 2,
+      "url": "https://emprendedor.com/20-ideas-de-negocios-rentables-en-mexico-en-2023/",
+      "titulo": "20 ideas de negocios rentables en México",
+      "promete": "Lista de 2023 con montos sin fuente; sin punto de equilibrio ni cómo validar la idea"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.alegra.com/mexico/negocios-rentables-en-mexico/",
+      "titulo": "Negocios rentables en México",
+      "promete": "Sectores con oportunidad en general; no aterriza en un negocio pequeño con números de ejemplo"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Sin montos de inversión por idea (no hay fuente oficial confiable); sólo nivel bajo/medio. Esperanza de vida de INEGI leída en el boletín 2015 el 12-nov-2026. Top 3 leído con WebSearch el 12-nov-2026."
+}

@@ -1,0 +1,458 @@
+{
+  "id": "google-mi-negocio",
+  "slug": "google-mi-negocio",
+  "molde": "guia",
+  "cabeza": "google my business",
+  "busquedas": [
+    "business google my",
+    "google mybusi",
+    "google bu",
+    "google mi negocio",
+    "google negocio",
+    "negocio en google",
+    "mi negocio en google",
+    "google mi nego",
+    "perfil de negocio de google",
+    "mi negocio google",
+    "perfil de negocio google",
+    "perfil de empresa google",
+    "cómo poner mi negocio en google maps"
+  ],
+  "title": "Google My Business: da de alta tu negocio en 9 pasos",
+  "h1": "Google Mi Negocio: cómo dar de alta tu negocio en Google",
+  "description": "Google My Business hoy se llama Perfil de Negocio y es gratis. Te decimos cómo darlo de alta, verificarlo y llenarlo para salir en Google Maps. Empieza hoy.",
+  "resumen": "Alta, verificación y ficha completa para salir en Google Maps",
+  "categoria": "Google",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Google Mi Negocio hoy se llama Perfil de Negocio de Google y crearlo es gratis. Es la ficha que sale en Google Maps y a un lado de los resultados de búsqueda.",
+    "Para darlo de alta entras con una cuenta de Google, escribes el nombre y la categoría de tu negocio y lo verificas. Sólo después de verificarlo la gente lo puede encontrar."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es Google Mi Negocio"
+    },
+    {
+      "p": "Google Mi Negocio era el nombre de la herramienta para registrar tu negocio en Google. Desde 2021 se llama Perfil de Negocio de Google."
+    },
+    {
+      "p": "La ficha muestra tu nombre, tu dirección, tu horario y tu teléfono. También enseña fotos, reseñas y un botón para ir a tu página web."
+    },
+    {
+      "p": "La ficha aparece en dos lugares. En Google Maps cuando alguien busca algo cerca y en el buscador cuando alguien escribe tu nombre."
+    },
+    {
+      "p": "Google dice en su página oficial que crear el perfil es gratis. No pagas por aparecer ni por recibir reseñas."
+    },
+    {
+      "tabla": {
+        "titulo": "Lo que muestra tu ficha",
+        "columnas": [
+          "Dato",
+          "Dónde se ve",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "Nombre y categoría",
+            "Arriba de la ficha",
+            "Decide en qué búsquedas sales"
+          ],
+          [
+            "Dirección o zona",
+            "En el mapa",
+            "La gente cercana te encuentra primero"
+          ],
+          [
+            "Horario",
+            "Bajo el nombre",
+            "Evita que lleguen con el local cerrado"
+          ],
+          [
+            "Teléfono",
+            "Botón de llamar",
+            "El cliente te marca desde el celular"
+          ],
+          [
+            "Sitio web",
+            "Botón de sitio",
+            "Lleva a tu página con más detalle"
+          ],
+          [
+            "Fotos",
+            "Galería",
+            "Muestran tu local y tus productos"
+          ],
+          [
+            "Reseñas",
+            "Estrellas y comentarios",
+            "Dan confianza a quien no te conoce"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo dar de alta tu negocio en Google paso a paso"
+    },
+    {
+      "p": "Estos son los pasos de la ayuda oficial de Google. Las pantallas cambian un poco, pero el orden es el mismo."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Entra con una cuenta de Google",
+          "texto": "Usa una cuenta que vaya a quedar en el negocio. Si es nueva, conviene un correo del propio negocio."
+        },
+        {
+          "titulo": "Abre la página de perfiles de Google",
+          "texto": "Busca la opción para administrar tu Perfil de Negocio y elige agregar una empresa."
+        },
+        {
+          "titulo": "Escribe el nombre de tu negocio",
+          "texto": "Pon el nombre real que usas en tu letrero. No agregues ciudades ni palabras de más."
+        },
+        {
+          "titulo": "Elige la categoría principal",
+          "texto": "Escribe tu giro y escoge la opción que mejor te describe. Es el dato que más pesa."
+        },
+        {
+          "titulo": "Indica si tienes local",
+          "texto": "Si los clientes te visitan, escribe la dirección o marca el punto en el mapa."
+        },
+        {
+          "titulo": "Define tu zona de servicio",
+          "texto": "Si vas a domicilio, agrega las ciudades o códigos postales que atiendes. Google acepta hasta 20 zonas."
+        },
+        {
+          "titulo": "Agrega teléfono y sitio web",
+          "texto": "Escribe el número donde contestas y la dirección de tu página."
+        },
+        {
+          "titulo": "Termina la configuración",
+          "texto": "Revisa los datos y confirma. Google te pedirá verificar."
+        },
+        {
+          "titulo": "Verifica tu negocio",
+          "texto": "Elige el método que te ofrezca Google. Puede ser un video del local, una llamada o un mensaje."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo verificar tu negocio en Google"
+    },
+    {
+      "p": "La verificación prueba que el negocio existe y que tú lo manejas. Sin ella la ficha no sale al público."
+    },
+    {
+      "p": "Google decide qué métodos te ofrece según tu giro y tu zona. No todos los negocios ven las mismas opciones."
+    },
+    {
+      "p": "El método más común hoy es un video corto. En él muestras el letrero, la entrada y algo que pruebe que es tu negocio."
+    },
+    {
+      "ul": [
+        "Graba de día y con buena luz.",
+        "Muestra el letrero con el nombre igual al de la ficha.",
+        "Enseña la calle o un punto de referencia cercano.",
+        "Muestra herramientas, mercancía o la caja de cobro.",
+        "Si atiendes a domicilio, enseña tu vehículo rotulado o tu material de trabajo."
+      ]
+    },
+    {
+      "p": "La revisión puede tardar algunos días. Mientras tanto no cambies el nombre ni la dirección."
+    },
+    {
+      "h2": "Qué hacer si no tienes local"
+    },
+    {
+      "p": "Muchos negocios trabajan desde casa o van a domicilio. Google también los acepta como negocios de zona de servicio."
+    },
+    {
+      "p": "En ese caso escribes tu dirección para verificar, pero la ocultas al público. La ficha muestra sólo las zonas que atiendes."
+    },
+    {
+      "p": "Google recomienda un solo perfil por área metropolitana para los negocios de servicio. Abrir varias fichas falsas puede hacer que suspendan todas."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo llenar tu ficha para que te elijan"
+    },
+    {
+      "p": "Una ficha a medias se ve abandonada. Una ficha completa responde lo que el cliente quiere saber sin llamarte."
+    },
+    {
+      "tabla": {
+        "titulo": "Lista para revisar tu ficha",
+        "columnas": [
+          "Sección",
+          "Qué poner",
+          "Consejo"
+        ],
+        "filas": [
+          [
+            "Descripción",
+            "Qué vendes, a quién y dónde",
+            "Escribe como hablas con tus clientes"
+          ],
+          [
+            "Servicios o productos",
+            "Cada servicio con su precio o rango",
+            "Usa los nombres que busca la gente"
+          ],
+          [
+            "Horario",
+            "Horario normal y días festivos",
+            "Actualízalo en vacaciones"
+          ],
+          [
+            "Fotos",
+            "Fachada, interior, equipo y productos",
+            "Sube fotos nuevas cada mes"
+          ],
+          [
+            "Atributos",
+            "Pago con tarjeta, estacionamiento y accesibilidad",
+            "Marca sólo lo que sí tienes"
+          ],
+          [
+            "Sitio web",
+            "Tu página con tu dominio",
+            "Que cargue rápido en celular"
+          ],
+          [
+            "WhatsApp o mensajes",
+            "El número donde contestas",
+            "Responde rápido o desactívalo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las fotos reales funcionan mejor que las de banco. Una foto de tu fachada ayuda a que te encuentren al llegar."
+    },
+    {
+      "h2": "Las reseñas de Google"
+    },
+    {
+      "p": "Las reseñas son la parte de la ficha que más lee la gente. Una ficha con comentarios recientes da más confianza que una vacía."
+    },
+    {
+      "p": "Pide reseñas a clientes contentos justo después de atenderlos. Mándales el link directo para que no tengan que buscarte."
+    },
+    {
+      "p": "Contesta todas las reseñas, también las malas. Una respuesta educada muestra que alguien atiende el negocio."
+    },
+    {
+      "ul": [
+        "No pagues por reseñas ni regales descuentos a cambio.",
+        "No escribas reseñas de tu propio negocio.",
+        "No pidas a familiares que califiquen sin ser clientes.",
+        "No discutas en público con un cliente molesto."
+      ]
+    },
+    {
+      "p": "Google borra reseñas que rompen sus reglas. En casos graves también puede suspender la ficha."
+    },
+    {
+      "p": "Si quieres más ideas, revisa nuestra guía de [reseñas de Google](id:resenas-de-google)."
+    },
+    {
+      "h2": "Tu ficha necesita una página web"
+    },
+    {
+      "p": "La ficha tiene un botón de sitio web. Si lo dejas vacío, pierdes a quien quiere saber más antes de llamar."
+    },
+    {
+      "p": "Una página propia completa lo que la ficha no cabe. Ahí van tu menú, tus precios, tus fotos y tus preguntas frecuentes."
+    },
+    {
+      "p": "Google usa la información de tu página para entender tu negocio. Por eso conviene que nombre, dirección y teléfono coincidan con la ficha."
+    },
+    {
+      "p": "Hay quien liga su ficha a una red social. Funciona, pero tu red social no es tuya y tiene el diseño de otra empresa."
+    },
+    {
+      "h2": "Publicaciones y preguntas en tu ficha"
+    },
+    {
+      "p": "Tu ficha acepta publicaciones cortas, como una red social pequeña. Sirven para avisar de promociones, productos nuevos o cambios de horario."
+    },
+    {
+      "p": "Una publicación lleva texto, una foto y un botón. Puedes mandar a la gente a tu página, a llamar o a pedir informes."
+    },
+    {
+      "p": "Publica cuando tengas algo que contar. Una publicación al mes ya muestra que el negocio sigue activo."
+    },
+    {
+      "p": "La ficha también tiene una sección de preguntas del público. Cualquier persona puede preguntar y cualquier persona puede contestar."
+    },
+    {
+      "p": "Revisa esa sección cada semana. Si otro contesta mal, tu respuesta como dueño aclara el dato."
+    },
+    {
+      "p": "Puedes escribir tú mismo las preguntas que más te hacen. Luego las contestas desde la cuenta del negocio."
+    },
+    {
+      "h2": "Cómo saber si tu ficha funciona"
+    },
+    {
+      "p": "Google te enseña cuántas personas vieron tu ficha y qué hicieron después. Lo encuentras en la sección de rendimiento del perfil."
+    },
+    {
+      "tabla": {
+        "titulo": "Números que conviene revisar cada mes",
+        "columnas": [
+          "Número",
+          "Qué te dice",
+          "Qué hacer si baja"
+        ],
+        "filas": [
+          [
+            "Búsquedas",
+            "Cuántas veces apareciste",
+            "Revisa categoría y servicios"
+          ],
+          [
+            "Llamadas",
+            "Cuántos te marcaron desde la ficha",
+            "Confirma que el teléfono contesta"
+          ],
+          [
+            "Solicitudes de ruta",
+            "Cuántos pidieron cómo llegar",
+            "Revisa que el punto del mapa sea correcto"
+          ],
+          [
+            "Clics al sitio web",
+            "Cuántos fueron a tu página",
+            "Mejora tu página y su botón principal"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Anota estos números el mismo día de cada mes. Así ves si un cambio en tu ficha ayudó o no."
+    },
+    {
+      "h2": "Errores comunes en Google Mi Negocio"
+    },
+    {
+      "ul": [
+        "Usar la cuenta personal de un empleado que luego se va.",
+        "Escribir palabras clave junto al nombre del negocio.",
+        "Poner una categoría que no corresponde para salir en más búsquedas.",
+        "Dejar el horario viejo en días festivos.",
+        "Abrir dos fichas para el mismo negocio.",
+        "Ignorar las preguntas que la gente deja en la ficha.",
+        "Ligar la ficha a una página que no carga en celular."
+      ]
+    },
+    {
+      "h2": "Cuánto tarda en aparecer tu negocio"
+    },
+    {
+      "p": "Tu ficha sale al público cuando termina la verificación. Eso puede tardar desde unas horas hasta varios días."
+    },
+    {
+      "p": "Después de salir, la posición en el mapa depende de tres cosas. Google las llama relevancia, distancia y prominencia."
+    },
+    {
+      "p": "La relevancia es qué tan bien coincide tu ficha con lo que se busca. La distancia es qué tan cerca estás de quien busca."
+    },
+    {
+      "p": "La prominencia es qué tan conocido es tu negocio. Ahí cuentan las reseñas y lo que dicen de ti otras páginas."
+    },
+    {
+      "p": "Nadie puede prometerte un lugar fijo en Google. Lo que sí puedes hacer es tener la ficha completa y al día."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Google Mi Negocio cuesta?",
+      "respuesta": "No. Crear y mantener tu Perfil de Negocio es gratis. Sólo pagas si decides poner anuncios."
+    },
+    {
+      "pregunta": "¿Puedo dar de alta mi negocio sin local?",
+      "respuesta": "Sí. Lo registras como negocio de zona de servicio y ocultas tu dirección."
+    },
+    {
+      "pregunta": "¿Cuánto tarda la verificación?",
+      "respuesta": "Depende del método. Un video se revisa en pocos días y otros métodos pueden ser más rápidos."
+    },
+    {
+      "pregunta": "¿Necesito página web para tener ficha?",
+      "respuesta": "No. Pero la ficha tiene un botón de sitio web y conviene llenarlo con tu propia página."
+    },
+    {
+      "pregunta": "¿Cómo cambio la dirección de mi negocio?",
+      "respuesta": "Desde el perfil, en la opción de editar. Google puede pedirte verificar otra vez."
+    },
+    {
+      "pregunta": "¿Puedo borrar una reseña mala?",
+      "respuesta": "No directamente. Puedes reportarla si rompe las reglas de Google y contestarla con educación."
+    },
+    {
+      "pregunta": "¿Google Mi Negocio y Perfil de Negocio son lo mismo?",
+      "respuesta": "Sí. Es la misma herramienta con otro nombre desde 2021."
+    }
+  ],
+  "relacionadas": [
+    "resenas-de-google",
+    "seo-local",
+    "publicidad-en-google",
+    "sitios-de-google",
+    "como-crear-una-pagina-web",
+    "seo"
+  ],
+  "venta": {
+    "puente": "Tu ficha de Google pide una página web. Aliviane te entrega la landing que pones en ese campo.",
+    "titulo": "¿Hacemos la página que va en tu ficha de Google?",
+    "tituloCorto": "¿Tu ficha ya tiene a dónde mandar?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google, Perfil de Negocio (preguntas frecuentes)",
+      "url": "https://business.google.com/es-all/business-profile/"
+    },
+    {
+      "texto": "Ayuda de Google, cómo crear un Perfil de Negocio",
+      "url": "https://support.google.com/business/answer/10514137?hl=es-419"
+    },
+    {
+      "texto": "Ayuda de Google, cómo mejorar tu posición local",
+      "url": "https://support.google.com/business/answer/7091?hl=es-419"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://blog.hootsuite.com/google-my-business/",
+      "titulo": "Google My Business: guía completa",
+      "promete": "Guía larga en inglés sobre funciones; sin pasos para un negocio mexicano ni qué hacer si no tienes local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.hubspot.com/marketing/google-my-business",
+      "titulo": "Google My Business Guide",
+      "promete": "Explica el cambio de nombre y la configuración; no habla de reseñas en México ni del campo de sitio web"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.podium.com/google-reviews/google-my-business/",
+      "titulo": "Google Business Profile 101",
+      "promete": "Enfocado en reseñas para vender su software; pasos generales sin tabla de qué llenar"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Gratuidad leída en business.google.com y pasos en la ayuda oficial el 12-nov-2026. Top 3 leído con WebSearch el 12-nov-2026."
+}

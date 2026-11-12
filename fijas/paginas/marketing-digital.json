@@ -1,0 +1,486 @@
+{
+  "id": "marketing-digital",
+  "slug": "marketing-digital",
+  "molde": "guia",
+  "cabeza": "marketing digital",
+  "busquedas": [
+    "digital marketing digital",
+    "marketing marketing digital",
+    "marketing digital online",
+    "online marketing digital",
+    "digital mkt",
+    "marketing online",
+    "marketing online marketing",
+    "mercadotecnia digital",
+    "mkt online",
+    "publicidad digital",
+    "publicidad y marketing digital"
+  ],
+  "title": "Marketing digital: qué es y cómo empezar en tu negocio",
+  "h1": "Marketing digital para negocios: qué es y por dónde empezar",
+  "description": "Qué es el marketing digital, sus tipos y cómo empezar con poco dinero en un negocio mexicano. Con plan de 30 días y números del INEGI. Arma tu plan hoy.",
+  "resumen": "Los tipos de marketing digital y un plan de 30 días para un negocio pequeño",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El marketing digital es todo lo que haces en internet para que la gente conozca tu negocio y te compre. Incluye tu página web y tu ficha de Google. También tus redes sociales, tus mensajes y tus anuncios.",
+    "Para un negocio pequeño conviene empezar por lo gratis. Primero tu ficha de Google y tu página con WhatsApp, después redes sociales y al final anuncios pagados."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el marketing digital"
+    },
+    {
+      "p": "El marketing es la forma en que un negocio se da a conocer y convence a sus clientes. Cuando eso pasa en internet le llamamos marketing digital."
+    },
+    {
+      "p": "Un volante en la calle es marketing tradicional. Una publicación en Facebook que lleva a tu WhatsApp es marketing digital."
+    },
+    {
+      "p": "La diferencia principal está en la medición. En internet sabes cuántas personas vieron tu mensaje y cuántas te escribieron."
+    },
+    {
+      "p": "También cambia el costo de empezar. Muchos canales digitales se pueden usar sin pagar nada, sólo con tiempo."
+    },
+    {
+      "h2": "Por qué importa en México"
+    },
+    {
+      "p": "Casi toda la gente que compra ya está en internet. El INEGI estimó 100.2 millones de personas usuarias de internet en 2024."
+    },
+    {
+      "p": "Esa cifra es el 83.1% de la población de 6 años y más. Y el 97.2% de esas personas se conecta con un celular inteligente."
+    },
+    {
+      "tabla": {
+        "titulo": "Para qué usa internet la gente en México (2024)",
+        "columnas": [
+          "Uso",
+          "Porcentaje de usuarios"
+        ],
+        "filas": [
+          [
+            "Comunicarse",
+            "93.0%"
+          ],
+          [
+            "Redes sociales",
+            "90.4%"
+          ],
+          [
+            "Entretenimiento",
+            "89.0%"
+          ],
+          [
+            "Buscar información",
+            "88.2%"
+          ],
+          [
+            "Comprar por internet",
+            "35.8%"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fuente: ENDUTIH 2024 del INEGI. La lección para tu negocio es clara. Tu cliente te busca desde el celular y quiere escribirte por mensaje."
+    },
+    {
+      "h2": "Los tipos de marketing digital"
+    },
+    {
+      "p": "Hay muchos nombres, pero casi todo cabe en siete canales. Cada uno sirve para algo distinto."
+    },
+    {
+      "tabla": {
+        "titulo": "Canales de marketing digital para un negocio pequeño",
+        "columnas": [
+          "Canal",
+          "Qué es",
+          "Costo de empezar",
+          "Cuándo da resultados"
+        ],
+        "filas": [
+          [
+            "Página web",
+            "Tu propio sitio con tu dominio",
+            "Pago único y mensualidad baja",
+            "Desde que la publicas"
+          ],
+          [
+            "Ficha de Google",
+            "Tu negocio en Google Maps",
+            "Gratis",
+            "En días o semanas"
+          ],
+          [
+            "SEO",
+            "Aparecer en Google sin pagar anuncios",
+            "Tu tiempo o una agencia",
+            "En meses"
+          ],
+          [
+            "Redes sociales",
+            "Publicar en Facebook, Instagram o TikTok",
+            "Gratis",
+            "Depende de la constancia"
+          ],
+          [
+            "WhatsApp",
+            "Hablar con clientes y mandar avisos",
+            "Gratis",
+            "Inmediato"
+          ],
+          [
+            "Correo",
+            "Mandar boletines a quien te dio su correo",
+            "Bajo",
+            "En semanas"
+          ],
+          [
+            "Anuncios pagados",
+            "Pagar por aparecer en Google o redes",
+            "Lo que tú decidas",
+            "Inmediato mientras pagas"
+          ]
+        ]
+      }
+    },
+    {
+      "h3": "Página web"
+    },
+    {
+      "p": "Tu página es el centro de todo. Ahí llegan quienes te ven en Google, en redes o en un volante."
+    },
+    {
+      "p": "Es el único canal que es tuyo. Tus redes pueden cambiar de reglas, pero tu dominio sigue siendo tuyo."
+    },
+    {
+      "h3": "Ficha de Google"
+    },
+    {
+      "p": "Es lo primero que ve quien busca tu giro cerca. Es gratis y en muchos negocios locales trae más llamadas que las redes."
+    },
+    {
+      "p": "Revisa nuestra guía de [Google Mi Negocio](id:google-mi-negocio) para darla de alta paso a paso."
+    },
+    {
+      "h3": "SEO"
+    },
+    {
+      "p": "El SEO es lo que haces para que tu página aparezca en Google sin pagar. Tarda, pero lo que ganas se queda."
+    },
+    {
+      "p": "Lee más en nuestra guía de [SEO](id:seo). Ahí verás qué puede hacer un negocio pequeño sin agencia."
+    },
+    {
+      "h3": "Redes sociales"
+    },
+    {
+      "p": "Sirven para mostrar tu trabajo y mantenerte presente. Funcionan mejor con fotos reales y publicaciones constantes."
+    },
+    {
+      "p": "No necesitas estar en todas. Elige una o dos donde ya está tu cliente."
+    },
+    {
+      "h3": "WhatsApp"
+    },
+    {
+      "p": "En México casi toda venta pequeña se cierra por WhatsApp. Un link directo a tu chat quita pasos al cliente."
+    },
+    {
+      "p": "Usa mensajes de bienvenida, catálogo y respuestas rápidas. Así contestas igual de bien aunque estés ocupado."
+    },
+    {
+      "h3": "Correo"
+    },
+    {
+      "p": "El correo funciona mejor con clientes que ya te compraron. Sirve para avisar de promociones o productos nuevos."
+    },
+    {
+      "h3": "Anuncios pagados"
+    },
+    {
+      "p": "Los anuncios traen gente desde el primer día. Cuando dejas de pagar, la gente deja de llegar."
+    },
+    {
+      "p": "Conviene anunciarse cuando ya tienes una página que convence. Si no, pagas por visitas que se van."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo empezar con marketing digital en 30 días"
+    },
+    {
+      "p": "No necesitas un gran presupuesto para empezar. Necesitas orden y constancia."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Semana 1. Tu base",
+          "texto": "Define a quién le vendes y qué te distingue. Escribe tu oferta en dos frases."
+        },
+        {
+          "titulo": "Semana 1. Tu ficha",
+          "texto": "Da de alta o completa tu ficha de Google con fotos, horario y servicios."
+        },
+        {
+          "titulo": "Semana 2. Tu página",
+          "texto": "Ten una página con tu dominio que diga qué vendes y tenga botón de WhatsApp."
+        },
+        {
+          "titulo": "Semana 2. Tu WhatsApp",
+          "texto": "Activa WhatsApp Business con catálogo, mensaje de bienvenida y respuestas rápidas."
+        },
+        {
+          "titulo": "Semana 3. Tus redes",
+          "texto": "Elige una red y publica tres veces por semana con fotos reales."
+        },
+        {
+          "titulo": "Semana 3. Tus reseñas",
+          "texto": "Pide reseña a cada cliente contento y contesta todas."
+        },
+        {
+          "titulo": "Semana 4. Tu medición",
+          "texto": "Revisa cuántas llamadas, mensajes y visitas tuviste. Anota de dónde llegó cada cliente."
+        },
+        {
+          "titulo": "Semana 4. Tu siguiente paso",
+          "texto": "Si algo funcionó, haz más de eso. Si te sobra presupuesto, prueba un anuncio chico."
+        }
+      ]
+    },
+    {
+      "h2": "Cuánto presupuesto necesitas"
+    },
+    {
+      "p": "El marketing digital puede empezar en cero pesos. Tu ficha de Google, tus redes y tu WhatsApp Business no cuestan."
+    },
+    {
+      "p": "Lo que sí cuesta es tu página web y los anuncios. La página es un gasto fijo pequeño y los anuncios son variables."
+    },
+    {
+      "p": "Una regla práctica es empezar con lo fijo y después probar anuncios con poco. Sube el presupuesto sólo en lo que trae clientes."
+    },
+    {
+      "h2": "Ejemplo de un plan para una taquería"
+    },
+    {
+      "p": "Un ejemplo ayuda a aterrizar todo esto. Imagina una taquería de barrio que quiere más pedidos para llevar."
+    },
+    {
+      "p": "La primera semana completa su ficha de Google. Sube fotos de los tacos, el horario real y el menú con precios."
+    },
+    {
+      "p": "La segunda semana estrena su página con el menú, la dirección y un botón de WhatsApp. Pone el mismo link en su ficha y en Instagram."
+    },
+    {
+      "p": "La tercera semana imprime un código QR en la mesa y en las bolsas. El QR lleva al menú para pedir la próxima vez."
+    },
+    {
+      "p": "La cuarta semana pide reseñas a los clientes frecuentes. También manda por WhatsApp la promoción del martes a quien ya pidió antes."
+    },
+    {
+      "p": "Al mes cuenta cuántos pedidos llegaron por WhatsApp y de dónde. Con eso decide si vale la pena probar un anuncio chico en su colonia."
+    },
+    {
+      "h2": "Glosario básico de marketing digital"
+    },
+    {
+      "p": "Estas palabras salen en cualquier curso o propuesta de agencia. Conviene entenderlas antes de pagar por algo."
+    },
+    {
+      "tabla": {
+        "titulo": "Términos que vas a escuchar",
+        "columnas": [
+          "Término",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "Alcance",
+            "Cuántas personas distintas vieron tu publicación o anuncio"
+          ],
+          [
+            "Clic",
+            "Cuando alguien toca tu enlace o tu anuncio"
+          ],
+          [
+            "Conversión",
+            "Cuando alguien hace lo que buscabas, como escribirte o comprar"
+          ],
+          [
+            "Embudo",
+            "El camino desde que te conocen hasta que te compran"
+          ],
+          [
+            "Landing page",
+            "Una página enfocada en una sola acción"
+          ],
+          [
+            "Orgánico",
+            "Lo que llega sin pagar anuncios"
+          ],
+          [
+            "SEO",
+            "Lo que haces para aparecer en Google sin pagar"
+          ],
+          [
+            "SEM",
+            "Los anuncios pagados en buscadores"
+          ],
+          [
+            "Segmentación",
+            "Elegir a qué personas les sale tu anuncio"
+          ],
+          [
+            "Costo por clic",
+            "Lo que pagas cada vez que alguien toca tu anuncio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo medir si tu marketing funciona"
+    },
+    {
+      "p": "Lo que no se mide no se puede mejorar. Por suerte, en internet casi todo deja huella."
+    },
+    {
+      "ul": [
+        "Pregunta a cada cliente nuevo cómo te encontró.",
+        "Usa un link distinto en cada red y en cada volante.",
+        "Revisa cada mes los números de tu ficha de Google.",
+        "Cuenta cuántos mensajes de WhatsApp llegan por semana.",
+        "Compara lo que gastaste en anuncios con lo que vendiste por ellos."
+      ]
+    },
+    {
+      "p": "Con tres meses de datos ya sabes qué canal funciona en tu negocio. Ahí pones más tiempo y dinero."
+    },
+    {
+      "h2": "Qué publicar si no sabes qué decir"
+    },
+    {
+      "p": "La duda más común es qué publicar cada semana. Estas ideas sirven para casi cualquier giro."
+    },
+    {
+      "ul": [
+        "Una foto del trabajo terminado con el precio o el rango.",
+        "Un antes y después de un servicio.",
+        "Las preguntas que más te hacen, contestadas en una frase.",
+        "Un cliente contento que acepte salir en la foto.",
+        "Tu horario de días festivos con tiempo.",
+        "Un producto nuevo o de temporada.",
+        "Cómo llegar a tu local desde una calle conocida."
+      ]
+    },
+    {
+      "p": "Repite las ideas que más mensajes traen. Lo que funcionó una vez suele funcionar otra."
+    },
+    {
+      "h2": "Marketing digital hecho por ti o por una agencia"
+    },
+    {
+      "p": "Puedes hacerlo tú si tienes tiempo y te gusta aprender. Muchos negocios pequeños empiezan así."
+    },
+    {
+      "p": "Una agencia conviene cuando ya sabes qué funciona y quieres hacerlo más grande. Pide que te expliquen qué van a medir y cada cuánto."
+    },
+    {
+      "p": "Desconfía de quien promete un lugar fijo en Google o un número de ventas. Nadie controla esos resultados."
+    },
+    {
+      "p": "Si buscas ayuda, lee qué revisar al contratar una [agencia de marketing digital](id:agencia-de-marketing-digital)."
+    },
+    {
+      "h2": "Errores comunes al empezar"
+    },
+    {
+      "ul": [
+        "Abrir cuentas en todas las redes y abandonarlas al mes.",
+        "Pagar anuncios sin tener página ni WhatsApp listo.",
+        "Publicar sólo promociones sin mostrar tu trabajo.",
+        "No contestar mensajes durante horas.",
+        "Copiar lo que hacen marcas grandes con otro presupuesto.",
+        "No medir de dónde llegan los clientes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el marketing digital en pocas palabras?",
+      "respuesta": "Es dar a conocer tu negocio por internet. Abarca tu página y tu ficha de Google. También tus redes y tus anuncios."
+    },
+    {
+      "pregunta": "¿Puedo hacer marketing digital gratis?",
+      "respuesta": "Sí, en buena parte. Tu ficha de Google, tus redes y WhatsApp Business no cuestan. La página web y los anuncios sí."
+    },
+    {
+      "pregunta": "¿Qué canal conviene más a un negocio local?",
+      "respuesta": "La ficha de Google y una página con WhatsApp. Son los primeros lugares donde te busca un cliente cercano."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en dar resultados?",
+      "respuesta": "Depende del canal. Los anuncios son inmediatos y el SEO tarda meses."
+    },
+    {
+      "pregunta": "¿Necesito página web si ya tengo Facebook?",
+      "respuesta": "Sí, conviene. Tu página es tuya y aparece en Google. Tu red social depende de las reglas de otra empresa."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre marketing digital y publicidad digital?",
+      "respuesta": "La publicidad es una parte del marketing. Es la parte que pagas para aparecer en anuncios."
+    }
+  ],
+  "relacionadas": [
+    "agencia-de-marketing-digital",
+    "seo",
+    "marketing-en-redes-sociales",
+    "publicidad-en-google",
+    "google-mi-negocio",
+    "campana-publicitaria"
+  ],
+  "venta": {
+    "puente": "Todo tu marketing necesita un lugar a dónde mandar a la gente. Aliviane te hace esa página con tu dominio y tu WhatsApp.",
+    "titulo": "¿Hacemos la página a donde llega tu marketing?",
+    "tituloCorto": "¿A dónde mandas a quien te encuentra?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "INEGI, ENDUTIH 2024, comunicado del 6 de mayo de 2025",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/endutih/ENDUTIH_24_RR.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.salesforce.com/mx/blog/marketing-digital/",
+      "titulo": "Marketing digital: qué es y cómo funciona",
+      "promete": "Definición amplia pensada para empresas grandes; sin plan para un negocio pequeño ni datos de México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://mailchimp.com/es/marketing-glossary/digital-marketing/",
+      "titulo": "Marketing digital: qué es y cómo funciona",
+      "promete": "Glosario con tipos de marketing; vende su correo masivo y no aterriza costos ni canales para México"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tiendanube.com/blog/guia-marketing-digital/",
+      "titulo": "Marketing digital: lo que debes saber para aplicarlo con éxito",
+      "promete": "Lista larga de tipos; enfocada en tienda en línea, sin orden de prioridad para un local"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Cifras de ENDUTIH 2024 leídas en el boletín del INEGI (6-may-2025) el 12-nov-2026. Top 3 leído con WebSearch el 12-nov-2026 (salen varias en portugués; tomé las de español)."
+}

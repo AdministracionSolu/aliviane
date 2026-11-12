@@ -1,0 +1,489 @@
+{
+  "id": "formato-de-factura",
+  "slug": "formato-de-factura",
+  "molde": "guia",
+  "cabeza": "plantilla factura",
+  "busquedas": [
+    "factura ejemplos",
+    "plantilla de factura",
+    "plantilla factura word",
+    "plantilla factura excel",
+    "facturas plantilla excel",
+    "factura en word plantilla",
+    "template factura excel",
+    "formato de factura",
+    "formato factura",
+    "formato de factura en excel",
+    "formato de factura de venta",
+    "modelos factura",
+    "modelo de facturacion",
+    "facturas para llenar",
+    "generar factura",
+    "hacer facturas gratis"
+  ],
+  "title": "Plantilla factura en México: por qué sólo vale el CFDI",
+  "h1": "Plantilla de factura en México: qué vale ante el SAT y qué no",
+  "description": "En México una plantilla de factura en Word o Excel no vale ante el SAT, sólo el CFDI timbrado. Te decimos cómo emitirlo gratis y qué usar mientras. Revísalo.",
+  "resumen": "Por qué sólo vale el CFDI, cómo emitirlo gratis y qué usar cuando no facturas",
+  "categoria": "Formatos y documentos",
+  "revisada": "2026-11",
+  "respuesta": [
+    "En México sólo vale como factura el CFDI, un archivo XML timbrado por el SAT o por un proveedor autorizado. Una plantilla en Word, Excel o PDF no es factura aunque tenga los mismos datos.",
+    "Puedes emitir tu CFDI gratis en el portal del SAT con tu RFC y tu contraseña o e.firma. Para ventas donde no facturas, abajo puedes hacer una nota de venta que no sustituye a la factura."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "nota-venta"
+  },
+  "cuerpo": [
+    {
+      "h2": "Por qué una plantilla no es factura"
+    },
+    {
+      "p": "La factura en México es electrónica desde hace años. Su nombre oficial es Comprobante Fiscal Digital por Internet, o CFDI."
+    },
+    {
+      "p": "Un CFDI no es un dibujo con datos. Es un archivo XML con una estructura fija que el SAT revisa y certifica."
+    },
+    {
+      "p": "El paso que lo vuelve válido se llama timbrado. Lo hace el SAT o un proveedor autorizado de certificación, conocido como PAC."
+    },
+    {
+      "p": "Una plantilla de factura en Word o Excel no pasa por ese paso. Por eso no sirve para deducir gastos ni para acreditar impuestos."
+    },
+    {
+      "p": "Entregar un documento que aparenta ser factura sin serlo puede meter en problemas al que lo emite y al que lo recibe."
+    },
+    {
+      "h2": "Qué es el CFDI"
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un CFDI",
+        "columnas": [
+          "Parte",
+          "Qué es"
+        ],
+        "filas": [
+          [
+            "XML",
+            "El archivo que es la factura de verdad"
+          ],
+          [
+            "Representación impresa",
+            "El PDF que se ve bonito, pero sólo es una copia para leer"
+          ],
+          [
+            "Folio fiscal",
+            "Un código único que asigna el timbrado"
+          ],
+          [
+            "Sello digital",
+            "La firma electrónica del emisor y del SAT"
+          ],
+          [
+            "Cadena original",
+            "El resumen de los datos que se firmó"
+          ],
+          [
+            "Código QR",
+            "Sirve para verificar la factura en el portal del SAT"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo que guardas para efectos fiscales es el XML. El PDF ayuda a leerlo, pero no lo sustituye."
+    },
+    {
+      "p": "Si recibes un XML y quieres verlo legible, usa nuestro visor de [XML de factura](id:xml-de-factura)."
+    },
+    {
+      "h2": "Qué datos lleva una factura CFDI 4.0"
+    },
+    {
+      "p": "La versión vigente es la 4.0. Pide más datos del cliente que versiones anteriores."
+    },
+    {
+      "tabla": {
+        "titulo": "Datos que pide el CFDI 4.0",
+        "columnas": [
+          "Dato",
+          "De quién",
+          "Comentario"
+        ],
+        "filas": [
+          [
+            "RFC",
+            "Emisor y receptor",
+            "Debe coincidir con la constancia fiscal"
+          ],
+          [
+            "Nombre o razón social",
+            "Emisor y receptor",
+            "Tal como aparece en el SAT, sin régimen de capital"
+          ],
+          [
+            "Régimen fiscal",
+            "Emisor y receptor",
+            "El que tiene registrado cada uno"
+          ],
+          [
+            "Código postal fiscal",
+            "Receptor",
+            "El de su domicilio fiscal"
+          ],
+          [
+            "Uso del CFDI",
+            "Receptor",
+            "Para qué va a usar la factura"
+          ],
+          [
+            "Forma y método de pago",
+            "Operación",
+            "Cómo y cuándo se paga"
+          ],
+          [
+            "Conceptos",
+            "Operación",
+            "Qué vendes, cantidad, precio y clave del producto"
+          ],
+          [
+            "Impuestos",
+            "Operación",
+            "IVA y retenciones que apliquen"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pide a tu cliente su constancia de situación fiscal. Ahí vienen su nombre exacto, su régimen y su código postal."
+    },
+    {
+      "h2": "Cómo hacer una factura gratis en el SAT"
+    },
+    {
+      "p": "El SAT ofrece un servicio gratuito para emitir CFDI 4.0 a personas físicas y morales. Se entra desde su portal."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Ten tu RFC y tu acceso",
+          "texto": "Necesitas tu contraseña del SAT o tu e.firma vigente."
+        },
+        {
+          "titulo": "Entra al portal del SAT",
+          "texto": "Busca la sección de factura electrónica y elige el servicio de facturación CFDI versión 4.0."
+        },
+        {
+          "titulo": "Revisa tus datos de emisor",
+          "texto": "Confirma tu régimen fiscal y tu código postal."
+        },
+        {
+          "titulo": "Captura los datos del cliente",
+          "texto": "Escribe su RFC y su nombre. Agrega régimen, código postal y uso del CFDI."
+        },
+        {
+          "titulo": "Agrega los conceptos",
+          "texto": "Describe lo que vendiste con su clave, cantidad, precio e impuestos."
+        },
+        {
+          "titulo": "Sella y timbra",
+          "texto": "Firma la factura. El SAT la timbra y le asigna folio fiscal."
+        },
+        {
+          "titulo": "Descarga y envía",
+          "texto": "Baja el XML y el PDF y mándalos a tu cliente."
+        }
+      ]
+    },
+    {
+      "p": "El servicio gratuito es práctico para pocos comprobantes al mes. Si facturas mucho, un sistema de pago con un PAC ahorra tiempo."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Glosario fiscal básico"
+    },
+    {
+      "p": "Estas palabras aparecen al facturar. Entenderlas evita errores al llenar el CFDI."
+    },
+    {
+      "tabla": {
+        "titulo": "Términos de facturación",
+        "columnas": [
+          "Término",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "RFC",
+            "Tu clave en el Registro Federal de Contribuyentes"
+          ],
+          [
+            "e.firma",
+            "Tu firma electrónica avanzada, con archivos y contraseña"
+          ],
+          [
+            "Certificado de sello digital",
+            "El certificado con el que firmas tus facturas"
+          ],
+          [
+            "PAC",
+            "Proveedor autorizado que timbra facturas a nombre del SAT"
+          ],
+          [
+            "Régimen fiscal",
+            "La forma en que tributas ante el SAT"
+          ],
+          [
+            "Uso del CFDI",
+            "Para qué usará la factura quien la recibe"
+          ],
+          [
+            "PUE",
+            "Pago en una sola exhibición, cuando ya te pagaron"
+          ],
+          [
+            "PPD",
+            "Pago en parcialidades o diferido, cuando te pagan después"
+          ],
+          [
+            "Complemento de pago",
+            "El CFDI que se emite al recibir un pago de una factura PPD"
+          ],
+          [
+            "Factura global",
+            "El CFDI que agrupa ventas a público en general"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Pago en una exhibición o en parcialidades"
+    },
+    {
+      "p": "La factura dice si ya te pagaron o si te van a pagar después. Ese dato cambia lo que tienes que hacer."
+    },
+    {
+      "p": "Si te pagaron completo al momento, la factura va como pago en una sola exhibición. Ahí termina el trámite."
+    },
+    {
+      "p": "Si te van a pagar después o en partes, la factura va como pago en parcialidades o diferido. Cada vez que recibas dinero, emites un complemento de pago."
+    },
+    {
+      "p": "Muchos negocios olvidan los complementos de pago. Tu contador te dice los plazos que aplican en tu caso."
+    },
+    {
+      "h2": "Cancelar una factura"
+    },
+    {
+      "p": "Una factura con errores no se corrige, se cancela y se emite otra. La cancelación también se hace en el portal del SAT o en tu sistema."
+    },
+    {
+      "p": "Para cancelar hay que indicar un motivo. En algunos casos el cliente debe aceptar la cancelación."
+    },
+    {
+      "ul": [
+        "Revisa los datos antes de timbrar para no cancelar seguido.",
+        "Si cancelas para corregir, relaciona la factura nueva con la cancelada.",
+        "Avisa a tu cliente para que no use la factura vieja."
+      ]
+    },
+    {
+      "h2": "Cómo pedir los datos a tu cliente"
+    },
+    {
+      "p": "Pedir los datos bien desde el inicio ahorra cancelaciones. Un mensaje claro por WhatsApp basta."
+    },
+    {
+      "p": "Pide que te mande su constancia de situación fiscal en PDF y el uso que dará a la factura. Con eso tienes todo lo que pide la versión 4.0."
+    },
+    {
+      "p": "Si vendes en mostrador, pon un aviso que diga hasta cuándo puedes facturar una compra. Así evitas que te pidan facturas de meses atrás."
+    },
+    {
+      "h2": "Factura, nota de venta, recibo y cotización"
+    },
+    {
+      "p": "Cada documento sirve para algo distinto. Confundirlos causa problemas con clientes y con el SAT."
+    },
+    {
+      "tabla": {
+        "titulo": "Diferencias entre documentos de venta",
+        "columnas": [
+          "Documento",
+          "¿Vale ante el SAT?",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Factura CFDI",
+            "Sí",
+            "Comprobar ingresos y que el cliente deduzca"
+          ],
+          [
+            "Nota de venta",
+            "No es comprobante fiscal",
+            "Dar constancia de una venta a quien no pide factura"
+          ],
+          [
+            "Recibo",
+            "No es comprobante fiscal",
+            "Dar constancia de un pago recibido"
+          ],
+          [
+            "Nota de remisión",
+            "No es comprobante fiscal",
+            "Acompañar la entrega de mercancía"
+          ],
+          [
+            "Cotización",
+            "No",
+            "Proponer un precio antes de vender"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La nota de venta, el recibo y la remisión ayudan a llevar orden. Las ventas que amparan igual deben declararse."
+    },
+    {
+      "p": "Si no facturas una venta al público en general, tu contador puede incluirla en una factura global. Pregúntale cómo aplica en tu régimen."
+    },
+    {
+      "h2": "La nota de venta de esta página"
+    },
+    {
+      "p": "La herramienta de arriba hace una nota de venta con tu logo, folio, conceptos e importes. La bajas en PDF sin pedir correo."
+    },
+    {
+      "p": "Sirve para dar constancia a un cliente que no pidió factura. No lleva sello del SAT ni folio fiscal, así que no sustituye a un CFDI."
+    },
+    {
+      "p": "Si tu cliente pide factura, emítela en el SAT o con tu sistema de facturación. La nota de venta no la reemplaza."
+    },
+    {
+      "p": "Para propuestas antes de vender usa nuestro [formato de cotización](id:formato-de-cotizacion). Para pagos usa el [recibo de pago](id:recibo-de-pago)."
+    },
+    {
+      "h2": "Cómo revisar si una factura que recibiste es válida"
+    },
+    {
+      "p": "Si alguien te manda una factura, revísala antes de pagar o deducir. Es rápido."
+    },
+    {
+      "ol": [
+        "Pide siempre el XML, no sólo el PDF.",
+        "Entra al servicio de verificación de facturas del SAT.",
+        "Captura el folio fiscal, el RFC del emisor y el del receptor.",
+        "Confirma que aparezca como vigente.",
+        "Revisa que los datos de tu empresa estén correctos."
+      ]
+    },
+    {
+      "p": "Si la factura aparece cancelada o no existe, pide al emisor que la corrija. No la uses para deducir."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Mandar un PDF hecho en Word como si fuera factura.",
+        "Emitir la factura con el nombre del cliente mal escrito.",
+        "Usar un código postal que no es el fiscal del cliente.",
+        "Perder el XML y guardar sólo el PDF.",
+        "Confundir nota de venta con factura.",
+        "No pedir la constancia de situación fiscal al cliente."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Una plantilla de factura en Excel es válida?",
+      "respuesta": "No. En México sólo vale el CFDI timbrado. Un Excel o un Word no es factura."
+    },
+    {
+      "pregunta": "¿Puedo hacer facturas gratis?",
+      "respuesta": "Sí. El SAT tiene un servicio gratuito para emitir CFDI 4.0 con tu contraseña o e.firma."
+    },
+    {
+      "pregunta": "¿Qué es el timbrado de una factura?",
+      "respuesta": "Es la certificación que hace el SAT o un PAC. Le da folio fiscal y la vuelve válida."
+    },
+    {
+      "pregunta": "¿La nota de venta sustituye a la factura?",
+      "respuesta": "No. Sirve como constancia para el cliente, pero no es comprobante fiscal."
+    },
+    {
+      "pregunta": "¿Qué archivo de la factura debo guardar?",
+      "respuesta": "El XML. El PDF es sólo una copia para leer."
+    },
+    {
+      "pregunta": "¿Qué necesito para facturar por primera vez?",
+      "respuesta": "Tres cosas. Tu RFC, tu contraseña o e.firma y un régimen fiscal que te permita facturar."
+    },
+    {
+      "pregunta": "¿Puedo corregir una factura que ya timbré?",
+      "respuesta": "No. Se cancela con su motivo y se emite una nueva con los datos correctos. Relaciona la nueva con la cancelada."
+    },
+    {
+      "pregunta": "¿Qué es la constancia de situación fiscal?",
+      "respuesta": "Un documento del SAT. Trae nombre, RFC, régimen y domicilio fiscal de cada contribuyente. Con ella tu cliente te da sus datos exactos."
+    },
+    {
+      "pregunta": "¿Cómo verifico una factura que me mandaron?",
+      "respuesta": "En el servicio de verificación del SAT. Capturas el folio fiscal y los RFC y te dice si está vigente."
+    }
+  ],
+  "relacionadas": [
+    "nota-de-venta",
+    "xml-de-factura",
+    "formato-de-cotizacion",
+    "recibo-de-pago",
+    "nota-de-remision",
+    "generador-de-codigo-de-barras"
+  ],
+  "venta": {
+    "puente": "Un negocio que factura en regla también necesita verse en regla en internet. Aliviane te hace la página con tu dominio.",
+    "aviso": "Tu nota de venta ya está lista. Si quieres que tus clientes te encuentren en Google, Aliviane te hace tu página.",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "tituloCorto": "¿Tu negocio ya tiene página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "SAT, servicio de facturación CFDI versión 4.0",
+      "url": "https://wwwmat.sat.gob.mx/aplicacion/75169/servicio-de-facturacion-cfdi-version-4.0-%28vigente-a-partir-del-1-de-enero-de-2022%29"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.docusign.com/es-mx/plantillas/factura",
+      "titulo": "Plantilla de factura",
+      "promete": "Plantilla descargable con campos del CFDI; no aclara que sin timbre no vale ante el SAT"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.getharvest.com/es/invoices/invoice-template-for-mexico",
+      "titulo": "Plantilla de factura para México",
+      "promete": "Explica folio fiscal y sello pero ofrece un formato para llenar que parece factura"
+    },
+    {
+      "posicion": 3,
+      "url": "https://everhour.com/es/invoices/plantilla-de-factura-para-mexico",
+      "titulo": "Plantilla de factura para México",
+      "promete": "Plantilla con aviso de que no sustituye al registro certificado; sin pasos para emitir el CFDI gratis"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. La guía explica que sólo vale el CFDI y NO ofrece un formato que parezca factura. Monta el motor documento en modo nota-venta (comprobante simple que no sustituye al CFDI), como pide la lista. Servicio gratuito del SAT leído en su ficha el 12-nov-2026. Top 3 leído con WebSearch el 12-nov-2026."
+}

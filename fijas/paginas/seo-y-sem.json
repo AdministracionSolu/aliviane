@@ -1,0 +1,487 @@
+{
+  "id": "seo-y-sem",
+  "slug": "seo-y-sem",
+  "molde": "guia",
+  "cabeza": "seo sem",
+  "busquedas": [
+    "seo y sem",
+    "sem y seo",
+    "seo y sem marketing",
+    "seo sem que es"
+  ],
+  "title": "SEO SEM: diferencias y cuál conviene a tu negocio",
+  "h1": "SEO y SEM: qué es cada uno y cuál le conviene a tu negocio",
+  "description": "El SEO trae visitas de Google sin pagar cada clic y el SEM las compra con anuncios. Te comparamos costo, tiempo y riesgo para que elijas. Decide con datos.",
+  "resumen": "Las diferencias entre SEO y SEM en costo, tiempo y control, y cuándo usar cada uno",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El SEO es lo que haces para aparecer en los resultados normales de Google sin pagar por cada clic. El SEM es pagar anuncios para aparecer arriba de esos resultados.",
+    "El SEO tarda meses pero sus resultados duran. El SEM da visitas desde el primer día pero se detiene cuando dejas de pagar.",
+    "A la mayoría de los negocios pequeños les conviene empezar con buen SEO local y usar anuncios en momentos puntuales."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el SEO"
+    },
+    {
+      "p": "SEO viene de search engine optimization. En español es posicionamiento orgánico o posicionamiento web."
+    },
+    {
+      "p": "Son todas las mejoras que haces a tu página y a tu presencia en internet. El fin es que Google la considere útil y la muestre a quien busca."
+    },
+    {
+      "p": "No pagas a Google por aparecer ni por cada visita. Inviertes tiempo o pagas a quien lo haga por ti."
+    },
+    {
+      "p": "Si quieres el detalle, lee nuestra guía de [SEO](id:seo)."
+    },
+    {
+      "h2": "Qué es el SEM"
+    },
+    {
+      "p": "SEM viene de search engine marketing. En sentido amplio incluye todo el marketing en buscadores."
+    },
+    {
+      "p": "En la práctica, casi todos usan SEM para hablar de anuncios pagados en buscadores. En Google se hacen con Google Ads."
+    },
+    {
+      "p": "Los anuncios aparecen arriba o abajo de los resultados normales con la marca de patrocinado. Pagas cada vez que alguien da clic."
+    },
+    {
+      "p": "El precio de cada clic se define en una subasta. Cambia según tu giro, tu ciudad y cuántos anunciantes compiten contigo."
+    },
+    {
+      "h2": "Diferencias entre SEO y SEM"
+    },
+    {
+      "tabla": {
+        "titulo": "SEO frente a SEM",
+        "columnas": [
+          "Punto",
+          "SEO",
+          "SEM"
+        ],
+        "filas": [
+          [
+            "Cómo apareces",
+            "En los resultados orgánicos",
+            "En anuncios marcados como patrocinados"
+          ],
+          [
+            "Costo",
+            "Tiempo o pago a especialista, no pagas cada clic",
+            "Pagas cada clic a Google"
+          ],
+          [
+            "Tiempo para ver resultados",
+            "Semanas o meses",
+            "Desde el primer día"
+          ],
+          [
+            "Qué pasa si dejas de invertir",
+            "Bajas poco a poco",
+            "Desapareces en ese momento"
+          ],
+          [
+            "Control",
+            "Google decide tu posición",
+            "Tú eliges palabras, zona y horario"
+          ],
+          [
+            "Confianza del usuario",
+            "Alta, no se ve como anuncio",
+            "Menor, la gente sabe que es anuncio"
+          ],
+          [
+            "Medición",
+            "Search Console y visitas",
+            "Panel de anuncios con costo por resultado"
+          ],
+          [
+            "Ideal para",
+            "Presencia estable de largo plazo",
+            "Promociones, temporadas y pruebas rápidas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "En qué se parecen"
+    },
+    {
+      "p": "Los dos buscan lo mismo. Que alguien que busca lo que vendes llegue a tu página."
+    },
+    {
+      "p": "Los dos dependen de elegir bien las palabras que usa tu cliente. Lee nuestra guía de [palabras clave](id:palabras-clave) para encontrarlas."
+    },
+    {
+      "p": "Y los dos necesitan una buena página de destino. Si la página no convence, ni el SEO ni el anuncio traen clientes."
+    },
+    {
+      "h2": "Cuándo conviene SEO"
+    },
+    {
+      "ul": [
+        "Cuando tu negocio va a estar muchos años en el mismo lugar.",
+        "Cuando tu presupuesto mensual es chico.",
+        "Cuando la gente busca tu servicio todo el año.",
+        "Cuando quieres que te encuentren por tu nombre y tu zona.",
+        "Cuando puedes esperar unos meses para ver resultados."
+      ]
+    },
+    {
+      "h2": "Cuándo conviene SEM"
+    },
+    {
+      "ul": [
+        "Cuando abres un negocio y necesitas clientes ya.",
+        "Cuando tienes una promoción con fecha de fin.",
+        "Cuando vendes algo de temporada como útiles o disfraces.",
+        "Cuando quieres probar si una palabra trae clientes antes de trabajarla con SEO.",
+        "Cuando tu competencia ocupa los primeros lugares orgánicos y tardarías mucho en alcanzarla."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo combinarlos"
+    },
+    {
+      "p": "No tienes que elegir uno para siempre. Muchos negocios usan los dos según el momento."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Arma tu base",
+          "texto": "Ten una página propia con tu dominio y una ficha de Google completa. Sin esto ninguno de los dos funciona bien."
+        },
+        {
+          "titulo": "Empieza el SEO desde el primer día",
+          "texto": "Escribe tus servicios con las palabras del cliente y pide reseñas. Esto trabaja mientras haces lo demás."
+        },
+        {
+          "titulo": "Prueba anuncios con poco",
+          "texto": "Pon un presupuesto chico por dos o tres semanas. Mide cuántos mensajes o llamadas llegan."
+        },
+        {
+          "titulo": "Quédate con lo que funciona",
+          "texto": "Si una palabra trae clientes por anuncios, escribe una página para ganarla también en orgánico."
+        },
+        {
+          "titulo": "Baja el gasto conforme sube el SEO",
+          "texto": "Cuando ya apareces bien sin pagar, usa anuncios sólo para temporadas."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplo con un negocio de barrio"
+    },
+    {
+      "p": "Imagina una escuela de natación en Hermosillo que abre en enero. Necesita alumnos rápido y tiene poco presupuesto."
+    },
+    {
+      "p": "En enero pone anuncios para clases de natación en Hermosillo, sólo en su zona y sólo en horario de oficina. Así llena los primeros grupos."
+    },
+    {
+      "p": "Al mismo tiempo arma su página con horarios, precios, fotos de la alberca y preguntas frecuentes. Completa su ficha de Google y pide reseñas a los papás."
+    },
+    {
+      "p": "Para junio ya aparece en el mapa cuando alguien busca natación cerca. Baja el anuncio y lo vuelve a subir en la temporada de verano."
+    },
+    {
+      "h2": "Qué tipo de negocio suele elegir cada uno"
+    },
+    {
+      "tabla": {
+        "titulo": "Orientación por giro",
+        "columnas": [
+          "Giro",
+          "Qué suele funcionar primero",
+          "Por qué"
+        ],
+        "filas": [
+          [
+            "Plomero o cerrajero",
+            "Anuncios en su zona",
+            "La gente busca con urgencia y llama al primero"
+          ],
+          [
+            "Consultorio",
+            "SEO local y reseñas",
+            "Los pacientes comparan y leen opiniones"
+          ],
+          [
+            "Restaurante",
+            "Ficha de Google y redes",
+            "Se decide en el momento y por fotos"
+          ],
+          [
+            "Escuela o academia",
+            "Anuncios en temporada de inscripción",
+            "La demanda sube en fechas fijas"
+          ],
+          [
+            "Despacho contable",
+            "SEO con artículos útiles",
+            "Los clientes investigan antes de contratar"
+          ],
+          [
+            "Tienda en línea",
+            "Los dos al mismo tiempo",
+            "Compite con marcas grandes en anuncios y en orgánico"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Son puntos de partida, no reglas. Mide tus propios resultados y ajusta."
+    },
+    {
+      "h2": "Glosario de SEO y SEM"
+    },
+    {
+      "p": "Estas palabras aparecen en cualquier reporte o propuesta. Conviene conocerlas antes de contratar o de abrir una cuenta de anuncios."
+    },
+    {
+      "tabla": {
+        "titulo": "Términos básicos",
+        "columnas": [
+          "Término",
+          "De qué lado",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "Impresión",
+            "Los dos",
+            "Cada vez que tu página o anuncio aparece en una búsqueda"
+          ],
+          [
+            "Clic",
+            "Los dos",
+            "Cada vez que alguien entra desde Google"
+          ],
+          [
+            "CTR",
+            "Los dos",
+            "Porcentaje de impresiones que se volvieron clic"
+          ],
+          [
+            "Palabra clave",
+            "Los dos",
+            "La búsqueda por la que quieres aparecer"
+          ],
+          [
+            "Posición media",
+            "SEO",
+            "El lugar promedio en que apareces en los resultados"
+          ],
+          [
+            "Indexación",
+            "SEO",
+            "Cuando Google guarda tu página para poder mostrarla"
+          ],
+          [
+            "Enlace entrante",
+            "SEO",
+            "Una liga desde otra página hacia la tuya"
+          ],
+          [
+            "CPC",
+            "SEM",
+            "Lo que pagas por cada clic en tu anuncio"
+          ],
+          [
+            "Subasta",
+            "SEM",
+            "El sistema que decide qué anuncio sale y cuánto cuesta"
+          ],
+          [
+            "Palabra negativa",
+            "SEM",
+            "Una búsqueda por la que no quieres que salga tu anuncio"
+          ],
+          [
+            "Conversión",
+            "Los dos",
+            "Cuando la visita hace lo que buscabas, como escribirte"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo cuidar tu presupuesto de anuncios"
+    },
+    {
+      "p": "El dinero en anuncios se va rápido si la campaña está mal armada. Estas reglas evitan los gastos más comunes."
+    },
+    {
+      "ol": [
+        "Limita la zona a donde de verdad atiendes.",
+        "Pon horario para que los anuncios salgan cuando puedes contestar.",
+        "Agrega palabras negativas como gratis, empleo o curso si no aplican a ti.",
+        "Manda el anuncio a una página específica y no a tu portada general.",
+        "Fija un límite diario que puedas pagar todo el mes.",
+        "Revisa cada semana qué búsquedas activaron tu anuncio."
+      ]
+    },
+    {
+      "p": "La revisión semanal es la que más ahorra. Ahí descubres búsquedas que no tienen nada que ver con tu negocio."
+    },
+    {
+      "h2": "SEO, SEM y la inteligencia artificial"
+    },
+    {
+      "p": "Los buscadores ya muestran respuestas armadas con inteligencia artificial arriba de los resultados. Eso cambia cuánto espacio queda para los demás."
+    },
+    {
+      "p": "Para el SEO, lo que ayuda es tener páginas claras con datos concretos que se puedan citar. Precios, horarios, zonas y respuestas directas."
+    },
+    {
+      "p": "Para el SEM, los anuncios siguen apareciendo en sus espacios. La competencia por esos lugares puede subir el precio de cada clic."
+    },
+    {
+      "p": "En los dos casos, tu página propia sigue siendo el destino. Ahí es donde la visita se convierte en cliente."
+    },
+    {
+      "h2": "Cómo medir cada uno"
+    },
+    {
+      "tabla": {
+        "titulo": "Qué medir en SEO y en SEM",
+        "columnas": [
+          "Medida",
+          "En SEO",
+          "En SEM"
+        ],
+        "filas": [
+          [
+            "Apariciones",
+            "Impresiones en Search Console",
+            "Impresiones del anuncio"
+          ],
+          [
+            "Visitas",
+            "Clics desde resultados orgánicos",
+            "Clics en el anuncio"
+          ],
+          [
+            "Costo",
+            "Horas o pago mensual al especialista",
+            "Costo por clic y gasto total"
+          ],
+          [
+            "Resultado",
+            "Mensajes, llamadas o ventas desde la página",
+            "Mensajes, llamadas o ventas desde el anuncio"
+          ],
+          [
+            "Lo más importante",
+            "Si las visitas se vuelven clientes",
+            "Cuánto te cuesta cada cliente"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El número que más importa en anuncios es cuánto te cuesta conseguir un cliente. Si ganas menos de lo que pagas por él, el anuncio pierde dinero."
+    },
+    {
+      "h2": "SEO y SEM en Google Maps"
+    },
+    {
+      "p": "En el mapa también hay resultados normales y anuncios. Los normales salen de tu ficha de Google y los anuncios se compran aparte."
+    },
+    {
+      "p": "Para un negocio local el mapa pesa mucho. Una ficha completa con buenas reseñas es SEO local y no cuesta."
+    },
+    {
+      "p": "Lee nuestra guía de [SEO local](id:seo-local) para trabajarlo paso a paso."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Pagar anuncios que llevan a una página lenta o confusa.",
+        "Anunciarse en todo el país cuando sólo atiendes una ciudad.",
+        "Dejar los anuncios activos de noche cuando nadie contesta.",
+        "Abandonar el SEO porque no dio resultados en un mes.",
+        "Contratar a quien promete el primer lugar orgánico en días.",
+        "No medir cuántos clientes llegan de cada canal."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es mejor, SEO o SEM?",
+      "respuesta": "Ninguno es mejor siempre. El SEO conviene a largo plazo y el SEM cuando necesitas visitas ya."
+    },
+    {
+      "pregunta": "¿El SEO es gratis?",
+      "respuesta": "En parte. No pagas cada clic, pero inviertes tiempo o pagas a un especialista."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta el SEM?",
+      "respuesta": "Depende de tu giro y tu ciudad. El precio de cada clic sale de una subasta y tú fijas el límite diario."
+    },
+    {
+      "pregunta": "¿Puedo hacer SEO y SEM al mismo tiempo?",
+      "respuesta": "Sí. Es lo más común. Los anuncios traen visitas mientras el SEO madura."
+    },
+    {
+      "pregunta": "¿Los anuncios ayudan a mi posición orgánica?",
+      "respuesta": "No. Google separa los anuncios de los resultados normales. Pagar no te sube en orgánico."
+    },
+    {
+      "pregunta": "¿Qué significa SEM?",
+      "respuesta": "Marketing en buscadores. En la práctica se usa para hablar de anuncios pagados en Google."
+    }
+  ],
+  "relacionadas": [
+    "seo",
+    "publicidad-en-google",
+    "palabras-clave",
+    "seo-local",
+    "agencia-seo",
+    "marketing-digital"
+  ],
+  "venta": {
+    "puente": "SEO y anuncios llegan al mismo lugar, tu página. Aliviane te la hace rápida en celular y con tu dominio.",
+    "titulo": "¿Hacemos la página que recibe tus visitas de Google?",
+    "tituloCorto": "¿A dónde llegan tus visitas?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://ahrefs.com/es/blog/seo-y-sem/",
+      "titulo": "SEO vs. SEM: cuál es la diferencia",
+      "promete": "Explica que SEM a veces incluye SEO; pensado para profesionales, sin decisión para un negocio local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://seranking.com/es/blog/diferencias-entre-seo-y-sem/",
+      "titulo": "Cuáles son las principales diferencias entre SEO y SEM",
+      "promete": "Tabla de diferencias general; no aterriza presupuesto ni orden de arranque para un negocio pequeño"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.godaddy.com/resources/latam/stories/descubre-detalle-las-caracteristicas-y-diferencias-entre-seo-y-sem",
+      "titulo": "SEO vs. SEM: diferencias y cuál conviene más a tu negocio",
+      "promete": "Comparación breve que lleva a sus servicios; sin ejemplos por giro ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Sin costos por clic (varían por giro y ciudad, no hay fuente fija). Nunca prometer posiciones. Top 3 leído con WebSearch el 12-nov-2026."
+}

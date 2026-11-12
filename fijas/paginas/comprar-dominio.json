@@ -1,0 +1,485 @@
+{
+  "id": "comprar-dominio",
+  "slug": "comprar-dominio",
+  "molde": "guia",
+  "cabeza": "comprar dominio",
+  "busquedas": [
+    "comprar un dominio",
+    "compre un dominio",
+    "comprar dominio google",
+    "comprar dominios con google",
+    "comprar un dominio con google",
+    "compra de dominio",
+    "compras de dominios",
+    "compra de un dominio",
+    "registrar dominio",
+    "registrar el dominio",
+    "dominio com",
+    "registro dominios com",
+    "dominio google",
+    "google dominios",
+    "comprar dominio web",
+    "comprar un dominio web",
+    "dominios baratos",
+    "cuanto cuesta un dominio web"
+  ],
+  "title": "Comprar dominio en México: precios .mx y 7 pasos",
+  "h1": "Cómo comprar un dominio en México y cuánto cuesta",
+  "description": "Comprar un dominio .mx cuesta desde unos cientos de pesos al año. Te damos precios de noviembre de 2026, los 7 pasos y qué revisar al renovar. Registra el tuyo.",
+  "resumen": "Precios de dominios .mx y .com.mx, pasos para registrarlo y qué revisar al renovar",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para comprar un dominio buscas si el nombre está libre en un registrador. Lo pagas por uno o varios años y lo registras a tu nombre. En noviembre de 2026 un .com.mx costaba $249 al año y un .mx $689 en Akky, con IVA incluido.",
+    "Revisa siempre el precio de renovación y que tú quedes como titular. El dominio se renta por periodos y se pierde si no lo renuevas."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué compras cuando compras un dominio"
+    },
+    {
+      "p": "Un dominio no se compra para siempre. Se renta por uno o varios años y tienes preferencia para renovarlo."
+    },
+    {
+      "p": "Mientras pagues, nadie más puede usar ese nombre. Si dejas de pagar, el nombre vuelve a quedar libre."
+    },
+    {
+      "p": "La empresa donde lo registras se llama registrador. Hay muchos registradores y todos venden el mismo nombre, sólo cambian precio y servicio."
+    },
+    {
+      "p": "Si todavía no tienes claro qué es, lee [qué es un dominio](id:que-es-un-dominio)."
+    },
+    {
+      "h2": "Cuánto cuesta un dominio en México"
+    },
+    {
+      "p": "El precio depende de la terminación y del registrador. Los dominios mexicanos se registran en Akky, el registrador del NIC México, y en otros registradores autorizados."
+    },
+    {
+      "tabla": {
+        "titulo": "Precios por un año en Akky, noviembre de 2026",
+        "columnas": [
+          "Terminación",
+          "Precio por un año",
+          "Notas"
+        ],
+        "filas": [
+          [
+            ".com.mx",
+            "$249",
+            "Con promoción de noviembre bajó a $187, sin aplicar a renovaciones"
+          ],
+          [
+            ".mx",
+            "$689",
+            "Precio regular"
+          ],
+          [
+            ".com",
+            "$347",
+            "Precio regular"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Precios con IVA incluido, consultados en akky.mx el 12 de noviembre de 2026. Los precios cambian, así que revísalos antes de pagar."
+    },
+    {
+      "p": "Otros registradores pueden cobrar más o menos. Muchos ofrecen un primer año barato y una renovación más cara."
+    },
+    {
+      "h2": "Cómo comprar un dominio en 7 pasos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el nombre",
+          "texto": "Usa el nombre de tu negocio, corto y fácil de dictar. Evita guiones, acentos y números."
+        },
+        {
+          "titulo": "Revisa que esté libre",
+          "texto": "Búscalo en un registrador o en nuestro [buscador de dominios](id:buscar-dominio)."
+        },
+        {
+          "titulo": "Elige la terminación",
+          "texto": "Para un negocio en México conviene .mx o .com.mx. Si vendes a otros países, considera .com."
+        },
+        {
+          "titulo": "Compara precio de registro y de renovación",
+          "texto": "Mira cuánto pagas el primer año y cuánto los siguientes."
+        },
+        {
+          "titulo": "Crea tu cuenta a tu nombre",
+          "texto": "Usa tu nombre o la razón social de tu negocio y un correo que revises."
+        },
+        {
+          "titulo": "Paga y confirma",
+          "texto": "Paga por uno o varios años. Revisa tu correo y confirma los datos que te pidan."
+        },
+        {
+          "titulo": "Activa la renovación automática",
+          "texto": "Así no lo pierdes por olvido. Revisa que la tarjeta esté vigente."
+        }
+      ]
+    },
+    {
+      "h2": "Qué revisar antes de pagar"
+    },
+    {
+      "tabla": {
+        "titulo": "Lista para comparar registradores",
+        "columnas": [
+          "Punto",
+          "Qué preguntar",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "Precio de renovación",
+            "¿Cuánto cuesta el segundo año?",
+            "El primer año suele ser promoción"
+          ],
+          [
+            "Años mínimos",
+            "¿Me obligan a pagar varios años?",
+            "Algunos piden compra de tres años"
+          ],
+          [
+            "Titular",
+            "¿Quedo yo como dueño?",
+            "Si no, el dominio no es tuyo"
+          ],
+          [
+            "Privacidad",
+            "¿Ocultan mis datos personales?",
+            "Evita correos no deseados"
+          ],
+          [
+            "Traslado",
+            "¿Me dan el código para irme?",
+            "Debes poder cambiar de registrador"
+          ],
+          [
+            "Administración de registros",
+            "¿Puedo apuntar el dominio a cualquier hosting?",
+            "Te deja elegir dónde vive tu página"
+          ],
+          [
+            "Moneda",
+            "¿Cobran en pesos o en dólares?",
+            "El tipo de cambio sube el precio"
+          ],
+          [
+            "Soporte",
+            "¿Contestan en español?",
+            "Lo vas a necesitar al conectar tu página"
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Comprar dominio con Google"
+    },
+    {
+      "p": "Mucha gente busca comprar dominios con Google. Google tenía un registrador llamado Google Domains."
+    },
+    {
+      "p": "En 2023 Google vendió ese negocio y los dominios pasaron a otra empresa. Hoy ya no puedes registrar dominios directamente con Google."
+    },
+    {
+      "p": "Lo que sí puedes hacer es usar tu dominio con servicios de Google. Por ejemplo, conectarlo a un sitio hecho en [Sitios de Google](id:sitios-de-google) o usarlo con su correo de empresa."
+    },
+    {
+      "h2": "Requisitos para registrar un dominio .mx"
+    },
+    {
+      "p": "Cualquier persona o empresa puede registrar un .mx o un .com.mx. Basta con tus datos de contacto y un medio de pago."
+    },
+    {
+      "p": "Algunas terminaciones sí piden requisitos. Un .gob.mx es sólo para gobierno y un .edu.mx para instituciones educativas."
+    },
+    {
+      "tabla": {
+        "titulo": "Requisitos por terminación mexicana",
+        "columnas": [
+          "Terminación",
+          "Quién puede registrar"
+        ],
+        "filas": [
+          [
+            ".mx",
+            "Cualquier persona o empresa"
+          ],
+          [
+            ".com.mx",
+            "Cualquier persona o empresa"
+          ],
+          [
+            ".edu.mx",
+            "Instituciones educativas que lo acrediten"
+          ],
+          [
+            ".gob.mx",
+            "Sólo dependencias de gobierno"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Dominio barato o dominio correcto"
+    },
+    {
+      "p": "Un dominio barato con un nombre difícil sale caro en la práctica. Vas a pasar años deletreándolo por teléfono."
+    },
+    {
+      "p": "Paga unos pesos más por el nombre correcto. Es la dirección que va a estar en tu letrero, tus tarjetas y tu vehículo."
+    },
+    {
+      "p": "Si el nombre que quieres en .mx está ocupado, prueba en .com.mx. Si los dos están ocupados, agrega tu ciudad o tu giro."
+    },
+    {
+      "ul": [
+        "tacoselguero.mx ocupado, prueba tacoselguero.com.mx.",
+        "Si también está ocupado, prueba tacoselgueroqro.mx.",
+        "Evita cambiar letras para que suene igual, confunde a los clientes."
+      ]
+    },
+    {
+      "h2": "Cuántos años conviene pagar"
+    },
+    {
+      "p": "Puedes pagar uno o varios años de una vez. Cada opción tiene su ventaja."
+    },
+    {
+      "tabla": {
+        "titulo": "Pagar uno o varios años",
+        "columnas": [
+          "Opción",
+          "Ventaja",
+          "Desventaja"
+        ],
+        "filas": [
+          [
+            "Un año",
+            "Pagas poco al inicio y pruebas el registrador",
+            "Tienes que acordarte de renovar cada año"
+          ],
+          [
+            "Dos o tres años",
+            "Te olvidas del pago por más tiempo",
+            "Pagas más de una sola vez"
+          ],
+          [
+            "Cinco años o más",
+            "Proteges un nombre que vas a usar siempre",
+            "Si cambias de nombre, pagaste de más"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu negocio ya tiene nombre definitivo, pagar varios años da tranquilidad. Si estás probando una idea, un año basta."
+    },
+    {
+      "h2": "Privacidad de tus datos"
+    },
+    {
+      "p": "Cada dominio tiene un registro público con datos de contacto. Sin protección, tus datos de contacto pueden quedar a la vista de cualquiera."
+    },
+    {
+      "p": "Muchos registradores ocultan esos datos sin costo o con un pequeño cargo. Pregunta antes de pagar."
+    },
+    {
+      "p": "Con los datos ocultos recibes menos correos de venta y llamadas de desconocidos. El dominio sigue siendo tuyo igual."
+    },
+    {
+      "h2": "Dominios premium y dominios revendidos"
+    },
+    {
+      "p": "Algunos nombres cortos o muy buscados se venden como premium. Su precio es mucho más alto que el normal."
+    },
+    {
+      "p": "También hay personas que compran dominios para revenderlos. Si el nombre que quieres está ocupado y nadie lo usa, puede estar a la venta."
+    },
+    {
+      "p": "Antes de pagar por un dominio revendido, piensa si vale la pena. Muchas veces una variante libre funciona igual para un negocio local."
+    },
+    {
+      "ul": [
+        "Revisa cuánto piden y compáralo con lo que te costaría reimprimir todo.",
+        "Usa un servicio de pago seguro que libere el dinero al recibir el dominio.",
+        "Confirma que el traslado quede a tu nombre antes de dar por cerrado el trato."
+      ]
+    },
+    {
+      "h2": "Cuánto cuesta en total tener página con tu dominio"
+    },
+    {
+      "p": "El dominio es sólo una parte del costo. Para tener página necesitas tres cosas."
+    },
+    {
+      "tabla": {
+        "titulo": "Piezas que pagas para tener página",
+        "columnas": [
+          "Pieza",
+          "Cómo se paga"
+        ],
+        "filas": [
+          [
+            "Dominio",
+            "Por año, según la terminación"
+          ],
+          [
+            "Hosting",
+            "Por mes o por año"
+          ],
+          [
+            "Diseño de la página",
+            "Una vez, o tu tiempo si la haces tú"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En Aliviane la landing cuesta $1,500 con el dominio incluido. Después pagas $99 al mes por mantenerla en línea y hacerle cambios."
+    },
+    {
+      "h2": "Qué hacer después de comprarlo"
+    },
+    {
+      "p": "Tener el dominio es el primer paso. Para que funcione falta conectarlo con una página y, si quieres, con un correo."
+    },
+    {
+      "ol": [
+        "Contrata hosting o un servicio que incluya tu página.",
+        "Apunta tu dominio al servidor de tu página desde la cuenta del registrador.",
+        "Confirma que la página abra con candado de seguridad.",
+        "Crea tus cuentas de correo con el dominio.",
+        "Pon el dominio en tu ficha de Google, tus redes y tus tarjetas."
+      ]
+    },
+    {
+      "p": "Lee [qué es hosting](id:que-es-hosting) para entender dónde vive tu página."
+    },
+    {
+      "h2": "Cómo cambiar tu dominio de registrador"
+    },
+    {
+      "p": "Si encuentras mejor precio o servicio, puedes llevar tu dominio a otro registrador. A eso se le llama traslado."
+    },
+    {
+      "p": "Necesitas que el dominio esté desbloqueado y pedir un código de autorización. El nuevo registrador te lo pide para hacer el cambio."
+    },
+    {
+      "p": "Tu página no se cae si los registros se copian bien. Revisa nuestra guía de [traslado de dominio](id:traslado-de-dominio)."
+    },
+    {
+      "h2": "Errores comunes al comprar un dominio"
+    },
+    {
+      "ul": [
+        "Dejar que la agencia lo registre a su nombre.",
+        "Comprar por el precio del primer año sin ver la renovación.",
+        "Elegir una terminación rara que la gente no reconoce.",
+        "No activar la renovación automática.",
+        "Usar un correo que ya no revisas como contacto.",
+        "Comprar el dominio y no conectarlo a ninguna página."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta un dominio .mx?",
+      "respuesta": "En Akky, $689 por un año en noviembre de 2026. Un .com.mx costaba $249, ambos con IVA."
+    },
+    {
+      "pregunta": "¿El dominio se paga una sola vez?",
+      "respuesta": "No. Se paga por año o por varios años y se renueva. Si no lo renuevas, lo pierdes."
+    },
+    {
+      "pregunta": "¿Puedo comprar un dominio con Google?",
+      "respuesta": "No. Google vendió su registrador en 2023. Hoy se compran con otros registradores."
+    },
+    {
+      "pregunta": "¿Necesito RFC para comprar un .mx?",
+      "respuesta": "No. Para un .mx o un .com.mx basta con tus datos de contacto. Algunas terminaciones especiales sí piden documentos."
+    },
+    {
+      "pregunta": "¿Puedo tener el dominio en una empresa y la página en otra?",
+      "respuesta": "Sí. Sólo apuntas el dominio al servidor donde está tu página."
+    },
+    {
+      "pregunta": "¿Qué pasa si el dominio que quiero ya está ocupado?",
+      "respuesta": "Prueba otra terminación o agrega tu ciudad o giro. También puedes revisar cuándo vence."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre .mx y .com.mx?",
+      "respuesta": "Ninguna en uso. Las dos son mexicanas y funcionan igual. El .mx es más corto y el .com.mx suele estar más libre y costar menos."
+    },
+    {
+      "pregunta": "¿Conviene registrar el .mx y el .com.mx?",
+      "respuesta": "Sí, si tu presupuesto lo permite. Así nadie usa una dirección casi igual a la tuya. Puedes mandar uno al otro."
+    },
+    {
+      "pregunta": "¿Puedo pagar el dominio en pesos?",
+      "respuesta": "Sí. Los registradores mexicanos cobran en pesos. Algunos extranjeros cobran en dólares y el precio cambia con el tipo de cambio."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en funcionar un dominio nuevo?",
+      "respuesta": "Unas horas. El registro es casi inmediato, pero conectarlo a tu página puede tardar hasta un día en verse en todos lados."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "buscar-dominio",
+    "que-es-hosting",
+    "dominio-y-hosting",
+    "traslado-de-dominio",
+    "certificado-ssl"
+  ],
+  "venta": {
+    "puente": "Si haces tu landing con Aliviane, el dominio ya va incluido en los $1,500 y queda a tu nombre.",
+    "titulo": "¿Hacemos tu página con el dominio incluido?",
+    "tituloCorto": "¿Mejor tu dominio con todo y página?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Akky, precios de dominios (consultado el 12 de noviembre de 2026)",
+      "url": "https://www.akky.mx/servicios/dominios"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.godaddy.com/resources/latam/crearweb/cuanto-cuesta-dominio-web-precios-extensiones",
+      "titulo": "Cuánto cuesta un dominio web",
+      "promete": "Rangos de precio de su propia tienda; no compara renovación ni explica a nombre de quién queda"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/es-es/tlds/dominios-com-mx",
+      "titulo": "Dominios .com.mx",
+      "promete": "Página de venta con precio en otra moneda y compra mínima de varios años; sin pasos ni consejos"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.hostinger.com/mx/tutoriales/como-comprar-un-dominio",
+      "titulo": "Cómo comprar un dominio: guía completa",
+      "promete": "Tutorial con su registrador; sin precios del registro oficial de .mx ni lista de qué revisar"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Precios leídos en akky.mx/servicios/dominios el 12-nov-2026 (incluyen IVA; .com.mx con 25% de descuento de noviembre que no aplica a renovaciones). No puse precios de otros registradores porque no los leí en su página hoy. Top 3 leído con WebSearch el 12-nov-2026."
+}

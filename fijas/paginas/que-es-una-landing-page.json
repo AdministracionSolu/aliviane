@@ -1,0 +1,495 @@
+{
+  "id": "que-es-una-landing-page",
+  "slug": "que-es-una-landing-page",
+  "molde": "guia",
+  "cabeza": "qué es una landing page",
+  "busquedas": [
+    "landing page que es",
+    "que es el landing page",
+    "que es la landing page",
+    "que es un landing page",
+    "que es una landingpage",
+    "qué es landing",
+    "landing que es",
+    "que es el landing",
+    "que es un landing",
+    "que es una landing",
+    "que significa landing page"
+  ],
+  "title": "Qué es una landing page y qué debe llevar la tuya",
+  "h1": "Qué es una landing page y para qué le sirve a tu negocio",
+  "description": "Una landing page es una página enfocada en una sola acción, como escribirte por WhatsApp. Te explicamos sus partes, tipos y ejemplos por giro. Revisa la tuya.",
+  "resumen": "Qué es una landing page, sus partes y en qué se distingue de un sitio web",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una landing page es una página web enfocada en que el visitante haga una sola cosa. En un negocio casi siempre es escribirte por WhatsApp, llamarte o pedir una cotización.",
+    "En español también se le llama página de aterrizaje o página de destino. A diferencia de un sitio completo, no tiene menú con muchas secciones ni caminos que distraigan."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es una landing page"
+    },
+    {
+      "p": "Landing significa aterrizaje en inglés. La idea es que la persona aterriza en tu página desde algún lugar y encuentra justo lo que buscaba."
+    },
+    {
+      "p": "Puede llegar desde Google, desde un anuncio, desde tu ficha de Maps o desde un código QR en un volante. Donde sea que venga, la página la lleva a una acción."
+    },
+    {
+      "p": "Por eso todo en una landing empuja hacia el mismo botón. El texto, las fotos y las preguntas existen para resolver dudas antes de ese clic."
+    },
+    {
+      "p": "Una landing no es una página pobre. Es una página con un solo trabajo y sin distracciones."
+    },
+    {
+      "h2": "Landing page y sitio web: diferencias"
+    },
+    {
+      "tabla": {
+        "titulo": "Landing page frente a sitio web completo",
+        "columnas": [
+          "Punto",
+          "Landing page",
+          "Sitio web completo"
+        ],
+        "filas": [
+          [
+            "Objetivo",
+            "Una acción principal",
+            "Varias acciones y mucha información"
+          ],
+          [
+            "Número de páginas",
+            "Una sola página larga",
+            "Varias páginas con menú"
+          ],
+          [
+            "Navegación",
+            "Mínima o ninguna",
+            "Menú con secciones"
+          ],
+          [
+            "Tiempo para hacerla",
+            "Días",
+            "Semanas"
+          ],
+          [
+            "Costo",
+            "Menor",
+            "Mayor"
+          ],
+          [
+            "Para quién conviene",
+            "Negocios que venden uno o pocos servicios",
+            "Negocios con catálogo grande o varias áreas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos negocios pequeños necesitan sólo una landing. Con una página clara y un botón de WhatsApp cubren lo que su cliente busca."
+    },
+    {
+      "p": "Cuando el negocio crece, la landing puede convertirse en la portada de un sitio más grande. No se pierde el trabajo."
+    },
+    {
+      "h2": "Las partes de una landing page"
+    },
+    {
+      "p": "Una buena landing sigue un orden que contesta las dudas del cliente una por una. Este es el orden que funciona en la mayoría de los negocios."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Encabezado claro",
+          "texto": "Dice qué ofreces y para quién en una frase. Por ejemplo, reparación de celulares en el día en Coyoacán."
+        },
+        {
+          "titulo": "Botón principal arriba",
+          "texto": "El botón de WhatsApp o de llamada se ve sin bajar. Quien ya decidió no tiene que buscarlo."
+        },
+        {
+          "titulo": "Fotos reales",
+          "texto": "Tu local, tu equipo y tu trabajo. Las fotos de banco se notan y restan confianza."
+        },
+        {
+          "titulo": "Lo que ofreces",
+          "texto": "Tus servicios o productos con precio o rango. La gente quiere saber si le alcanza."
+        },
+        {
+          "titulo": "Por qué tú",
+          "texto": "Lo que te distingue en pocas líneas. Años de experiencia, garantía o rapidez."
+        },
+        {
+          "titulo": "Pruebas",
+          "texto": "Reseñas de clientes, fotos de trabajos o marcas con las que trabajas."
+        },
+        {
+          "titulo": "Preguntas frecuentes",
+          "texto": "Horarios, zonas, formas de pago y tiempos de entrega."
+        },
+        {
+          "titulo": "Ubicación y contacto",
+          "texto": "Mapa, dirección y el botón principal otra vez al final."
+        }
+      ]
+    },
+    {
+      "h2": "Tipos de landing page"
+    },
+    {
+      "p": "No todas las landings buscan lo mismo. El tipo cambia según lo que quieres que haga la persona."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de landing page",
+        "columnas": [
+          "Tipo",
+          "Qué busca",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "De contacto",
+            "Que te escriban o te llamen",
+            "Un plomero con botón de WhatsApp"
+          ],
+          [
+            "De captura",
+            "Que dejen sus datos",
+            "Una escuela que pide nombre y teléfono para informes"
+          ],
+          [
+            "De venta",
+            "Que compren en la misma página",
+            "Un curso con botón de pago"
+          ],
+          [
+            "De evento",
+            "Que se registren o aparten lugar",
+            "Un taller o una feria"
+          ],
+          [
+            "De producto",
+            "Que conozcan un solo producto a fondo",
+            "Un platillo de temporada o un modelo nuevo"
+          ],
+          [
+            "De campaña",
+            "Que aprovechen una promoción con fecha",
+            "Descuento de regreso a clases"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio local, la landing de contacto es la más útil. Quita pasos y lleva directo a la conversación."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Ejemplos de landing page por giro"
+    },
+    {
+      "tabla": {
+        "titulo": "Qué debe llevar la landing según el giro",
+        "columnas": [
+          "Giro",
+          "Botón principal",
+          "Lo que no puede faltar"
+        ],
+        "filas": [
+          [
+            "Restaurante",
+            "Pedir por WhatsApp",
+            "Menú con precios y horario"
+          ],
+          [
+            "Consultorio",
+            "Agendar cita",
+            "Especialidad, cédula y ubicación"
+          ],
+          [
+            "Taller mecánico",
+            "Mandar foto del problema",
+            "Servicios, marcas que atiende y garantía"
+          ],
+          [
+            "Estética",
+            "Reservar",
+            "Fotos de trabajos y lista de precios"
+          ],
+          [
+            "Escuela o academia",
+            "Pedir informes",
+            "Horarios, costos y requisitos"
+          ],
+          [
+            "Inmobiliaria",
+            "Agendar visita",
+            "Fotos, precio y zona de cada propiedad"
+          ],
+          [
+            "Abogado o contador",
+            "Pedir asesoría",
+            "Áreas que atiende y cómo trabaja"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Puedes ver más modelos en nuestros [ejemplos de landing page](id:ejemplos-de-landing-page)."
+    },
+    {
+      "h2": "Cómo escribir el encabezado de tu landing"
+    },
+    {
+      "p": "El encabezado es lo primero que se lee y decide si la persona se queda. Tiene que decir qué haces, para quién y dónde."
+    },
+    {
+      "p": "Una fórmula sencilla funciona en casi cualquier giro. **Servicio + beneficio concreto + zona.**"
+    },
+    {
+      "tabla": {
+        "titulo": "Encabezados débiles y cómo mejorarlos",
+        "columnas": [
+          "Débil",
+          "Mejor"
+        ],
+        "filas": [
+          [
+            "Bienvenidos a nuestra página",
+            "Pasteles de encargo en Puebla con entrega el mismo día"
+          ],
+          [
+            "Calidad y servicio",
+            "Cambio de pantalla de celular en una hora en Coyoacán"
+          ],
+          [
+            "Tu mejor opción",
+            "Clases de inglés para adultos en Mérida con horario de noche"
+          ],
+          [
+            "Somos expertos",
+            "Contador para negocios pequeños en Toluca con cuota fija al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Debajo del encabezado va una línea que reafirma. Puede ser tu garantía, tus años de experiencia o tu horario."
+    },
+    {
+      "h2": "Qué preparar antes de hacer tu landing"
+    },
+    {
+      "p": "La página se arma rápido cuando el contenido está listo. Junta esto antes de empezar."
+    },
+    {
+      "ul": [
+        "Tu logo en buena calidad o el nombre como lo quieres escrito.",
+        "Entre seis y diez fotos reales de tu trabajo y tu local.",
+        "La lista de servicios o productos con precio o rango.",
+        "Tu número de WhatsApp y el mensaje con el que quieres que te escriban.",
+        "Tu dirección, horario y zonas que atiendes.",
+        "Tres a cinco preguntas que te hacen siempre, con su respuesta.",
+        "Dos o tres reseñas de clientes con su permiso."
+      ]
+    },
+    {
+      "p": "Si no tienes fotos, tómalas con tu celular de día y con luz natural. Una foto real gana a una foto perfecta de banco."
+    },
+    {
+      "h2": "La landing y tus otros canales"
+    },
+    {
+      "p": "La landing es el lugar a donde mandas a la gente desde todos tus canales. Por eso conviene poner su dirección en todos lados."
+    },
+    {
+      "tabla": {
+        "titulo": "Dónde poner el link de tu landing",
+        "columnas": [
+          "Canal",
+          "Dónde va"
+        ],
+        "filas": [
+          [
+            "Ficha de Google",
+            "En el campo de sitio web"
+          ],
+          [
+            "Instagram y Facebook",
+            "En la biografía y en el botón de contacto"
+          ],
+          [
+            "WhatsApp Business",
+            "En el perfil del negocio"
+          ],
+          [
+            "Volantes y tarjetas",
+            "Como dirección y como código QR"
+          ],
+          [
+            "Anuncios pagados",
+            "Como destino del anuncio"
+          ],
+          [
+            "Firma de correo",
+            "Debajo de tu nombre"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cuando todos los caminos llegan a la misma página, es más fácil medir qué canal trae clientes."
+    },
+    {
+      "h2": "Qué hace que una landing funcione"
+    },
+    {
+      "p": "Una landing bonita no siempre trae clientes. Lo que cuenta es que la persona entienda rápido y actúe."
+    },
+    {
+      "ul": [
+        "Carga en menos de tres segundos en un celular normal.",
+        "Se entiende qué vendes sin bajar.",
+        "Tiene un solo botón principal repetido en varios puntos.",
+        "Usa las palabras que usa tu cliente.",
+        "Muestra precios o rangos.",
+        "Tiene tu dominio propio y candado de seguridad.",
+        "Los datos coinciden con tu ficha de Google."
+      ]
+    },
+    {
+      "h2": "Cómo medir si tu landing funciona"
+    },
+    {
+      "p": "La medida principal es cuántas personas hacen la acción entre todas las que entran. A eso se le llama tasa de conversión."
+    },
+    {
+      "p": "Si entran cien personas y cinco te escriben, tu tasa es de cinco por ciento. Con ese número puedes comparar cambios."
+    },
+    {
+      "ol": [
+        "Anota cuántas visitas tuvo tu página en el mes.",
+        "Cuenta cuántos mensajes o llamadas llegaron desde ella.",
+        "Divide los mensajes entre las visitas.",
+        "Cambia una sola cosa, como el encabezado o la foto.",
+        "Mide otro mes y compara."
+      ]
+    },
+    {
+      "p": "Cambiar una cosa a la vez te dice qué funcionó. Si cambias todo junto, no sabrás qué ayudó."
+    },
+    {
+      "h2": "Cuánto cuesta una landing page"
+    },
+    {
+      "p": "El precio depende de quién la hace y qué incluye. Revisa siempre si incluye dominio, hosting y cambios."
+    },
+    {
+      "p": "Puedes armarla tú en un creador de páginas con plan mensual. También puedes pedirla hecha a una agencia o a un diseñador."
+    },
+    {
+      "p": "En Aliviane la landing cuesta $1,500 con tu dominio incluido. Después pagas $99 al mes por mantenerla en línea y hacerle cambios cada semana."
+    },
+    {
+      "h2": "Errores comunes en una landing page"
+    },
+    {
+      "ul": [
+        "Poner un menú con muchas secciones que distraen.",
+        "Tener tres botones distintos que piden cosas diferentes.",
+        "Esconder el precio para obligar a preguntar.",
+        "Usar fotos de banco que no son de tu negocio.",
+        "Escribir frases genéricas que cualquier negocio podría usar.",
+        "Olvidar cómo se ve en celular.",
+        "Mandar el botón a un formulario que nadie revisa."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una landing page en palabras sencillas?",
+      "respuesta": "Es una página con un solo objetivo. En un negocio, casi siempre es que te escriban o te llamen."
+    },
+    {
+      "pregunta": "¿Una landing page es lo mismo que una página web?",
+      "respuesta": "Es un tipo de página web. Se distingue porque tiene una sola acción principal y casi no tiene menú."
+    },
+    {
+      "pregunta": "¿Mi negocio necesita una landing o un sitio completo?",
+      "respuesta": "Para empezar, una landing basta en la mayoría de los casos. Si tienes catálogo grande, conviene un sitio."
+    },
+    {
+      "pregunta": "¿Una landing page sale en Google?",
+      "respuesta": "Sí. Si está bien escrita y tiene tu dominio, Google la puede mostrar como cualquier otra página."
+    },
+    {
+      "pregunta": "¿Cuánto tarda hacer una landing page?",
+      "respuesta": "Pocos días si tienes tus textos y fotos listos. Lo que más atrasa es juntar el contenido."
+    },
+    {
+      "pregunta": "¿Qué es la tasa de conversión?",
+      "respuesta": "Es el porcentaje de visitas que hacen la acción que buscas. Por ejemplo, cuántos te escriben de cada cien."
+    },
+    {
+      "pregunta": "¿Puedo tener varias landing pages?",
+      "respuesta": "Sí. Puedes hacer una por servicio o por campaña. Cada una con su propio mensaje y su propio botón."
+    },
+    {
+      "pregunta": "¿Necesito dominio propio para mi landing?",
+      "respuesta": "Sí, conviene. Un dominio propio da confianza y no depende del creador de páginas que uses."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre landing page y página de inicio?",
+      "respuesta": "El objetivo. La página de inicio presenta todo el negocio y reparte a varias secciones. La landing lleva a una sola acción."
+    }
+  ],
+  "relacionadas": [
+    "landing-page",
+    "ejemplos-de-landing-page",
+    "como-crear-una-pagina-web",
+    "pagina-web-para-negocio",
+    "que-es-un-sitio-web",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Aliviane hace landings para negocios con tu dominio incluido y tu botón de WhatsApp.",
+    "titulo": "¿Hacemos la landing de tu negocio?",
+    "tituloCorto": "¿Quieres tu landing lista?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://vwo.com/glossary/es/landing-page/",
+      "titulo": "Qué es una landing page",
+      "promete": "Glosario de su herramienta de pruebas; pensado para campañas grandes, sin negocio local ni WhatsApp"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.brevo.com/es/blog/landing-page-que-es/",
+      "titulo": "Qué es una landing page",
+      "promete": "Definición con formularios para correo masivo; no habla de dominio propio ni costo en México"
+    },
+    {
+      "posicion": 3,
+      "url": "https://landingi.com/es/landing-page/que-es-una-landing-page/",
+      "titulo": "Qué es una landing page",
+      "promete": "Explicación de su constructor; sin ejemplos por giro ni lista de qué debe llevar un negocio pequeño"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Top 3 leído con WebSearch el 12-nov-2026."
+}

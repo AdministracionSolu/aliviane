@@ -1,0 +1,481 @@
+{
+  "id": "sitios-de-google",
+  "slug": "sitios-de-google",
+  "molde": "guia",
+  "cabeza": "sitios de google",
+  "busquedas": [
+    "sitio web google",
+    "pagina web google",
+    "pagina web en google",
+    "pagina web con google",
+    "página web de google",
+    "página web gratis google",
+    "google es una pagina web",
+    "google pagina web gratis",
+    "pagina web google gratis",
+    "pagina web gratuita google",
+    "crea pagina web google",
+    "crear pagina web google",
+    "google crear pagina",
+    "crear web con google",
+    "crear sitio web google",
+    "crear pagina en google",
+    "crear pagina de google",
+    "google hacer pagina web",
+    "hacer pagina web en google",
+    "hacer pagina web con google",
+    "google para crear paginas web",
+    "crear pagina web gratis google",
+    "crear pagina web google gratis"
+  ],
+  "title": "Sitios de Google: cómo crear tu página gratis paso a paso",
+  "h1": "Sitios de Google: cómo crear una página web gratis y sus límites",
+  "description": "Con Sitios de Google haces una página gratis con tu cuenta de Google. Te damos los pasos, cómo ponerle tu dominio y qué le falta para un negocio. Pruébalo hoy.",
+  "resumen": "Pasos para crear tu página en Sitios de Google, conectar tu dominio y sus límites",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Sitios de Google es una herramienta gratis para crear páginas web con tu cuenta de Google, sin programar. Eliges una plantilla, agregas textos y fotos y la publicas en minutos.",
+    "Sirve bien para proyectos escolares, equipos internos o una página sencilla. Para un negocio tiene límites de diseño y de funciones, aunque sí acepta tu propio dominio."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es Sitios de Google"
+    },
+    {
+      "p": "Sitios de Google, también llamado Google Sites, es parte de las herramientas de Google como Drive y Documentos. Lo usas desde el navegador con tu cuenta."
+    },
+    {
+      "p": "Funciona con bloques que arrastras. Hay bloques de texto, imágenes y botones. También de videos de YouTube, mapas y documentos de Drive."
+    },
+    {
+      "p": "Lo que publicas queda en una dirección de Google. Si tienes dominio propio, lo puedes conectar para que la página abra con tu nombre."
+    },
+    {
+      "h2": "Cómo crear una página en Sitios de Google paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Entra con tu cuenta de Google",
+          "texto": "Usa una cuenta que vaya a quedar en el negocio y no la de un empleado."
+        },
+        {
+          "titulo": "Abre Sitios de Google",
+          "texto": "Desde el menú de aplicaciones de Google o escribiendo sites.google.com."
+        },
+        {
+          "titulo": "Crea un sitio nuevo",
+          "texto": "Elige una plantilla o empieza en blanco."
+        },
+        {
+          "titulo": "Pon nombre y encabezado",
+          "texto": "Escribe el nombre de tu negocio y una frase que diga qué haces."
+        },
+        {
+          "titulo": "Agrega tus secciones",
+          "texto": "Empieza por servicios y precios. Sigue con fotos, ubicación y contacto en páginas o bloques."
+        },
+        {
+          "titulo": "Inserta mapa y botones",
+          "texto": "Agrega el mapa de tu local y un botón que lleve a tu WhatsApp."
+        },
+        {
+          "titulo": "Revisa en vista de celular",
+          "texto": "Usa la vista previa de teléfono. La mayoría de tus visitas llegan desde ahí."
+        },
+        {
+          "titulo": "Publica",
+          "texto": "Elige la dirección del sitio y publica. Puedes seguir editando después."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo poner tu dominio en Sitios de Google"
+    },
+    {
+      "p": "Una dirección de Google se ve larga y difícil de dictar. Con tu dominio la página se ve más seria."
+    },
+    {
+      "p": "Según la ayuda oficial de Google, sólo el propietario del sitio puede conectar un dominio. También pide que verifiques que el dominio es tuyo."
+    },
+    {
+      "ol": [
+        "Abre la configuración de tu sitio y entra a dominios personalizados.",
+        "Elige empezar la configuración y escribe tu dominio.",
+        "Si te lo pide, verifica el dominio en Google Search Console con un registro de texto.",
+        "Sigue las instrucciones para cambiar los registros en la cuenta donde compraste el dominio.",
+        "Termina y espera. Los cambios pueden tardar hasta 48 horas."
+      ]
+    },
+    {
+      "p": "Puedes conectar hasta cinco dominios a un mismo sitio. Si no tienes dominio, revisa cómo [comprar un dominio](id:comprar-dominio)."
+    },
+    {
+      "h2": "Qué puedes hacer y qué no"
+    },
+    {
+      "tabla": {
+        "titulo": "Lo que ofrece Sitios de Google para un negocio",
+        "columnas": [
+          "Función",
+          "¿Se puede?",
+          "Comentario"
+        ],
+        "filas": [
+          [
+            "Página con textos, fotos y videos",
+            "Sí",
+            "Con bloques y plantillas"
+          ],
+          [
+            "Usar tu dominio propio",
+            "Sí",
+            "Requiere verificar el dominio"
+          ],
+          [
+            "Varias páginas con menú",
+            "Sí",
+            "El menú se arma solo"
+          ],
+          [
+            "Mapa de tu local",
+            "Sí",
+            "Se inserta desde Google Maps"
+          ],
+          [
+            "Botón a WhatsApp",
+            "Sí",
+            "Con un link de wa.me en un botón"
+          ],
+          [
+            "Formulario de contacto",
+            "En parte",
+            "Se inserta un formulario de Google"
+          ],
+          [
+            "Diseño a tu gusto",
+            "Limitado",
+            "Pocos temas, letras y acomodos"
+          ],
+          [
+            "Tienda con carrito y pagos",
+            "No",
+            "No tiene cobro en línea propio"
+          ],
+          [
+            "Blog con categorías",
+            "No",
+            "Sólo páginas sueltas"
+          ],
+          [
+            "Control fino del SEO",
+            "Limitado",
+            "Pocas opciones de títulos y descripciones por página"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Ventajas de Sitios de Google"
+    },
+    {
+      "ul": [
+        "Es gratis con cualquier cuenta de Google.",
+        "No necesitas programar ni contratar hosting.",
+        "Se integra con Drive, Documentos, Calendario y Maps.",
+        "Varias personas pueden editar a la vez.",
+        "Incluye el candado de seguridad."
+      ]
+    },
+    {
+      "h2": "Desventajas para un negocio"
+    },
+    {
+      "ul": [
+        "Las plantillas son pocas y se reconocen fácil.",
+        "No puedes vender ni cobrar en línea directamente.",
+        "Las opciones de SEO son básicas.",
+        "No hay soporte personalizado si algo falla.",
+        "El diseño en celular depende de cómo acomodes los bloques.",
+        "Depende de que Google mantenga el servicio y sus reglas."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Sitios de Google y el sitio del Perfil de Negocio"
+    },
+    {
+      "p": "Hasta 2024 Google también dejaba crear una página desde el Perfil de Negocio. Esa herramienta ya no existe y esas páginas dejaron de funcionar."
+    },
+    {
+      "p": "Hoy tu ficha de Google tiene un campo para poner tu sitio web. Ahí puedes poner un Sitio de Google o cualquier otra página tuya."
+    },
+    {
+      "p": "Si todavía no tienes ficha, revisa nuestra guía de [Google Mi Negocio](id:google-mi-negocio)."
+    },
+    {
+      "h2": "Cómo agregar un botón de WhatsApp"
+    },
+    {
+      "p": "Sitios de Google no trae un botón de WhatsApp listo. Se arma con un botón normal y un link de wa.me."
+    },
+    {
+      "ol": [
+        "Arma tu link con nuestro generador de [link de WhatsApp](id:link-de-whatsapp).",
+        "En tu sitio, inserta un bloque de botón.",
+        "Escribe el texto del botón, como Escríbenos por WhatsApp.",
+        "Pega tu link de wa.me en el campo de dirección.",
+        "Pon el botón arriba y repítelo al final de la página."
+      ]
+    },
+    {
+      "p": "Prueba el botón desde tu celular antes de publicar. Debe abrir el chat con tu número y el mensaje listo."
+    },
+    {
+      "h2": "Estructura sugerida para un negocio"
+    },
+    {
+      "p": "Una página de negocio funciona mejor con pocas secciones claras. Esta estructura sirve para casi cualquier giro."
+    },
+    {
+      "tabla": {
+        "titulo": "Secciones de un Sitio de Google para negocio",
+        "columnas": [
+          "Sección",
+          "Qué lleva"
+        ],
+        "filas": [
+          [
+            "Portada",
+            "Nombre, frase de lo que haces, foto principal y botón de WhatsApp"
+          ],
+          [
+            "Servicios",
+            "Lista de servicios con precio o rango"
+          ],
+          [
+            "Galería",
+            "Fotos reales de trabajos o productos"
+          ],
+          [
+            "Preguntas frecuentes",
+            "Horario, formas de pago, zonas y tiempos"
+          ],
+          [
+            "Contacto",
+            "Mapa, dirección, teléfono y botón de WhatsApp"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu negocio es chico, todo cabe en una sola página larga. Así nadie se pierde en el menú."
+    },
+    {
+      "h2": "Permisos y quién puede editar"
+    },
+    {
+      "p": "Un Sitio de Google se comparte como un documento de Drive. Puedes invitar a otras personas a editar."
+    },
+    {
+      "p": "Da permiso de edición sólo a quien de verdad va a cambiar el sitio. Los demás no necesitan acceso."
+    },
+    {
+      "p": "Si una persona deja el negocio, quítale el permiso ese mismo día. Revisa también quién es el propietario del sitio."
+    },
+    {
+      "h2": "Sitios de Google para la escuela"
+    },
+    {
+      "p": "Muchas escuelas piden hacer un sitio como tarea. Sitios de Google es una buena opción porque es gratis y se comparte fácil."
+    },
+    {
+      "p": "Para una tarea, usa una plantilla, organiza el tema por páginas y agrega fuentes al final. Publícalo sólo para tu escuela si tu cuenta lo permite."
+    },
+    {
+      "h2": "Comparación con otras opciones"
+    },
+    {
+      "tabla": {
+        "titulo": "Sitios de Google frente a otros caminos",
+        "columnas": [
+          "Opción",
+          "Costo",
+          "Diseño",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Sitios de Google",
+            "Gratis más tu dominio",
+            "Básico",
+            "Proyectos escolares, equipos y páginas de prueba"
+          ],
+          [
+            "Creador de páginas de pago",
+            "Plan mensual más dominio",
+            "Muchas plantillas",
+            "Quien quiere diseñar por su cuenta"
+          ],
+          [
+            "Página hecha a la medida",
+            "Pago inicial y mensualidad",
+            "Con tu marca",
+            "Negocios que prefieren atender su trabajo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa nuestra comparación de [precios de Wix](id:precios-de-wix) si estás pensando en un creador de pago."
+    },
+    {
+      "h2": "Consejos para que tu Sitio de Google se vea profesional"
+    },
+    {
+      "ol": [
+        "Usa fotos propias y de buena calidad, no las de la plantilla.",
+        "Pon tu teléfono y tu WhatsApp arriba, donde se vean sin bajar.",
+        "Escribe precios o rangos para que no pregunten lo básico.",
+        "Agrega el mapa de tu local en la sección de contacto.",
+        "Usa pocas páginas con contenido claro en lugar de muchas vacías.",
+        "Conecta tu dominio propio y quita la dirección larga de Google.",
+        "Revisa cómo se ve en celular antes de publicar."
+      ]
+    },
+    {
+      "h2": "Cómo hacer que Google encuentre tu sitio"
+    },
+    {
+      "p": "Publicar no significa que Google ya te muestre. Hay que ayudarle a encontrar tu página."
+    },
+    {
+      "ul": [
+        "Pon la dirección de tu sitio en tu ficha de Google.",
+        "Compártela en tus redes y en tu WhatsApp.",
+        "Da de alta tu dominio en Google Search Console.",
+        "Escribe en tus textos lo que vendes y en qué ciudad.",
+        "Pide a proveedores o asociaciones que pongan tu liga."
+      ]
+    },
+    {
+      "p": "Con tu dominio verificado en Search Console puedes ver qué búsquedas te muestran. Esa información te dice qué mejorar."
+    },
+    {
+      "h2": "Cuándo pasar a otra página"
+    },
+    {
+      "p": "Sitios de Google funciona para empezar. Llega un momento en que el negocio pide más."
+    },
+    {
+      "ul": [
+        "Cuando quieres un diseño que se distinga de tu competencia.",
+        "Cuando necesitas cobrar en línea o recibir citas.",
+        "Cuando quieres trabajar el SEO con más control.",
+        "Cuando no tienes tiempo de editar y prefieres que alguien lo haga."
+      ]
+    },
+    {
+      "p": "Al cambiar, tu dominio se va contigo. Sólo se apunta a la nueva página."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Publicar con la dirección larga de Google en las tarjetas.",
+        "Usar la cuenta personal de un empleado.",
+        "Dejar los textos de ejemplo de la plantilla.",
+        "No revisar la vista de celular.",
+        "Olvidar el botón de WhatsApp o el teléfono.",
+        "Crear muchas páginas con poco contenido."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Sitios de Google es gratis?",
+      "respuesta": "Sí. Crear y publicar un sitio no cuesta. El dominio propio sí se paga aparte."
+    },
+    {
+      "pregunta": "¿Puedo poner mi dominio en Sitios de Google?",
+      "respuesta": "Sí. Lo conectas desde la configuración y verificas que el dominio es tuyo."
+    },
+    {
+      "pregunta": "¿Puedo vender en línea con Sitios de Google?",
+      "respuesta": "No directamente. No tiene carrito ni cobro propio. Puedes poner botones a WhatsApp o a una liga de pago."
+    },
+    {
+      "pregunta": "¿Mi Sitio de Google sale en Google?",
+      "respuesta": "Sí, puede aparecer. Las opciones para trabajar el SEO son básicas."
+    },
+    {
+      "pregunta": "¿Puedo crear la página desde el celular?",
+      "respuesta": "Se puede ver en celular, pero editar es más cómodo en computadora."
+    },
+    {
+      "pregunta": "¿Qué pasó con los sitios del Perfil de Negocio de Google?",
+      "respuesta": "Google los cerró en 2024. Hoy pones en tu ficha la dirección de tu propia página."
+    },
+    {
+      "pregunta": "¿Cuántas páginas puede tener un Sitio de Google?",
+      "respuesta": "Varias. Cada página aparece en el menú y puedes ocultar las que no quieras mostrar."
+    },
+    {
+      "pregunta": "¿Necesito cuenta de Gmail para usar Sitios de Google?",
+      "respuesta": "Necesitas una cuenta de Google. Puede ser de Gmail o una cuenta de Google creada con otro correo."
+    }
+  ],
+  "relacionadas": [
+    "como-crear-una-pagina-web",
+    "pagina-web-para-negocio",
+    "que-es-una-landing-page",
+    "google-mi-negocio",
+    "link-de-whatsapp",
+    "precios-de-wix"
+  ],
+  "venta": {
+    "puente": "Si tu Sitio de Google se queda corto, Aliviane te hace una landing con tu dominio y tu botón de WhatsApp.",
+    "titulo": "¿Hacemos la página de tu negocio con tu dominio?",
+    "tituloCorto": "¿Tu página necesita más que una plantilla?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de Sitios de Google, usar un dominio personalizado",
+      "url": "https://support.google.com/sites/answer/9068867?hl=es-419"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/como-crear-una-pagina-web-gratis-en-google/",
+      "titulo": "Cómo crear una página web gratis en Google: fácil y paso a paso",
+      "promete": "Pasos de Sitios de Google; termina vendiendo su tienda y no explica cómo poner dominio propio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.mercately.com/es/pagina-web-google",
+      "titulo": "Página web Google: cómo crear y publicar tu sitio en línea",
+      "promete": "Tutorial general; no compara límites para un negocio ni dice qué pasó con los sitios del Perfil de Negocio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.neolo.com/blog/google-sites-ventajas-y-desventajas-para-tener-un-sitio-web.php",
+      "titulo": "Google Sites ventajas y desventajas para tener un sitio web",
+      "promete": "Lista de pros y contras; sin pasos ni tabla de qué le falta a un negocio con WhatsApp"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G1, 12-nov. Dominio personalizado leído en la ayuda oficial de Sitios el 12-nov-2026 (hasta 5 dominios, verificación en Search Console, hasta 48 horas). Sin cifras de espacio. Top 3 leído con WebSearch el 12-nov-2026."
+}
