@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { execFileSync } from 'node:child_process';
 
 export const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const DIR_PAGINAS = path.join(RAIZ, 'fijas', 'paginas');
@@ -63,6 +64,60 @@ export const ruta = (p) => '/' + (CARPETA[p.molde] ? CARPETA[p.molde] + '/' : ''
 export const publicada = (p, hoy) => !!p.publicacion && p.publicacion <= hoy;
 export const hoyCDMX = () => new Date().toLocaleDateString('en-CA', { timeZone: 'America/Mexico_City' });
 export const motorExiste = (id) => !!id && fs.existsSync(path.join(RAIZ, 'js', 'herramientas', id + '.js'));
+
+// Todo lo que un motor carga (relativo a la raíz del repo), siguiendo sus import, import() y
+// new URL('…', import.meta.url). Una ruta armada con ${…} cuenta como su carpeta («fuentes/»).
+// La página además liga /css/herramientas.css. Devuelve { archivos, carpetas, faltan }.
+export function dependenciasMotor(id) {
+  const archivos = new Set(['css/herramientas.css']), carpetas = new Set(), faltan = new Set();
+  const pendientes = [`js/herramientas/${id}.js`];
+  const RE = [/\bfrom\s*['"](\.{1,2}\/[^'"]+)['"]/g, /\bimport\s*\(\s*['"`](\.{1,2}\/[^'"`]+)['"`]\s*\)/g,
+    /new URL\(\s*(['"`])([^'"`]+)\1\s*,\s*import\.meta\.url/g];
+  while (pendientes.length) {
+    const rel = pendientes.pop();
+    if (archivos.has(rel)) continue;
+    archivos.add(rel);
+    const abs = path.join(RAIZ, rel);
+    if (!fs.existsSync(abs)) { faltan.add(rel); continue; }
+    if (!rel.endsWith('.js')) continue;
+    const src = fs.readFileSync(abs, 'utf8');
+    for (const re of RE) for (const m of src.matchAll(re)) {
+      const ref = m[2] ?? m[1];
+      if (ref.includes('${')) {
+        const dir = path.posix.normalize(path.posix.join(path.posix.dirname(rel), ref.slice(0, ref.indexOf('${')).replace(/[^/]*$/, '')));
+        carpetas.add(dir.replace(/\/?$/, '/'));
+        if (!fs.existsSync(path.join(RAIZ, dir))) faltan.add(dir + '/');
+        continue;
+      }
+      const dest = path.posix.normalize(path.posix.join(path.posix.dirname(rel), ref.split(/[?#]/)[0]));
+      if (!archivos.has(dest)) pendientes.push(dest);
+    }
+  }
+  for (const f of archivos) if (!fs.existsSync(path.join(RAIZ, f))) faltan.add(f);
+  return { archivos: [...archivos].sort(), carpetas: [...carpetas].sort(), faltan: [...faltan].sort() };
+}
+
+// Lo que el workflow publica: lo que git rastrea, menos fijas/, README.md, CNAME y .github/ (ver .github/workflows/netlify.yml).
+let _publicables = null;
+export function archivosPublicables() {
+  if (_publicables) return _publicables;
+  let lista = [];
+  try { lista = execFileSync('git', ['-C', RAIZ, 'ls-files', '-z'], { encoding: 'utf8', maxBuffer: 64 << 20 }).split('\0').filter(Boolean); } catch (e) { lista = []; }
+  _publicables = new Set(lista.filter((f) => !/^(README\.md|CNAME|\.github\/.*|fijas\/.*)$/.test(f)));
+  return _publicables;
+}
+// Lo que un motor necesita y no se publicaría (no rastreado por git o excluido del workflow).
+export function dependenciasSinPublicar(id) {
+  const pub = archivosPublicables();
+  const { archivos, carpetas } = dependenciasMotor(id);
+  const fuera = archivos.filter((f) => !pub.has(f));
+  for (const d of carpetas) {
+    const enDisco = fs.existsSync(path.join(RAIZ, d)) ? fs.readdirSync(path.join(RAIZ, d)).map((f) => d + f) : [];
+    if (!enDisco.length) fuera.push(d);
+    for (const f of enDisco) if (!pub.has(f)) fuera.push(f);
+  }
+  return fuera;
+}
 
 export const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 export const tituloFinal = (p) => (p.title + ' | Aliviane').length <= 58 ? p.title + ' | Aliviane' : p.title;

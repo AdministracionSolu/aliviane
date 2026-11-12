@@ -8,7 +8,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { RAIZ, MOLDES, CARPETA, RESERVADAS, cargarPaginas, contexto, renderPagina, ruta, publicada, hoyCDMX, largo,
-  textoVisible, textoPropio, palabras, motorExiste, TRABAJOS } from './lib.mjs';
+  textoVisible, textoPropio, palabras, motorExiste, TRABAJOS, dependenciasMotor, dependenciasSinPublicar } from './lib.mjs';
 
 const estricto = process.argv.includes('--estricto');
 const hoy = hoyCDMX();
@@ -153,6 +153,24 @@ if (fs.existsSync(dirMotores)) for (const f of fs.readdirSync(dirMotores)) {
   if (!f.endsWith('.js')) continue;
   const kb = fs.statSync(path.join(dirMotores, f)).size / 1024;
   if (kb > 60) mal(null, `js/herramientas/${f} pesa ${kb.toFixed(1)} KB (máx. 60 sin contar js/vendor/)`);
+}
+
+// ---------- Motores: todo lo que cargan existe y se publica ----------
+{
+  const porMotor = new Map();
+  for (const p of paginas) if (p.herramienta?.id && motorExiste(p.herramienta.id)) {
+    if (!porMotor.has(p.herramienta.id)) porMotor.set(p.herramienta.id, []);
+    porMotor.get(p.herramienta.id).push(p);
+  }
+  for (const [id, ps] of porMotor) {
+    const { faltan } = dependenciasMotor(id);
+    if (faltan.length) mal(null, `el motor ${id} carga lo que no existe: ${faltan.join(', ')}`);
+    const fuera = dependenciasSinPublicar(id);
+    if (!fuera.length) continue;
+    const msg = `el motor ${id} carga ${fuera.length} archivos que no se publican (sin git add o en fijas/): ${fuera.slice(0, 5).join(', ')}`;
+    const pubs = ps.filter((p) => publicada(p, hoy));
+    if (pubs.length) mal(pubs[0], msg); else ojo(ps[0], msg);
+  }
 }
 
 const pub = paginas.filter((p) => publicada(p, hoy)).length;

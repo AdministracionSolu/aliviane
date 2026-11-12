@@ -16,8 +16,8 @@ excluye); sí se publican las carpetas que genera.
 | `fijas/nueva.mjs <id>…` | Crea el esqueleto `fijas/paginas/<id>.json` desde la lista (borrador vacío). |
 | `fijas/paginas/*.json` | Las páginas. |
 | `fijas/lib.mjs` | Plantilla HTML, bloque de venta, marcado. Un solo lugar para el diseño de todas las fijas. |
-| `fijas/generar.mjs` | Escribe lo publicado en el repo, o todo en un directorio de revisión con `--borradores <dir>`. |
-| `fijas/probar.mjs` | Pruebas. Truenan con código 1. `--estricto` vuelve error los avisos (úsalo con las muestras). |
+| `fijas/generar.mjs` | Escribe lo publicado en el repo, o todo en un directorio de revisión con `--borradores <dir>` (copia `img/`, `js/`, `css/`, `fuentes/` y revisa que cada motor encuentre lo que carga). En modo repo no escribe nada si un motor publicado carga un archivo que no se publica (sin `git add`, o dentro de `fijas/`). |
+| `fijas/probar.mjs` | Pruebas. Truenan con código 1. `--estricto` vuelve error los avisos (úsalo con las muestras). Siguen los `import` y `new URL(…, import.meta.url)` de cada motor: lo que falte truena, y lo que no se publique truena en publicadas y avisa en borradores. |
 | `fijas/og.mjs` | Imágenes Open Graph con Chrome sin cabeza y perfil temporal: una por molde (`img/og/<molde>.png`) o una por página (`--pagina <id>`). |
 | `fijas/generadas.json` | Lo que el generador escribió la última vez (para borrar lo que deja de estar publicado). No se edita a mano. |
 

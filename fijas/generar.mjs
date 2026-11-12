@@ -5,14 +5,14 @@
 //                                               <carpeta>/<slug>/index.html, índices, sitemap.xml y la sección
 //                                               de ligas de la portada (entre marcadores). Borra lo que dejó de estar publicado.
 //   node fijas/generar.mjs --borradores <dir>   escribe TODO (borradores incluidos, con noindex) en <dir>, fuera del
-//                                               repo, con copia de img/js/css para revisarlo con un servidor local.
+//                                               repo, con copia de img/js/css/fuentes para revisarlo con un servidor local.
 //   --hoy AAAA-MM-DD                            fecha de corte (por omisión, hoy en CDMX).
 //
 // Corre las pruebas antes: node fijas/probar.mjs
 import fs from 'node:fs';
 import path from 'node:path';
 import { RAIZ, SITIO, COLECCIONES, cargarPaginas, contexto, renderPagina, renderIndice, ruta, hoyCDMX,
-  seccionPortada, MARCA_INI, MARCA_FIN } from './lib.mjs';
+  seccionPortada, MARCA_INI, MARCA_FIN, dependenciasMotor, dependenciasSinPublicar } from './lib.mjs';
 
 const args = process.argv.slice(2);
 const val = (k) => { const i = args.indexOf(k); return i >= 0 ? args[i + 1] : null; };
@@ -36,15 +36,35 @@ if (dirBorradores) {
   for (const p of ctx.visibles) escribir(base, ruta(p).slice(1) + 'index.html', renderPagina(p, ctx));
   for (const ind of Object.values(ctx.indices)) escribir(base, ind.carpeta + '/index.html', renderIndice(ind, ctx));
   // Lo que las páginas cargan, para verlas con un servidor local (python3 -m http.server -d <dir>).
-  for (const rel of ['img', 'js', 'css', 'index.html']) {
+  // fuentes/ la cargan editor-diseno y logo (trazos de las tipografías).
+  for (const rel of ['img', 'js', 'css', 'fuentes', 'index.html']) {
     const o = path.join(RAIZ, rel);
     if (fs.existsSync(o)) fs.cpSync(o, path.join(base, rel), { recursive: true });
+  }
+  // Revisa que cada motor usado encuentre en el directorio todo lo que carga (si falta algo, se copia y se avisa).
+  const motores = [...new Set(ctx.visibles.map((p) => p.herramienta?.id).filter(Boolean))];
+  for (const id of motores) {
+    const { archivos, carpetas } = dependenciasMotor(id);
+    for (const rel of [...archivos, ...carpetas]) {
+      if (fs.existsSync(path.join(base, rel)) || !fs.existsSync(path.join(RAIZ, rel))) continue;
+      fs.cpSync(path.join(RAIZ, rel), path.join(base, rel), { recursive: true });
+      console.warn(`aviso: ${id} carga ${rel}, que no estaba en la lista de copia; se copió`);
+    }
   }
   console.log(`borradores: ${ctx.visibles.length} páginas y ${Object.keys(ctx.indices).length} índices en ${base}`);
   process.exit(0);
 }
 
 // ---------- Modo repo: sólo lo publicado ----------
+// Ninguna página publicada puede depender de algo que no se publica (no rastreado por git o excluido del workflow).
+{
+  const malos = [];
+  for (const id of new Set(ctx.visibles.map((p) => p.herramienta?.id).filter(Boolean))) {
+    const fuera = dependenciasSinPublicar(id);
+    if (fuera.length) malos.push(`${id}: ${fuera.slice(0, 8).join(', ')}${fuera.length > 8 ? '…' : ''}`);
+  }
+  if (malos.length) { console.error('No se generó nada. Motores publicados que cargan archivos que no se publican (haz git add):\n  ' + malos.join('\n  ')); process.exit(1); }
+}
 const MANIFIESTO = path.join(RAIZ, 'fijas', 'generadas.json');
 const antes = fs.existsSync(MANIFIESTO) ? JSON.parse(fs.readFileSync(MANIFIESTO, 'utf8')) : [];
 const ahora = [];
