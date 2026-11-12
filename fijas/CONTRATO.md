@@ -46,6 +46,7 @@ toda la lista. **El slug y el molde son los de `fijas/lista.json` y no se cambia
 | `cabeza` | La búsqueda cabeza de la lista. |
 | `busquedas` | Las variantes que cubre (de la lista; puedes recortar las basura). No se muestran. |
 | `title` | **≤ 58 caracteres**, empieza con la cabeza exacta y sigue con el beneficio que el top 3 promete y nosotros cumplimos. Sin punto final ni remate después de coma. « \| Aliviane» se agrega solo si cabe. |
+| `cabeza_titulo` | Opcional y excepcional. Lista de formas naturales de la cabeza con las que el title puede empezar cuando la cabeza de la lista es torpe (p. ej. `nombres-para-comida-rapida`: la lista dice «creativos nombre para negocio de comida rápida» y el title empieza con «Nombres para negocio de comida rápida»). Anota por qué en `nota`. |
 | `h1` | Corto, con la búsqueda. Puede ser distinto del title. |
 | `description` | **140 a 160 caracteres.** Contesta, da el beneficio y cierra con verbo. |
 | `resumen` | Una línea para las tarjetas de índice y relacionadas. |

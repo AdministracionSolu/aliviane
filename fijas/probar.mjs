@@ -66,7 +66,10 @@ for (const p of paginas) {
   if (/[.]$/.test(p.title || '')) mal(p, 'title con punto final');
   const nTit = (p.title || '').toLowerCase(), nCab = (p.cabeza || '').toLowerCase();
   const sinAcento = (s) => s.normalize('NFD').replace(/\p{M}/gu, '');
-  if (!sinAcento(nTit).startsWith(sinAcento(nCab))) ojo(p, `el title no empieza con la búsqueda cabeza «${p.cabeza}»`);
+  // cabeza_titulo: excepciones declaradas cuando la cabeza de la lista es torpe (ver CONTRATO): el title puede empezar con una de ellas.
+  if (p.cabeza_titulo !== undefined && (!Array.isArray(p.cabeza_titulo) || !p.cabeza_titulo.length || p.cabeza_titulo.some((x) => typeof x !== 'string' || !x.trim()))) mal(p, 'cabeza_titulo debe ser una lista de textos');
+  const cabezas = [nCab, ...(Array.isArray(p.cabeza_titulo) ? p.cabeza_titulo : []).map((x) => String(x).toLowerCase())];
+  if (!cabezas.some((c) => sinAcento(nTit).startsWith(sinAcento(c)))) ojo(p, `el title no empieza con la búsqueda cabeza «${p.cabeza}»${p.cabeza_titulo ? ' ni con su cabeza_titulo' : ''}`);
   const d = largo(p.description);
   if (d < 140 || d > 160) mal(p, `description de ${d} caracteres (140-160)`);
   if (!p.venta?.puente) mal(p, 'falta venta.puente (frase que conecta el tema con el negocio)');
