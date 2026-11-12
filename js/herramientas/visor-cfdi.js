@@ -335,7 +335,7 @@ export function maquetarCfdi(d, t = TEXTOS, qr = null) {
 // ---------- vista en pantalla ----------
 function svgQR(q) {
   let s = '';
-  for (const p of modulos(q, 0, 0, q.tam)) s += `M${p.x} ${p.y}h${p.w}v1h-${p.w}z`;
+  for (const [x, y, w] of modulos(q, 0, 0, q.tam)[0].lista) s += `M${x} ${y}h${w}v1h-${w}z`;
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 ${q.tam + 4} ${q.tam + 4}" shape-rendering="crispEdges"><rect x="-2" y="-2" width="${q.tam + 4}" height="${q.tam + 4}" fill="#fff"/><path d="${s}"/></svg>`;
 }
 

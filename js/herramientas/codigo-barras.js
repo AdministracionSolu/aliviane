@@ -3,6 +3,7 @@
 // modos: ean13 (por defecto), ean8, upca, code128, code39, itf, hoja (abre la hoja de etiquetas)
 
 import { codificar, FORMATOS } from './_barras-codificador.js';
+import { pdf } from './_pdf.js';
 import {
   h, campo, textos as unirTextos, avisar, descargar, estado, lienzoABlob, PIE, opcionesChip, boton,
   asegurarEstilos, nombreArchivo,
@@ -176,62 +177,17 @@ export function armarHoja(codigos, medida, numeros = true) {
   return { paginas, porHoja };
 }
 
-// Anchos de Helvetica (1/1000 em) para ASCII 32-126, para centrar texto en el PDF.
-const ANCHOS_HELV = ('278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 ' +
-  '278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 ' +
-  '667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 ' +
-  '500 722 500 500 500 334 260 334 584').split(' ').map(Number);
-function anchoTexto(t, tam) {
-  let s = 0;
-  for (const ch of t) { const c = ch.charCodeAt(0); s += c >= 32 && c <= 126 ? ANCHOS_HELV[c - 32] : 278; }
-  return (s / 1000) * tam;
-}
-function pdfTexto(t) {
-  let s = '';
-  for (const ch of t) {
-    const c = ch.charCodeAt(0);
-    s += ch === '(' || ch === ')' || ch === '\\' ? '\\' + ch : c < 256 ? ch : '?';
-  }
-  return s;
-}
-
+// La hoja sale en PDF con el generador compartido _pdf.js (vectorial, sin librerías).
 export function pdfDeHoja(paginas) {
-  const n = (v) => r2(v).toString();
-  const objs = [];
-  const nPag = paginas.length;
-  objs[1] = '<< /Type /Catalog /Pages 2 0 R >>';
-  objs[3] = '<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>';
-  const kids = [];
-  paginas.forEach((p, i) => {
-    const po = 4 + i * 2, co = po + 1;
-    kids.push(`${po} 0 R`);
-    let c = '0 0 0 rg\n';
-    for (const [x, y, w, hh] of p.rects) c += `${n(x)} ${n(792 - y - hh)} ${n(w)} ${n(hh)} re\n`;
-    c += 'f\n';
-    for (const t of p.textos) {
-      const w = anchoTexto(t.t, t.tam);
-      const x = t.ancla === 'middle' ? t.x - w / 2 : t.ancla === 'end' ? t.x - w : t.x;
-      c += `BT /F1 ${n(t.tam)} Tf ${n(x)} ${n(792 - t.y)} Td (${pdfTexto(t.t)}) Tj ET\n`;
-    }
-    const pieW = anchoTexto(PIE, 7);
-    c += `0.55 g BT /F1 7 Tf ${n(306 - pieW / 2)} 12 Td (${pdfTexto(PIE)}) Tj ET\n`;
-    objs[po] = `<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents ${co} 0 R >>`;
-    objs[co] = `<< /Length ${c.length} >>\nstream\n${c}endstream`;
-  });
-  objs[2] = `<< /Type /Pages /Kids [${kids.join(' ')}] /Count ${nPag} >>`;
-  let out = '%PDF-1.4\n%\xe2\xe3\xcf\xd3\n';
-  const offs = [];
-  for (let i = 1; i < objs.length; i++) {
-    offs[i] = out.length;
-    out += `${i} 0 obj\n${objs[i]}\nendobj\n`;
-  }
-  const xref = out.length;
-  out += `xref\n0 ${objs.length}\n0000000000 65535 f \n`;
-  for (let i = 1; i < objs.length; i++) out += String(offs[i]).padStart(10, '0') + ' 00000 n \n';
-  out += `trailer\n<< /Size ${objs.length} /Root 1 0 R /Info << /Producer (${pdfTexto(PIE)}) >> >>\nstartxref\n${xref}\n%%EOF\n`;
-  const bytes = new Uint8Array(out.length);
-  for (let i = 0; i < out.length; i++) bytes[i] = out.charCodeAt(i) & 0xff;
-  return new Blob([bytes], { type: 'application/pdf' });
+  const ancla = { start: 'i', middle: 'c', end: 'd' };
+  return pdf(paginas.map((p) => ({
+    w: 612, h: 792,
+    piezas: [
+      { t: 'rects', lista: p.rects, relleno: '#000000' },
+      ...p.textos.map((t) => ({ t: 'texto', x: t.x, y: t.y, s: t.t, f: 'h', tam: t.tam, color: '#000000', ancla: ancla[t.ancla] || 'i' })),
+      { t: 'texto', x: 306, y: 780, s: PIE, f: 'h', tam: 7, color: '#8C8C8C', ancla: 'c' },
+    ],
+  })));
 }
 
 function svgDePagina(p) {

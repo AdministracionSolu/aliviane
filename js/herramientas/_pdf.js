@@ -1,6 +1,7 @@
 // PDF propio de las herramientas de Aliviane: vectorial, sin librerías y sin red.
 // Una «escena» es una página en puntos (1 pt = 1/72 in, y hacia abajo) con una lista de piezas:
 //   { t: 'rect', x, y, w, h, relleno?, trazo?, grosor?, radio? }
+//   { t: 'rects', lista: [[x, y, w, h], …], relleno } (un solo relleno, sin costuras entre piezas que se tocan)
 //   { t: 'linea', x1, y1, x2, y2, color?, grosor?, guiones? }
 //   { t: 'circulo', cx, cy, r, relleno?, trazo?, grosor? }
 //   { t: 'texto', x, y (línea base), s, f, tam, color?, ancla? ('i' | 'c' | 'd') }
@@ -131,11 +132,11 @@ export function modulos(q, x, y, lado, color = '#000000') {
       if (!q.modulos[fy * q.tam + fx]) continue;
       let k = fx;
       while (k + 1 < q.tam && q.modulos[fy * q.tam + k + 1]) k++;
-      piezas.push({ t: 'rect', x: x + fx * m, y: y + fy * m, w: (k - fx + 1) * m, h: m + 0.02, relleno: color });
+      piezas.push([x + fx * m, y + fy * m, (k - fx + 1) * m, m]);
       fx = k;
     }
   }
-  return piezas;
+  return [{ t: 'rects', lista: piezas, relleno: color }];
 }
 
 // ---------- color ----------
@@ -198,6 +199,7 @@ export function pdf(escenas, { titulo = '', autor = '' } = {}) {
     for (const p of e.piezas) {
       if (p.t === 'rect') c += pintar(p, trazoRect(p, H));
       else if (p.t === 'circulo') c += pintar(p, trazoCirculo(p, H));
+      else if (p.t === 'rects') c += colorPdf(p.relleno || '#000000', 'rg') + '\n' + p.lista.map(([x, y, w, hh]) => `${n2(x)} ${n2(H - y - hh)} ${n2(w)} ${n2(hh)} re`).join('\n') + '\nf\n';
       else if (p.t === 'linea') {
         c += `${colorPdf(p.color || '#000000', 'RG')} ${n2(p.grosor || 1)} w ${p.guiones ? '[' + p.guiones.join(' ') + '] 0 d ' : ''}` +
           `${n2(p.x1)} ${n2(H - p.y1)} m ${n2(p.x2)} ${n2(H - p.y2)} l S${p.guiones ? ' [] 0 d' : ''}\n`;
@@ -284,6 +286,11 @@ export function lienzo(e, escala = 2) {
       else ctx.rect(p.x, p.y, p.w, p.h);
       if (p.relleno) { ctx.fillStyle = p.relleno; ctx.fill(); }
       if (p.trazo) { ctx.strokeStyle = p.trazo; ctx.lineWidth = p.grosor || 1; ctx.stroke(); }
+    } else if (p.t === 'rects') {
+      ctx.beginPath();
+      for (const [x, y, w, hh] of p.lista) ctx.rect(x, y, w, hh);
+      ctx.fillStyle = p.relleno || '#000';
+      ctx.fill();
     } else if (p.t === 'linea') {
       ctx.beginPath();
       ctx.setLineDash(p.guiones || []);
