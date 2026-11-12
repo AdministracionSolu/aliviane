@@ -184,9 +184,28 @@
       "url": "https://wwwmat.sat.gob.mx/consultas/42968/consulta-y-recuperacion-de-comprobantes-%28nuevo%29"
     }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.edifact.com.mx/masinfo/abrir-archivo-xml-factura-electronica",
+      "titulo": "Abrir archivo XML de factura electrónica (Edifact)",
+      "promete": "Visor de XML; vende facturación"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.edifact.com.mx/masinfo/visor-xml",
+      "titulo": "Visor XML (Edifact)",
+      "promete": "Visor en línea de su sistema"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.facturadorelectronico.com/blog/?p=665",
+      "titulo": "Archivo XML: qué es y cómo funciona (Facturador Electrónico)",
+      "promete": "Explica que el XML es el que vale; sin visor"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Servicio del SAT leído hoy (contraseña o e.firma, XML 3.0 a 4.0, 2,000 XML al día en portal). Motor visor-cfdi (4.0 y 3.3, pagos, relacionados, timbre, liga de verificación). MEJORA DE MOTOR: «factura en excel» no se cumple."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Servicio del SAT leído hoy (contraseña o e.firma, XML 3.0 a 4.0, 2,000 XML al día en portal). Motor visor-cfdi (4.0 y 3.3, pagos, relacionados, timbre, liga de verificación). MEJORA DE MOTOR: «factura en excel» no se cumple. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

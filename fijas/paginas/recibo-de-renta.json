@@ -182,9 +182,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.docusign.com/es-mx/plantillas/recibo-de-renta",
+      "titulo": "Recibo de renta (Docusign)",
+      "promete": "Plantilla con monto, periodo y firma; vende firma electrónica"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.captain.legal/mx/bienes-raices/recibo-de-renta-mensual-formato-word-y-pdf-mexico/",
+      "titulo": "Recibo de renta mensual en Word y PDF (Captain Legal)",
+      "promete": "Formato descargable; citas legales confusas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://facturama.mx/blog/recibo-de-arrendamiento-como-llenar-factura/",
+      "titulo": "Recibo de arrendamiento (Facturama)",
+      "promete": "Explica CFDI de arrendamiento; vende facturación"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo recibo-renta (inmueble, mes que paga, forma de pago, firma Arrendador)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo recibo-renta (inmueble, mes que paga, forma de pago, firma Arrendador). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

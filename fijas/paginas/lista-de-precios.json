@@ -202,9 +202,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/blog/como-hacer-una-lista-de-precios-con-plantilla/",
+      "titulo": "Cómo hacer una lista de precios con plantilla (Tiendanube)",
+      "promete": "Qué lleva y planilla en Google Sheets; empuja a abrir tienda"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/business/descargables/lista-de-precios/",
+      "titulo": "Lista de precios (Crehana)",
+      "promete": "Plantilla en Excel con registro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_mx/listas/plantillas/precios/",
+      "titulo": "Plantillas de listas de precios (Canva)",
+      "promete": "Diseños editables con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo lista-precios (clave, descripción, precio, vigencia, sin folio)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo lista-precios (clave, descripción, precio, vigencia, sin folio). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

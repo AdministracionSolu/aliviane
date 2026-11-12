@@ -154,7 +154,14 @@
       "respuesta": "Sí. El título del documento se edita sobre la hoja."
     }
   ],
-  "relacionadas": ["recibo-de-pago", "recibo-de-renta", "nota-de-remision", "orden-de-compra", "lista-de-precios", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "recibo-de-pago",
+    "recibo-de-renta",
+    "nota-de-remision",
+    "orden-de-compra",
+    "lista-de-precios",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Tu taller puede tener su página con servicios, precios y un botón para agendar por WhatsApp.",
     "aviso": "Tu orden ya está lista. ¿Quieres una página para tu taller con tu dominio?",
@@ -166,9 +173,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://academiaxray.cl/blog/orden-de-trabajo-taller-automotriz/",
+      "titulo": "Orden de servicio en un taller automotriz (Academia X-Ray)",
+      "promete": "Ejemplo y formato descargable en Word, Chile"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.hubspot.es/service/orden-de-servicio",
+      "titulo": "Orden de servicio (HubSpot)",
+      "promete": "Qué es y qué lleva; vende su software"
+    },
+    {
+      "posicion": 3,
+      "url": "https://academiaxray.cl/blog/formato-de-orden-de-servicio-automotriz-word/",
+      "titulo": "Plantilla de orden de servicio automotriz en Word (Academia X-Ray)",
+      "promete": "Plantilla Word para talleres"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo orden-servicio (equipo, marca, serie, entrega estimada, falla, firmas Técnico y Cliente)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo orden-servicio (equipo, marca, serie, entrega estimada, falla, firmas Técnico y Cliente). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }
