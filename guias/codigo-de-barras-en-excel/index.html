@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Códigos de barras en Excel: 3 métodos y hoja de etiquetas</title>
+<meta name="description" content="Excel no trae códigos de barras de fábrica. Te enseñamos el método con fuente, cuándo falla y cómo pasar tu lista de Excel a una hoja de etiquetas en PDF.">
+<link rel="canonical" href="https://www.aliviane.mx/guias/codigo-de-barras-en-excel/">
+<meta name="theme-color" content="#0b0b0b">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Códigos de barras en Excel: 3 métodos y hoja de etiquetas">
+<meta property="og:description" content="Excel no trae códigos de barras de fábrica. Te enseñamos el método con fuente, cuándo falla y cómo pasar tu lista de Excel a una hoja de etiquetas en PDF.">
+<meta property="og:url" content="https://www.aliviane.mx/guias/codigo-de-barras-en-excel/">
+<meta property="og:image" content="https://www.aliviane.mx/img/og/guia.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_MX">
+<meta property="og:site_name" content="Aliviane">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/img/icono.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="/img/favicon-32.png?v=2" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png?v=2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>.ah-herramienta:empty{min-height:var(--reserva,900px)}:root{--negro:#0b0b0b;--negro-2:#141414;--negro-3:#1c1c1c;--crema:#f2f2f0;--texto:#d6d6d3;--gris:#8c8c8c;--gris-2:#4d4d4d;--sans:"Schibsted Grotesk","Helvetica Neue",Arial,sans-serif;color-scheme:dark}
+*{box-sizing:border-box}body{margin:0;background:var(--negro);color:var(--texto);font:400 17px/1.65 var(--sans);-webkit-font-smoothing:antialiased}
+a{color:var(--crema)}img{display:block;max-width:100%;height:auto}
+.ancho{width:min(760px,100% - 32px);margin-inline:auto}.ancho-h{width:min(1040px,100% - 32px);margin-inline:auto}.lectura{max-width:760px}
+.barra{padding:20px 0}.barra .ancho-h{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.marca{font:700 21px/1 var(--sans);letter-spacing:-.03em;display:inline-flex;align-items:center;gap:4px;color:var(--crema);text-decoration:none}.marca svg{width:28px;height:28px;margin-left:-4px}
+.barra nav{display:flex;gap:22px;font-size:15px}.barra nav a{color:var(--gris);text-decoration:none}.barra nav a:hover{color:var(--crema)}
+.migas{font-size:14px;color:var(--gris);margin:28px 0 18px}.migas a{color:var(--gris);text-decoration:none}.migas a:hover{color:var(--crema)}
+h1{font-weight:500;font-size:clamp(36px,6vw,64px);line-height:1.02;letter-spacing:-.045em;color:var(--crema);margin:0 0 22px}
+h2{font-weight:500;font-size:clamp(26px,3.4vw,36px);line-height:1.1;letter-spacing:-.035em;color:var(--crema);margin:64px 0 18px}
+h3{font-weight:500;font-size:21px;letter-spacing:-.02em;color:var(--crema);margin:36px 0 10px}
+.respuesta p{font-size:19px;color:var(--crema);margin:0 0 14px}.fecha{font-size:14px;color:var(--gris);margin:0 0 26px}
+p{margin:0 0 16px}ul,ol{padding-left:22px;margin:0 0 18px}li{margin:0 0 8px}b{color:var(--crema);font-weight:600}
+.tabla{overflow-x:auto;margin:8px 0 22px}table{border-collapse:collapse;width:100%;font-size:15px}th{text-align:left;font-weight:500;color:var(--crema);background:var(--negro-3)}th,td{padding:12px 14px;vertical-align:top}tbody tr:nth-child(even){background:var(--negro-2)}
+.pasos{list-style:none;padding:0;counter-reset:p;display:grid;gap:22px}.pasos li{counter-increment:p;margin:0}.pasos li::before{content:counter(p,decimal-leading-zero);display:block;color:var(--gris);font-size:14px;margin-bottom:6px}.pasos b{display:block;font-size:19px;font-weight:500;margin-bottom:4px}
+.herramienta-zona{margin:30px 0 10px}.ah-hueco{border:1px dashed var(--gris-2);border-radius:6px;padding:48px 20px;text-align:center;color:var(--gris)}
+.aviso{background:var(--negro-2);border-radius:6px;padding:18px 20px;margin:18px 0 0}.aviso p{margin:0}
+details{padding:18px 0}summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:20px;font-size:19px;color:var(--crema)}summary::-webkit-details-marker{display:none}summary::after{content:"+";color:var(--gris);font-size:24px;line-height:1}details[open] summary::after{content:"−"}details p{margin:12px 0 0;max-width:40em}
+.venta{background:var(--negro-2);border-radius:8px;padding:clamp(22px,4vw,40px);margin:64px 0}.venta h2{margin-top:0}.venta .puente{font-size:19px;color:var(--crema)}
+.precio-linea{font-size:17px}.precio-linea b{font-size:30px;font-weight:500;letter-spacing:-.03em;margin-right:6px}
+.acciones{display:flex;flex-wrap:wrap;align-items:center;gap:14px 24px;margin:22px 0 4px}
+.boton{display:inline-block;background:var(--crema);color:var(--negro);padding:14px 22px;border-radius:4px;font-weight:600;font-size:16px;text-decoration:none}
+.liga{color:var(--crema);text-decoration:none;border-bottom:1px solid var(--gris-2);padding-bottom:2px;font-weight:500}
+.alterno{font-size:15px;color:var(--gris);margin:16px 0 0}
+.trabajos{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:26px 0 6px}.trabajos figure{margin:0}
+.ventana{border:1px solid #2c2c2c;border-radius:6px;overflow:hidden;background:#fff}.ventana-barra{display:flex;justify-content:space-between;padding:6px 10px;font-size:11px;color:#555;background:#e9e9e7}.ventana-barra span:last-child{letter-spacing:6px}
+.trabajos figcaption{font-size:14px;color:var(--gris);margin-top:8px}.trabajos figcaption b{display:block;font-weight:500}
+.relacionadas{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;padding:0;list-style:none}.relacionadas a{display:block;padding:16px 18px;background:var(--negro-2);border-radius:6px;text-decoration:none;color:var(--crema)}.relacionadas a span{display:block;font-size:14px;color:var(--gris);margin-top:4px}
+.fuentes{font-size:14px;color:var(--gris)}.fuentes a{color:var(--gris)}
+footer{padding:48px 0 56px;color:var(--gris);font-size:14px}footer a{color:var(--gris)}footer nav{display:flex;flex-wrap:wrap;gap:8px 20px;margin-bottom:12px}
+@media(max-width:720px){.barra nav{gap:14px;font-size:14px}.barra nav .opc{display:none}.trabajos{grid-template-columns:1fr 1fr}.trabajos figure:nth-child(3){display:none}h2{margin-top:52px}}</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://www.aliviane.mx/"},{"@type":"ListItem","position":2,"name":"Guías","item":"https://www.aliviane.mx/guias/"},{"@type":"ListItem","position":3,"name":"Cómo hacer códigos de barras en Excel","item":"https://www.aliviane.mx/guias/codigo-de-barras-en-excel/"}]},{"@type":"WebPage","@id":"https://www.aliviane.mx/guias/codigo-de-barras-en-excel/","url":"https://www.aliviane.mx/guias/codigo-de-barras-en-excel/","name":"Códigos de barras en Excel: 3 métodos y hoja de etiquetas","description":"Excel no trae códigos de barras de fábrica. Te enseñamos el método con fuente, cuándo falla y cómo pasar tu lista de Excel a una hoja de etiquetas en PDF.","inLanguage":"es-MX","datePublished":"2026-11-12","dateModified":"2026-11-12","isPartOf":{"@type":"WebSite","name":"Aliviane","url":"https://www.aliviane.mx/"},"primaryImageOfPage":"https://www.aliviane.mx/img/og/guia.png"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Excel tiene una función para códigos de barras?","acceptedAnswer":{"@type":"Answer","text":"No. Necesitas una fuente, un complemento o un generador aparte."}},{"@type":"Question","name":"¿Puedo hacer códigos de barras en Excel sin instalar nada?","acceptedAnswer":{"@type":"Answer","text":"Sí, si usas un generador. Copias tu columna de Excel y la pegas en la herramienta de esta página."}},{"@type":"Question","name":"¿Por qué mi código hecho con fuente no lo lee el escáner?","acceptedAnswer":{"@type":"Answer","text":"Puede faltar el asterisco en Code 39. En EAN-13 o Code 128 la fuente sola no hace los cálculos."}},{"@type":"Question","name":"¿Qué fuente de código de barras es gratis?","acceptedAnswer":{"@type":"Answer","text":"Libre Barcode 39. Es de licencia abierta y se baja de Google Fonts."}},{"@type":"Question","name":"¿Puedo inventar un código EAN-13 para mi producto?","acceptedAnswer":{"@type":"Answer","text":"Sólo para uso interno. Para vender en cadenas necesitas un código asignado oficialmente."}},{"@type":"Question","name":"¿La hoja de etiquetas lleva marca de agua?","acceptedAnswer":{"@type":"Answer","text":"No. Sólo lleva abajo una línea gris chica que dice «Hecho con Aliviane». Tampoco pide correo ni cuenta."}}]},{"@type":"WebApplication","name":"Cómo hacer códigos de barras en Excel","url":"https://www.aliviane.mx/guias/codigo-de-barras-en-excel/","applicationCategory":"BusinessApplication","operatingSystem":"Cualquiera con navegador","inLanguage":"es-MX","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"MXN"},"provider":{"@type":"Organization","@id":"https://www.aliviane.mx/#aliviane","name":"Aliviane","url":"https://www.aliviane.mx/","email":"diego@aliviane.mx"}}]}</script>
+</head>
+<body>
+<header class="barra"><div class="ancho-h"><a class="marca" href="/?c=f-codigo-de-barras-en-excel" aria-label="Aliviane, inicio"><svg viewBox="0 0 64 64" aria-hidden="true"><rect x="16.5" y="20" width="25" height="26" rx="8" fill="none" stroke="currentColor" stroke-width="7"/><rect x="38" y="16.5" width="7.5" height="33" rx="1" fill="currentColor"/></svg>aliviane</a><nav><a href="/herramientas/">Herramientas</a><a class="opc" href="/guias/">Guías</a><a href="/?c=f-codigo-de-barras-en-excel#trabajos">Trabajos</a><a class="opc" href="/?c=f-codigo-de-barras-en-excel#paquetes">Precios</a></nav></div></header>
+<main class="ancho-h"><nav class="migas" aria-label="Migas"><a href="/?c=f-codigo-de-barras-en-excel">Inicio</a> › <a href="/guias/">Guías</a> › <span>Cómo hacer códigos de barras en Excel</span></nav>
+<h1>Cómo hacer códigos de barras en Excel</h1>
+<p class="fecha">Revisada en noviembre de 2026</p><div class="respuesta"><p>Excel no trae una función para dibujar códigos de barras. Lo más común es usar una fuente de código de barras, un complemento o pasar tu lista a un generador.</p><p>Para Code 39 basta una fuente y poner asteriscos al inicio y al final. Para EAN-13 o Code 128 conviene un generador, como el de abajo, que calcula el código completo y arma la hoja en PDF.</p></div>
+<div class="herramienta-zona"><link rel="stylesheet" href="/css/herramientas.css"><div class="ah-herramienta" data-herramienta="codigo-barras" data-modo="hoja"></div>
+<script type="module">import{montar}from"/js/herramientas/codigo-barras.js";montar(document.querySelector('.ah-herramienta'),{"modo":"hoja","idioma":"es-MX"});</script></div>
+<aside class="aviso" id="aviso-venta" hidden><p>Tu hoja de etiquetas está lista. Si quieres enseñar esos productos en tu propia página, Aliviane te la hace con tu dominio. <a href="https://wa.me/523111223365?text=Hola%2C%20vi%20la%20p%C3%A1gina%20%C2%ABC%C3%B3mo%20hacer%20c%C3%B3digos%20de%20barras%20en%20Excel%C2%BB%20en%20aliviane.mx%20y%20quiero%20una%20p%C3%A1gina%20web%20para%20mi%20negocio.%20(ref%20f-codigo-de-barras-en-excel)" target="_blank" rel="noopener">Pídela por WhatsApp</a></p></aside>
+<script>document.addEventListener('aliviane:resultado',function(e){var a=document.getElementById('aviso-venta');if(a&&e.detail&&["descargar","copiar","leer","consultar"].indexOf(e.detail.accion)>=0)a.hidden=false});</script>
+
+<div class="lectura">
+<h2>Por qué Excel no hace códigos de barras solo</h2>
+<p>Excel guarda números y textos en celdas. Un código de barras es un dibujo que sigue reglas de cada tipo.</p>
+<p>Excel no trae una función que dibuje esas barras. Por eso hay que usar un truco o una herramienta aparte.</p>
+<p>Hay tres caminos. Cada uno sirve para algo distinto.</p>
+<div class="tabla"><table><caption class="fecha">Tres métodos para hacer códigos de barras con Excel</caption><thead><tr><th>Método</th><th>Cómo funciona</th><th>Sirve bien para</th><th>Cuidado</th></tr></thead><tbody><tr><td>Fuente de código de barras</td><td>Cambias la letra de la celda por una fuente de barras</td><td>Code 39 en inventario interno</td><td>No sirve sola para EAN-13 ni Code 128</td></tr><tr><td>Complemento o macro</td><td>Un programa dentro de Excel dibuja el código</td><td>Quien hace miles de códigos seguido</td><td>Algunos son de pago o piden permisos</td></tr><tr><td>Generador externo</td><td>Copias tu lista de Excel y la pegas en un generador</td><td>Etiquetas listas para imprimir</td><td>Pasas los datos de un lado a otro</td></tr></tbody></table></div>
+<p>Para la mayoría de negocios pequeños, el tercero es el más seguro. La herramienta de arriba hace eso sin instalar nada.</p>
+<h2>Método 1, la fuente de Code 39</h2>
+<p>Code 39 es un tipo de código que acepta mayúsculas, números y algunos signos. Es el más fácil de hacer con una fuente.</p>
+<p>La fuente Libre Barcode 39 es gratuita y de licencia abierta. La bajas de Google Fonts y la instalas en tu computadora.</p>
+<h3>Pasos</h3>
+<ol class="pasos"><li><b>Instala la fuente</b>Descarga Libre Barcode 39, abre el archivo y toca instalar.</li><li><b>Escribe tus códigos</b>En la columna A pon tus códigos en mayúsculas, por ejemplo ALM-0012.</li><li><b>Agrega los asteriscos</b>En la columna B escribe la fórmula =&quot;*&quot;&amp;A2&amp;&quot;*&quot; y arrástrala hacia abajo.</li><li><b>Cambia la letra</b>Selecciona la columna B y elige la fuente Libre Barcode 39.</li><li><b>Agranda el tamaño</b>Sube la letra a 36 o más para que el lector la lea.</li><li><b>Prueba antes de imprimir</b>Imprime una hoja y pásala por tu lector.</li></ol>
+<p>Los asteriscos son obligatorios en Code 39. Marcan dónde empieza y dónde termina el código.</p>
+<p>Si olvidas los asteriscos, el lector no leerá nada. Es la falla más común con este método.</p>
+<h3>Por qué la fuente no sirve para todos los tipos</h3>
+<p>EAN-13 y Code 128 no son sólo letras con otra forma. Llevan cálculos y caracteres especiales que una fuente no hace sola.</p>
+<p>EAN-13 lleva un dígito verificador y una estructura por mitades. Code 128 lleva un carácter de control calculado.</p>
+<p>Con una fuente sin esos cálculos, el código se ve bien pero el lector lo rechaza. Por eso para esos tipos conviene un generador.</p>
+<h2>Método 2, complementos y macros</h2>
+<p>Hay complementos que agregan una función de código de barras a Excel. Algunos son gratuitos y otros de pago.</p>
+<p>También se puede escribir una macro que calcule el código. Requiere saber programar en el editor de Excel.</p>
+<p>Antes de instalar un complemento, revisa quién lo hace y qué permisos pide. Tu archivo puede tener precios y datos de clientes.</p>
+<h2>Método 3, de Excel al generador en un minuto</h2>
+<p>Este método usa tu lista de Excel y la herramienta de arriba. No instalas nada y el resultado sale en PDF.</p>
+<ol class="pasos"><li><b>Selecciona la columna</b>En Excel marca la columna con tus códigos, sin el título.</li><li><b>Copia</b>Usa copiar como siempre.</li><li><b>Elige el tipo arriba</b>En la herramienta selecciona EAN-13, Code 128 u otro tipo.</li><li><b>Pega en la lista</b>Pega en el cuadro de códigos de la hoja, uno por renglón.</li><li><b>Elige la medida de etiqueta</b>Selecciona la que coincide con tus hojas de etiquetas.</li><li><b>Baja el PDF</b>Descarga la hoja tamaño carta y mándala a imprimir.</li></ol>
+<p>La herramienta revisa cada renglón. Si un código no sirve para el tipo elegido, te dice en qué renglón está.</p>
+<p>En EAN-13 puedes pegar 12 dígitos y la herramienta calcula el verificador. Si pegas los 13, revisa que el último sea correcto.</p>
+<section class="venta" data-venta>
+<h2>Tus productos en tu propia página</h2>
+<p class="puente">Tus productos ya tienen código y precio. Una página con tu catálogo los enseña a quien te busca. Aliviane te la hace.</p>
+<p class="precio-linea"><b>$1,500</b> con tu dominio incluido. Después $99 al mes con hosting y cambios cada semana.</p>
+
+<div class="acciones"><a class="boton" href="https://wa.me/523111223365?text=Hola%2C%20vi%20la%20p%C3%A1gina%20%C2%ABC%C3%B3mo%20hacer%20c%C3%B3digos%20de%20barras%20en%20Excel%C2%BB%20en%20aliviane.mx%20y%20quiero%20una%20p%C3%A1gina%20web%20para%20mi%20negocio.%20(ref%20f-codigo-de-barras-en-excel)" target="_blank" rel="noopener">Escribir por WhatsApp</a><a class="liga" href="/?c=f-codigo-de-barras-en-excel#trabajos">Ver ejemplos</a></div>
+
+</section>
+<h2>Qué tipo de código elegir</h2>
+<div class="tabla"><table><caption class="fecha">Tipos de código y su uso</caption><thead><tr><th>Tipo</th><th>Qué acepta</th><th>Para qué se usa</th></tr></thead><tbody><tr><td>EAN-13</td><td>13 números</td><td>Productos que se venden en tiendas</td></tr><tr><td>UPC-A</td><td>12 números</td><td>Productos para Estados Unidos</td></tr><tr><td>EAN-8</td><td>8 números</td><td>Productos muy pequeños</td></tr><tr><td>Code 128</td><td>Letras, números y signos</td><td>Inventario, folios y envíos</td></tr><tr><td>Code 39</td><td>Mayúsculas, números y algunos signos</td><td>Inventario interno y gafetes</td></tr><tr><td>ITF</td><td>Sólo números</td><td>Cajas de embarque</td></tr></tbody></table></div>
+<p>Si sólo controlas tu inventario, Code 128 es buena opción. Acepta letras y números y ocupa poco espacio.</p>
+<p>Si vas a vender en cadenas comerciales, ellas te pedirán EAN-13 registrado. Ese número no lo inventas tú, se obtiene con el organismo que asigna los códigos.</p>
+<h2>Cómo se calcula el dígito verificador de EAN-13</h2>
+<p>El último número de un EAN-13 sirve para detectar errores de lectura. Se calcula con los primeros doce.</p>
+<div class="tabla"><table><caption class="fecha">Cálculo del verificador con el ejemplo 750123456789</caption><thead><tr><th>Paso</th><th>Qué haces</th><th>Resultado del ejemplo</th></tr></thead><tbody><tr><td>1</td><td>Suma los dígitos en posición impar</td><td>7 + 0 + 2 + 4 + 6 + 8 = 27</td></tr><tr><td>2</td><td>Suma los dígitos en posición par</td><td>5 + 1 + 3 + 5 + 7 + 9 = 30</td></tr><tr><td>3</td><td>Multiplica la suma par por tres</td><td>30 × 3 = 90</td></tr><tr><td>4</td><td>Suma los dos resultados</td><td>27 + 90 = 117</td></tr><tr><td>5</td><td>Busca cuánto falta para la siguiente decena</td><td>120 − 117 = 3</td></tr></tbody></table></div>
+<p>El verificador del ejemplo es 3. El código completo queda 7501234567893.</p>
+<p>Si la suma ya termina en cero, el verificador es cero. La herramienta hace este cálculo sola al pegar doce dígitos.</p>
+<h2>Cómo preparar tu archivo de Excel</h2>
+<p>Un archivo ordenado evita errores al imprimir. Usa una fila por producto y una columna por dato.</p>
+<div class="tabla"><table><caption class="fecha">Columnas recomendadas</caption><thead><tr><th>Columna</th><th>Ejemplo</th></tr></thead><tbody><tr><td>Código</td><td>7501234567893</td></tr><tr><td>Producto</td><td>Jabón de avena 100 g</td></tr><tr><td>Precio</td><td>45</td></tr><tr><td>Existencia</td><td>24</td></tr><tr><td>Ubicación</td><td>Anaquel 3</td></tr></tbody></table></div>
+<p>Guarda los códigos como texto, no como número. Si no, Excel puede quitar ceros al inicio o mostrarlos en notación científica.</p>
+<p>Para guardarlos como texto, selecciona la columna y cambia el formato de celda a texto antes de escribir.</p>
+<h2>Medidas de etiquetas para imprimir</h2>
+<p>La herramienta trae medidas comunes de hojas de etiquetas tamaño carta. Mide tus etiquetas con una regla antes de elegir.</p>
+<div class="tabla"><table><caption class="fecha">Medidas que trae la herramienta</caption><thead><tr><th>Etiquetas por hoja</th><th>Medida aproximada</th></tr></thead><tbody><tr><td>10</td><td>10.2 × 5.1 cm</td></tr><tr><td>21</td><td>6.4 × 3.8 cm</td></tr><tr><td>30</td><td>6.7 × 2.5 cm</td></tr><tr><td>80</td><td>4.4 × 1.3 cm</td></tr></tbody></table></div>
+<p>Imprime al cien por ciento, sin ajustar a la página. Si la impresora reduce la hoja, las barras no caen en las etiquetas.</p>
+<h2>Leer códigos de barras hacia Excel</h2>
+<p>Un lector de código de barras común funciona como un teclado. Escribe el número en la celda donde está el cursor.</p>
+<p>Por eso puedes usar Excel para contar inventario. Pones el cursor en la columna de códigos y vas escaneando.</p>
+<p>Casi todos los lectores dan un salto de renglón después de cada código. Así el cursor baja solo a la siguiente celda.</p>
+<p>Si quieres saber cuántas piezas tienes de cada código, usa la función CONTAR.SI. Cuenta cuántas veces aparece cada código en la columna.</p>
+<h2>En Google Sheets</h2>
+<p>En Google Sheets el método de la fuente también funciona. La familia Libre Barcode 39 se puede elegir desde el menú de fuentes.</p>
+<p>Escribe la misma fórmula con asteriscos y cambia la letra de la columna. Las mismas limitaciones aplican para EAN-13 y Code 128.</p>
+<p>Para imprimir etiquetas, copia la columna de Sheets y pégala en la herramienta de arriba. Funciona igual que con Excel.</p>
+<h2>Ejemplo de una tienda de abarrotes en Puebla</h2>
+<p>Este es un ejemplo inventado. Una tienda tiene 300 productos en Excel y quiere etiquetar su anaquel.</p>
+<p>Primero separó los productos de marca, que ya traen código de fábrica. Esos no necesitan etiqueta nueva.</p>
+<p>Para los productos a granel creó códigos internos en Code 128, como GRANEL-001. Los pegó en la herramienta y bajó tres hojas de 30 etiquetas.</p>
+<p>Imprimió una hoja de prueba y la pasó por su lector. Cuando leyó bien, imprimió las demás.</p>
+<p>Agregó una columna de código en su Excel de precios. Ahora cobra escaneando y busca precios con el código en lugar del nombre.</p>
+<p>Cada vez que llega un producto nuevo a granel, le da el siguiente número de la serie. Así nunca repite un código.</p>
+<h2>Errores comunes</h2>
+<ul><li>Usar la fuente de Code 39 sin asteriscos.</li><li>Usar una fuente para EAN-13 sin calcular el verificador.</li><li>Dejar que Excel convierta los códigos en notación científica.</li><li>Imprimir la hoja con ajuste a página.</li><li>Imprimir cientos de etiquetas sin probar una primero.</li><li>Inventar números EAN-13 para vender en cadenas.</li></ul>
+<h2>Preguntas frecuentes</h2><details><summary>¿Excel tiene una función para códigos de barras?</summary><p>No. Necesitas una fuente, un complemento o un generador aparte.</p></details><details><summary>¿Puedo hacer códigos de barras en Excel sin instalar nada?</summary><p>Sí, si usas un generador. Copias tu columna de Excel y la pegas en la herramienta de esta página.</p></details><details><summary>¿Por qué mi código hecho con fuente no lo lee el escáner?</summary><p>Puede faltar el asterisco en Code 39. En EAN-13 o Code 128 la fuente sola no hace los cálculos.</p></details><details><summary>¿Qué fuente de código de barras es gratis?</summary><p>Libre Barcode 39. Es de licencia abierta y se baja de Google Fonts.</p></details><details><summary>¿Puedo inventar un código EAN-13 para mi producto?</summary><p>Sólo para uso interno. Para vender en cadenas necesitas un código asignado oficialmente.</p></details><details><summary>¿La hoja de etiquetas lleva marca de agua?</summary><p>No. Sólo lleva abajo una línea gris chica que dice «Hecho con Aliviane». Tampoco pide correo ni cuenta.</p></details>
+<section class="venta" id="contratar" data-venta>
+<h2>¿Hacemos la página con el catálogo de tu tienda?</h2>
+<p class="puente">Tus productos ya tienen código y precio. Una página con tu catálogo los enseña a quien te busca. Aliviane te la hace.</p>
+<p class="precio-linea"><b>$1,500</b> con tu dominio incluido. Después $99 al mes con hosting y cambios cada semana.</p>
+<div class="trabajos"><figure><div class="ventana"><div class="ventana-barra"><span>laola.mx</span><span aria-hidden="true">─□✕</span></div><img src="/img/trabajos/chico/laola.jpg" alt="Página de La Ola en computadora" width="720" height="450" loading="lazy" decoding="async"></div><figcaption><b>La Ola</b>Menú, eventos y lealtad de cuatro sucursales</figcaption></figure><figure><div class="ventana"><div class="ventana-barra"><span>comprafin.com</span><span aria-hidden="true">─□✕</span></div><img src="/img/trabajos/chico/comprafin.jpg" alt="Página de Comprafin en computadora" width="720" height="450" loading="lazy" decoding="async"></div><figcaption><b>Comprafin</b>Precios del día de cada proveedor en una tabla</figcaption></figure><figure><div class="ventana"><div class="ventana-barra"><span>makatea.ai</span><span aria-hidden="true">─□✕</span></div><img src="/img/trabajos/chico/makatea.jpg" alt="Página de Makatea en computadora" width="720" height="450" loading="lazy" decoding="async"></div><figcaption><b>Makatea</b>Recordatorios de pago por WhatsApp</figcaption></figure></div>
+<div class="acciones"><a class="boton" href="https://wa.me/523111223365?text=Hola%2C%20vi%20la%20p%C3%A1gina%20%C2%ABC%C3%B3mo%20hacer%20c%C3%B3digos%20de%20barras%20en%20Excel%C2%BB%20en%20aliviane.mx%20y%20quiero%20una%20p%C3%A1gina%20web%20para%20mi%20negocio.%20(ref%20f-codigo-de-barras-en-excel)" target="_blank" rel="noopener">Escribir por WhatsApp</a><a class="liga" href="/?c=f-codigo-de-barras-en-excel#trabajos">Ver ejemplos</a></div>
+<p class="alterno">También por correo a <a href="mailto:diego@aliviane.mx?subject=P%C3%A1gina%20web%20(ref%20f-codigo-de-barras-en-excel)">diego@aliviane.mx</a>. Te mandamos una muestra antes de que pagues.</p>
+</section>
+<h2>También te puede servir</h2><ul class="relacionadas"><li><a href="/herramientas/generador-de-codigo-de-barras/">Generador de código de barras<span>EAN-13, UPC, CODE128 y hoja de etiquetas en PDF</span></a></li><li><a href="/herramientas/nota-de-remision/">Nota de remisión editable<span>Llénala en línea con logo y firma, o bájala en blanco</span></a></li><li><a href="/herramientas/nota-de-venta/">Nota de venta para llenar<span>Nota de mostrador con precios, descuento y forma de pago</span></a></li><li><a href="/herramientas/lista-de-precios/">Lista de precios para tu negocio<span>Clave, descripción, precio y vigencia en PDF</span></a></li><li><a href="/plantillas/formato-de-cotizacion/">Formato de cotización con ejemplo<span>Llénala en línea con tu logo e IVA y bájala en PDF</span></a></li><li><a href="/pagina-web-para-negocio/">Página web para tu negocio<span>Tu página hecha y publicada en días, con dominio a tu nombre</span></a></li></ul>
+<p class="fuentes">Fuentes: <a href="https://fonts.google.com/specimen/Libre+Barcode+39" target="_blank" rel="noopener">Google Fonts, familia Libre Barcode 39 (licencia abierta)</a></p>
+</div></main>
+<footer><div class="ancho"><nav><a href="/herramientas/">Herramientas</a><a href="/guias/">Guías</a><a href="/plantillas/">Plantillas</a><a href="/?c=f-codigo-de-barras-en-excel#paquetes">Precios</a><a href="mailto:diego@aliviane.mx">diego@aliviane.mx</a></nav><p>Aliviane · Páginas web para negocios en México</p></div></footer>
+</body>
+</html>
