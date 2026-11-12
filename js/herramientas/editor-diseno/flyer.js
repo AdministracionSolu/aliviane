@@ -40,6 +40,49 @@ function pieContacto(k, o) {
   return k.contactos(Object.assign({ campos: ['whatsapp', 'telefono', 'direccion', 'web'] }, o));
 }
 
+// Hoja de boletos de rifa con talón, numerados en serie (k.folio). Sólo en el modo «rifa».
+function boleto(k, x, y, w, h, num) {
+  const { p } = k, pad = h * 0.11, tw = w * 0.3, gris = k.mezclar(p.tinta, p.fondo, 0.45);
+  const bx = x + tw + pad, lado = h * 0.34, bw = w - tw - 2 * pad - lado - pad * 0.6;
+  const el = [k.R(x, y, w, h, null, { borde: gris, grosor: h * 0.008, radio: h * 0.04 }),
+    k.R(x, y, tw, h, p.suave, { radio: h * 0.04 }),
+    k.L(x + tw, y + pad * 0.4, x + tw, y + h - pad * 0.4, gris, h * 0.012, { guiones: [h * 0.04, h * 0.03] })];
+  const tx = x + pad * 0.8, tw2 = tw - pad * 1.6;
+  el.push(k.X('No. ' + num, { x: tx, y: y + pad, w: tw2, tam: h * 0.13, fuente: 'titulo', color: p.acento, maxLineas: 1, id: 'numero' }));
+  for (const [txt, yy] of [['Nombre', 0.44], ['Teléfono', 0.7]]) {
+    el.push(k.X(txt, { x: tx, y: y + h * yy, w: tw2, tam: h * 0.065, color: gris, maxLineas: 1, id: 'numero' }));
+    el.push(k.L(tx, y + h * (yy + 0.17), tx + tw2, y + h * (yy + 0.17), gris, h * 0.008));
+  }
+  el.push(k.T('titulo', { x: bx, y: y + pad, w: bw, tam: h * 0.15, fuente: 'titulo', maxLineas: 1 }));
+  el.push(k.T('detalles', { x: bx, y: y + h * 0.33, w: bw, tam: h * 0.068, maxLineas: 3, interlinea: 1.15 }));
+  el.push(k.X([k.d.negocio, k.d.whatsapp || k.d.telefono].filter(Boolean).join(' · '), { x: bx, y: y + h - pad - h * 0.13, vy: 'abajo', w: bw, tam: h * 0.06, color: gris, maxLineas: 1, id: 'negocio', campo: 'negocio' }));
+  el.push(k.X([k.d.oferta, k.d.fecha].filter(Boolean).join(' · '), { x: bx, y: y + h - pad, vy: 'abajo', w: bw, tam: h * 0.08, fuente: 'extra', color: p.acento, maxLineas: 1, id: 'oferta', campo: 'oferta' }));
+  const lx = x + w - pad - lado;
+  el.push(k.X(num, { x: lx - pad, y: y + pad, w: lado + pad, tam: h * 0.13, fuente: 'titulo', alin: 'der', color: p.acento, maxLineas: 1, id: 'numero' }));
+  el.push(k.qr ? k.Q(lx, y + h - pad - lado, lado) : k.I('logo', lx, y + h - pad - lado, lado, lado));
+  return el;
+}
+
+const BOLETOS = {
+  id: 'boletos', nombre: 'Boletos numerados',
+  folio: { cifras: 3, siempre: true },
+  fuentes: { titulo: 'bricolage', texto: 'archivo-400', extra: 'archivo-700' },
+  paleta: { fondo: '#FFFFFF', tinta: '#2A1F3D', acento: '#7C3AED', suave: '#F2E3C6' },
+  ejemplo: {
+    titulo: 'Gran rifa', oferta: 'Boleto $50', fecha: 'Sorteo el 12 de diciembre',
+    detalles: '1er lugar · Pantalla de 55 pulgadas\n2º lugar · Bicicleta de montaña\n3er lugar · Despensa de $1,500',
+    negocio: 'Comité de padres · ST 54', whatsapp: '999 341 2286',
+  },
+  dibujar(k) {
+    const { W, H, u } = k, px = k.unidad === 'px';
+    const cols = !px && W > 180 ? 2 : 1, filas = px ? 3 : 5, m = u * 3.5, g = u * 2.2;
+    const cw = (W - 2 * m - (cols - 1) * g) / cols, ch = (H - 2 * m - (filas - 1) * g) / filas;
+    const el = [];
+    for (let f = 0; f < filas; f++) for (let c = 0; c < cols; c++) el.push(...boleto(k, m + c * (cw + g), m + f * (ch + g), cw, ch, k.folio(f * cols + c)));
+    return [{ el }];
+  },
+};
+
 export default (modo) => ({
   archivo: modo === 'volante' ? 'volante' : 'flyer',
   formatos: [
@@ -293,5 +336,6 @@ export default (modo) => ({
         return [{ el: [...arriba, f, ...c.el, qr] }];
       },
     },
+    ...(modo === 'rifa' ? [BOLETOS] : []),
   ],
 });

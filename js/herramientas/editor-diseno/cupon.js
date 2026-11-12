@@ -24,6 +24,8 @@ export default {
   imagenes: ['logo'],
   qr: false,
   hoja: true,
+  // Folio consecutivo opcional: va en el campo «codigo» de cada cupón (No. 0001, No. 0002…).
+  folio: { campo: 'codigo', cifras: 4, prefijo: 'No. ' },
   disenos: [
     {
       id: 'talon', nombre: 'Con talón',

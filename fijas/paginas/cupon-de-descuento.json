@@ -91,7 +91,7 @@
     },
     {
       "ul": [
-        "Usa el campo de folio y numera cada tanda a mano.",
+        "Activa el folio consecutivo para que cada cupón de la hoja salga numerado.",
         "Firma o sella cada cupón al entregarlo.",
         "Pide el cupón físico y guárdalo en caja al aplicarlo.",
         "Cambia el diseño en cada campaña para notar copias viejas."
@@ -155,7 +155,7 @@
     },
     {
       "pregunta": "¿Puedo numerar cada cupón?",
-      "respuesta": "No en automático. Usa el campo de folio por tanda o numéralos a mano."
+      "respuesta": "Sí. Activa el folio consecutivo y cada cupón sale con su número. El siguiente número se guarda en tu equipo."
     },
     {
       "pregunta": "¿Puedo poner mi logo?",
@@ -197,5 +197,5 @@
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
   "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/cupon (16 × 7: 3 por hoja; 9 × 5: 10 por hoja, calculado con hojaDe). Sin QR. Mejora de motor: folio consecutivo automático en la hoja."
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/cupon (16 × 7: 3 por hoja; 9 × 5: 10 por hoja, calculado con hojaDe). Sin QR. Folio consecutivo en la hoja (R1): casilla del editor, número guardado en el equipo."
 }

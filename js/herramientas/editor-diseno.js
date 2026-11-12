@@ -22,7 +22,7 @@ export const MODOS = {
   banner: 'lona', lona: 'lona', letrero: 'letrero', 'letrero-abierto-cerrado': 'letrero-abierto-cerrado',
   horario: 'horario', 'se-vende': 'se-vende', cupon: 'cupon', 'tarjeta-lealtad': 'tarjeta-lealtad',
   'portada-facebook': 'portada-facebook', 'post-instagram': 'post-instagram', 'iconos-destacadas': 'iconos-destacadas',
-  folleto: 'folleto', 'tarjeta-digital': 'tarjeta-presentacion',
+  folleto: 'folleto', 'tarjeta-digital': 'tarjeta-presentacion', rifa: 'flyer',
 };
 // Modos que abren en otra medida que la de su archivo de diseños.
 const FORMATO_MODO = { 'tarjeta-digital': 'digital' };
@@ -64,6 +64,12 @@ export const TEXTOS = {
   pie: 'Poner «Hecho con Aliviane · aliviane.mx» al pie',
   sangrado: 'PDF para imprenta con 3 mm de sangrado y marcas de corte',
   sangradoAyuda: (m) => `PDF de ${m} más 3 mm de sangrado por lado, con marcas de corte.`,
+  folio: 'Folio consecutivo',
+  folioActivar: 'Numerar cada pieza con folio consecutivo',
+  folioInicio: 'Primer número',
+  folioHojas: 'Cuántas hojas o páginas bajar',
+  folioAyuda: 'Cada descarga sigue la numeración. El número que sigue se guarda en este equipo.',
+  folioSigue: (n) => `El siguiente número es ${n}.`,
   mover: 'Mover y cambiar tamaño',
   moverAyuda: 'Arrastra un texto o una imagen en la vista. En celular, tócalo y usa los botones.',
   nada: 'Nada elegido',
@@ -87,7 +93,7 @@ export const TEXTOS = {
   mueve: (n) => `Mover ${n}`,
 };
 
-const NOMBRES_ESPECIALES = { logo: 'Logo', foto: 'Foto', qr: 'Código QR' };
+const NOMBRES_ESPECIALES = { logo: 'Logo', foto: 'Foto', qr: 'Código QR', numero: 'Número' };
 const MAX_AREA = 36e6;
 const LADO_MAX = 16000;
 
@@ -152,6 +158,14 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     op: Object.assign({}, previo.op || {}),
   };
   for (const o of cfg.opciones || []) if (st.op[o.id] == null) st.op[o.id] = o.defecto;
+  // Folio consecutivo: cfg.folio (cupón, opcional) o dis.folio con siempre (boletos). k.folio(i) da el número i de la pieza.
+  const claveFolio = clave + '-folio';
+  const folioPrev = leer(claveFolio) || {};
+  st.folio = { activo: !!folioPrev.activo, inicio: folioPrev.inicio >= 1 ? folioPrev.inicio : 1, hojas: 1 };
+  let folioDesde = null, folioUsados = 0;
+  const folioCfg = () => cfg.folio || disenos[st.dis].folio || null;
+  const folioActivo = () => { const f = folioCfg(); return !!f && (!!f.siempre || st.folio.activo); };
+  const folioTxt = (n) => { const f = folioCfg() || {}; return (f.prefijo || '') + String(n).padStart(f.cifras || 3, '0'); };
   const ejemplo = () => disenos[st.dis].ejemplo || {};
   for (const c of cfg.campos) st.datos[c.id] = st.editados.has(c.id) && previo.datos && c.id in previo.datos ? previo.datos[c.id] : (ejemplo()[c.id] ?? '');
 
@@ -266,6 +280,26 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     bloqueQR.append(h('label', { class: 'ah-check' }, chk, h('span', { text: t.qr })), sub);
   }
 
+  // folio
+  const bloqueFolio = h('div', { class: 'ah-grupo', hidden: true }, h('h3', { class: 'ahd-sub', text: t.folio }));
+  const chkFolio = h('input', { type: 'checkbox', checked: st.folio.activo });
+  const filaChkFolio = h('label', { class: 'ah-check' }, chkFolio, h('span', { text: t.folioActivar }));
+  const numero = (v, max) => h('input', { type: 'number', class: 'ah-input', min: 1, max, step: 1, inputmode: 'numeric', value: String(v) });
+  const entInicio = numero(st.folio.inicio, 999999), entHojas = numero(1, 50);
+  const cajaFolio = h('div', { class: 'ah-fila' }, campo(t.folioInicio, entInicio), campo(t.folioHojas, entHojas));
+  bloqueFolio.append(filaChkFolio, cajaFolio, h('p', { class: 'ah-ayuda', text: t.folioAyuda }));
+  chkFolio.addEventListener('change', () => { st.folio.activo = chkFolio.checked; guardarFolio(); mostrarFolio(); todo(); });
+  entInicio.addEventListener('input', () => { const v = parseInt(entInicio.value, 10); if (v >= 1 && v <= 999999) { st.folio.inicio = v; guardarFolio(); programar(); } });
+  entHojas.addEventListener('input', () => { const v = parseInt(entHojas.value, 10); if (v >= 1 && v <= 50) st.folio.hojas = v; });
+  function mostrarFolio() {
+    const f = folioCfg();
+    bloqueFolio.hidden = !f; filaChkFolio.hidden = !f || !!f.siempre; cajaFolio.hidden = !folioActivo();
+    const c = cfg.folio && camposEl[cfg.folio.campo];
+    if (c) c.disabled = folioActivo();
+  }
+  function guardarFolio() { guardar(claveFolio, { activo: st.folio.activo, inicio: st.folio.inicio }); }
+  function avanzarFolio(n) { if (!n) return; st.folio.inicio += n; entInicio.value = String(st.folio.inicio); guardarFolio(); }
+
   // colores
   const bloqueColor = h('div', { class: 'ah-grupo' }, h('h3', { class: 'ahd-sub', text: t.colores }));
   const filaPaletas = h('div', { class: 'ahd-paletas', role: 'group', 'aria-label': t.combinaciones });
@@ -299,6 +333,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
   if (chipsFormato) columna.append(chipsFormato, cajaMedida);
   columna.append(bloqueTextos);
   if ((cfg.opciones || []).length) columna.append(bloqueOpciones);
+  columna.append(bloqueFolio);
   columna.append(bloqueImg, bloqueQR, bloqueColor, bloqueFuente, h('label', { class: 'ah-check' }, chkPie, h('span', { text: t.pie })));
 
   // ---------- vista ----------
@@ -362,11 +397,14 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
   function escena(dis, datos, pal, fmt, conMov, presentes, qr) {
     const W = fmt.ancho, H = fmt.alto, u = Math.min(W, H) / 100;
     const fu = fuentesCargadas;
+    const desde = folioDesde ?? st.folio.inicio;
+    if (conMov && cfg.folio && cfg.folio.campo && folioActivo()) { datos = Object.assign({}, datos, { [cfg.folio.campo]: folioTxt(desde) }); folioUsados = Math.max(folioUsados, 1); }
     const res = (el) => { if (el && el.tipo === 'texto') el.fuente = rolFuente(dis, el.fuente || 'texto'); return el; };
     const k = {
       W, H, u, d: datos, p: pal, op: st.op, formato: fmt.id, unidad: fmt.u || 'mm',
       vertical: H > W * 1.08, horizontal: W > H * 1.08, ratio: W / H,
       logo: !!presentes.logo, foto: !!presentes.foto, qr,
+      folio(i = 0) { folioUsados = Math.max(folioUsados, i + 1); return folioTxt(desde + i); },
       mezclar, oscuro: esOscuro,
       T(c, o) { const v = datos[c]; if (v == null || !String(v).trim()) return null; return Object.assign({ tipo: 'texto', id: c, campo: c, texto: String(v), fuente: 'texto', color: pal.tinta }, o); },
       X(texto, o) { if (!texto) return null; return Object.assign({ tipo: 'texto', texto: String(texto), fuente: 'texto', color: pal.tinta }, o); },
@@ -470,7 +508,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     const dis = disenos[st.dis];
     await fuentesDe(dis);
     const fmt = formatoActual();
-    caras = escena(dis, st.datos, paleta(), fmt, true, st.imgs, qrTexto());
+    caras = piezaCon(st.folio.inicio);
     if (st.cara >= caras.length) st.cara = 0;
     pintarCaras();
     const cara = caras[st.cara];
@@ -509,6 +547,15 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     pintarCapa(cara, w / cara.ancho);
     pintarDatosDescarga(fmt, caras.length);
     guardar(clave, { dis: dis.id, formato: st.formato, medida: st.medida, datos: st.datos, editados: [...st.editados], paleta: st.paleta, fuentes: st.fuentes, qr: st.qr, pie: st.pie, sangrado: st.sangrado, op: st.op });
+  }
+
+  // Caras de la pieza con su primer folio en «desde»; caras.folios = cuántos números usa (0 sin folio).
+  function piezaCon(desde) {
+    folioDesde = desde; folioUsados = 0;
+    const c = escena(disenos[st.dis], st.datos, paleta(), formatoActual(), true, st.imgs, qrTexto());
+    c.folios = folioActivo() ? Math.max(1, folioUsados) : 0;
+    folioDesde = null;
+    return c;
   }
 
   function pintarCaras() {
@@ -665,6 +712,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     }
     sincronizarColores();
     pintarPaletas();
+    mostrarFolio();
     todo();
   }
 
@@ -791,6 +839,8 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     est.decir(t.preparando, 0);
     try {
       await render();
+      const cf = caras.folios, hojas = cf ? st.folio.hojas : 1;
+      let usados = cf;
       if (tipo === 'png') {
         const c = await lienzoDe(caras[st.cara], fmt);
         const blob = await pngConPPP(c, pxDe(fmt)[2]);
@@ -805,30 +855,42 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
       } else if (tipo === 'pdf') {
         const k = 72 / 25.4;
         const pdf = new PDF();
-        for (const cara of caras) {
-          if (conSangrado(fmt)) paginaSangrada(pdf, cara, k);
-          else pdf.pagina(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, st.pie));
+        for (let n = 0; n < hojas; n++) {
+          for (const cara of n ? piezaCon(st.folio.inicio + n * cf) : caras) {
+            if (conSangrado(fmt)) paginaSangrada(pdf, cara, k);
+            else pdf.pagina(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, st.pie));
+          }
         }
+        usados = hojas * cf;
         descargar(await pdf.blob(base), base + '.pdf');
       } else if (tipo === 'hoja') {
         const hoja = hojaDe(fmt);
         const k = 72 / 25.4;
         const pdf = new PDF();
-        const mk = marcasHoja(hoja, fmt, k);
-        caras.forEach((cara, i) => {
-          const fm = pdf.forma(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, false));
-          let s = mk.s;
-          for (const [x, y, c, f] of mk.pos) {
-            const espejo = i % 2 === 1;
-            const xx = espejo ? mk.pos.find((p) => p[2] === hoja.cols - 1 - c && p[3] === f)[0] : x;
-            s += `q 1 0 0 1 ${(xx * k).toFixed(2)} ${((hoja.H - y - fmt.alto) * k).toFixed(2)} cm /${fm} Do Q `;
-          }
-          if (st.pie) s += pieHoja(hoja, k);
-          pdf.pagina(hoja.W * k, hoja.H * k, s, [fm]);
-        });
+        const mk = marcasHoja(hoja, fmt, k), porHoja = mk.pos.length;
+        for (let n = 0; n < hojas; n++) {
+          // Con folio, cada lugar de la hoja lleva su número (y el reverso, el mismo número en el lugar espejo).
+          const piezas = cf ? mk.pos.map((_, j) => piezaCon(st.folio.inicio + (n * porHoja + j) * cf)) : null;
+          caras.forEach((cara, i) => {
+            const unica = cf ? null : pdf.forma(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, cara, k, false));
+            const formas = unica ? [unica] : [];
+            let s = mk.s;
+            mk.pos.forEach(([x, y, c, f], j) => {
+              const fm = unica || pdf.forma(cara.ancho * k, cara.alto * k, contenidoPDF(pdf, piezas[j][i], k, false));
+              if (!unica) formas.push(fm);
+              const xx = i % 2 === 1 ? mk.pos.find((p) => p[2] === hoja.cols - 1 - c && p[3] === f)[0] : x;
+              s += `q 1 0 0 1 ${(xx * k).toFixed(2)} ${((hoja.H - y - fmt.alto) * k).toFixed(2)} cm /${fm} Do Q `;
+            });
+            if (st.pie) s += pieHoja(hoja, k);
+            pdf.pagina(hoja.W * k, hoja.H * k, s, formas);
+          });
+        }
+        usados = hojas * porHoja * cf;
         descargar(await pdf.blob(base), base + '-hoja-carta.pdf');
       }
-      est.decir(t.listo);
+      avanzarFolio(usados);
+      est.decir(t.listo + (usados ? ' ' + t.folioSigue(folioTxt(st.folio.inicio)) : ''));
+      if (usados) programar(0);
       avisar(contenedor, ID, 'descargar');
     } catch (e) {
       console.error(e);
@@ -846,6 +908,7 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
   function todo() { programar(0); pintarMiniaturas(); }
 
   mostrarMedida();
+  mostrarFolio();
   sincronizarColores();
   pintarPaletas();
   render().then(() => pintarMiniaturas());
@@ -854,6 +917,6 @@ function armar(contenedor, raiz, cfg, modo, t, opciones) {
     new ResizeObserver(() => { const w = escenario.clientWidth; if (Math.abs(w - anchoPrevio) > 4) { anchoPrevio = w; programar(60); } }).observe(escenario);
   }
   // Para pruebas automáticas.
-  raiz.ahd = { st, accion, render: () => render(), caras: () => caras, pxDe: () => pxDe(formatoActual()), elegirDiseno, listo: () => enCurso };
+  raiz.ahd = { st, accion, piezaCon, render: () => render(), caras: () => caras, pxDe: () => pxDe(formatoActual()), elegirDiseno, listo: () => enCurso };
 }
 
