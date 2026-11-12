@@ -1,0 +1,285 @@
+{
+  "id": "publicidad-para-unas",
+  "slug": "publicidad-para-unas",
+  "molde": "por-giro",
+  "cabeza": "uñas publicidad",
+  "busquedas": [
+    "publicidad para uñas",
+    "publicidad uñas",
+    "publicidad de uñas",
+    "publicidades de uñas",
+    "página web para salón de uñas"
+  ],
+  "title": "Uñas publicidad que llena tu agenda y tu página web",
+  "h1": "Publicidad para uñas que llena tu agenda",
+  "description": "Ideas de publicidad para uñas que sí traen clientas, y la página que necesita tu salón. Galería, precios y citas por WhatsApp desde $1,500 con tu dominio.",
+  "resumen": "Ideas que traen clientas y la página que necesita tu salón",
+  "categoria": "Por giro",
+  "revisada": "2026-11",
+  "servicio": {
+    "nombre": "Página web para salón de uñas",
+    "tipo": "Diseño de páginas web"
+  },
+  "respuesta": [
+    "La mejor publicidad para uñas son fotos reales de tus diseños y clientas que te recomiendan. Ponlas donde te buscan y facilita que aparten por WhatsApp.",
+    "Tu página junta todo en un solo lugar. Galería, precios, ubicación y un botón para apartar tu cita."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué necesita la página de un salón de uñas"
+    },
+    {
+      "p": "Una clienta nueva quiere ver tres cosas antes de escribirte. Cómo trabajas, cuánto cuesta y dónde estás."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Sección",
+          "Qué poner",
+          "Por qué vende"
+        ],
+        "filas": [
+          [
+            "Galería",
+            "Fotos de tus diseños con buena luz y fondo limpio",
+            "Es lo primero que revisa una clienta"
+          ],
+          [
+            "Lista de precios",
+            "Cada servicio con su precio y lo que incluye",
+            "Evita el mensaje de cuánto cuesta"
+          ],
+          [
+            "Apartar cita",
+            "Botón a tu WhatsApp con el servicio ya escrito",
+            "La clienta aparta en un toque"
+          ],
+          [
+            "Ubicación y horario",
+            "Mapa, referencias y días que abres",
+            "Llega sin perderse"
+          ],
+          [
+            "Políticas",
+            "Anticipo, tolerancia y cancelaciones",
+            "Menos citas perdidas"
+          ],
+          [
+            "Promociones",
+            "La del mes o la de temporada",
+            "Da una razón para venir ya"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las fotos son tu catálogo. Toma cada diseño terminado con luz de día y la mano en la misma posición."
+    },
+    {
+      "p": "Separa la galería por estilo para que encuentren rápido lo que buscan. Por ejemplo francés, nude o efecto mármol."
+    },
+    {
+      "h2": "Ejemplo de cómo se ve"
+    },
+    {
+      "p": "Así ordenamos la landing de un salón de uñas. Todo cabe en una sola página que se recorre con el dedo."
+    },
+    {
+      "ol": [
+        "Arriba va el nombre del salón, la colonia y el botón de apartar cita.",
+        "Después una tira de fotos de tus mejores diseños.",
+        "Luego la lista de precios por servicio.",
+        "Después reseñas de clientas tomadas de tu ficha de Google.",
+        "Al final mapa, horario, políticas y otra vez el botón."
+      ]
+    },
+    {
+      "p": "El mensaje que llega a tu WhatsApp ya dice qué servicio quiere la clienta. Tú sólo contestas con el día y la hora."
+    },
+    {
+      "h2": "Cómo tomar fotos de uñas que vendan"
+    },
+    {
+      "p": "No necesitas cámara profesional. Con tu celular y estos cuidados tus fotos se ven parejas y limpias."
+    },
+    {
+      "ul": [
+        "Usa luz de ventana y apaga el foco amarillo.",
+        "Pon siempre el mismo fondo liso detrás de la mano.",
+        "Limpia la cutícula y la piel antes de la foto.",
+        "Toma la mano en la misma posición para toda la galería.",
+        "No uses filtros que cambien el color del esmalte."
+      ]
+    },
+    {
+      "p": "Una galería pareja da confianza. La clienta siente que lo que ve es lo que va a recibir."
+    },
+    {
+      "h3": "Qué poner en tu lista de precios"
+    },
+    {
+      "p": "Escribe cada servicio con lo que incluye y cuánto dura. Así la clienta sabe cuánto tiempo apartar."
+    },
+    {
+      "ul": [
+        "Aplicación de gel o acrílico con largo incluido.",
+        "Retiro de material anterior.",
+        "Diseño por uña o por mano.",
+        "Pedicure con o sin gel.",
+        "Costo extra por largo especial o pedrería."
+      ]
+    },
+    {
+      "p": "Si tus precios cambian por diseño, pon un precio desde. Es mejor que dejar el espacio vacío."
+    },
+    {
+      "h2": "Ideas de publicidad que sí traen clientas"
+    },
+    {
+      "h3": "1. Fotos de antes y después"
+    },
+    {
+      "p": "Muestran tu trabajo mejor que cualquier frase. Pide permiso y no enseñes la cara de tu clienta."
+    },
+    {
+      "h3": "2. Tu ficha de Google con reseñas"
+    },
+    {
+      "p": "Mucha gente busca salón de uñas cerca de mí. Tu ficha de [Google Mi Negocio](id:google-mi-negocio) con fotos y reseñas aparece en esa búsqueda."
+    },
+    {
+      "p": "Pide la reseña al terminar, cuando la clienta está viendo sus uñas. Mándale la liga directa por WhatsApp."
+    },
+    {
+      "h3": "3. Instagram con tu galería"
+    },
+    {
+      "p": "Publica cada diseño terminado y guarda los mejores en historias destacadas. Pon la liga de tu página en tu biografía."
+    },
+    {
+      "h3": "4. Promoción de temporada"
+    },
+    {
+      "p": "Las fechas mueven la agenda. Arma diseños para día de muertos, navidad, san valentín o graduaciones con anticipación."
+    },
+    {
+      "p": "Anuncia la promoción con un [flyer](id:flyer) en tus redes y en tu página. Pon fecha de fin para que aparten pronto."
+    },
+    {
+      "h3": "5. Tarjeta de lealtad"
+    },
+    {
+      "p": "Un sello por visita y un servicio de regalo al completar la tarjeta. Haz la tuya con la [tarjeta de lealtad](id:tarjeta-de-lealtad) gratis."
+    },
+    {
+      "h3": "6. Recomendación con premio"
+    },
+    {
+      "p": "Ofrece un descuento a la clienta que traiga a una amiga. Las dos ganan y tu agenda se llena con gente que ya confía en ti."
+    },
+    {
+      "h3": "7. Un QR en tu mesa de trabajo"
+    },
+    {
+      "p": "Mientras secan sus uñas, tus clientas ven el celular. Un QR que abra tu galería las invita a apartar la siguiente cita."
+    },
+    {
+      "h2": "Frases para tu publicidad de uñas"
+    },
+    {
+      "ul": [
+        "Tus uñas listas para la fiesta. Aparta tu lugar.",
+        "Diseños nuevos cada semana. Ve la galería.",
+        "Retiro y nuevo set en una sola cita.",
+        "Uñas que duran. Precio desde la primera visita.",
+        "Trae a una amiga y las dos tienen descuento."
+      ]
+    },
+    {
+      "p": "Escribe tus frases cortas y con una sola idea. Si quieres más opciones, usa el [generador de slogan](id:slogan)."
+    },
+    {
+      "h2": "Errores que vacían la agenda"
+    },
+    {
+      "ul": [
+        "Publicar fotos de otros salones como si fueran tuyas.",
+        "No poner precios y contestar cien veces lo mismo.",
+        "Dejar mensajes sin contestar por horas.",
+        "No pedir anticipo en citas largas de fin de semana.",
+        "Tener un teléfono viejo en tu ficha de Google."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta la página de mi salón de uñas?",
+      "respuesta": "$1,500 con tu dominio incluido. Después $99 al mes con hosting y cambios cada semana."
+    },
+    {
+      "pregunta": "¿Puedo cambiar las fotos de la galería?",
+      "respuesta": "Sí. Nos mandas las nuevas por WhatsApp y quedan en tu página el sábado."
+    },
+    {
+      "pregunta": "¿Mis clientas pueden apartar desde la página?",
+      "respuesta": "Sí. El botón abre tu WhatsApp con el servicio ya escrito."
+    },
+    {
+      "pregunta": "¿Sirve si trabajo desde mi casa?",
+      "respuesta": "Sí. Ponemos tu zona en lugar de la dirección exacta y la das al confirmar la cita."
+    },
+    {
+      "pregunta": "¿Necesito Instagram para tener página?",
+      "respuesta": "No. Si lo tienes, lo ligamos desde la página para que vean más diseños."
+    },
+    {
+      "pregunta": "¿La página me trae clientas sola?",
+      "respuesta": "No sola. Funciona junto con tu ficha de Google, tus redes y las recomendaciones."
+    }
+  ],
+  "relacionadas": [
+    "logo-para-unas",
+    "tarjeta-de-lealtad",
+    "flyer",
+    "google-mi-negocio",
+    "diseno-de-paginas-web",
+    "nombres-para-salon-de-belleza"
+  ],
+  "venta": {
+    "puente": "Tu salón puede tener una página con tu galería, tus precios y un botón para apartar cita.",
+    "tituloCorto": "La página de tu salón por $1,500",
+    "titulo": "¿Hacemos la página de tu salón?",
+    "mensaje": "Hola, vi la página de publicidad para uñas en aliviane.mx y quiero una página para mi salón. (ref f-publicidad-para-unas)",
+    "trabajos": [
+      "avelina",
+      "laola",
+      "pilsi"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://biz.booksy.com/es-es/blog/consejos-de-marketing-para-salones-de-unas",
+      "titulo": "Consejos de marketing para salones de uñas",
+      "promete": "Clientas fieles, recomendaciones y anuncios pagados; vende su agenda, es de España"
+    },
+    {
+      "posicion": 2,
+      "url": "https://agendapro.com/blog/marketing-para-salon-de-unas/",
+      "titulo": "10 Estrategias de marketing para salón de uñas",
+      "promete": "Lista de estrategias con Meta y Google Ads; vende su software de citas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tiendanube.com/mx/herramientas/generador-de-eslogan/eslogan-para-unas",
+      "titulo": "Eslogan para uñas",
+      "promete": "Generador de frases; nada sobre la página ni la ficha de Google"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Muestra de molde por giro (tanda 1). Intención mezclada: ideas de publicidad + página del salón. Trabajos: no hay un salón de uñas en el portafolio; cuando haya una muestra del giro en sitios/, ponerla."
+}

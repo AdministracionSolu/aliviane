@@ -1,0 +1,98 @@
+{
+  "id": "generador-de-qr",
+  "slug": "generador-de-qr",
+  "molde": "herramienta",
+  "cabeza": "generador de qr",
+  "busquedas": ["qr", "código qr", "crear código qr gratis", "crear qr", "generar qr", "codigo qr web", "diseñar código qr", "crear qr con link", "convertir link a qr", "link código qr", "qr gratis sin caducidad", "qr gratis para siempre", "código qr de prueba", "qr que es"],
+  "title": "Generador de QR gratis sin registro ni caducidad",
+  "h1": "Generador de QR gratis",
+  "description": "Crea tu código QR gratis desde un link. Sin registro, sin marca de agua y sin fecha de caducidad. Descárgalo en PNG o SVG y pruébalo con tu celular.",
+  "resumen": "Convierte un link en código QR y descárgalo en PNG o SVG",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Pega el link de tu página y tu código QR aparece al momento. Lo descargas en PNG o SVG sin crear cuenta. No caduca y no lleva marca de agua."
+  ],
+  "herramienta": { "id": "qr", "modo": "link" },
+  "cuerpo": [
+    { "h2": "Cómo crear tu QR en cuatro pasos" },
+    { "pasos": [
+      { "titulo": "Pega tu link", "texto": "Copia la dirección de tu página, tu menú o tu perfil. Pégala completa en el campo de arriba." },
+      { "titulo": "Elige colores y tamaño", "texto": "Usa un color oscuro sobre fondo claro. Así lo lee cualquier celular sin batallar." },
+      { "titulo": "Escanéalo antes de bajarlo", "texto": "Apunta la cámara de tu celular a la pantalla. Revisa que abra la página correcta." },
+      { "titulo": "Descarga el archivo", "texto": "El PNG sirve para redes y documentos. El SVG sirve para imprenta y lonas grandes." }
+    ] },
+    { "h2": "Por qué este QR no caduca" },
+    { "p": "Hay dos tipos de código QR. El **estático** guarda tu link dentro de sus cuadros. El **dinámico** guarda un link intermedio que controla otra empresa." },
+    { "p": "El dinámico deja de abrir si esa empresa cobra o cierra tu cuenta. El estático funciona mientras exista tu página. Este generador hace QR estáticos." },
+    { "p": "Tu link no pasa por nuestros servidores. El código se arma en tu navegador y se queda en tu equipo." },
+    { "tabla": {
+      "columnas": ["", "QR estático", "QR dinámico"],
+      "filas": [
+        ["Dónde vive el link", "Dentro del código", "En el servidor de otra empresa"],
+        ["¿Caduca?", "No", "Depende del plan que pagues"],
+        ["¿Puedes cambiar el destino?", "No, haces otro QR", "Sí, desde su panel"],
+        ["¿Cuenta los escaneos?", "No", "Sí"],
+        ["Costo aquí", "Gratis", "No lo ofrecemos"]
+      ]
+    } },
+    { "p": "Si quieres cambiar el destino sin reimprimir, apunta el QR a tu propia página. Después cambias lo que muestra esa página y el QR sigue igual." },
+    { "h2": "Qué tan grande imprimirlo" },
+    { "p": "Entre más lejos esté la persona, más grande debe ser el código. En una tarjeta basta un QR chico porque se escanea de cerca." },
+    { "p": "En un cartel de pared necesitas uno mucho más grande. La prueba real es imprimirlo y escanearlo desde donde estará tu cliente." },
+    { "ul": [
+      "Deja un margen blanco alrededor del código.",
+      "No lo pongas sobre una foto con muchos colores.",
+      "Evita imprimirlo en papel brillante bajo luz directa.",
+      "Un link más corto da un QR con menos cuadros y más fácil de leer."
+    ] },
+    { "h2": "La corrección de errores" },
+    { "p": "Un QR se sigue leyendo aunque tenga una parte rayada o tapada. Cuánto aguanta depende del nivel de corrección que elijas." },
+    { "tabla": {
+      "columnas": ["Nivel", "Parte que puede perderse", "Cuándo usarlo"],
+      "filas": [
+        ["L", "Cerca de 7%", "Pantallas y documentos digitales"],
+        ["M", "Cerca de 15%", "Lo más común en impresos"],
+        ["Q", "Cerca de 25%", "Exteriores y superficies que se ensucian"],
+        ["H", "Cerca de 30%", "QR con logo o imagen al centro"]
+      ]
+    } },
+    { "p": "Para poner tu logo usa el [generador de QR con imagen](id:crear-qr-con-imagen). Ese modo sube la corrección a H de forma automática." },
+    { "h2": "Ideas para tu negocio" },
+    { "ul": [
+      "En el mostrador para que vean tu catálogo o tus precios.",
+      "En tus tarjetas para que guarden tu página sin teclear.",
+      "En la mesa de tu restaurante con un [menú QR](id:menu-qr).",
+      "En la puerta con tu horario y tu [link de WhatsApp](id:link-de-whatsapp).",
+      "En tus bolsas o empaques para que vuelvan a comprarte."
+    ] }
+  ],
+  "faqs": [
+    { "pregunta": "¿El QR es gratis de verdad?", "respuesta": "Sí. No pide cuenta ni tarjeta y no pone marca de agua. Puedes hacer todos los que quieras." },
+    { "pregunta": "¿Mi código QR va a dejar de funcionar?", "respuesta": "No. El link va dentro del código y no depende de nosotros. Sólo deja de abrir si tu página deja de existir." },
+    { "pregunta": "¿Puedo cambiar el link después de imprimirlo?", "respuesta": "No. Un QR estático no se edita. Por eso conviene que apunte a una página tuya que sí puedas cambiar." },
+    { "pregunta": "¿Qué formato descargo para imprenta?", "respuesta": "El SVG. Se agranda sin perder calidad y la imprenta lo prefiere para lonas y carteles." },
+    { "pregunta": "¿Puedo saber cuántas personas lo escanearon?", "respuesta": "No con este QR. Para medir visitas apúntalo a tu página y revisa las visitas que recibe." },
+    { "pregunta": "¿Por qué mi celular no lo lee?", "respuesta": "Casi siempre es contraste o tamaño. Usa un color oscuro sobre fondo blanco y agrándalo un poco." }
+  ],
+  "relacionadas": ["crear-qr-con-imagen", "codigo-qr-para-whatsapp", "qr-wifi", "menu-qr", "link-de-whatsapp", "lector-qr"],
+  "venta": {
+    "puente": "Tu QR puede llevar a tu propia página con tu menú, tus precios y tu WhatsApp.",
+    "aviso": "Tu QR ya está listo. ¿Quieres que lleve a una página con tu marca y tu dominio?",
+    "titulo": "¿Hacemos la página a la que lleva tu QR?",
+    "trabajos": ["laola", "comprafin", "makatea"]
+  },
+  "fuentes": [
+    { "texto": "Denso Wave, corrección de errores del código QR", "url": "https://www.qrcode.com/en/about/error_correction.html" }
+  ],
+  "serp": [
+    { "posicion": 1, "url": "https://www.creativefabrica.com/es/studio/features/qr-code-generator/", "titulo": "Generador de códigos QR en línea: Crea un código QR gratis", "promete": "QR desde un link que funciona al generarse; pide entrar a su estudio para descargar" },
+    { "posicion": 2, "url": "https://sellfy.com/es/herramientas/generador-de-codigos-qr/", "titulo": "Generador de códigos QR", "promete": "Gratis, sin registro, PNG, SVG y PDF; no explica estático contra dinámico ni tamaño de impresión" },
+    { "posicion": 3, "url": "https://www.qrcode-tiger.com/es/quick-response-code-generator", "titulo": "Generador gratuito de códigos QR rápido", "promete": "Logo y analíticas con QR dinámico de pago; el gratis es limitado" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Muestra de molde herramienta (tanda 1). Top 3 leído con WebSearch el 12-nov-2026."
+}

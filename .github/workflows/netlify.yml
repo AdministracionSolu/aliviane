@@ -14,7 +14,7 @@ jobs:
       - name: Armar carpeta del sitio
         run: |
           mkdir -p _publicar
-          git ls-files | grep -v -E '^(README.md|CNAME|\.github/.*)$' | rsync -a --files-from=- . _publicar/
+          git ls-files | grep -v -E '^(README.md|CNAME|\.github/.*|fijas/.*)$' | rsync -a --files-from=- . _publicar/
       - name: Instalar lo que usan las funciones (contador de visitas)
         run: if [ -f package.json ]; then npm install --no-audit --no-fund; fi
       - name: Publicar

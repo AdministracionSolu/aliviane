@@ -1,0 +1,431 @@
+{
+  "id": "formato-de-cotizacion",
+  "slug": "formato-de-cotizacion",
+  "molde": "plantilla",
+  "cabeza": "cotización ejemplo",
+  "busquedas": [
+    "formato de cotización",
+    "plantilla de cotización",
+    "ejemplo de cotización",
+    "hoja de cotización",
+    "cotización formal",
+    "proforma de cotización",
+    "modelo de presupuesto",
+    "plantilla de presupuesto excel",
+    "presupuesto excel",
+    "cotización formato"
+  ],
+  "title": "Cotización ejemplo y formato gratis para llenar en PDF",
+  "h1": "Formato de cotización con ejemplo",
+  "description": "Cotización ejemplo y formato gratis. Llénala en línea con tu logo, tus precios e IVA y descárgala en PDF. Sin registro y sin dejar tu correo electrónico.",
+  "resumen": "Llénala en línea con tu logo e IVA y bájala en PDF",
+  "categoria": "Formatos y documentos",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una cotización dice qué vas a entregar, cuánto cuesta y hasta cuándo vale el precio. Llena el formato de abajo con tus datos y descárgalo en PDF.",
+    "No pide cuenta ni correo. Tus datos no salen de tu equipo."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "cotizacion"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué debe llevar una cotización"
+    },
+    {
+      "p": "Una cotización clara evita malentendidos y se cierra más rápido. Estos son los datos que no pueden faltar."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Tu nombre o el de tu negocio, con logo",
+            "Que el cliente sepa quién cotiza"
+          ],
+          [
+            "Teléfono, WhatsApp y correo",
+            "Que pueda contestarte sin buscar tu número"
+          ],
+          [
+            "Folio y fecha",
+            "Ubicar la cotización si te la piden después"
+          ],
+          [
+            "Datos del cliente",
+            "Nombre, empresa y contacto de quien la pidió"
+          ],
+          [
+            "Partidas",
+            "Cada producto o servicio con cantidad y precio unitario"
+          ],
+          [
+            "Subtotal, IVA y total",
+            "Que el cliente vea el impuesto por separado"
+          ],
+          [
+            "Vigencia",
+            "Hasta qué fecha respetas el precio"
+          ],
+          [
+            "Condiciones",
+            "Anticipo, tiempo de entrega y forma de pago"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Ejemplo de cotización llena"
+    },
+    {
+      "p": "Este ejemplo es de un taller de herrería. Sirve como guía para cualquier giro que venda productos o servicios."
+    },
+    {
+      "tabla": {
+        "titulo": "Herrería López · Cotización 0142 · 12 de noviembre de 2026",
+        "columnas": [
+          "Cantidad",
+          "Concepto",
+          "Precio unitario",
+          "Importe"
+        ],
+        "filas": [
+          [
+            "2",
+            "Protección para ventana de 1.20 × 1.00 m",
+            "$1,850",
+            "$3,700"
+          ],
+          [
+            "1",
+            "Puerta de herrería con chapa",
+            "$6,400",
+            "$6,400"
+          ],
+          [
+            "1",
+            "Instalación en domicilio",
+            "$900",
+            "$900"
+          ],
+          [
+            "",
+            "Subtotal",
+            "",
+            "$11,000"
+          ],
+          [
+            "",
+            "IVA 16%",
+            "",
+            "$1,760"
+          ],
+          [
+            "",
+            "Total",
+            "",
+            "$12,760"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Vigencia de 15 días. Anticipo del 50% para empezar y el resto al instalar. Entrega en 10 días hábiles a partir del anticipo."
+    },
+    {
+      "p": "Los precios de este ejemplo son inventados. Pon los tuyos en el formato de arriba."
+    },
+    {
+      "h2": "Cómo llenar tu cotización"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Pon tus datos y tu logo",
+          "texto": "Escribe el nombre de tu negocio y tu WhatsApp. Sube tu logo si lo tienes."
+        },
+        {
+          "titulo": "Agrega las partidas",
+          "texto": "Una línea por producto o servicio. Escribe cantidad, concepto y precio unitario."
+        },
+        {
+          "titulo": "Revisa el IVA",
+          "texto": "Marca si tus precios ya incluyen IVA o si se suma al final."
+        },
+        {
+          "titulo": "Escribe vigencia y condiciones",
+          "texto": "Pon hasta cuándo vale el precio y cuánto anticipo pides."
+        },
+        {
+          "titulo": "Descarga y manda el PDF",
+          "texto": "Bájalo y mándalo por WhatsApp o correo. El PDF se ve igual en cualquier celular."
+        }
+      ]
+    },
+    {
+      "h2": "El IVA en una cotización"
+    },
+    {
+      "p": "En México la tasa general del IVA es de 16%. Así lo marca el artículo 1 de la Ley del IVA."
+    },
+    {
+      "p": "Escribe siempre si tu precio ya incluye IVA o si se suma aparte. Es la duda más común de quien recibe una cotización."
+    },
+    {
+      "ul": [
+        "Si cobras más IVA, el total es el subtotal por 1.16.",
+        "Si tu precio ya incluye IVA, el subtotal es el total entre 1.16.",
+        "Si no facturas, dilo en las condiciones para evitar reclamos."
+      ]
+    },
+    {
+      "p": "Algunas zonas y productos llevan otra tasa. Si tienes duda, pregúntale a tu contador antes de mandar la cotización."
+    },
+    {
+      "h2": "Cotización, presupuesto, nota de venta y factura"
+    },
+    {
+      "p": "Se parecen pero sirven en momentos distintos. Usar el documento correcto te ahorra problemas."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Documento",
+          "Cuándo se usa",
+          "¿Es comprobante fiscal?"
+        ],
+        "filas": [
+          [
+            "Cotización",
+            "Antes de vender, para dar precio",
+            "No"
+          ],
+          [
+            "Presupuesto",
+            "Igual que la cotización, es el nombre que se usa en España",
+            "No"
+          ],
+          [
+            "Nota de venta",
+            "Al vender, como comprobante de la compra",
+            "No"
+          ],
+          [
+            "Factura (CFDI)",
+            "Al vender, cuando el cliente la pide para deducir",
+            "Sí, la emite el SAT o un proveedor autorizado"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cuando el cliente acepta tu cotización, entrégale una [nota de venta](id:nota-de-venta) o tu factura. Si recibes un pago sin factura, usa un [recibo de pago](id:recibo-de-pago)."
+    },
+    {
+      "h2": "Cotizaciones por giro"
+    },
+    {
+      "p": "Cada giro pone el foco en algo distinto. Ajusta las condiciones del formato según lo que vendes."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Lo que más pregunta el cliente",
+          "Qué escribir en condiciones"
+        ],
+        "filas": [
+          [
+            "Construcción y herrería",
+            "Si incluye material e instalación",
+            "Material incluido o aparte y tiempo de obra"
+          ],
+          [
+            "Eventos y banquetes",
+            "Cuántas personas cubre",
+            "Número de invitados, horas de servicio y anticipo"
+          ],
+          [
+            "Diseño y publicidad",
+            "Cuántos cambios incluye",
+            "Rondas de cambios y entrega de archivos"
+          ],
+          [
+            "Mantenimiento",
+            "Si el precio cambia por refacciones",
+            "Mano de obra fija y refacciones a precio de lista"
+          ],
+          [
+            "Venta de productos",
+            "Si hay existencias",
+            "Tiempo de entrega y costo de envío"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Errores que hacen perder la venta"
+    },
+    {
+      "ul": [
+        "Mandar el precio en un mensaje suelto sin tus datos.",
+        "No poner vigencia y tener que sostener un precio viejo.",
+        "Juntar todo en una sola línea sin desglose.",
+        "Olvidar si el precio incluye IVA.",
+        "Tardar días en mandarla cuando el cliente ya comparó."
+      ]
+    },
+    {
+      "p": "La rapidez pesa tanto como el precio. Una cotización clara el mismo día gana muchas veces a una más barata que llega tarde."
+    },
+    {
+      "h2": "Cómo dar seguimiento a una cotización"
+    },
+    {
+      "p": "Mandar la cotización es la mitad del trabajo. La otra mitad es preguntar a tiempo si el cliente la revisó."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "El mismo día",
+          "texto": "Confirma por WhatsApp que llegó el PDF y que se abre bien."
+        },
+        {
+          "titulo": "A los dos o tres días",
+          "texto": "Pregunta si tiene dudas sobre alguna partida o sobre el anticipo."
+        },
+        {
+          "titulo": "Antes de que venza",
+          "texto": "Avisa que el precio vale hasta la fecha de vigencia."
+        },
+        {
+          "titulo": "Si dice que no",
+          "texto": "Pregunta qué faltó. Esa respuesta mejora tu siguiente cotización."
+        }
+      ]
+    },
+    {
+      "p": "Guarda cada cotización con su folio. Si el cliente regresa meses después, sabes qué precio le diste."
+    },
+    {
+      "h3": "Cómo numerar tus cotizaciones"
+    },
+    {
+      "p": "Usa un folio que suba de uno en uno, sin saltos. Puedes poner el año al inicio para no repetir números."
+    },
+    {
+      "ul": [
+        "2026-001 para la primera del año.",
+        "2026-002 para la siguiente.",
+        "Una letra extra si tienes sucursales, como 2026-C-014."
+      ]
+    },
+    {
+      "p": "Un folio ordenado da imagen de negocio serio. También te ayuda a contar cuántas cotizaciones cierras cada mes."
+    },
+    {
+      "h2": "Variantes del formato"
+    },
+    {
+      "p": "El mismo formato sirve para varios casos. Cambia el título del documento y las condiciones."
+    },
+    {
+      "ul": [
+        "**Cotización formal** para empresas que piden folio y datos fiscales.",
+        "**Proforma** cuando el cliente necesita el documento para aprobar un pago.",
+        "**Hoja de cotización** de una sola página para trabajos chicos.",
+        "**Presupuesto** si tu cliente está en España o así lo pide."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El formato de cotización es gratis?",
+      "respuesta": "Sí. No pide registro ni correo y no pone marca de agua."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Lo subes en el formato y sale arriba del PDF."
+    },
+    {
+      "pregunta": "¿La cotización sirve como factura?",
+      "respuesta": "No. La factura en México es un CFDI que se emite con el SAT o con un proveedor autorizado."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo debe durar la vigencia?",
+      "respuesta": "La que tú decidas. Lo común es entre una y cuatro semanas según qué tanto cambian tus costos."
+    },
+    {
+      "pregunta": "¿Se puede descargar en Excel?",
+      "respuesta": "No. Se descarga en PDF para que el cliente no pueda cambiar tus precios."
+    },
+    {
+      "pregunta": "¿Dónde se guardan mis datos?",
+      "respuesta": "En tu equipo. El formato se llena en tu navegador y no se manda a ningún servidor."
+    },
+    {
+      "pregunta": "¿Puedo mandar la cotización por WhatsApp?",
+      "respuesta": "Sí. Manda el PDF como documento y no como foto. Así se lee completo y se puede imprimir."
+    },
+    {
+      "pregunta": "¿Qué hago si el cliente pide descuento?",
+      "respuesta": "Haz una nueva cotización con otro folio. Así no se pierde el precio original."
+    },
+    {
+      "pregunta": "¿Debo pedir anticipo?",
+      "respuesta": "Es lo más común en trabajos a la medida. Escribe el porcentaje y cuándo se paga el resto en las condiciones."
+    }
+  ],
+  "relacionadas": [
+    "nota-de-venta",
+    "recibo-de-pago",
+    "nota-de-remision",
+    "orden-de-servicio",
+    "lista-de-precios",
+    "formato-de-factura"
+  ],
+  "venta": {
+    "puente": "Tus clientes pueden ver tus servicios y pedirte cotización desde tu propia página.",
+    "tituloCorto": "Que te pidan cotización desde tu página",
+    "titulo": "¿Hacemos la página donde te piden cotización?",
+    "trabajos": [
+      "agroqs",
+      "comprafin",
+      "laola"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley del Impuesto al Valor Agregado, artículo 1 (Cámara de Diputados)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://datacrm.com/blog/ejemplo-de-cotizacion-elementos-y-formato",
+      "titulo": "Ejemplo de cotización: Elementos Clave y formato",
+      "promete": "Elementos de la cotización; vende un CRM, no deja llenar nada"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/business/descargables/ejemplos-de-cotizaciones/",
+      "titulo": "Ejemplos de cotizaciones",
+      "promete": "Excel descargable a cambio de datos; ejemplos de productora y agencia"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.hubspot.es/sales/como-hacer-cotizacion",
+      "titulo": "Cómo hacer una cotización: ejemplos y plantilla gratuita",
+      "promete": "Plantilla gratis que pide correo; no explica IVA de México"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Muestra de molde plantilla (tanda 1). Usa el motor «documento» modo «cotizacion» (lo programa otro agente; mientras tanto se ve el hueco en borradores)."
+}

@@ -1,0 +1,432 @@
+{
+  "id": "como-crear-una-pagina-web",
+  "slug": "como-crear-una-pagina-web",
+  "molde": "guia",
+  "cabeza": "crear página web",
+  "busquedas": [
+    "cómo hacer una página web",
+    "crear página web gratis",
+    "hacer una página web",
+    "crear sitio web",
+    "armar página web",
+    "cómo crear una página web para mi negocio",
+    "cómo crear páginas web gratis",
+    "crear página web con ia",
+    "creador de páginas web"
+  ],
+  "title": "Crear página web para tu negocio en 6 pasos",
+  "h1": "Cómo crear una página web para tu negocio",
+  "description": "Crear una página web para tu negocio en 6 pasos. Qué necesitas, cuánto cuesta cada camino y qué debe llevar para que te escriban. Con lista para revisar.",
+  "resumen": "Los 6 pasos, lo que cuesta cada camino y lo que no puede faltar",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para crear una página web necesitas un dominio, un lugar donde vive la página y el contenido de tu negocio. Puedes armarla tú con un creador de sitios, programarla o pedirla hecha.",
+    "Para un negocio basta una página que cargue rápido en celular. Debe decir qué vendes, dónde estás y cómo escribirte por WhatsApp."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Los tres caminos para tener tu página"
+    },
+    {
+      "p": "Antes de elegir herramienta decide quién va a hacer el trabajo. Cada camino cambia el costo, el tiempo y lo que te toca a ti."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Camino",
+          "Lo que haces tú",
+          "Lo que pagas",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Creador de sitios (Wix, Canva y similares)",
+            "Eliges plantilla, escribes, subes fotos y conectas el dominio",
+            "Plan mensual del creador más el dominio",
+            "Quien tiene tiempo y le gusta diseñar"
+          ],
+          [
+            "Programarla tú",
+            "Escribes el código, contratas hosting y la publicas",
+            "Hosting y dominio",
+            "Quien sabe programar o quiere aprender"
+          ],
+          [
+            "Pedirla hecha",
+            "Mandas tus datos y fotos y revisas",
+            "Un pago por el diseño más una mensualidad",
+            "Quien prefiere atender su negocio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los tres caminos llegan a lo mismo si se hacen bien. La diferencia está en cuántas horas pones tú y cuánto dinero."
+    },
+    {
+      "p": "Un creador de sitios parece gratis al principio. El plan gratis usa una dirección del propio creador y muestra su anuncio en cada página. Para quitarlo y usar tu dominio pagas un plan mensual."
+    },
+    {
+      "h2": "Paso 1. Define para qué es tu página"
+    },
+    {
+      "p": "Una página de negocio tiene un solo trabajo principal. Casi siempre es que la persona te escriba, te llame o llegue a tu local."
+    },
+    {
+      "p": "Escribe en una frase qué quieres que haga quien la abre. Esa frase decide el botón principal y el orden de todo lo demás."
+    },
+    {
+      "ul": [
+        "Un restaurante quiere que vean el menú y pidan por WhatsApp.",
+        "Un consultorio quiere que agenden una cita.",
+        "Un taller quiere que manden una foto del problema y pidan precio.",
+        "Una tienda quiere que vean el catálogo y pregunten por existencias."
+      ]
+    },
+    {
+      "h2": "Paso 2. Elige y registra tu dominio"
+    },
+    {
+      "p": "El dominio es la dirección de tu página, como tunegocio.mx o tunegocio.com. Es lo que la gente escribe y lo que va en tus tarjetas."
+    },
+    {
+      "p": "Elige un nombre corto que se pueda dictar por teléfono sin deletrear. Evita guiones y números si tu negocio no los lleva."
+    },
+    {
+      "ul": [
+        "**.mx** le dice a Google y a tus clientes que estás en México.",
+        "**.com.mx** también es mexicano y suele estar más libre.",
+        "**.com** sirve si vendes a otros países."
+      ]
+    },
+    {
+      "p": "Registra el dominio **a tu nombre** o al de tu negocio. Si lo registra otra persona a su nombre, tu dirección depende de ella. Busca si tu nombre está libre con nuestro [buscador de dominios](id:buscar-dominio)."
+    },
+    {
+      "h2": "Paso 3. Junta el contenido antes de diseñar"
+    },
+    {
+      "p": "La mayoría de las páginas se atrasan por falta de contenido, no por el diseño. Junta todo esto antes de abrir cualquier editor."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Qué",
+          "Para qué sirve",
+          "Consejo"
+        ],
+        "filas": [
+          [
+            "Nombre y logo",
+            "Que te reconozcan",
+            "Si no tienes logo, usa tu nombre en una buena letra"
+          ],
+          [
+            "Qué vendes",
+            "Que sepan si eres lo que buscan",
+            "Escribe tus servicios como los pide tu cliente"
+          ],
+          [
+            "Precios o rangos",
+            "Que no pregunten lo básico",
+            "Si varían, pon un precio desde"
+          ],
+          [
+            "Fotos reales",
+            "Que confíen en ti",
+            "Tu local, tu equipo y tus trabajos terminados"
+          ],
+          [
+            "Dirección y horario",
+            "Que lleguen",
+            "Igual que en tu ficha de Google"
+          ],
+          [
+            "WhatsApp",
+            "Que te escriban",
+            "Un número que sí contestes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las fotos de banco se notan. Una foto real de tu mostrador vende más que una imagen perfecta de otra persona."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Paso 4. Arma la página pensando en el celular"
+    },
+    {
+      "p": "La mayoría de tus clientes va a abrir tu página desde el teléfono. Diseña primero para una pantalla chica y luego revisa la computadora."
+    },
+    {
+      "p": "Este es el orden que mejor funciona para la página de un negocio local."
+    },
+    {
+      "ol": [
+        "Arriba va tu nombre, qué haces y un botón de WhatsApp.",
+        "Después tus servicios o productos con precio.",
+        "Luego fotos de tu trabajo o de tu local.",
+        "Después opiniones de clientes, si ya las tienes.",
+        "Al final dirección, mapa, horario y otra vez el botón."
+      ]
+    },
+    {
+      "p": "No escondas el botón de contacto en un menú. Debe verse sin tener que buscarlo."
+    },
+    {
+      "p": "Usa letra grande y frases cortas. Quien te busca desde el celular lee rápido y con una mano."
+    },
+    {
+      "h2": "Qué secciones lleva según tu giro"
+    },
+    {
+      "p": "No todos los negocios necesitan lo mismo. Estas son las secciones que más piden los clientes de cada giro."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Sección que no puede faltar",
+          "Botón principal"
+        ],
+        "filas": [
+          [
+            "Restaurante o cafetería",
+            "Menú con precios y fotos",
+            "Pedir por WhatsApp"
+          ],
+          [
+            "Consultorio o clínica",
+            "Servicios, especialidad y ubicación",
+            "Agendar cita"
+          ],
+          [
+            "Taller o servicio técnico",
+            "Trabajos hechos y zona que atiendes",
+            "Mandar foto y pedir precio"
+          ],
+          [
+            "Tienda",
+            "Catálogo con existencias",
+            "Preguntar por un producto"
+          ],
+          [
+            "Salón de belleza o uñas",
+            "Galería de trabajos y precios",
+            "Apartar lugar"
+          ],
+          [
+            "Despacho o consultoría",
+            "A quién atiendes y cómo trabajas",
+            "Pedir una llamada"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu giro no está en la tabla, piensa en la pregunta que más te hacen por teléfono. Esa respuesta va arriba en tu página."
+    },
+    {
+      "h3": "Cómo escribir los textos"
+    },
+    {
+      "p": "Escribe como le hablas a un cliente en el mostrador. Frases cortas, sin palabras de folleto y con datos concretos."
+    },
+    {
+      "ul": [
+        "En lugar de calidad y servicio, di qué incluye tu trabajo.",
+        "En lugar de precios accesibles, pon el precio o un precio desde.",
+        "En lugar de amplia experiencia, di cuántos años llevas o cuántos clientes atiendes.",
+        "Usa las mismas palabras que tu cliente escribe en Google."
+      ]
+    },
+    {
+      "p": "Un texto concreto convence más y además ayuda a que Google entienda qué vendes."
+    },
+    {
+      "h2": "Paso 5. Publícala y conéctala con Google"
+    },
+    {
+      "p": "Publicar es subir la página a un servidor y apuntar tu dominio hacia él. Los creadores de sitios lo hacen con un botón."
+    },
+    {
+      "p": "Revisa que tu página abra con candado en el navegador. Ese candado es el certificado de seguridad y hoy es indispensable."
+    },
+    {
+      "p": "Después da de alta tu página en Google Search Console. Ahí le avisas a Google que existe y ves con qué búsquedas apareces."
+    },
+    {
+      "p": "Pon la liga de tu página en tu ficha de [Google Mi Negocio](id:google-mi-negocio). Mucha gente te encuentra primero en Maps y de ahí pasa a tu página."
+    },
+    {
+      "h2": "Paso 6. Mantenla viva"
+    },
+    {
+      "p": "Una página con precios viejos o un teléfono que ya no sirve hace más daño que no tener página. Revisa tus datos cada mes."
+    },
+    {
+      "ul": [
+        "Actualiza precios y promociones cuando cambien.",
+        "Agrega fotos de trabajos nuevos.",
+        "Renueva tu dominio antes de que venza.",
+        "Revisa que el botón de WhatsApp siga abriendo tu chat."
+      ]
+    },
+    {
+      "h2": "Lista para revisar antes de publicar"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Revisa",
+          "Cómo saber que está bien"
+        ],
+        "filas": [
+          [
+            "Abre rápido en celular",
+            "Carga con datos móviles en pocos segundos"
+          ],
+          [
+            "Dice qué haces arriba",
+            "Alguien que no te conoce lo entiende sin bajar"
+          ],
+          [
+            "Botón de contacto visible",
+            "Abre tu WhatsApp con un mensaje escrito"
+          ],
+          [
+            "Dirección y horario",
+            "Coinciden con tu ficha de Google"
+          ],
+          [
+            "Candado de seguridad",
+            "La dirección empieza con https"
+          ],
+          [
+            "Aviso de privacidad",
+            "Existe si pides datos en un formulario"
+          ],
+          [
+            "Dominio a tu nombre",
+            "Tú tienes el acceso a la cuenta del dominio"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Errores comunes al crear una página web"
+    },
+    {
+      "ul": [
+        "Empezar por el diseño sin tener textos ni fotos.",
+        "Poner todo en una sola imagen que Google no puede leer.",
+        "Usar el dominio gratis del creador en tus tarjetas.",
+        "Llenar la portada de animaciones que hacen lenta la carga.",
+        "Dejar el formulario de contacto sin que nadie lo revise.",
+        "Copiar textos de otra página y perder la confianza de Google."
+      ]
+    },
+    {
+      "p": "Si vas a pedir tu página hecha, pide ver una muestra antes de pagar. También pregunta a nombre de quién queda el dominio."
+    },
+    {
+      "h2": "Cuánto cuesta crear una página web en México"
+    },
+    {
+      "p": "El precio cambia mucho según quién la hace y cuántas secciones lleva. Una referencia publicada pone la página sencilla de agencia entre $7,000 y $15,000 pesos."
+    },
+    {
+      "p": "En un creador de sitios pagas el plan cada mes o cada año. Revisa nuestra comparación de [precios de Wix](id:precios-de-wix) para ver los planes en pesos."
+    },
+    {
+      "p": "En Aliviane la landing cuesta $1,500 con el dominio incluido. Después pagas $99 al mes por mantenerla en línea y hacerle cambios."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo crear una página web gratis?",
+      "respuesta": "Sí, pero con límites. Los planes gratis usan la dirección del creador y muestran su anuncio. Para un negocio conviene tu propio dominio."
+    },
+    {
+      "pregunta": "¿Cuánto tarda crear una página web?",
+      "respuesta": "Depende del contenido. Con textos y fotos listos una landing sale en pocos días."
+    },
+    {
+      "pregunta": "¿Necesito saber programar?",
+      "respuesta": "No. Un creador de sitios no pide código. Si la pides hecha tampoco tienes que tocar nada."
+    },
+    {
+      "pregunta": "¿Qué es mejor, una landing o un sitio completo?",
+      "respuesta": "Para empezar, una landing. Una sola página con tus servicios y tu WhatsApp cubre a la mayoría de los negocios."
+    },
+    {
+      "pregunta": "¿Mi página va a salir en Google?",
+      "respuesta": "Sí. Primero la das de alta y la ligas a tu ficha de Maps. La posición depende de tu zona y de tu competencia."
+    },
+    {
+      "pregunta": "¿Puedo crear mi página web con inteligencia artificial?",
+      "respuesta": "Sí, hay creadores que arman un borrador. Igual tienes que revisar textos, fotos y datos de contacto antes de publicar."
+    },
+    {
+      "pregunta": "¿El dominio debe quedar a mi nombre?",
+      "respuesta": "Sí. Así puedes cambiar de proveedor sin perder tu dirección."
+    }
+  ],
+  "relacionadas": [
+    "diseno-de-paginas-web",
+    "que-es-un-dominio",
+    "landing-page",
+    "google-mi-negocio",
+    "ejemplos-de-paginas-web",
+    "precios-de-wix"
+  ],
+  "venta": {
+    "puente": "Si prefieres atender tu negocio, Aliviane te entrega la página armada con tus fotos y tu WhatsApp.",
+    "tituloCorto": "¿Prefieres que la hagamos nosotros?",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Cronoshare, cuánto cuesta diseñar una página web en México",
+      "url": "https://www.cronoshare.com.mx/cuanto-cuesta/disenar-pagina-web"
+    },
+    {
+      "texto": "Wix, crear un sitio web gratis",
+      "url": "https://support.wix.com/es/article/crear-un-sitio-web-gratis"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://blog.hubspot.es/website/como-crear-una-pagina-web",
+      "titulo": "Cómo crear una página web: guía para principiantes",
+      "promete": "Guía larga general, tres caminos (código, creador, CMS); no es para negocio local ni habla de WhatsApp"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/latam/stories/como-crear-una-pagina-web",
+      "titulo": "Cómo crear un sitio web: pasos y conceptos básicos",
+      "promete": "Pasos: objetivo, dominio, hosting y SSL, mapa del sitio, SEO; vende su propio hosting"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.hostinger.com/co/tutoriales/como-crear-una-pagina-web",
+      "titulo": "Cómo crear una página web desde cero: guía para principiantes",
+      "promete": "Tutorial con su constructor; sin costos en pesos ni lista de qué debe llevar la página de un negocio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Muestra de molde guía (tanda 1). Top 3 leído con WebSearch el 12-nov-2026."
+}
