@@ -17,7 +17,9 @@
   "herramienta": {
     "id": "editor-diseno",
     "modo": "rifa",
-    "opciones": { "diseno": "rifa" }
+    "opciones": {
+      "diseno": "rifa"
+    }
   },
   "cuerpo": [
     {
@@ -168,9 +170,28 @@
       "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17048.html"
     }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/plantillas/s/rifa/",
+      "titulo": "Plantillas de rifas (Canva)",
+      "promete": "Plantillas de flyer y boletos con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.adobe.com/es/express/create/ticket/raffle",
+      "titulo": "Boletos de rifa (Adobe Express)",
+      "promete": "Plantillas con cuenta; sin folio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://asest.es/story/modelos-de-rifas-canvas/",
+      "titulo": "Modelos de rifas (Asest)",
+      "promete": "Consejos; sin herramienta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Rifa» abre solo con herramienta.opciones.diseno (R1). Ley Federal de Juegos y Sorteos art. 4 leída en ordenjuridico.gob.mx el 12-nov-2026. Boletos numerados con talón: diseño «Boletos numerados» del modo rifa (R1), folio consecutivo guardado en el equipo."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Rifa» abre solo con herramienta.opciones.diseno (R1). Ley Federal de Juegos y Sorteos art. 4 leída en ordenjuridico.gob.mx el 12-nov-2026. Boletos numerados con talón: diseño «Boletos numerados» del modo rifa (R1), folio consecutivo guardado en el equipo. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

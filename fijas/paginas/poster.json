@@ -179,9 +179,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/crear/posters/",
+      "titulo": "Crear pósters (Canva)",
+      "promete": "Editor e impresión de pago"
+    },
+    {
+      "posicion": 2,
+      "url": "https://es.cyberlink.com/blog/editar-imagenes/5389/como-crear-posters",
+      "titulo": "Cómo hacer pósters con IA (CyberLink)",
+      "promete": "Guía que vende su app"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.visme.co/es/cartel-publicitario/",
+      "titulo": "Cartel publicitario (Visme)",
+      "promete": "Editor; PDF de imprenta de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/poster (archivo cartel, mismos 5 estilos y 3 medidas)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/poster (archivo cartel, mismos 5 estilos y 3 medidas). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

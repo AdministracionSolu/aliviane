@@ -17,7 +17,9 @@
   "herramienta": {
     "id": "editor-diseno",
     "modo": "flyer",
-    "opciones": { "diseno": "futbol" }
+    "opciones": {
+      "diseno": "futbol"
+    }
   },
   "cuerpo": [
     {
@@ -171,9 +173,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/plantillas/s/futbol/",
+      "titulo": "Plantillas de fútbol (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://designwiz.com/flyer/templates/tournament",
+      "titulo": "Tournament flyer templates (DesignWiz)",
+      "promete": "Plantillas en inglés"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_es/posteres/plantillas/deporte/",
+      "titulo": "Carteles de deporte (Canva)",
+      "promete": "Plantillas con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Torneo» (futbol) abre solo con herramienta.opciones.diseno (R1)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer, diseño «Torneo» (futbol) abre solo con herramienta.opciones.diseno (R1). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

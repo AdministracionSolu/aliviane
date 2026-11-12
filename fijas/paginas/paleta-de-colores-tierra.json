@@ -182,9 +182,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.media.io/es/color-palette/earth-color-palette.html",
+      "titulo": "Paletas color tierra (Media.io)",
+      "promete": "Ideas con códigos HEX"
+    },
+    {
+      "posicion": 2,
+      "url": "https://layoutly-web.pages.dev/es/designs/earth-tones-palette",
+      "titulo": "Tonos tierra (Layoutly)",
+      "promete": "Una paleta con códigos"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.figma.com/es-es/colores/terracota/",
+      "titulo": "Terracota (Figma)",
+      "promete": "Código del terracota"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo tierra)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo tierra). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

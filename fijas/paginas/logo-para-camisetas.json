@@ -145,7 +145,14 @@
       "respuesta": "Sí. Sin cuenta. La línea «Hecho con Aliviane» viene marcada y la quitas con una casilla."
     }
   ],
-  "relacionadas": ["logo-para-marca-de-ropa", "logo-para-equipo-de-futbol", "letras-para-logo", "pagina-web-para-negocio", "isotipo-imagotipo-logotipo", "tienda-de-ropa"],
+  "relacionadas": [
+    "logo-para-marca-de-ropa",
+    "logo-para-equipo-de-futbol",
+    "letras-para-logo",
+    "pagina-web-para-negocio",
+    "isotipo-imagotipo-logotipo",
+    "tienda-de-ropa"
+  ],
   "venta": {
     "puente": "Si vas a vender tus camisetas, una página con tu catálogo y tu WhatsApp llega a todo el país.",
     "aviso": "Tu logo ya está listo. ¿Quieres una página para vender tus camisetas?",
@@ -157,9 +164,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.capcut.com/es-es/create/tshirt-logo-maker",
+      "titulo": "Creador de logotipos de camisetas (CapCut)",
+      "promete": "Creador con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_mx/playeras/plantillas/logo/",
+      "titulo": "Playeras con logo (Canva)",
+      "promete": "Plantillas e impresión de pago"
+    },
+    {
+      "posicion": 3,
+      "url": "https://zawa.ai/es/t-shirt-logo-maker",
+      "titulo": "Creador de logos para camisetas (Zawa)",
+      "promete": "Generador con descarga de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/camisetas (playera, botón, estrella; sello y letras gruesas). Medidas de estampado son práctica común, sin cifras de precio."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/camisetas (playera, botón, estrella; sello y letras gruesas). Medidas de estampado son práctica común, sin cifras de precio. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

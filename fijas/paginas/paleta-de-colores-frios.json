@@ -3,7 +3,12 @@
   "slug": "paleta-de-colores-frios",
   "molde": "herramienta",
   "cabeza": "paleta de colores frios",
-  "busquedas": ["paleta de colores fríos", "colores frios", "colores fríos ejemplos", "paletas frías"],
+  "busquedas": [
+    "paleta de colores fríos",
+    "colores frios",
+    "colores fríos ejemplos",
+    "paletas frías"
+  ],
   "title": "Paleta de colores fríos con códigos HEX gratis",
   "h1": "Paleta de colores fríos",
   "description": "Seis paletas de colores fríos con azules, verdes agua y lavandas, desde hielo hasta glaciar. Copia cada código HEX y baja la paleta en PNG o CSS gratis.",
@@ -15,72 +20,212 @@
     "Los colores fríos son los azules, verdes azulados y morados que recuerdan agua, hielo y sombra. Calman y dan sensación de limpieza.",
     "Abajo tienes seis paletas frías con sus códigos HEX. Copia cualquier color con un toque o bájala en PNG."
   ],
-  "herramienta": { "id": "paleta", "modo": "frios" },
+  "herramienta": {
+    "id": "paleta",
+    "modo": "frios"
+  },
   "cuerpo": [
-    { "h2": "Cómo usar colores fríos" },
-    { "pasos": [
-      { "titulo": "Escoge la sensación", "texto": "Hielo es limpio, Bosque frío es serio y Verde agua es fresco." },
-      { "titulo": "Equilibra la temperatura", "texto": "Un neutro cálido o un toque de coral evita que se vea distante." },
-      { "titulo": "Copia los tonos", "texto": "Toca cada franja para copiar su HEX y pégalo en tu diseño." },
-      { "titulo": "Bájala y úsala", "texto": "PNG para tu imprenta o diseñador. CSS para tu página." }
-    ] },
-    { "h2": "Colores fríos y cálidos" },
-    { "p": "El círculo de color se parte en dos mitades. Del verde al morado están los fríos y del rojo al amarillo los cálidos." },
-    { "p": "Los fríos parecen alejarse y dan sensación de espacio. Los cálidos parecen acercarse y dan energía." },
-    { "tabla": {
-      "columnas": ["Colores fríos", "Colores cálidos"],
-      "filas": [
-        ["Azul, turquesa y verde agua", "Rojo, naranja y amarillo"],
-        ["Calma y orden", "Energía y apetito"],
-        ["Salud, limpieza y tecnología", "Comida, ofertas y fiestas"],
-        ["Fondos amplios y tranquilos", "Botones y avisos que llaman"]
+    {
+      "h2": "Cómo usar colores fríos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escoge la sensación",
+          "texto": "Hielo es limpio, Bosque frío es serio y Verde agua es fresco."
+        },
+        {
+          "titulo": "Equilibra la temperatura",
+          "texto": "Un neutro cálido o un toque de coral evita que se vea distante."
+        },
+        {
+          "titulo": "Copia los tonos",
+          "texto": "Toca cada franja para copiar su HEX y pégalo en tu diseño."
+        },
+        {
+          "titulo": "Bájala y úsala",
+          "texto": "PNG para tu imprenta o diseñador. CSS para tu página."
+        }
       ]
-    } },
-    { "h2": "Las seis paletas frías" },
-    { "tabla": {
-      "columnas": ["Paleta", "Códigos HEX", "Giro sugerido"],
-      "filas": [
-        ["Hielo", "#023047 #219EBC #8ECAE6 #CDEDF6 #F4FBFE", "Purificadora o fábrica de hielo"],
-        ["Bosque frío", "#0B3C49 #31708E #5085A5 #8FC1E3 #F7F9FB", "Despacho o consultoría"],
-        ["Verde agua", "#004E64 #00A5CF #25A18E #7AE582 #9FFFCB", "Escuela de natación o alberca"],
-        ["Lavanda fría", "#22223B #4A4E69 #9A8C98 #C9ADA7 #F2E9E4", "Psicóloga o terapia"],
-        ["Menta y azul", "#0F4C5C #2A9D8F #94D2BD #E9F5F2 #FFFFFF", "Dentista o fisioterapia"],
-        ["Glaciar", "#1B263B #415A77 #778DA9 #E0E1DD #F8F9FA", "Tecnología o seguros"]
+    },
+    {
+      "h2": "Colores fríos y cálidos"
+    },
+    {
+      "p": "El círculo de color se parte en dos mitades. Del verde al morado están los fríos y del rojo al amarillo los cálidos."
+    },
+    {
+      "p": "Los fríos parecen alejarse y dan sensación de espacio. Los cálidos parecen acercarse y dan energía."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Colores fríos",
+          "Colores cálidos"
+        ],
+        "filas": [
+          [
+            "Azul, turquesa y verde agua",
+            "Rojo, naranja y amarillo"
+          ],
+          [
+            "Calma y orden",
+            "Energía y apetito"
+          ],
+          [
+            "Salud, limpieza y tecnología",
+            "Comida, ofertas y fiestas"
+          ],
+          [
+            "Fondos amplios y tranquilos",
+            "Botones y avisos que llaman"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Las seis paletas frías"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Giro sugerido"
+        ],
+        "filas": [
+          [
+            "Hielo",
+            "#023047 #219EBC #8ECAE6 #CDEDF6 #F4FBFE",
+            "Purificadora o fábrica de hielo"
+          ],
+          [
+            "Bosque frío",
+            "#0B3C49 #31708E #5085A5 #8FC1E3 #F7F9FB",
+            "Despacho o consultoría"
+          ],
+          [
+            "Verde agua",
+            "#004E64 #00A5CF #25A18E #7AE582 #9FFFCB",
+            "Escuela de natación o alberca"
+          ],
+          [
+            "Lavanda fría",
+            "#22223B #4A4E69 #9A8C98 #C9ADA7 #F2E9E4",
+            "Psicóloga o terapia"
+          ],
+          [
+            "Menta y azul",
+            "#0F4C5C #2A9D8F #94D2BD #E9F5F2 #FFFFFF",
+            "Dentista o fisioterapia"
+          ],
+          [
+            "Glaciar",
+            "#1B263B #415A77 #778DA9 #E0E1DD #F8F9FA",
+            "Tecnología o seguros"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "En qué negocios lucen los fríos"
+    },
+    {
+      "p": "Los giros de salud los prefieren porque comunican higiene. Dentistas, laboratorios y fisioterapeutas suelen usar menta y azul."
+    },
+    {
+      "p": "El agua y el hielo son fríos por naturaleza. Purificadoras, albercas y lavanderías los usan para que el servicio se sienta limpio."
+    },
+    {
+      "p": "En comida casera o panadería se sienten distantes. Ahí conviene una paleta cálida o un acento naranja."
+    },
+    {
+      "ul": [
+        "Usa el tono más oscuro de cada paleta para letras.",
+        "Agrega un coral o un naranja sólo en el botón principal.",
+        "Evita juntar tres azules casi iguales en un mismo bloque."
       ]
-    } },
-    { "h2": "En qué negocios lucen los fríos" },
-    { "p": "Los giros de salud los prefieren porque comunican higiene. Dentistas, laboratorios y fisioterapeutas suelen usar menta y azul." },
-    { "p": "El agua y el hielo son fríos por naturaleza. Purificadoras, albercas y lavanderías los usan para que el servicio se sienta limpio." },
-    { "p": "En comida casera o panadería se sienten distantes. Ahí conviene una paleta cálida o un acento naranja." },
-    { "ul": [
-      "Usa el tono más oscuro de cada paleta para letras.",
-      "Agrega un coral o un naranja sólo en el botón principal.",
-      "Evita juntar tres azules casi iguales en un mismo bloque."
-    ] },
-    { "h2": "Ejemplo con una fisioterapeuta" },
-    { "p": "Una fisioterapeuta puede usar la paleta Menta y azul. El fondo de su página va en #E9F5F2 y los títulos en #0F4C5C." },
-    { "p": "Su botón de WhatsApp para agendar va en #2A9D8F con letras blancas. Así la página se ve tranquila y el botón resalta." },
-    { "p": "Si tu marca es azul, abre la [paleta de colores azul](id:paleta-de-colores-azul). Para un frío más suave y morado, prueba la [paleta de color lila](id:paleta-de-colores-lila)." }
+    },
+    {
+      "h2": "Ejemplo con una fisioterapeuta"
+    },
+    {
+      "p": "Una fisioterapeuta puede usar la paleta Menta y azul. El fondo de su página va en #E9F5F2 y los títulos en #0F4C5C."
+    },
+    {
+      "p": "Su botón de WhatsApp para agendar va en #2A9D8F con letras blancas. Así la página se ve tranquila y el botón resalta."
+    },
+    {
+      "p": "Si tu marca es azul, abre la [paleta de colores azul](id:paleta-de-colores-azul). Para un frío más suave y morado, prueba la [paleta de color lila](id:paleta-de-colores-lila)."
+    }
   ],
   "faqs": [
-    { "pregunta": "¿Cuáles son los colores fríos?", "respuesta": "Azul, verde azulado, turquesa y algunos morados. Recuerdan agua, hielo y sombra." },
-    { "pregunta": "¿El verde es frío o cálido?", "respuesta": "Depende del tono. El verde agua es frío y el verde limón tira a cálido." },
-    { "pregunta": "¿Puedo mezclar colores fríos y cálidos?", "respuesta": "Sí. Lo usual es una base fría con un acento cálido." },
-    { "pregunta": "¿Los colores fríos venden menos?", "respuesta": "No. Venden distinto y funcionan mejor en salud, servicios y tecnología." },
-    { "pregunta": "¿Qué HEX tiene el azul hielo?", "respuesta": "#CDEDF6 o #E9F5FA son azules hielo comunes." },
-    { "pregunta": "¿Cómo armo una paleta fría desde mi color?", "respuesta": "Con la armonía de análogos. Escribe tu color en «Arma la tuya desde un color»." }
+    {
+      "pregunta": "¿Cuáles son los colores fríos?",
+      "respuesta": "Azul, verde azulado, turquesa y algunos morados. Recuerdan agua, hielo y sombra."
+    },
+    {
+      "pregunta": "¿El verde es frío o cálido?",
+      "respuesta": "Depende del tono. El verde agua es frío y el verde limón tira a cálido."
+    },
+    {
+      "pregunta": "¿Puedo mezclar colores fríos y cálidos?",
+      "respuesta": "Sí. Lo usual es una base fría con un acento cálido."
+    },
+    {
+      "pregunta": "¿Los colores fríos venden menos?",
+      "respuesta": "No. Venden distinto y funcionan mejor en salud, servicios y tecnología."
+    },
+    {
+      "pregunta": "¿Qué HEX tiene el azul hielo?",
+      "respuesta": "#CDEDF6 o #E9F5FA son azules hielo comunes."
+    },
+    {
+      "pregunta": "¿Cómo armo una paleta fría desde mi color?",
+      "respuesta": "Con la armonía de análogos. Escribe tu color en «Arma la tuya desde un color»."
+    }
   ],
-  "relacionadas": ["paleta-de-colores", "paleta-de-colores-azul", "paleta-de-colores-lila", "combinaciones-de-colores", "paleta-de-colores-gris", "landing-page"],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-azul",
+    "paleta-de-colores-lila",
+    "combinaciones-de-colores",
+    "paleta-de-colores-gris",
+    "landing-page"
+  ],
   "venta": {
     "puente": "Tu consultorio o tu negocio de servicio puede tener su página en colores fríos y limpios.",
     "aviso": "Ya tienes tus colores fríos. ¿Los vemos en una página con tu marca?",
     "titulo": "¿Hacemos tu página con esta paleta fría?",
-    "trabajos": ["signsolu", "comprafin", "makatea"]
+    "trabajos": [
+      "signsolu",
+      "comprafin",
+      "makatea"
+    ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.pchardwarepro.com/como-son-los-colores-frios/",
+      "titulo": "Cómo son los colores fríos (PC Hardware Pro)",
+      "promete": "Definición sin paletas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.media.io/es/color-palette/cold-color-palette.html",
+      "titulo": "Paletas frías (Media.io)",
+      "promete": "Ideas con códigos HEX"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.shopify.com/es/blog/62615749-14-generadores-de-paletas-de-color-online-para-diseno-web",
+      "titulo": "14 generadores de paletas (Shopify)",
+      "promete": "Lista de herramientas de terceros"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo frios)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo frios). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

@@ -154,7 +154,14 @@
       "respuesta": "No. La haces y la bajas gratis."
     }
   ],
-  "relacionadas": ["tarjetas-de-presentacion", "tarjetas-de-presentacion-para-abogados", "imprimir-tarjetas-de-presentacion", "codigo-qr-para-whatsapp", "firma-de-correo", "landing-page"],
+  "relacionadas": [
+    "tarjetas-de-presentacion",
+    "tarjetas-de-presentacion-para-abogados",
+    "imprimir-tarjetas-de-presentacion",
+    "codigo-qr-para-whatsapp",
+    "firma-de-correo",
+    "landing-page"
+  ],
   "venta": {
     "puente": "Tu tarjeta digital se reenvía en segundos y tu página le da a quien la recibe todo lo demás.",
     "aviso": "Tu tarjeta digital ya está lista. ¿Quieres que su QR lleve a tu propia página?",
@@ -166,9 +173,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.pushwoosh.com/es/blog/digital-business-card-apple-wallet/",
+      "titulo": "Tarjeta digital en Apple Wallet (Pushwoosh)",
+      "promete": "Tarjeta en la cartera del celular; vende su servicio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://wavecnct.com/es/blog/digital-business-card-examples",
+      "titulo": "Ejemplos de tarjetas digitales (Wave)",
+      "promete": "Ejemplos; vende su servicio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://taplink.at/en/blog/que-es-una-tarjeta-de-presentacion-digital-una-vision-general-completa.html",
+      "titulo": "Qué es una tarjeta digital (Taplink)",
+      "promete": "Definición; vende su página"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion; medida «Para WhatsApp» 1080 × 600 px (sin PDF ni hoja en px). Modo «tarjeta-digital» (R1): abre directo en esa medida."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion; medida «Para WhatsApp» 1080 × 600 px (sin PDF ni hoja en px). Modo «tarjeta-digital» (R1): abre directo en esa medida. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

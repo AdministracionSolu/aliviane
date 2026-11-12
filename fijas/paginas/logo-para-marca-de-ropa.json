@@ -149,7 +149,14 @@
       "respuesta": "No. Las descargas son gratis. La línea «Hecho con Aliviane» viene marcada y la quitas con una casilla."
     }
   ],
-  "relacionadas": ["logo-para-camisetas", "logo-minimalista", "letras-para-logo", "nombres-para-tiendas-de-ropa", "pagina-web-para-negocio", "tienda-de-ropa"],
+  "relacionadas": [
+    "logo-para-camisetas",
+    "logo-minimalista",
+    "letras-para-logo",
+    "nombres-para-tiendas-de-ropa",
+    "pagina-web-para-negocio",
+    "tienda-de-ropa"
+  ],
   "venta": {
     "puente": "Tu marca de ropa se ve más seria con un catálogo propio y su dominio.",
     "aviso": "Tu logo ya está listo. ¿Quieres una página para mostrar tu colección?",
@@ -161,9 +168,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/crear/logos-marca-ropa/",
+      "titulo": "Logos de marca de ropa (Canva)",
+      "promete": "Creador con plantillas; descarga con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/recursos/herramientas/logos-de-ropa/",
+      "titulo": "Logos de ropa (Crehana)",
+      "promete": "Ideas descargables con registro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://design.tutsplus.com/es/tutorials/clothing-t-shirt-company-brand-logos--cms-33040",
+      "titulo": "Logos para marcas de ropa (Envato Tuts+)",
+      "promete": "Ideas y plantillas de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/ropa (gancho, aguja, botón; letras de moda; espaciado 120). Relacionada de servicio: tienda-de-ropa (por giro)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/ropa (gancho, aguja, botón; letras de moda; espaciado 120). Relacionada de servicio: tienda-de-ropa (por giro). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

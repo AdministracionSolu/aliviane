@@ -21,7 +21,11 @@
   "herramienta": {
     "id": "nombres",
     "modo": "tiendas",
-    "opciones": { "textos": { "ligaDominio": "id:buscar-dominio" } }
+    "opciones": {
+      "textos": {
+        "ligaDominio": "id:buscar-dominio"
+      }
+    }
   },
   "cuerpo": [
     {
@@ -150,7 +154,14 @@
       "respuesta": "Sí. Usa el generador de [tienda de variedades](id:nombres-para-tienda-de-variedades)."
     }
   ],
-  "relacionadas": ["nombres-para-tienda-de-variedades", "nombres-para-empresas", "letreros-para-negocios", "slogan", "lista-de-precios", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "nombres-para-tienda-de-variedades",
+    "nombres-para-empresas",
+    "letreros-para-negocios",
+    "slogan",
+    "lista-de-precios",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Tu tienda puede tener una página con tus precios y un botón para pedir el mandado por WhatsApp.",
     "aviso": "¿Ya tienes nombre? Tu tienda puede tener su página con pedidos por WhatsApp.",
@@ -167,9 +178,28 @@
       "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
     }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.chilango.com/general/los-nombres-de-los-negocios-chilangos/",
+      "titulo": "Los nombres de los negocios chilangos (Chilango)",
+      "promete": "Nota sobre nombres de tiendas en CDMX"
+    },
+    {
+      "posicion": 2,
+      "url": "https://emprendedor.com/vulcanizadora-merceria-o-tlapaleria-el-origen-de-los-nombres-de-algunos-negocios-populares-en-mexico/",
+      "titulo": "Origen de nombres de negocios populares (Emprendedor)",
+      "promete": "Historia de giros; sin generador"
+    },
+    {
+      "posicion": 3,
+      "url": "https://es.shopify.com/herramientas/generador-nombre-para-empresas/venta-al-por-menor",
+      "titulo": "Generador de nombres de tiendas (Shopify)",
+      "promete": "Generador; empuja a abrir tienda"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Ejemplos sacados del motor nombres (generarNombres, semilla 7, apellido Ramírez). Ley leída en diputados.gob.mx el 12-nov-2026."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Ejemplos sacados del motor nombres (generarNombres, semilla 7, apellido Ramírez). Ley leída en diputados.gob.mx el 12-nov-2026. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

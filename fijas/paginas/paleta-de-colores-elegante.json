@@ -3,7 +3,12 @@
   "slug": "paleta-de-colores-elegante",
   "molde": "herramienta",
   "cabeza": "paleta de color elegante",
-  "busquedas": ["paletas de colores elegantes", "paleta de colores elegante", "colores elegantes", "colores de lujo"],
+  "busquedas": [
+    "paletas de colores elegantes",
+    "paleta de colores elegante",
+    "colores elegantes",
+    "colores de lujo"
+  ],
   "title": "Paleta de color elegante con códigos HEX para copiar",
   "h1": "Paletas de colores elegantes",
   "description": "Seis paletas de colores elegantes como negro y oro, vino y crema o azul noche y plata. Copia cada código HEX y baja la paleta en PNG o CSS gratis.",
@@ -15,63 +20,184 @@
     "Una paleta elegante usa pocos colores, oscuros y apagados, con un acento metálico o muy suave. Se ve cara porque no grita.",
     "Abajo tienes seis paletas elegantes con sus códigos HEX. Copia un tono con un toque o bájala en PNG."
   ],
-  "herramienta": { "id": "paleta", "modo": "elegante" },
+  "herramienta": {
+    "id": "paleta",
+    "modo": "elegante"
+  },
   "cuerpo": [
-    { "h2": "Cómo lograr que tu marca se vea elegante" },
-    { "pasos": [
-      { "titulo": "Parte de un oscuro profundo", "texto": "Negro, azul noche, vino o verde esmeralda. Ese color lleva el peso de la marca." },
-      { "titulo": "Suma un acento discreto", "texto": "Oro viejo, plata o rosa palo. Úsalo en líneas finas y detalles." },
-      { "titulo": "Deja mucho espacio claro", "texto": "Un crema o marfil de fondo da la sensación de lujo." },
-      { "titulo": "Copia y descarga", "texto": "Toca cada franja para el HEX y baja el PNG para tu imprenta." }
-    ] },
-    { "h2": "Qué hace que un color se vea caro" },
-    { "p": "Los colores elegantes tienen poca saturación. Un dorado apagado como #B8975A se ve más fino que un amarillo brillante." },
-    { "p": "También influye la cantidad. Una marca de lujo usa dos o tres colores y repite siempre los mismos." },
-    { "p": "El espacio vacío cuenta como color. Una página con aire se percibe más exclusiva que una llena de cosas." },
-    { "h2": "Las seis paletas elegantes" },
-    { "tabla": {
-      "columnas": ["Paleta", "Códigos HEX", "Negocio que la luce"],
-      "filas": [
-        ["Negro y oro", "#0E0E0E #1C1C1C #B8975A #D9C49A #F5EFE3", "Joyería o salón de eventos"],
-        ["Azul noche y plata", "#0B132B #1C2541 #3A506B #C0C6CF #F2F4F7", "Despacho de abogados o relojería"],
-        ["Vino y crema", "#3B0D11 #6A1B29 #A44A3F #E8D5C4 #F7F1EA", "Vinatería o restaurante de mantel"],
-        ["Verde esmeralda", "#0B2B26 #163832 #235347 #8EB69B #DAF1DE", "Hotel boutique o club de golf"],
-        ["Carbón y rosa palo", "#222222 #4A4A4A #C9ADA7 #E8D6CF #F7F1EE", "Cirujano plástico o estudio de novias"],
-        ["Marfil y negro", "#121212 #2F2F2F #8C8C8C #E6E1D6 #FAF8F3", "Inmobiliaria de lujo o arquitecto"]
+    {
+      "h2": "Cómo lograr que tu marca se vea elegante"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Parte de un oscuro profundo",
+          "texto": "Negro, azul noche, vino o verde esmeralda. Ese color lleva el peso de la marca."
+        },
+        {
+          "titulo": "Suma un acento discreto",
+          "texto": "Oro viejo, plata o rosa palo. Úsalo en líneas finas y detalles."
+        },
+        {
+          "titulo": "Deja mucho espacio claro",
+          "texto": "Un crema o marfil de fondo da la sensación de lujo."
+        },
+        {
+          "titulo": "Copia y descarga",
+          "texto": "Toca cada franja para el HEX y baja el PNG para tu imprenta."
+        }
       ]
-    } },
-    { "h2": "Detalles que suman elegancia" },
-    { "ul": [
-      "Usa el dorado sólo en el logo, una línea o un ícono.",
-      "Prefiere letras con remate para títulos y letras limpias para el texto.",
-      "No mezcles dos metálicos en la misma pieza.",
-      "Las fotos en blanco y negro combinan con cualquiera de estas paletas."
-    ] },
-    { "p": "El dorado impreso en papel no brilla como en pantalla. Si lo quieres metálico, pide tinta metálica o estampado en caliente a tu imprenta." },
-    { "h2": "Ejemplo con un salón de eventos" },
-    { "p": "Un salón de eventos en Guadalajara puede vestir su página con Negro y oro. El fondo de la galería va en #0E0E0E y los textos en #F5EFE3." },
-    { "p": "Las líneas que separan precios y paquetes van en #B8975A. Las fotos de mesas montadas resaltan sobre el negro sin esfuerzo." },
-    { "p": "Para una versión más clara del lujo prueba la [paleta de color beige](id:paleta-de-colores-beige). Si te gusta el azul noche, mira la [paleta de colores azul](id:paleta-de-colores-azul)." }
+    },
+    {
+      "h2": "Qué hace que un color se vea caro"
+    },
+    {
+      "p": "Los colores elegantes tienen poca saturación. Un dorado apagado como #B8975A se ve más fino que un amarillo brillante."
+    },
+    {
+      "p": "También influye la cantidad. Una marca de lujo usa dos o tres colores y repite siempre los mismos."
+    },
+    {
+      "p": "El espacio vacío cuenta como color. Una página con aire se percibe más exclusiva que una llena de cosas."
+    },
+    {
+      "h2": "Las seis paletas elegantes"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Negocio que la luce"
+        ],
+        "filas": [
+          [
+            "Negro y oro",
+            "#0E0E0E #1C1C1C #B8975A #D9C49A #F5EFE3",
+            "Joyería o salón de eventos"
+          ],
+          [
+            "Azul noche y plata",
+            "#0B132B #1C2541 #3A506B #C0C6CF #F2F4F7",
+            "Despacho de abogados o relojería"
+          ],
+          [
+            "Vino y crema",
+            "#3B0D11 #6A1B29 #A44A3F #E8D5C4 #F7F1EA",
+            "Vinatería o restaurante de mantel"
+          ],
+          [
+            "Verde esmeralda",
+            "#0B2B26 #163832 #235347 #8EB69B #DAF1DE",
+            "Hotel boutique o club de golf"
+          ],
+          [
+            "Carbón y rosa palo",
+            "#222222 #4A4A4A #C9ADA7 #E8D6CF #F7F1EE",
+            "Cirujano plástico o estudio de novias"
+          ],
+          [
+            "Marfil y negro",
+            "#121212 #2F2F2F #8C8C8C #E6E1D6 #FAF8F3",
+            "Inmobiliaria de lujo o arquitecto"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Detalles que suman elegancia"
+    },
+    {
+      "ul": [
+        "Usa el dorado sólo en el logo, una línea o un ícono.",
+        "Prefiere letras con remate para títulos y letras limpias para el texto.",
+        "No mezcles dos metálicos en la misma pieza.",
+        "Las fotos en blanco y negro combinan con cualquiera de estas paletas."
+      ]
+    },
+    {
+      "p": "El dorado impreso en papel no brilla como en pantalla. Si lo quieres metálico, pide tinta metálica o estampado en caliente a tu imprenta."
+    },
+    {
+      "h2": "Ejemplo con un salón de eventos"
+    },
+    {
+      "p": "Un salón de eventos en Guadalajara puede vestir su página con Negro y oro. El fondo de la galería va en #0E0E0E y los textos en #F5EFE3."
+    },
+    {
+      "p": "Las líneas que separan precios y paquetes van en #B8975A. Las fotos de mesas montadas resaltan sobre el negro sin esfuerzo."
+    },
+    {
+      "p": "Para una versión más clara del lujo prueba la [paleta de color beige](id:paleta-de-colores-beige). Si te gusta el azul noche, mira la [paleta de colores azul](id:paleta-de-colores-azul)."
+    }
   ],
   "faqs": [
-    { "pregunta": "¿Qué colores se ven elegantes?", "respuesta": "Los oscuros profundos con un acento metálico. Negro, azul noche y vino son los clásicos." },
-    { "pregunta": "¿Cuál es el HEX del dorado elegante?", "respuesta": "Un oro viejo como #B8975A. El dorado brillante #D4AF37 se ve más llamativo." },
-    { "pregunta": "¿Cuántos colores lleva una paleta de lujo?", "respuesta": "Dos o tres. Más colores restan elegancia." },
-    { "pregunta": "¿El negro sirve para una página web?", "respuesta": "Sí, en fondos de galería. Para texto largo conviene un fondo claro." },
-    { "pregunta": "¿Puedo usar estas paletas para invitaciones?", "respuesta": "Sí. Baja el PNG y úsalo de guía en tu diseño." },
-    { "pregunta": "¿Cómo hago mi propia paleta elegante?", "respuesta": "Escribe tu oscuro en «Arma la tuya desde un color». Elige la versión monocromática." }
+    {
+      "pregunta": "¿Qué colores se ven elegantes?",
+      "respuesta": "Los oscuros profundos con un acento metálico. Negro, azul noche y vino son los clásicos."
+    },
+    {
+      "pregunta": "¿Cuál es el HEX del dorado elegante?",
+      "respuesta": "Un oro viejo como #B8975A. El dorado brillante #D4AF37 se ve más llamativo."
+    },
+    {
+      "pregunta": "¿Cuántos colores lleva una paleta de lujo?",
+      "respuesta": "Dos o tres. Más colores restan elegancia."
+    },
+    {
+      "pregunta": "¿El negro sirve para una página web?",
+      "respuesta": "Sí, en fondos de galería. Para texto largo conviene un fondo claro."
+    },
+    {
+      "pregunta": "¿Puedo usar estas paletas para invitaciones?",
+      "respuesta": "Sí. Baja el PNG y úsalo de guía en tu diseño."
+    },
+    {
+      "pregunta": "¿Cómo hago mi propia paleta elegante?",
+      "respuesta": "Escribe tu oscuro en «Arma la tuya desde un color». Elige la versión monocromática."
+    }
   ],
-  "relacionadas": ["paleta-de-colores", "paleta-de-colores-beige", "paleta-de-colores-gris", "paleta-de-colores-azul", "combinaciones-de-colores", "diseno-de-paginas-web"],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-beige",
+    "paleta-de-colores-gris",
+    "paleta-de-colores-azul",
+    "combinaciones-de-colores",
+    "diseno-de-paginas-web"
+  ],
   "venta": {
     "puente": "Una página elegante con tu dominio hace que tu precio se entienda antes de hablar.",
     "aviso": "Ya tienes tu paleta elegante. ¿La vemos en una página con tu marca?",
     "titulo": "¿Hacemos tu página con esta paleta elegante?",
-    "trabajos": ["signsolu", "comprafin", "laola"]
+    "trabajos": [
+      "signsolu",
+      "comprafin",
+      "laola"
+    ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://filmora.wondershare.com.br/video-creative-tips/elegant-color-palette.html",
+      "titulo": "Paleta elegante (Filmora)",
+      "promete": "Ideas con códigos; en portugués"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.jukeboxprint.com/tools/color-palettes/elegant",
+      "titulo": "Elegant color palettes (Jukebox)",
+      "promete": "Paletas en inglés"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.media.io/es/color-palette/elegant-color-palette.html",
+      "titulo": "Paleta elegante (Media.io)",
+      "promete": "Ideas con códigos HEX"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo elegante)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo elegante). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

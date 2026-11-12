@@ -3,7 +3,13 @@
   "slug": "paleta-de-colores-blanco",
   "molde": "herramienta",
   "cabeza": "paleta de colores blancos",
-  "busquedas": ["paleta de color blanco", "tonos de blanco", "blanco hueso", "blanco roto", "colores que combinan con blanco"],
+  "busquedas": [
+    "paleta de color blanco",
+    "tonos de blanco",
+    "blanco hueso",
+    "blanco roto",
+    "colores que combinan con blanco"
+  ],
   "title": "Paleta de colores blancos con códigos HEX gratis",
   "h1": "Paletas de colores blancos",
   "description": "Seis paletas con blancos distintos como hueso, roto y nieve, cada una con su contraste. Copia el código HEX de cada blanco y bájala en PNG o CSS.",
@@ -15,73 +21,222 @@
     "No todos los blancos son iguales. Un blanco hueso se siente cálido y un blanco nieve se siente limpio y clínico.",
     "Abajo tienes seis paletas que parten de un blanco y traen su color de contraste. Copia cada código HEX con un toque."
   ],
-  "herramienta": { "id": "paleta", "modo": "blanco" },
+  "herramienta": {
+    "id": "paleta",
+    "modo": "blanco"
+  },
   "cuerpo": [
-    { "h2": "Cómo elegir el blanco correcto" },
-    { "pasos": [
-      { "titulo": "Decide la temperatura", "texto": "Los blancos con amarillo son cálidos. Los que tiran a azul son fríos." },
-      { "titulo": "Elige con qué va", "texto": "Cada paleta trae madera, azul, verde o negro. Ese color define el carácter." },
-      { "titulo": "Copia el blanco y su oscuro", "texto": "El blanco va de fondo y el oscuro va en letras. Los dos se copian con un toque." },
-      { "titulo": "Compara en tu pantalla", "texto": "Baja el PNG y ponlo junto a tus fotos. Así ves cuál blanco les sienta." }
-    ] },
-    { "h2": "Tipos de blanco y su código" },
-    { "tabla": {
-      "columnas": ["Blanco", "HEX", "Cómo se siente"],
-      "filas": [
-        ["Blanco puro", "#FFFFFF", "Limpio y técnico"],
-        ["Blanco humo", "#F5F5F5", "Neutro y suave"],
-        ["Blanco roto", "#FAF9F6", "Cálido y cómodo"],
-        ["Hueso", "#F2EEE7", "Natural y artesanal"],
-        ["Marfil", "#FFFFF0", "Clásico y elegante"],
-        ["Nieve", "#FCFCFC", "Muy limpio y frío"]
+    {
+      "h2": "Cómo elegir el blanco correcto"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Decide la temperatura",
+          "texto": "Los blancos con amarillo son cálidos. Los que tiran a azul son fríos."
+        },
+        {
+          "titulo": "Elige con qué va",
+          "texto": "Cada paleta trae madera, azul, verde o negro. Ese color define el carácter."
+        },
+        {
+          "titulo": "Copia el blanco y su oscuro",
+          "texto": "El blanco va de fondo y el oscuro va en letras. Los dos se copian con un toque."
+        },
+        {
+          "titulo": "Compara en tu pantalla",
+          "texto": "Baja el PNG y ponlo junto a tus fotos. Así ves cuál blanco les sienta."
+        }
       ]
-    } },
-    { "h2": "Las seis paletas con blanco" },
-    { "tabla": {
-      "columnas": ["Paleta", "Códigos HEX", "Para qué negocio"],
-      "filas": [
-        ["Blanco roto", "#2B2B2B #8A8A86 #DAD8D2 #EFEDE8 #FAF9F6", "Despacho o consultoría"],
-        ["Blanco y madera", "#3E2C1C #A47551 #E8DCCB #F5F1EA #FFFFFF", "Mueblería o cafetería nórdica"],
-        ["Blanco y azul", "#0B3954 #087E8B #BFD7EA #F0F6FA #FFFFFF", "Clínica o laboratorio"],
-        ["Hueso", "#514A40 #9E968A #E3DDD3 #F2EEE7 #FBF9F5", "Panadería o cerámica"],
-        ["Nieve y negro", "#0B0B0B #3D3D3D #CFCFCF #EFEFEF #FCFCFC", "Galería o tienda de ropa"],
-        ["Blanco y verde", "#1B4332 #40916C #D8F3DC #F1F8F4 #FFFFFF", "Farmacia naturista o veterinaria"]
+    },
+    {
+      "h2": "Tipos de blanco y su código"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Blanco",
+          "HEX",
+          "Cómo se siente"
+        ],
+        "filas": [
+          [
+            "Blanco puro",
+            "#FFFFFF",
+            "Limpio y técnico"
+          ],
+          [
+            "Blanco humo",
+            "#F5F5F5",
+            "Neutro y suave"
+          ],
+          [
+            "Blanco roto",
+            "#FAF9F6",
+            "Cálido y cómodo"
+          ],
+          [
+            "Hueso",
+            "#F2EEE7",
+            "Natural y artesanal"
+          ],
+          [
+            "Marfil",
+            "#FFFFF0",
+            "Clásico y elegante"
+          ],
+          [
+            "Nieve",
+            "#FCFCFC",
+            "Muy limpio y frío"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Las seis paletas con blanco"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Para qué negocio"
+        ],
+        "filas": [
+          [
+            "Blanco roto",
+            "#2B2B2B #8A8A86 #DAD8D2 #EFEDE8 #FAF9F6",
+            "Despacho o consultoría"
+          ],
+          [
+            "Blanco y madera",
+            "#3E2C1C #A47551 #E8DCCB #F5F1EA #FFFFFF",
+            "Mueblería o cafetería nórdica"
+          ],
+          [
+            "Blanco y azul",
+            "#0B3954 #087E8B #BFD7EA #F0F6FA #FFFFFF",
+            "Clínica o laboratorio"
+          ],
+          [
+            "Hueso",
+            "#514A40 #9E968A #E3DDD3 #F2EEE7 #FBF9F5",
+            "Panadería o cerámica"
+          ],
+          [
+            "Nieve y negro",
+            "#0B0B0B #3D3D3D #CFCFCF #EFEFEF #FCFCFC",
+            "Galería o tienda de ropa"
+          ],
+          [
+            "Blanco y verde",
+            "#1B4332 #40916C #D8F3DC #F1F8F4 #FFFFFF",
+            "Farmacia naturista o veterinaria"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Por qué un fondo blanco vende"
+    },
+    {
+      "p": "El blanco deja que el producto sea lo único que se ve. Por eso las tiendas en línea casi siempre usan fondo blanco."
+    },
+    {
+      "p": "Comunica higiene en giros de salud y comida. Un consultorio o una cocina se perciben más limpios con mucho blanco."
+    },
+    {
+      "p": "El riesgo es que se vea vacío o sin personalidad. Un solo color de marca bien puesto lo resuelve."
+    },
+    {
+      "ul": [
+        "Para letras usa #2B2B2B y no negro puro sobre blanco puro.",
+        "Separa secciones con un blanco humo en vez de líneas.",
+        "Si tus fotos son cálidas, usa blanco roto o hueso.",
+        "En impresos el blanco es el papel, así que elige bien el papel."
       ]
-    } },
-    { "h2": "Por qué un fondo blanco vende" },
-    { "p": "El blanco deja que el producto sea lo único que se ve. Por eso las tiendas en línea casi siempre usan fondo blanco." },
-    { "p": "Comunica higiene en giros de salud y comida. Un consultorio o una cocina se perciben más limpios con mucho blanco." },
-    { "p": "El riesgo es que se vea vacío o sin personalidad. Un solo color de marca bien puesto lo resuelve." },
-    { "ul": [
-      "Para letras usa #2B2B2B y no negro puro sobre blanco puro.",
-      "Separa secciones con un blanco humo en vez de líneas.",
-      "Si tus fotos son cálidas, usa blanco roto o hueso.",
-      "En impresos el blanco es el papel, así que elige bien el papel."
-    ] },
-    { "h2": "Ejemplo con una veterinaria" },
-    { "p": "Una veterinaria puede usar la paleta Blanco y verde. El fondo de su página va en #FFFFFF y las secciones alternan con #F1F8F4." },
-    { "p": "Los títulos van en #1B4332 y el botón de urgencias en #40916C. Las fotos de mascotas resaltan sobre tanto blanco." },
-    { "p": "Para un neutro con más color mira la [paleta de color beige](id:paleta-de-colores-beige). Para un blanco con gris prueba la [paleta de color gris](id:paleta-de-colores-gris)." }
+    },
+    {
+      "h2": "Ejemplo con una veterinaria"
+    },
+    {
+      "p": "Una veterinaria puede usar la paleta Blanco y verde. El fondo de su página va en #FFFFFF y las secciones alternan con #F1F8F4."
+    },
+    {
+      "p": "Los títulos van en #1B4332 y el botón de urgencias en #40916C. Las fotos de mascotas resaltan sobre tanto blanco."
+    },
+    {
+      "p": "Para un neutro con más color mira la [paleta de color beige](id:paleta-de-colores-beige). Para un blanco con gris prueba la [paleta de color gris](id:paleta-de-colores-gris)."
+    }
   ],
   "faqs": [
-    { "pregunta": "¿Cuál es el HEX del blanco hueso?", "respuesta": "#F2EEE7 es un hueso común. Hay versiones más claras como #FBF9F5." },
-    { "pregunta": "¿Qué diferencia hay entre blanco roto y marfil?", "respuesta": "El marfil tira más a amarillo. El blanco roto es casi neutro con un toque cálido." },
-    { "pregunta": "¿Qué color combina con blanco?", "respuesta": "Todos. Elige uno solo de acento para que la página tenga carácter." },
-    { "pregunta": "¿Es mejor fondo blanco o de color?", "respuesta": "Blanco para tiendas y salud. Un fondo de color funciona en marcas con mucha personalidad." },
-    { "pregunta": "¿El blanco puro cansa la vista?", "respuesta": "A veces sí, en textos largos. Un blanco roto es más amable." },
-    { "pregunta": "¿Puedo bajar estas paletas?", "respuesta": "Sí. En PNG para ver y en CSS para tu página." }
+    {
+      "pregunta": "¿Cuál es el HEX del blanco hueso?",
+      "respuesta": "#F2EEE7 es un hueso común. Hay versiones más claras como #FBF9F5."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre blanco roto y marfil?",
+      "respuesta": "El marfil tira más a amarillo. El blanco roto es casi neutro con un toque cálido."
+    },
+    {
+      "pregunta": "¿Qué color combina con blanco?",
+      "respuesta": "Todos. Elige uno solo de acento para que la página tenga carácter."
+    },
+    {
+      "pregunta": "¿Es mejor fondo blanco o de color?",
+      "respuesta": "Blanco para tiendas y salud. Un fondo de color funciona en marcas con mucha personalidad."
+    },
+    {
+      "pregunta": "¿El blanco puro cansa la vista?",
+      "respuesta": "A veces sí, en textos largos. Un blanco roto es más amable."
+    },
+    {
+      "pregunta": "¿Puedo bajar estas paletas?",
+      "respuesta": "Sí. En PNG para ver y en CSS para tu página."
+    }
   ],
-  "relacionadas": ["paleta-de-colores", "paleta-de-colores-beige", "paleta-de-colores-gris", "paleta-de-colores-elegante", "combinaciones-de-colores", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-beige",
+    "paleta-de-colores-gris",
+    "paleta-de-colores-elegante",
+    "combinaciones-de-colores",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Una página con fondo blanco deja que tus productos y tus fotos hablen.",
     "aviso": "Ya elegiste tu blanco. ¿Armamos una página limpia con tu marca y tu dominio?",
     "titulo": "¿Hacemos tu página con esta paleta?",
-    "trabajos": ["comprafin", "signsolu", "makatea"]
+    "trabajos": [
+      "comprafin",
+      "signsolu",
+      "makatea"
+    ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.figma.com/es-la/colores/blanco/",
+      "titulo": "Blanco (Figma)",
+      "promete": "Códigos del blanco"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.figma.com/es-la/colores/blanco-roto/",
+      "titulo": "Blanco roto (Figma)",
+      "promete": "Códigos del blanco roto"
+    },
+    {
+      "posicion": 3,
+      "url": "https://colorswall.com/es/palette/321",
+      "titulo": "Tonos de blanco (Colorswall)",
+      "promete": "Lista de códigos HEX"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas y nombres del motor paleta (modo blanco)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas y nombres del motor paleta (modo blanco). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

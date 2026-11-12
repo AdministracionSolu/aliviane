@@ -174,9 +174,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/crear/logos/constructoras/",
+      "titulo": "Logos para constructoras (Canva)",
+      "promete": "Creador con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_co/logos/plantillas/construccion/",
+      "titulo": "Plantillas de construcción (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.designrush.com/best-designs/logo/construction-manat-logo-design",
+      "titulo": "Logo de Construtora MANAT (DesignRush)",
+      "promete": "Caso de agencia; sin herramienta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/constructora (casa, edificios, casco, ladrillos, grúa; paleta P_OBRA)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/constructora (casa, edificios, casco, ladrillos, grúa; paleta P_OBRA). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

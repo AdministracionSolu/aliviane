@@ -179,9 +179,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_co/crear/logos/animated/",
+      "titulo": "Logos animados (Canva)",
+      "promete": "Editor con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.flexclip.com/es/create/animated-logo-video.html",
+      "titulo": "Video de logo animado (FlexClip)",
+      "promete": "Plantillas de video con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.renderforest.com/es/logo-animation",
+      "titulo": "Animación de logo (Renderforest)",
+      "promete": "Plantillas; descarga en alta de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/animado: GIF 640 × 480 a 15 cps, video MP4 o WebM (MediaRecorder, según navegador) a 30 cps, SVG animado con CSS y prefers-reduced-motion; DURACION 4.2 s. Mejora de motor: elegir tipo de animación."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/animado: GIF 640 × 480 a 15 cps, video MP4 o WebM (MediaRecorder, según navegador) a 30 cps, SVG animado con CSS y prefers-reduced-motion; DURACION 4.2 s. Mejora de motor: elegir tipo de animación. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

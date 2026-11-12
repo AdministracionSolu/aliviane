@@ -165,9 +165,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/logos/plantillas/transporte/",
+      "titulo": "Plantillas de logos de transporte (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://produkto.io/es/logos/trucking",
+      "titulo": "Logotipos de transporte por camión (Produkto)",
+      "promete": "Generador con consejos"
+    },
+    {
+      "posicion": 3,
+      "url": "https://logotyp.us/industry/transportation/",
+      "titulo": "Transportation logos (Logotyp.us)",
+      "promete": "Galería en inglés"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/transporte (camión, flecha, carretera; paleta P_TRANSPORTE)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/transporte (camión, flecha, carretera; paleta P_TRANSPORTE). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

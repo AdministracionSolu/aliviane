@@ -14,64 +14,188 @@
   "respuesta": [
     "El editor de arriba abre en el diseño «Despacho», que usa letra con remate y colores sobrios. Escribe tu nombre con título, tu materia y tu cédula junto al puesto si quieres mostrarla. Bajas la tarjeta de 9 × 5 cm o la hoja carta con 10 tarjetas y marcas de corte."
   ],
-  "herramienta": { "id": "editor-diseno", "modo": "tarjeta-presentacion", "opciones": { "diseno": "despacho" } },
+  "herramienta": {
+    "id": "editor-diseno",
+    "modo": "tarjeta-presentacion",
+    "opciones": {
+      "diseno": "despacho"
+    }
+  },
   "cuerpo": [
-    { "h2": "Lo que espera un cliente de la tarjeta de su abogado" },
-    { "p": "Quien busca un abogado suele estar en un problema. La tarjeta tiene que transmitir calma, orden y que sabes de su asunto." },
-    { "p": "Por eso conviene un diseño con mucho aire, una letra con remate y uno o dos colores serios. Nada de adornos ni frases de venta." },
-    { "h2": "Qué datos poner" },
-    { "tabla": {
-      "columnas": ["Dato", "Ejemplo", "Consejo"],
-      "filas": [
-        ["Nombre con título", "Lic. Mariana Leal Ortiz", "Usa el título que te reconocen tus clientes"],
-        ["Materia", "Derecho familiar y civil", "Una o dos materias, no la lista completa"],
-        ["Cargo", "Abogada litigante o socia", "Ayuda a saber con quién hablarán"],
-        ["Despacho", "Nombre del despacho", "Si trabajas sola, puede ser tu apellido"],
-        ["Cédula", "Número de cédula profesional", "Da confianza y se puede verificar"],
-        ["Contacto", "Teléfono, WhatsApp y correo", "Un correo con tu dominio se ve más serio"]
+    {
+      "h2": "Lo que espera un cliente de la tarjeta de su abogado"
+    },
+    {
+      "p": "Quien busca un abogado suele estar en un problema. La tarjeta tiene que transmitir calma, orden y que sabes de su asunto."
+    },
+    {
+      "p": "Por eso conviene un diseño con mucho aire, una letra con remate y uno o dos colores serios. Nada de adornos ni frases de venta."
+    },
+    {
+      "h2": "Qué datos poner"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Ejemplo",
+          "Consejo"
+        ],
+        "filas": [
+          [
+            "Nombre con título",
+            "Lic. Mariana Leal Ortiz",
+            "Usa el título que te reconocen tus clientes"
+          ],
+          [
+            "Materia",
+            "Derecho familiar y civil",
+            "Una o dos materias, no la lista completa"
+          ],
+          [
+            "Cargo",
+            "Abogada litigante o socia",
+            "Ayuda a saber con quién hablarán"
+          ],
+          [
+            "Despacho",
+            "Nombre del despacho",
+            "Si trabajas sola, puede ser tu apellido"
+          ],
+          [
+            "Cédula",
+            "Número de cédula profesional",
+            "Da confianza y se puede verificar"
+          ],
+          [
+            "Contacto",
+            "Teléfono, WhatsApp y correo",
+            "Un correo con tu dominio se ve más serio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La cédula profesional se puede consultar en el Registro Nacional de Profesionistas de la SEP. Mostrarla le ahorra al cliente esa duda."
+    },
+    {
+      "h2": "Cómo hacer tu tarjeta de abogado"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Empieza con el diseño Despacho",
+          "texto": "El editor ya abre con ese diseño puesto. Usa una letra clásica y un acento discreto."
+        },
+        {
+          "titulo": "Escribe la materia en la frase corta",
+          "texto": "«Derecho laboral» o «Amparos y juicios mercantiles» orienta al cliente correcto."
+        },
+        {
+          "titulo": "Pon la dirección del despacho",
+          "texto": "Si recibes con cita, agrega «Atención con cita previa» en la frase."
+        },
+        {
+          "titulo": "Agrega un QR al reverso",
+          "texto": "Que abra tu WhatsApp o tu página. El cliente te guarda sin teclear."
+        }
       ]
-    } },
-    { "p": "La cédula profesional se puede consultar en el Registro Nacional de Profesionistas de la SEP. Mostrarla le ahorra al cliente esa duda." },
-    { "h2": "Cómo hacer tu tarjeta de abogado" },
-    { "pasos": [
-      { "titulo": "Empieza con el diseño Despacho", "texto": "El editor ya abre con ese diseño puesto. Usa una letra clásica y un acento discreto." },
-      { "titulo": "Escribe la materia en la frase corta", "texto": "«Derecho laboral» o «Amparos y juicios mercantiles» orienta al cliente correcto." },
-      { "titulo": "Pon la dirección del despacho", "texto": "Si recibes con cita, agrega «Atención con cita previa» en la frase." },
-      { "titulo": "Agrega un QR al reverso", "texto": "Que abra tu WhatsApp o tu página. El cliente te guarda sin teclear." }
-    ] },
-    { "h2": "Colores y papel para un despacho" },
-    { "p": "El azul marino, el vino y el gris carbón se asocian con seriedad. El blanco hueso o crema como fondo da un toque más cálido que el blanco puro." },
-    { "p": "Imprime en cartulina gruesa y mate. El papel brillante se siente de promoción y deja huellas de dedos." },
-    { "p": "Si vas a pedirla en imprenta, pregunta por acabados como el papel de algodón o un toque de relieve en tu nombre. La guía [imprimir tarjetas de presentación](id:imprimir-tarjetas-de-presentacion) explica las opciones." },
-    { "h2": "Errores comunes en tarjetas de abogados" },
-    { "ul": [
-      "Listar diez materias, que hace dudar de tu especialidad.",
-      "Usar balanzas y martillos de juez en todas las esquinas.",
-      "Poner un correo gratuito con apodo en lugar de uno serio.",
-      "Prometer resultados en la tarjeta, como «Ganamos tu caso»."
-    ] },
-    { "p": "Para tu firma en correos y escritos usa la [firma de correo](id:firma-de-correo) con los mismos datos. Si quieres un monograma con tus iniciales, prueba las [letras para logo](id:letras-para-logo)." }
+    },
+    {
+      "h2": "Colores y papel para un despacho"
+    },
+    {
+      "p": "El azul marino, el vino y el gris carbón se asocian con seriedad. El blanco hueso o crema como fondo da un toque más cálido que el blanco puro."
+    },
+    {
+      "p": "Imprime en cartulina gruesa y mate. El papel brillante se siente de promoción y deja huellas de dedos."
+    },
+    {
+      "p": "Si vas a pedirla en imprenta, pregunta por acabados como el papel de algodón o un toque de relieve en tu nombre. La guía [imprimir tarjetas de presentación](id:imprimir-tarjetas-de-presentacion) explica las opciones."
+    },
+    {
+      "h2": "Errores comunes en tarjetas de abogados"
+    },
+    {
+      "ul": [
+        "Listar diez materias, que hace dudar de tu especialidad.",
+        "Usar balanzas y martillos de juez en todas las esquinas.",
+        "Poner un correo gratuito con apodo en lugar de uno serio.",
+        "Prometer resultados en la tarjeta, como «Ganamos tu caso»."
+      ]
+    },
+    {
+      "p": "Para tu firma en correos y escritos usa la [firma de correo](id:firma-de-correo) con los mismos datos. Si quieres un monograma con tus iniciales, prueba las [letras para logo](id:letras-para-logo)."
+    }
   ],
   "faqs": [
-    { "pregunta": "¿Debo poner mi cédula en la tarjeta?", "respuesta": "No es obligatorio. Ponerla da confianza porque el cliente puede verificarla." },
-    { "pregunta": "¿Puedo hacer tarjetas para todo el despacho?", "respuesta": "Sí. Cambia el nombre y el cargo y baja una hoja por cada persona." },
-    { "pregunta": "¿Puedo usar el logo del despacho?", "respuesta": "Sí. Súbelo en PNG o JPG y acomódalo en el frente." },
-    { "pregunta": "¿Hay versión para WhatsApp?", "respuesta": "Sí. Cambia la medida a «Para WhatsApp» y baja la imagen." },
-    { "pregunta": "¿Cuánto cuesta?", "respuesta": "Nada. Diseñas e imprimes tus tarjetas gratis." }
+    {
+      "pregunta": "¿Debo poner mi cédula en la tarjeta?",
+      "respuesta": "No es obligatorio. Ponerla da confianza porque el cliente puede verificarla."
+    },
+    {
+      "pregunta": "¿Puedo hacer tarjetas para todo el despacho?",
+      "respuesta": "Sí. Cambia el nombre y el cargo y baja una hoja por cada persona."
+    },
+    {
+      "pregunta": "¿Puedo usar el logo del despacho?",
+      "respuesta": "Sí. Súbelo en PNG o JPG y acomódalo en el frente."
+    },
+    {
+      "pregunta": "¿Hay versión para WhatsApp?",
+      "respuesta": "Sí. Cambia la medida a «Para WhatsApp» y baja la imagen."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta?",
+      "respuesta": "Nada. Diseñas e imprimes tus tarjetas gratis."
+    }
   ],
-  "relacionadas": ["tarjetas-de-presentacion", "tarjeta-de-presentacion-digital", "letras-para-logo", "firma-de-correo", "imprimir-tarjetas-de-presentacion", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "tarjetas-de-presentacion",
+    "tarjeta-de-presentacion-digital",
+    "letras-para-logo",
+    "firma-de-correo",
+    "imprimir-tarjetas-de-presentacion",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Un despacho con página propia y su dominio inspira más confianza desde la primera búsqueda.",
     "aviso": "Tus tarjetas ya están listas. ¿Quieres una página para tu despacho?",
     "titulo": "¿Hacemos la página de tu despacho?",
-    "trabajos": ["signsolu", "solu", "comprafin"]
+    "trabajos": [
+      "signsolu",
+      "solu",
+      "comprafin"
+    ]
   },
   "fuentes": [
-    { "texto": "Registro Nacional de Profesionistas, consulta de cédulas (SEP)", "url": "https://cedulaprofesional.sep.gob.mx/" }
+    {
+      "texto": "Registro Nacional de Profesionistas, consulta de cédulas (SEP)",
+      "url": "https://cedulaprofesional.sep.gob.mx/"
+    }
   ],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.qrcode-tiger.com/es/lawyer-business-card",
+      "titulo": "Tarjetas de presentación para abogados (QR Tiger)",
+      "promete": "Guía que vende su QR"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_mx/crear/tarjetas-presentacion/abogados/",
+      "titulo": "Tarjetas para abogados (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://wavecnct.com/es/blog/digital-business-cards-lawyers",
+      "titulo": "Tarjeta digital para abogados (Wave)",
+      "promete": "Vende tarjeta digital de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion, diseño «Despacho» fijo con herramienta.opciones.diseno (R1). SignSolú (contratos) como trabajo afín."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-presentacion, diseño «Despacho» fijo con herramienta.opciones.diseno (R1). SignSolú (contratos) como trabajo afín. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

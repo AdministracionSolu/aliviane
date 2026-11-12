@@ -169,9 +169,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_ar/crear/logos-3d/",
+      "titulo": "Logos 3D (Canva)",
+      "promete": "Creador con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.capcut.com/es-es/create/3d-logo",
+      "titulo": "Creador de logotipos 3D (CapCut)",
+      "promete": "Creador con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://hyper3d.ai/es/blog/3d-logo-design-es",
+      "titulo": "Diseño de logotipos 3D (Hyper3D)",
+      "promete": "Guía que vende su generador"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/3d: relieve de 6 capas desplazadas en diagonal (armarLogo, p.relieve). Sólo se promete eso; no hay rotación ni modelo 3D."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/3d: relieve de 6 capas desplazadas en diagonal (armarLogo, p.relieve). Sólo se promete eso; no hay rotación ni modelo 3D. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

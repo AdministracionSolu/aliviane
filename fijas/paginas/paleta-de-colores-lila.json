@@ -3,7 +3,12 @@
   "slug": "paleta-de-colores-lila",
   "molde": "herramienta",
   "cabeza": "paleta de color lila",
-  "busquedas": ["paleta de colores lila", "paletas lila", "color lila combinaciones", "colores que combinan con lila"],
+  "busquedas": [
+    "paleta de colores lila",
+    "paletas lila",
+    "color lila combinaciones",
+    "colores que combinan con lila"
+  ],
   "title": "Paleta de color lila con códigos HEX gratis",
   "h1": "Paleta de color lila",
   "description": "Seis paletas de color lila con lavanda, malva y acentos de menta o amarillo. Copia cada código HEX y baja la paleta en PNG o CSS gratis y sin registro.",
@@ -15,64 +20,187 @@
     "El lila es un morado suave que se siente delicado y creativo. Va bien con salones de uñas, florerías, psicólogas y tiendas de regalos.",
     "Abajo tienes seis paletas lila con sus códigos HEX. Toca un tono para copiarlo o arma la tuya desde tu lila."
   ],
-  "herramienta": { "id": "paleta", "modo": "lila" },
+  "herramienta": {
+    "id": "paleta",
+    "modo": "lila"
+  },
   "cuerpo": [
-    { "h2": "Cómo usar el lila sin que se vea infantil" },
-    { "pasos": [
-      { "titulo": "Elige el tono", "texto": "La lavanda es fresca y el malva es más adulto. El lila intenso llama más la atención." },
-      { "titulo": "Agrega un oscuro", "texto": "Un morado profundo como #4B3869 da seriedad y sirve para letras." },
-      { "titulo": "Suma un acento distinto", "texto": "Menta o amarillo hacen que el lila brille. El gris lo vuelve sobrio." },
-      { "titulo": "Copia y descarga", "texto": "Un toque copia el HEX. Baja el PNG o el CSS cuando la tengas lista." }
-    ] },
-    { "h2": "Dónde funciona el lila" },
-    { "p": "El lila se asocia con calma, creatividad y cuidado. Encaja con terapeutas, centros de yoga y consultorios de psicología." },
-    { "p": "En belleza es un clásico. Salones de uñas, pestañas y depilación lo usan porque se siente femenino sin ser rosa." },
-    { "p": "Florerías, mesas de dulces y tiendas de regalos también lo aprovechan. En papelería y empaques se ve fresco y cuidado." },
-    { "h2": "Las seis paletas lila" },
-    { "tabla": {
-      "columnas": ["Paleta", "Códigos HEX", "Giro sugerido"],
-      "filas": [
-        ["Lila suave", "#4B3869 #7E5BA6 #B39DDB #DCCEF2 #F6F1FC", "Salón de uñas o pestañas"],
-        ["Lavanda", "#5B4B8A #8E7CC3 #B4A7D6 #D9D2E9 #F3F0F9", "Psicóloga o centro de yoga"],
-        ["Lila y menta", "#4A3F6B #9D8BC9 #E2DAF5 #BDE8D6 #6CC4A1", "Florería o mesa de dulces"],
-        ["Lila y gris", "#2E2B35 #6B6577 #B8B2C4 #DCD3EC #A98BD4", "Estudio de diseño o fotografía"],
-        ["Malva", "#5E3A58 #8F5E86 #C49BBB #E6CFE0 #F8F0F5", "Boutique o lencería"],
-        ["Lila y amarillo", "#3F2E63 #7A5AB5 #C7B6EA #F7F2FF #F2C94C", "Tienda de regalos o fiestas"]
+    {
+      "h2": "Cómo usar el lila sin que se vea infantil"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el tono",
+          "texto": "La lavanda es fresca y el malva es más adulto. El lila intenso llama más la atención."
+        },
+        {
+          "titulo": "Agrega un oscuro",
+          "texto": "Un morado profundo como #4B3869 da seriedad y sirve para letras."
+        },
+        {
+          "titulo": "Suma un acento distinto",
+          "texto": "Menta o amarillo hacen que el lila brille. El gris lo vuelve sobrio."
+        },
+        {
+          "titulo": "Copia y descarga",
+          "texto": "Un toque copia el HEX. Baja el PNG o el CSS cuando la tengas lista."
+        }
       ]
-    } },
-    { "h2": "Tips para tu página en lila" },
-    { "p": "Los lilas claros como #DCCEF2 son buenos fondos pero malas letras. Escribe con el morado más oscuro de la paleta." },
-    { "p": "El lila cambia mucho entre pantallas. En algunas se ve azul y en otras rosado, así que revisa en varios celulares." },
-    { "ul": [
-      "Pon tus fotos de trabajos sobre fondo #F6F1FC para que resalten.",
-      "Usa el amarillo #F2C94C sólo en el botón de agendar.",
-      "No mezcles lila con rojo fuerte porque se ensucia.",
-      "Repite el lila en tus tarjetas de cita y tu Instagram."
-    ] },
-    { "h2": "Ejemplo con un salón de uñas" },
-    { "p": "Un salón de uñas en Monterrey puede usar la paleta Lila suave. El fondo de su página va en #F6F1FC y los títulos en #4B3869." },
-    { "p": "Los diseños de uñas se muestran en una galería sobre #DCCEF2. El botón de agendar por WhatsApp va en #7E5BA6 con letras blancas." },
-    { "p": "Si prefieres algo más frío, abre las [paletas de colores fríos](id:paleta-de-colores-frios). Para juntar el lila con su opuesto usa [combinaciones de colores](id:combinaciones-de-colores)." }
+    },
+    {
+      "h2": "Dónde funciona el lila"
+    },
+    {
+      "p": "El lila se asocia con calma, creatividad y cuidado. Encaja con terapeutas, centros de yoga y consultorios de psicología."
+    },
+    {
+      "p": "En belleza es un clásico. Salones de uñas, pestañas y depilación lo usan porque se siente femenino sin ser rosa."
+    },
+    {
+      "p": "Florerías, mesas de dulces y tiendas de regalos también lo aprovechan. En papelería y empaques se ve fresco y cuidado."
+    },
+    {
+      "h2": "Las seis paletas lila"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Giro sugerido"
+        ],
+        "filas": [
+          [
+            "Lila suave",
+            "#4B3869 #7E5BA6 #B39DDB #DCCEF2 #F6F1FC",
+            "Salón de uñas o pestañas"
+          ],
+          [
+            "Lavanda",
+            "#5B4B8A #8E7CC3 #B4A7D6 #D9D2E9 #F3F0F9",
+            "Psicóloga o centro de yoga"
+          ],
+          [
+            "Lila y menta",
+            "#4A3F6B #9D8BC9 #E2DAF5 #BDE8D6 #6CC4A1",
+            "Florería o mesa de dulces"
+          ],
+          [
+            "Lila y gris",
+            "#2E2B35 #6B6577 #B8B2C4 #DCD3EC #A98BD4",
+            "Estudio de diseño o fotografía"
+          ],
+          [
+            "Malva",
+            "#5E3A58 #8F5E86 #C49BBB #E6CFE0 #F8F0F5",
+            "Boutique o lencería"
+          ],
+          [
+            "Lila y amarillo",
+            "#3F2E63 #7A5AB5 #C7B6EA #F7F2FF #F2C94C",
+            "Tienda de regalos o fiestas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Tips para tu página en lila"
+    },
+    {
+      "p": "Los lilas claros como #DCCEF2 son buenos fondos pero malas letras. Escribe con el morado más oscuro de la paleta."
+    },
+    {
+      "p": "El lila cambia mucho entre pantallas. En algunas se ve azul y en otras rosado, así que revisa en varios celulares."
+    },
+    {
+      "ul": [
+        "Pon tus fotos de trabajos sobre fondo #F6F1FC para que resalten.",
+        "Usa el amarillo #F2C94C sólo en el botón de agendar.",
+        "No mezcles lila con rojo fuerte porque se ensucia.",
+        "Repite el lila en tus tarjetas de cita y tu Instagram."
+      ]
+    },
+    {
+      "h2": "Ejemplo con un salón de uñas"
+    },
+    {
+      "p": "Un salón de uñas en Monterrey puede usar la paleta Lila suave. El fondo de su página va en #F6F1FC y los títulos en #4B3869."
+    },
+    {
+      "p": "Los diseños de uñas se muestran en una galería sobre #DCCEF2. El botón de agendar por WhatsApp va en #7E5BA6 con letras blancas."
+    },
+    {
+      "p": "Si prefieres algo más frío, abre las [paletas de colores fríos](id:paleta-de-colores-frios). Para juntar el lila con su opuesto usa [combinaciones de colores](id:combinaciones-de-colores)."
+    }
   ],
   "faqs": [
-    { "pregunta": "¿Qué color combina con lila?", "respuesta": "Menta, gris, blanco y amarillo suave. El morado oscuro sirve para letras." },
-    { "pregunta": "¿Cuál es el HEX del lila?", "respuesta": "Un lila común es #B39DDB. La lavanda es más clara, como #D9D2E9." },
-    { "pregunta": "¿Lila y morado son lo mismo?", "respuesta": "No. El lila es un morado claro con más blanco." },
-    { "pregunta": "¿El lila sirve para una marca de hombres?", "respuesta": "Sí, en tonos grises como la paleta Lila y gris. Se ve creativo y sobrio." },
-    { "pregunta": "¿Puedo escribir en lila?", "respuesta": "Sólo con los tonos oscuros. Los lilas claros no se leen sobre blanco." },
-    { "pregunta": "¿Cómo armo una paleta desde mi lila?", "respuesta": "Desde la sección de abajo. Escribe su HEX en «Arma la tuya desde un color»." }
+    {
+      "pregunta": "¿Qué color combina con lila?",
+      "respuesta": "Menta, gris, blanco y amarillo suave. El morado oscuro sirve para letras."
+    },
+    {
+      "pregunta": "¿Cuál es el HEX del lila?",
+      "respuesta": "Un lila común es #B39DDB. La lavanda es más clara, como #D9D2E9."
+    },
+    {
+      "pregunta": "¿Lila y morado son lo mismo?",
+      "respuesta": "No. El lila es un morado claro con más blanco."
+    },
+    {
+      "pregunta": "¿El lila sirve para una marca de hombres?",
+      "respuesta": "Sí, en tonos grises como la paleta Lila y gris. Se ve creativo y sobrio."
+    },
+    {
+      "pregunta": "¿Puedo escribir en lila?",
+      "respuesta": "Sólo con los tonos oscuros. Los lilas claros no se leen sobre blanco."
+    },
+    {
+      "pregunta": "¿Cómo armo una paleta desde mi lila?",
+      "respuesta": "Desde la sección de abajo. Escribe su HEX en «Arma la tuya desde un color»."
+    }
   ],
-  "relacionadas": ["paleta-de-colores", "paleta-de-colores-frios", "combinaciones-de-colores", "paleta-de-colores-gris", "paleta-de-colores-blanco", "landing-page"],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-frios",
+    "combinaciones-de-colores",
+    "paleta-de-colores-gris",
+    "paleta-de-colores-blanco",
+    "landing-page"
+  ],
   "venta": {
     "puente": "Tu salón o tu consultorio puede tener su página en lila con tu botón de citas.",
     "aviso": "Ya tienes tu lila. ¿Lo usamos en una página con tus trabajos y tu WhatsApp?",
     "titulo": "¿Hacemos tu página con esta paleta lila?",
-    "trabajos": ["signsolu", "laola", "makatea"]
+    "trabajos": [
+      "signsolu",
+      "laola",
+      "makatea"
+    ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.figma.com/es-la/colores/lila/",
+      "titulo": "Lila (Figma)",
+      "promete": "Código del lila y combinaciones"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.media.io/es/color-palette/lilac-color-palette.html",
+      "titulo": "Paletas lila (Media.io)",
+      "promete": "Ideas con códigos HEX"
+    },
+    {
+      "posicion": 3,
+      "url": "https://colorswall.com/es/palette/35137",
+      "titulo": "Paleta lila (Colorswall)",
+      "promete": "Paleta de usuarios con códigos"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo lila)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo lila). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }
