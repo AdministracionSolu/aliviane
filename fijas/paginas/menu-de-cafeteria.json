@@ -173,9 +173,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_ar/menus/plantillas/cafe/",
+      "titulo": "Plantillas de menús de café (Canva)",
+      "promete": "Plantillas editables con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.design.com/pt-pt/menus/etiqueta/cafeteria",
+      "titulo": "Menus de cafetaria (Design.com)",
+      "promete": "Creador de menús; descarga con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://pos.toasttab.com/es-us/blog/on-the-line/cafe-menu-ideas",
+      "titulo": "Ideas de menú para cafetería (Toast)",
+      "promete": "Ideas de platillos; vende su punto de venta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo cafeteria (diseño cafetería, media carta por omisión, precio en texto libre)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo cafeteria (diseño cafetería, media carta por omisión, precio en texto libre). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

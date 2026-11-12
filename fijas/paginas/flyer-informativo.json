@@ -17,7 +17,9 @@
   "herramienta": {
     "id": "editor-diseno",
     "modo": "flyer",
-    "opciones": { "diseno": "informativo" }
+    "opciones": {
+      "diseno": "informativo"
+    }
   },
   "cuerpo": [
     {
@@ -140,7 +142,14 @@
       "respuesta": "Sí. Lo bajas en PDF o PNG sin costo ni marca de agua. La línea del pie con nuestro nombre se quita con una casilla."
     }
   ],
-  "relacionadas": ["boletin-informativo", "folleto", "horario-de-atencion", "cartel-publicitario", "volantes", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "boletin-informativo",
+    "folleto",
+    "horario-de-atencion",
+    "cartel-publicitario",
+    "volantes",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Lo que explicas en un flyer puede quedar en una página que tus clientes consultan cuando quieran.",
     "aviso": "Tu aviso ya está listo. ¿Quieres una página donde quede la información completa?",
@@ -152,9 +161,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://aprendopublisher.milaulas.com/mod/resource/view.php?id=2",
+      "titulo": "Flyer informativo (Aprendo Publisher)",
+      "promete": "Qué lleva: datos esenciales y contacto; en Publisher"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/ec/blog/diseno-grafico/como-hacer-volante-publicitario",
+      "titulo": "Cómo hacer un volante publicitario (Crehana)",
+      "promete": "Diferencia volante informativo y comercial; curso de pago"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_mx/flyers/plantillas/creativos/",
+      "titulo": "Plantillas para flyers (Canva)",
+      "promete": "Plantillas editables con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer; el diseño «Informativo» abre solo con herramienta.opciones.diseno (R1)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/flyer; el diseño «Informativo» abre solo con herramienta.opciones.diseno (R1). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

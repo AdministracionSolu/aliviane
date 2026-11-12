@@ -395,9 +395,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.templatemonster.com/es/html-website-templates/",
+      "titulo": "Plantillas web HTML (TemplateMonster)",
+      "promete": "Tienda de plantillas HTML de pago"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.uv.es/fragar/html/pdf/html08.pdf",
+      "titulo": "Plantillas HTML (Universidad de Valencia)",
+      "promete": "Material didáctico: plantilla como base de varias páginas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://academicos.azc.uam.mx/jfg/src/interaccion/codigos/Practica_04.pdf",
+      "titulo": "Práctica 04 (UAM)",
+      "promete": "Ejercicio de copiar index.html; para estudiantes"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). DECISIÓN: Aliviane no da plantillas HTML descargables; la página explica, deja la estructura de landing como tabla y ofrece la landing hecha. Cabeza de 3K: no se leyó top 3."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). DECISIÓN: Aliviane no da plantillas HTML descargables; la página explica, deja la estructura de landing como tabla y ofrece la landing hecha. Cabeza de 3K: no se leyó top 3. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }
