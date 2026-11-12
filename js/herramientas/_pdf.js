@@ -4,7 +4,7 @@
 //   { t: 'linea', x1, y1, x2, y2, color?, grosor?, guiones? }
 //   { t: 'circulo', cx, cy, r, relleno?, trazo?, grosor? }
 //   { t: 'texto', x, y (línea base), s, f, tam, color?, ancla? ('i' | 'c' | 'd') }
-//   { t: 'img', x, y, w, h, im } (im sale de imagen())
+//   { t: 'img', x, y, w, h, im, radio? } (im sale de imagen(); radio recorta las esquinas)
 //   { t: 'liga', x, y, w, h, url } (sólo en el PDF)
 // La misma escena sale en PDF (pdf()) y en lienzo para PNG (lienzo()).
 
@@ -213,7 +213,8 @@ export function pdf(escenas, { titulo = '', autor = '' } = {}) {
         if (!imagenes.has(p.im)) imagenes.set(p.im, { n: 'Im' + (imagenes.size + 1) });
         const r = imagenes.get(p.im);
         ims[r.n] = p.im;
-        c += `q ${n2(p.w)} 0 0 ${n2(p.h)} ${n2(p.x)} ${n2(H - p.y - p.h)} cm /${r.n} Do Q\n`;
+        const clip = p.radio ? trazoRect(p, H) + ' W n ' : '';
+        c += `q ${clip}${n2(p.w)} 0 0 ${n2(p.h)} ${n2(p.x)} ${n2(H - p.y - p.h)} cm /${r.n} Do Q\n`;
       } else if (p.t === 'liga' && p.url) ligas.push(p);
     }
     objs.push({ e, c, usadas, ims, ligas });
@@ -301,8 +302,15 @@ export function lienzo(e, escala = 2) {
       ctx.textBaseline = 'alphabetic';
       ctx.fillText(p.s, p.x, p.y, ancho(p.s, p.f || 'h', p.tam) * 1.04 + 0.5);
     } else if (p.t === 'img' && p.im) {
+      ctx.save();
+      if (p.radio) {
+        ctx.beginPath();
+        if (ctx.roundRect) ctx.roundRect(p.x, p.y, p.w, p.h, Math.min(p.radio, p.w / 2, p.h / 2)); else ctx.rect(p.x, p.y, p.w, p.h);
+        ctx.clip();
+      }
       ctx.imageSmoothingQuality = 'high';
       ctx.drawImage(p.im.el, p.x, p.y, p.w, p.h);
+      ctx.restore();
     }
   }
   return c;
