@@ -169,3 +169,5 @@ a.ah-boton { text-decoration: none; }
   .ah { display: none; }
 }
 .ah-salida.ah-nota { font-family: var(--ah-sans); color: var(--ah-gris); }
+.ah-estado-fijo { position: sticky; bottom: 12px; justify-self: start; z-index: 2; min-height: 0; }
+.ah-estado-fijo:not(:empty) { background: var(--ah-texto); color: var(--ah-fondo); padding: 10px 14px; border-radius: 4px; }
