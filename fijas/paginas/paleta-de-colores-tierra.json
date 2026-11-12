@@ -1,0 +1,190 @@
+{
+  "id": "paleta-de-colores-tierra",
+  "slug": "paleta-de-colores-tierra",
+  "molde": "herramienta",
+  "cabeza": "paleta de color tierra",
+  "busquedas": [
+    "paletas de colores tierra",
+    "paleta de colores tierra",
+    "colores tierra",
+    "tonos tierra"
+  ],
+  "title": "Paleta de color tierra con códigos HEX gratis",
+  "h1": "Paleta de colores tierra",
+  "description": "Seis paletas de colores tierra con barro, terracota, desierto y salvia. Copia cada código HEX y baja tu paleta en PNG o CSS gratis y sin registro.",
+  "resumen": "Seis paletas de barro, terracota y desierto",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Los colores tierra son los del barro, la arcilla y el desierto. Dan una imagen artesanal, mexicana y cercana a la naturaleza.",
+    "Abajo tienes seis paletas tierra con códigos HEX. Copia un color con un toque o baja la paleta entera."
+  ],
+  "herramienta": {
+    "id": "paleta",
+    "modo": "tierra"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo elegir tu paleta tierra"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Piensa en el material",
+          "texto": "Barro, cerámica, piel o madera. Elige la paleta que se parezca a lo que vendes."
+        },
+        {
+          "titulo": "Equilibra con un frío",
+          "texto": "Un verde salvia o un verde bosque evita que todo se vea anaranjado."
+        },
+        {
+          "titulo": "Copia los tonos",
+          "texto": "Un toque sobre el color copia su HEX. Junta un oscuro, un medio y un claro."
+        },
+        {
+          "titulo": "Bájala",
+          "texto": "Usa el PNG para tu imprenta y el CSS para tu página."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde lucen los colores tierra"
+    },
+    {
+      "p": "Los tonos tierra recuerdan al barro de Oaxaca, la cantera y las haciendas. Encajan con artesanías, mezcalerías y restaurantes de cocina tradicional."
+    },
+    {
+      "p": "También funcionan en hoteles boutique, viveros y marcas de ropa de lino. Dan la idea de producto hecho con calma."
+    },
+    {
+      "p": "Para tecnología o salud se sienten fuera de lugar. Ahí conviene un azul o un neutro frío."
+    },
+    {
+      "h2": "Las seis paletas tierra"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Ideal para"
+        ],
+        "filas": [
+          [
+            "Barro",
+            "#3B2A20 #6E4B32 #A0522D #C98E5A #EBD9C1",
+            "Alfarería o mezcalería"
+          ],
+          [
+            "Desierto",
+            "#5B3A29 #8C5A3C #C2956B #E0C097 #F4E7D3",
+            "Hotel en el norte o ecoturismo"
+          ],
+          [
+            "Terracota y salvia",
+            "#9C4A2F #C8734F #E8C3A0 #A3B18A #588157",
+            "Vivero o cocina de autor"
+          ],
+          [
+            "Otoño",
+            "#582F0E #7F4F24 #936639 #A68A64 #B6AD90",
+            "Talabartería o botas"
+          ],
+          [
+            "Cerámica",
+            "#7D3C2B #B5653F #D9A066 #EADBC8 #F7F1E8",
+            "Taller de cerámica o decoración"
+          ],
+          [
+            "Tierra y bosque",
+            "#2F3E2E #4F6F52 #A0522D #D2A679 #F2E8DA",
+            "Cabañas o café de altura"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Consejos para que no se vea opaco"
+    },
+    {
+      "p": "Los colores tierra son de saturación baja. Juntos y sin contraste se ven lodosos en una pantalla."
+    },
+    {
+      "p": "Pon siempre un claro de fondo como #F7F1E8 y un oscuro para letras como #3B2A20. El terracota va en medio como acento."
+    },
+    {
+      "ul": [
+        "Fotografía tus productos con luz de día para que combinen con la paleta.",
+        "Evita fondos blancos fríos junto a tonos tierra.",
+        "En tu menú, el terracota #A0522D marca bien los títulos.",
+        "Un verde como #588157 da frescura sin romper el estilo."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una mezcalería"
+    },
+    {
+      "p": "Una mezcalería en Oaxaca puede vestir su página con la paleta Barro. El fondo va en #EBD9C1 y las letras en #3B2A20."
+    },
+    {
+      "p": "Los nombres de cada mezcal van en #A0522D para que se distingan. Las fotos de las botellas sobre madera ya combinan solas."
+    },
+    {
+      "p": "La misma paleta sirve para la carta impresa y las etiquetas. Así la marca se ve igual en la mesa y en el celular."
+    },
+    {
+      "p": "Si prefieres tonos más oscuros y de grano, mira la [paleta de color café](id:paleta-de-colores-cafe). Para la parte clara de la paleta abre la [paleta beige](id:paleta-de-colores-beige)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuáles son los colores tierra?",
+      "respuesta": "Los del barro y la arcilla con tono cálido. Terracota, ocre y arena son los más usados."
+    },
+    {
+      "pregunta": "¿Qué color combina con terracota?",
+      "respuesta": "Verde salvia, crema y café oscuro. La paleta Terracota y salvia los junta."
+    },
+    {
+      "pregunta": "¿El HEX del terracota cuál es?",
+      "respuesta": "Un terracota común es #C8734F. El óxido #A0522D es un poco más oscuro."
+    },
+    {
+      "pregunta": "¿Los tonos tierra sirven para una página web?",
+      "respuesta": "Sí, con contraste. Fondo muy claro, letras muy oscuras y el terracota de acento."
+    },
+    {
+      "pregunta": "¿Puedo sacar los tonos tierra de una foto?",
+      "respuesta": "Sí. Usa el [generador de paletas](id:paleta-de-colores) desde una imagen."
+    },
+    {
+      "pregunta": "¿Se pueden imprimir en lona?",
+      "respuesta": "Sí. Baja el PNG y pide a tu imprenta una prueba de color."
+    }
+  ],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-cafe",
+    "paleta-de-colores-beige",
+    "paleta-de-colores-naranja",
+    "combinaciones-de-colores",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu taller, tu hotel o tu restaurante puede tener su página en colores tierra.",
+    "aviso": "Ya tienes tus tonos tierra. ¿Armamos tu página con ellos?",
+    "titulo": "¿Hacemos tu página en colores tierra?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo tierra)."
+}

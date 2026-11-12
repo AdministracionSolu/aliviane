@@ -1,0 +1,208 @@
+{
+  "id": "codigo-qr-para-whatsapp",
+  "slug": "codigo-qr-para-whatsapp",
+  "molde": "herramienta",
+  "cabeza": "codigo qr para whatsapp",
+  "busquedas": [
+    "qr whatsapp",
+    "código qr whatsapp",
+    "código qr de whatsapp",
+    "códigos qr de whatsapp",
+    "qr de whatsapp",
+    "qr para whatsapp",
+    "codigo de qr de whatsapp",
+    "qr código whatsapp"
+  ],
+  "title": "Código QR para WhatsApp gratis con mensaje listo",
+  "h1": "Código QR para WhatsApp",
+  "description": "Crea un código QR que abre tu WhatsApp con un mensaje ya escrito. Sin registro ni caducidad. Descárgalo en PNG o SVG para tu mostrador, menú o tarjeta.",
+  "resumen": "Un QR que abre tu chat con el mensaje ya escrito",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tu número de WhatsApp y un mensaje, y sale un QR que abre tu chat. Quien lo escanea ve el mensaje listo para mandar.",
+    "No necesita guardar tu número como contacto. Lo descargas en PNG o SVG y no caduca."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "whatsapp"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo crear tu QR de WhatsApp"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu número",
+          "texto": "Pon los 10 dígitos de tu celular. La lada 52 de México ya viene puesta."
+        },
+        {
+          "titulo": "Agrega un mensaje",
+          "texto": "Escribe lo que quieres que te manden, como «Hola, quiero hacer un pedido»."
+        },
+        {
+          "titulo": "Personaliza",
+          "texto": "Cambia colores, pon tu logo al centro o un texto debajo como «Escanea y escríbenos»."
+        },
+        {
+          "titulo": "Prueba y descarga",
+          "texto": "Escanéalo con tu celular y revisa que abra tu chat. Luego baja el PNG o el SVG."
+        }
+      ]
+    },
+    {
+      "h2": "Tu QR de WhatsApp contra este QR"
+    },
+    {
+      "p": "WhatsApp ya trae un código QR personal en sus ajustes. Ese código sirve para que alguien te agregue como contacto."
+    },
+    {
+      "p": "El QR de esta herramienta abre un chat contigo sin guardarte. Además puede llevar un mensaje escrito por ti."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "QR de la app",
+          "QR de esta herramienta"
+        ],
+        "filas": [
+          [
+            "Qué hace al escanearlo",
+            "Te agrega como contacto",
+            "Abre un chat contigo"
+          ],
+          [
+            "Mensaje ya escrito",
+            "No",
+            "Sí, el que tú elijas"
+          ],
+          [
+            "Cambia si lo restableces",
+            "Sí",
+            "No, depende sólo de tu número"
+          ],
+          [
+            "Logo y colores",
+            "No",
+            "Sí"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Mensajes que te ayudan a vender"
+    },
+    {
+      "p": "El mensaje ya escrito te dice de dónde llegó cada cliente. Usa uno distinto en cada lugar donde pongas tu QR."
+    },
+    {
+      "ul": [
+        "En el mostrador. «Hola, quiero el catálogo completo»",
+        "En tu tarjeta. «Hola, me dieron tu tarjeta y quiero cotizar»",
+        "En la caja de envío. «Hola, ya recibí mi pedido y quiero otro»",
+        "En la lona de tu local. «Hola, vi su lona y quiero información»"
+      ]
+    },
+    {
+      "p": "Así sabes qué lugar te trae más mensajes sin pagar ninguna herramienta de medición."
+    },
+    {
+      "h2": "Dónde ponerlo para que lo usen"
+    },
+    {
+      "p": "Ponlo donde el cliente tiene tiempo y una duda. El mostrador, la mesa del restaurante y la bolsa de entrega funcionan mejor que una pared lejana."
+    },
+    {
+      "p": "Escribe al lado qué pasa al escanearlo. Un texto como «Escanea para pedir por WhatsApp» ayuda a que más gente se anime a usarlo."
+    },
+    {
+      "h2": "Ejemplo con una tortillería"
+    },
+    {
+      "p": "Una tortillería que reparte a domicilio pega su QR en cada paquete. El mensaje ya escrito dice «Hola, quiero mi pedido de mañana»."
+    },
+    {
+      "p": "El cliente sólo agrega cuántos kilos quiere y su dirección. La dueña arma la ruta del día con los mensajes de la noche anterior."
+    },
+    {
+      "p": "Si también quieres la liga para tus redes, usa el [link de WhatsApp](id:link-de-whatsapp). Para un QR con tu logo más grande prueba [crear QR con imagen](id:crear-qr-con-imagen)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El QR de WhatsApp es gratis?",
+      "respuesta": "Sí. No pide cuenta y no pone marca de agua."
+    },
+    {
+      "pregunta": "¿Funciona con WhatsApp Business?",
+      "respuesta": "Sí. Abre el chat del número que escribas, sea personal o de negocio."
+    },
+    {
+      "pregunta": "¿El QR deja de servir si cambio de celular?",
+      "respuesta": "No. Mientras conserves el mismo número, el QR sigue abriendo tu chat."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el mensaje después de imprimirlo?",
+      "respuesta": "No. El mensaje va dentro del código, así que harías otro QR."
+    },
+    {
+      "pregunta": "¿Mi número queda visible?",
+      "respuesta": "Sí. Quien escanea ve tu número al abrir el chat, así que usa el de tu negocio."
+    },
+    {
+      "pregunta": "¿Puedo poner un número de otro país?",
+      "respuesta": "Sí. Cambia la lada por la del país y escribe el número sin ceros iniciales."
+    }
+  ],
+  "relacionadas": [
+    "link-de-whatsapp",
+    "generador-de-qr",
+    "crear-qr-con-imagen",
+    "qr-de-instagram",
+    "qr-de-facebook",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu QR de WhatsApp puede convivir con una página que muestre tus productos antes del chat.",
+    "aviso": "Tu QR de WhatsApp ya está listo. ¿Quieres también una página con tu catálogo y ese botón?",
+    "titulo": "¿Hacemos tu página con botón de WhatsApp?",
+    "trabajos": [
+      "makatea",
+      "laola",
+      "comprafin"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "WhatsApp, cómo usar la función de clic para chatear",
+      "url": "https://faq.whatsapp.com/5913398998672934"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.crehana.com/blog/negocios/codigo-qr-de-whatsapp/",
+      "titulo": "Código QR de WhatsApp",
+      "promete": "Explica el QR personal de la app y el de WhatsApp Business; no genera nada en la página"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.kommo.com/es/codigo-qr-de-whatsapp/",
+      "titulo": "Código QR de WhatsApp",
+      "promete": "Generador con mensaje predefinido para vender su CRM; sin ideas de mensaje por lugar"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.qrcode-tiger.com/es/whatsapp-qr-code",
+      "titulo": "Cómo generar un código QR de WhatsApp en 9 sencillos pasos",
+      "promete": "Nueve pasos con QR dinámico; las funciones útiles piden plan de pago"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Formato wa.me verificado en faq.whatsapp.com el 12-nov. Motor qr modo whatsapp."
+}

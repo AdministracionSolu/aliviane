@@ -1,0 +1,220 @@
+{
+  "id": "recibo-de-pago",
+  "slug": "recibo-de-pago",
+  "molde": "herramienta",
+  "cabeza": "recibo de pago",
+  "busquedas": [
+    "recibo de pago formato",
+    "formato de recibo de pago",
+    "recibo de pago imprimir",
+    "recibos de pago para imprimir",
+    "ejemplo de recibo de pago",
+    "formato de recibo",
+    "ejemplo de recibo",
+    "formato de recibo de dinero",
+    "recibo de dinero",
+    "recibo de dinero para imprimir",
+    "recibos en linea",
+    "recibo de servicio",
+    "recibo de caja"
+  ],
+  "title": "Recibo de pago gratis para llenar e imprimir en PDF",
+  "h1": "Recibo de pago para llenar",
+  "description": "Haz un recibo de pago con tu logo, el importe con letra y tu firma. Descárgalo en PDF o imagen, o imprímelo en blanco para llenar a mano. Sin registro.",
+  "resumen": "Recibo de dinero con importe con letra y firma",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un recibo de pago dice quién pagó, cuánto, por qué y quién recibió el dinero. Llena el de abajo y el importe con letra se escribe solo.",
+    "Fírmalo con el dedo o el ratón y bájalo en PDF o imagen. También sale en blanco para llenar con pluma."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "recibo"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu recibo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tus datos",
+          "texto": "El nombre de tu negocio o el tuyo, y tu logo si lo tienes."
+        },
+        {
+          "titulo": "Pon quién paga y cuánto",
+          "texto": "Nombre de quien entrega el dinero y la cantidad recibida. La letra sale sola."
+        },
+        {
+          "titulo": "Explica el concepto",
+          "texto": "Por ejemplo «anticipo del pedido 0142» o «pago de la mensualidad de noviembre»."
+        },
+        {
+          "titulo": "Firma y descarga",
+          "texto": "Elige la forma de pago, firma y baja el PDF para mandarlo por WhatsApp."
+        }
+      ]
+    },
+    {
+      "h2": "Las partes de un recibo de dinero"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Parte",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Folio",
+            "0087"
+          ],
+          [
+            "Bueno por",
+            "$2,500.00"
+          ],
+          [
+            "Recibí de",
+            "Martha Ruiz Gómez"
+          ],
+          [
+            "La cantidad de",
+            "Dos mil quinientos pesos 00/100 M.N."
+          ],
+          [
+            "Por concepto de",
+            "Segundo pago de la mesa de comedor"
+          ],
+          [
+            "Forma de pago",
+            "Transferencia"
+          ],
+          [
+            "Lugar y fecha",
+            "Morelia, 12 de noviembre de 2026"
+          ],
+          [
+            "Firma",
+            "Quien recibió el dinero"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El importe con letra evita que alguien agregue un cero después. Por eso los recibos de papel siempre lo llevan."
+    },
+    {
+      "h2": "Cuándo dar un recibo"
+    },
+    {
+      "ul": [
+        "Anticipos de un trabajo a la medida.",
+        "Abonos de una venta en pagos.",
+        "Colegiaturas de clases particulares o talleres.",
+        "Cuotas de mantenimiento de un condominio.",
+        "Pagos en efectivo entre particulares."
+      ]
+    },
+    {
+      "p": "Si cobras en abonos, escribe en el concepto qué número de pago es. Ejemplo «Abono 3 de 6». Así el cliente y tú llevan la misma cuenta."
+    },
+    {
+      "h2": "Recibo de pago y comprobante fiscal"
+    },
+    {
+      "p": "El recibo de pago no es un comprobante fiscal. Si quien paga pide factura, emite tu CFDI con tu proveedor de facturación."
+    },
+    {
+      "p": "El recibo sí sirve como prueba entre las dos partes de que hubo un pago. Guarda una copia de cada uno con su folio."
+    },
+    {
+      "h2": "Recibo en papel o en PDF"
+    },
+    {
+      "p": "Si cobras en la calle, imprime un block de recibos en blanco y llénalos a mano. Si cobras por transferencia, manda el PDF por WhatsApp."
+    },
+    {
+      "h2": "Ejemplo con un carpintero"
+    },
+    {
+      "p": "Un carpintero cobra una mesa en tres pagos. En cada pago llena un recibo con el mismo concepto y el número de abono."
+    },
+    {
+      "p": "El cliente guarda los tres recibos en su WhatsApp. Al entregar la mesa los dos saben que la cuenta quedó en cero."
+    },
+    {
+      "p": "Para el pago de una renta usa el [recibo de renta](id:recibo-de-renta), que trae inmueble y mes. Para una venta con varios productos te sirve la [nota de venta](id:nota-de-venta)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El recibo de pago es gratis?",
+      "respuesta": "Sí. Sin registro, sin marca de agua y sin límite."
+    },
+    {
+      "pregunta": "¿Puedo descargarlo en Word?",
+      "respuesta": "No. Se descarga en PDF o imagen, que se ven igual en cualquier equipo."
+    },
+    {
+      "pregunta": "¿El importe con letra se escribe solo?",
+      "respuesta": "Sí. Escribe la cantidad con número y la letra aparece abajo."
+    },
+    {
+      "pregunta": "¿Tiene validez un recibo firmado?",
+      "respuesta": "Sí, como prueba del pago entre las partes. No sustituye a una factura."
+    },
+    {
+      "pregunta": "¿Puedo imprimir varios en blanco?",
+      "respuesta": "Sí. Descárgalo sin llenar y sácale las copias que necesites."
+    },
+    {
+      "pregunta": "¿El folio sigue la numeración?",
+      "respuesta": "Sí. Sube solo cada vez que descargas en el mismo navegador."
+    }
+  ],
+  "relacionadas": [
+    "recibo-de-renta",
+    "nota-de-venta",
+    "nota-de-remision",
+    "formato-de-cotizacion",
+    "orden-de-servicio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus clientes pueden ver tus precios y pagarte desde tu propia página.",
+    "aviso": "Tu recibo ya está listo. ¿Quieres una página donde tus clientes vean tus servicios y precios?",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "solu",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://finom.co/es-es/blog/recibo-de-pago/",
+      "titulo": "Recibo de pago",
+      "promete": "Datos que debe llevar con enfoque en España; no deja llenarlo"
+    },
+    {
+      "posicion": 2,
+      "url": "https://quickbooks.intuit.com/global/resources/es/contabilidad/que-es-un-recibo-de-pago/",
+      "titulo": "Qué es un recibo de pago",
+      "promete": "Definición y partes; sin formato para descargar"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.edifact.com.mx/masinfo/recibo-de-pago-de-nomina-formato",
+      "titulo": "Recibo de pago de nómina formato",
+      "promete": "Mezcla recibo de nómina con recibo de dinero; vende software"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Motor documento modo recibo (importe con letra, forma de pago, firma, folio). MEJORA DE MOTOR: «recibo de pago word» pide descarga editable en Word; el motor sólo da PDF y PNG."
+}

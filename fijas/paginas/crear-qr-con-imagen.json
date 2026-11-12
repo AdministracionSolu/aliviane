@@ -1,0 +1,86 @@
+{
+  "id": "crear-qr-con-imagen",
+  "slug": "crear-qr-con-imagen",
+  "molde": "herramienta",
+  "cabeza": "crear qr con imagen",
+  "busquedas": ["codigo qr generador imagen", "generar codigo qr con imagen", "crear codigo qr con imagen", "codigo qr con imagen", "qr con imagen", "crear qr con logo", "crear codigo qr con logo", "codigo qr personalizado", "qr personalizado", "crear un codigo qr personalizado", "qr originales"],
+  "title": "Crear QR con imagen o logo gratis en PNG y SVG",
+  "h1": "Crear QR con imagen o logo",
+  "description": "Crea un código QR con tu logo o una imagen al centro y tus colores. Sin registro ni marca de agua. Descárgalo en PNG o SVG y escanéalo antes de imprimir.",
+  "resumen": "Pon tu logo al centro del QR y elige sus colores",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Pega tu link, sube tu logo y el QR aparece con la imagen al centro. La herramienta sube sola la corrección de errores para que siga leyéndose.",
+    "Elige colores, tamaño de la imagen y un texto debajo. Lo bajas en PNG o SVG sin cuenta y sin marca de agua."
+  ],
+  "herramienta": { "id": "qr", "modo": "imagen" },
+  "cuerpo": [
+    { "h2": "Cómo hacer tu QR con logo" },
+    { "pasos": [
+      { "titulo": "Pega el destino", "texto": "Escribe la liga de tu página, tu catálogo o tu perfil. También puedes cambiar a WhatsApp o wifi." },
+      { "titulo": "Sube tu imagen", "texto": "Un PNG sin fondo queda mejor. También sirve un JPG cuadrado." },
+      { "titulo": "Ajusta tamaño y colores", "texto": "Empieza con la imagen mediana. Usa el color de tu marca en el QR si es oscuro." },
+      { "titulo": "Escanea y descarga", "texto": "Prueba con dos celulares distintos. Si los dos lo leen, baja tu archivo." }
+    ] },
+    { "h2": "Por qué el QR sigue funcionando con un logo encima" },
+    { "p": "Un código QR guarda su información repetida. Así puede perder una parte y todavía leerse completo." },
+    { "p": "Cuando subes una imagen, la herramienta pasa a la corrección máxima. Con ella el código aguanta perder cerca de 30% de sus cuadros." },
+    { "p": "Tu logo tapa una parte del centro, pero menos que ese límite. Por eso el celular reconstruye lo que falta." },
+    { "h2": "Qué tamaño de imagen elegir" },
+    { "tabla": {
+      "columnas": ["Opción", "Cuánto ocupa del ancho", "Cuándo usarla"],
+      "filas": [
+        ["Chica", "Cerca de 16%", "QR pequeños en tarjetas o etiquetas"],
+        ["Mediana", "Cerca de 22%", "La opción segura para casi todo"],
+        ["Grande", "Cerca de 27%", "Carteles grandes que se escanean de cerca"]
+      ]
+    } },
+    { "p": "Entre más grande la imagen, más difícil la lectura. Si un celular viejo batalla, baja a la opción chica." },
+    { "h2": "Colores que sí se leen" },
+    { "p": "El lector necesita que los cuadros sean más oscuros que el fondo. Un azul marino o un vino sobre blanco funcionan bien." },
+    { "p": "Un QR claro sobre fondo oscuro no lo leen todas las cámaras. La herramienta te avisa cuando el contraste es bajo." },
+    { "ul": [
+      "Usa tu color de marca en los cuadros sólo si es oscuro.",
+      "Deja el fondo blanco o muy claro.",
+      "No quites el margen blanco que rodea al código.",
+      "Pon un texto corto debajo como «Escanea y pide»."
+    ] },
+    { "h2": "Ideas de QR personalizado para tu negocio" },
+    { "ul": [
+      "Logo de tu taquería en el QR del [menú QR](id:menu-qr) de cada mesa.",
+      "Foto de tu cara en el QR de tu tarjeta de presentación.",
+      "Logo de tu tienda en el QR de las bolsas que llevan tu [Instagram](id:qr-de-instagram).",
+      "Ícono de wifi en el QR de la [red para clientes](id:qr-wifi)."
+    ] },
+    { "p": "La herramienta pone la imagen al centro del código. No funde una foto completa con el QR ni convierte una foto en código." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Puedo poner mi logo en el QR gratis?", "respuesta": "Sí. Subes tu imagen, eliges tamaño y descargas sin pagar ni registrarte." },
+    { "pregunta": "¿El logo hace que el QR falle?", "respuesta": "No, si el contraste es bueno. La corrección máxima cubre la parte que tapa el logo." },
+    { "pregunta": "¿Qué formato de imagen acepta?", "respuesta": "PNG, JPG, WebP y SVG. El PNG sin fondo se ve mejor." },
+    { "pregunta": "¿Mi logo se sube a algún servidor?", "respuesta": "No. La imagen se queda en tu navegador y el QR se arma en tu equipo." },
+    { "pregunta": "¿El QR con imagen caduca?", "respuesta": "No. Lleva la liga dentro y funciona mientras tu página exista." },
+    { "pregunta": "¿Puedo hacer que el QR abra una foto?", "respuesta": "Sólo si la foto ya está en internet. Pega la liga de esa foto como destino." }
+  ],
+  "relacionadas": ["generador-de-qr", "codigo-qr-para-whatsapp", "qr-de-instagram", "qr-wifi", "menu-qr", "landing-page"],
+  "venta": {
+    "puente": "Tu QR con logo puede llevar a tu propia página con tu marca y tu dominio.",
+    "aviso": "Tu QR con logo ya está listo. ¿Quieres que abra una página tuya con tu marca?",
+    "titulo": "¿Hacemos la página a la que lleva tu QR?",
+    "trabajos": ["laola", "comprafin", "makatea"]
+  },
+  "fuentes": [
+    { "texto": "Denso Wave, corrección de errores del código QR", "url": "https://www.qrcode.com/en/about/error_correction.html" }
+  ],
+  "serp": [
+    { "posicion": 1, "url": "https://www.qrcode-tiger.com/es/qr-code-with-logo-in-the-middle", "titulo": "Plataformas para crear un código QR con un logotipo en el centro", "promete": "Logo al centro con QR dinámico de pago; el gratis es limitado" },
+    { "posicion": 2, "url": "https://www.jotform.com/es/qr-code-generator/qr-with-logo/", "titulo": "Generador de códigos QR con logotipo", "promete": "Logo personalizado dentro de su plataforma de formularios; pide cuenta" },
+    { "posicion": 3, "url": "https://dreamina.capcut.com/es-es/resource/qr-code-with-image", "titulo": "QR con imagen", "promete": "Funde una foto con el QR por IA; advierte que el contraste puede impedir la lectura" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Motor qr modo imagen: logo al centro con nivel H forzado, tamaños 0.16/0.22/0.27. No funde fotos ni aloja imágenes (anotado en Bitácora)."
+}

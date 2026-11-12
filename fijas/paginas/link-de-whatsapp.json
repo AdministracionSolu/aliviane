@@ -1,0 +1,222 @@
+{
+  "id": "link-de-whatsapp",
+  "slug": "link-de-whatsapp",
+  "molde": "herramienta",
+  "cabeza": "link de whatsapp",
+  "busquedas": [
+    "wa link",
+    "url whatsapp",
+    "enlace de whatsapp",
+    "link de whatsapp gratis",
+    "crear link de whatsapp",
+    "generar link de whatsapp",
+    "generador de link de whatsapp",
+    "crear enlace de whatsapp",
+    "como crear un link de whatsapp",
+    "como hacer un link de whatsapp",
+    "wa me link",
+    "sacar link de whatsapp",
+    "link de mi whatsapp",
+    "enlace para whatsapp"
+  ],
+  "title": "Link de WhatsApp gratis con mensaje y QR al momento",
+  "h1": "Crear link de WhatsApp",
+  "description": "Crea tu link de WhatsApp con mensaje listo en segundos. Cópialo para tu Instagram, Facebook o página y baja también su código QR. Gratis y sin registro.",
+  "resumen": "Tu liga wa.me con mensaje listo y su código QR",
+  "categoria": "WhatsApp",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tu número y un mensaje, y sale tu link de WhatsApp listo para copiar. Quien le da clic abre un chat contigo con el mensaje escrito.",
+    "Abajo del link sale también su código QR para imprimir. No pide cuenta y el link no caduca."
+  ],
+  "herramienta": {
+    "id": "whatsapp-link",
+    "modo": "link"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo sacar tu link de WhatsApp"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu número",
+          "texto": "Diez dígitos, con o sin espacios. La lada de México ya va puesta."
+        },
+        {
+          "titulo": "Escribe el mensaje",
+          "texto": "Es opcional. El cliente lo verá listo y podrá cambiarlo antes de mandarlo."
+        },
+        {
+          "titulo": "Copia y prueba",
+          "texto": "Toca «Copiar liga» y luego «Probar liga». Revisa que abra tu chat."
+        },
+        {
+          "titulo": "Pégalo donde te buscan",
+          "texto": "En tu biografía de Instagram, tu página de Facebook y tu perfil de Google."
+        }
+      ]
+    },
+    {
+      "h2": "Cómo se arma un link de WhatsApp"
+    },
+    {
+      "p": "WhatsApp tiene una forma oficial de abrir chats desde un link. Es wa.me seguido de tu número completo en formato internacional."
+    },
+    {
+      "p": "El número va sin el signo de más, sin ceros, sin guiones y sin paréntesis. En México se escribe 52 y luego tus 10 dígitos."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Parte",
+          "Ejemplo",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Dirección base",
+            "https://wa.me/",
+            "La que abre WhatsApp en cualquier celular"
+          ],
+          [
+            "País y número",
+            "523312345678",
+            "Lada 52 y los 10 dígitos"
+          ],
+          [
+            "Mensaje",
+            "?text=Hola%20quiero%20info",
+            "El texto ya escrito, con los espacios codificados"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La herramienta codifica el mensaje por ti. Acentos, signos y saltos de línea quedan bien sin que hagas nada."
+    },
+    {
+      "h2": "Dónde pegar tu link"
+    },
+    {
+      "ul": [
+        "Biografía de Instagram y botón de contacto de Facebook.",
+        "Firma de tu correo y estados de WhatsApp.",
+        "Botón de tu página web y de tu perfil de Google.",
+        "Anuncios en redes que mandan directo al chat.",
+        "Mensajes a clientes que piden tu número para pasarlo a otro."
+      ]
+    },
+    {
+      "h2": "Un link por canal para saber qué te funciona"
+    },
+    {
+      "p": "Haz un link con un mensaje distinto para cada red. Por ejemplo «Hola, vengo de Instagram» y «Hola, vengo de Facebook»."
+    },
+    {
+      "p": "Cuando te escriban sabrás de dónde llegó cada cliente. En un mes verás qué red te trae más pedidos."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Poner ceros o prefijos antes del número. Rompen el link.",
+        "Escribir el número sin la lada 52 de México.",
+        "Usar un número que no tiene WhatsApp activo.",
+        "Mandar a los clientes a un número personal que no contestas en horario de trabajo."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una estética"
+    },
+    {
+      "p": "Una estética pone su link en la biografía de Instagram con el mensaje «Hola, quiero agendar una cita»."
+    },
+    {
+      "p": "Las clientas que llegan por ahí escriben directo con su día preferido. La dueña contesta en orden y ya no pierde citas entre comentarios."
+    },
+    {
+      "p": "Si necesitas el QR más grande o con tu logo, usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp). Para ligas largas de otras páginas mira la guía para [acortar un link](id:acortar-link)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El link de WhatsApp es gratis?",
+      "respuesta": "Sí. Lo genera WhatsApp con su formato oficial y aquí sólo lo armamos."
+    },
+    {
+      "pregunta": "¿El link caduca?",
+      "respuesta": "No. Funciona mientras tu número tenga WhatsApp."
+    },
+    {
+      "pregunta": "¿Sirve para WhatsApp Business?",
+      "respuesta": "Sí. Funciona igual con un número personal o de negocio."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el mensaje después?",
+      "respuesta": "Sí, haciendo un link nuevo. El número sigue siendo el mismo."
+    },
+    {
+      "pregunta": "¿Guardan mi número?",
+      "respuesta": "No. El link se arma en tu navegador y no se manda a ningún servidor."
+    },
+    {
+      "pregunta": "¿Funciona en computadora?",
+      "respuesta": "Sí. Abre WhatsApp Web o la aplicación de escritorio si la tienes."
+    },
+    {
+      "pregunta": "¿Cómo pongo el link en Instagram?",
+      "respuesta": "En los enlaces de tu perfil. Pega la liga completa que copiaste aquí."
+    }
+  ],
+  "relacionadas": [
+    "codigo-qr-para-whatsapp",
+    "acortar-link",
+    "mensajes-automaticos-whatsapp",
+    "whatsapp-business-para-empresas",
+    "generador-de-qr",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu link de WhatsApp vende más cuando primero ven tus productos en tu propia página.",
+    "aviso": "Ya copiaste tu link. ¿Quieres una página con tus productos y ese botón de WhatsApp?",
+    "titulo": "¿Hacemos tu página con botón de WhatsApp?",
+    "trabajos": [
+      "makatea",
+      "laola",
+      "comprafin"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "WhatsApp, cómo usar la función de clic para chatear",
+      "url": "https://faq.whatsapp.com/5913398998672934"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/herramientas/generador-link-whatsapp",
+      "titulo": "Generador de link de WhatsApp",
+      "promete": "Link con mensaje para tiendas en línea; no explica cómo se arma ni errores con la lada"
+    },
+    {
+      "posicion": 2,
+      "url": "https://leadsales.io/herramientas/generador-de-link-de-whatsapp/",
+      "titulo": "Generador de link de WhatsApp",
+      "promete": "Link gratis que lleva a su CRM; sin QR descargable en la misma vista"
+    },
+    {
+      "posicion": 3,
+      "url": "https://aunoa.ai/generador-de-links-de-whatsapp",
+      "titulo": "Generador de links de WhatsApp",
+      "promete": "Link con mensaje y aviso de que no guarda el número; sin idea de un link por canal"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Formato wa.me y reglas del número leídas en faq.whatsapp.com el 12-nov. Motor whatsapp-link modo link (liga + QR PNG/SVG)."
+}

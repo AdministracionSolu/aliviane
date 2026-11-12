@@ -1,0 +1,201 @@
+{
+  "id": "nota-de-venta",
+  "slug": "nota-de-venta",
+  "molde": "herramienta",
+  "cabeza": "nota de venta",
+  "busquedas": [
+    "formato de nota de venta",
+    "nota de venta formato",
+    "notas de venta",
+    "nota de venta pdf"
+  ],
+  "title": "Nota de venta gratis para llenar y bajar en PDF",
+  "h1": "Nota de venta para llenar",
+  "description": "Llena tu nota de venta con tus productos, precios con IVA incluido, descuento y forma de pago. Descárgala en PDF o imagen con tu logo. Gratis y sin registro.",
+  "resumen": "Nota de mostrador con precios, descuento y forma de pago",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una nota de venta es el comprobante que le das a tu cliente cuando le vendes. Escribe lo que compró, cuánto pagó y cómo pagó.",
+    "La de abajo suma sola y trae los precios con IVA incluido. La bajas en PDF o imagen, o en blanco para un block."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "nota-venta"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo llenar tu nota de venta"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Datos de tu negocio",
+          "texto": "Nombre, logo y un teléfono. Así el cliente sabe dónde volver."
+        },
+        {
+          "titulo": "Lo que se vendió",
+          "texto": "Cantidad, descripción y precio unitario. El importe y el total salen solos."
+        },
+        {
+          "titulo": "Descuento y forma de pago",
+          "texto": "Escribe el descuento en pesos o en porcentaje. Elige efectivo, tarjeta o transferencia."
+        },
+        {
+          "titulo": "Firma y entrega",
+          "texto": "Firma como «Atendió». Baja el PDF o imprímelo para el cliente."
+        }
+      ]
+    },
+    {
+      "h2": "Cuándo usar una nota de venta"
+    },
+    {
+      "p": "La nota de venta es el papel del mostrador. Se da en la tienda de ropa, la refaccionaria, la mueblería o el puesto del tianguis."
+    },
+    {
+      "p": "Le sirve al cliente para cambios y garantías. Te sirve a ti para llevar la cuenta de lo que vendiste en el día."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Qué anotar además"
+        ],
+        "filas": [
+          [
+            "Ropa y calzado",
+            "Talla y política de cambios"
+          ],
+          [
+            "Refaccionaria",
+            "Modelo del vehículo y garantía de la pieza"
+          ],
+          [
+            "Mueblería",
+            "Fecha de entrega y si incluye flete"
+          ],
+          [
+            "Electrónica",
+            "Número de serie y meses de garantía"
+          ],
+          [
+            "Pastelería",
+            "Fecha y hora de entrega del pedido"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Precios con IVA incluido"
+    },
+    {
+      "p": "En mostrador el cliente espera ver un solo precio final. Por eso la nota de venta viene con precios con IVA incluido."
+    },
+    {
+      "p": "Si vendes a negocios y prefieres sumar el impuesto aparte, cambia la opción de IVA. También puedes marcar que vendes sin IVA."
+    },
+    {
+      "p": "La nota de venta no es un comprobante fiscal. Si tu cliente pide factura, emítela con tu proveedor de facturación."
+    },
+    {
+      "h2": "Garantías y cambios por escrito"
+    },
+    {
+      "p": "Escribe tu política en las notas del documento. Una línea como «Cambios en 7 días con esta nota» evita discusiones."
+    },
+    {
+      "ul": [
+        "Pon el plazo de cambio en días.",
+        "Di si el cambio es por otra pieza o por saldo a favor.",
+        "Anota si la garantía cubre mano de obra o sólo la pieza.",
+        "Pide que el cliente traiga la nota para cualquier reclamo."
+      ]
+    },
+    {
+      "p": "El folio sube solo cada vez que descargas. Así tus notas quedan en orden sin llevar libreta."
+    },
+    {
+      "h2": "Notas en el tianguis o a domicilio"
+    },
+    {
+      "p": "Si vendes fuera de un local, imprime un block de notas en blanco y llénalo a mano. Lleva siempre pluma y copia para ti."
+    },
+    {
+      "p": "Si vendes por WhatsApp, llena la nota en el celular y mándala en PDF. El cliente la guarda junto con la conversación de su pedido."
+    },
+    {
+      "p": "Si entregas mercancía a domicilio usa la [nota de remisión](id:nota-de-remision). Si te pagan un abono sin productos, usa el [recibo de pago](id:recibo-de-pago)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿La nota de venta es gratis?",
+      "respuesta": "Sí. Sin registro y sin marca de agua."
+    },
+    {
+      "pregunta": "¿La nota de venta sustituye a la factura?",
+      "respuesta": "No. La factura es el CFDI que emites con tu proveedor autorizado."
+    },
+    {
+      "pregunta": "¿Puedo aplicar un descuento?",
+      "respuesta": "Sí. En pesos o en porcentaje, y el total se ajusta solo."
+    },
+    {
+      "pregunta": "¿Puedo imprimir un block en blanco?",
+      "respuesta": "Sí. Descárgala sin productos y sale con renglones vacíos."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Lo subes y sale arriba de la nota."
+    },
+    {
+      "pregunta": "¿Hay distintos diseños?",
+      "respuesta": "Sí. Clásico, con franja de color y sobrio, en el color que elijas."
+    }
+  ],
+  "relacionadas": [
+    "recibo-de-pago",
+    "nota-de-remision",
+    "formato-de-cotizacion",
+    "lista-de-precios",
+    "formato-de-factura",
+    "tienda-de-ropa"
+  ],
+  "venta": {
+    "puente": "Lo que vendes en mostrador también puede venderse desde tu propia página.",
+    "aviso": "Tu nota ya está lista. ¿Quieres que tus clientes vean tus productos en tu propia página?",
+    "titulo": "¿Hacemos la página de tu tienda?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.edifact.com.mx/masinfo/formato-de-nota-de-venta",
+      "titulo": "Formato de nota de venta",
+      "promete": "Campos de una plantilla; mezcla reglas de Chile y vende software"
+    },
+    {
+      "posicion": 2,
+      "url": "https://visu.network/es/herramientas/formato-de-nota-de-venta/",
+      "titulo": "Formato de nota de venta y orden de compra",
+      "promete": "Formato en línea genérico; sin precios con IVA incluido ni folio que siga"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.shopify.com/es/blog/17856528-todo-sobre-comprobantes-de-pago-y-notas-sencillas-para-tu-negocio",
+      "titulo": "Todo sobre comprobantes de pago y notas",
+      "promete": "Teoría general; no deja llenar ninguna nota"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Motor documento modo nota-venta (IVA incluido por omisión, descuento, forma de pago, firmas Atendió y Cliente)."
+}

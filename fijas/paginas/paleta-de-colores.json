@@ -1,0 +1,93 @@
+{
+  "id": "paleta-de-colores",
+  "slug": "paleta-de-colores",
+  "molde": "herramienta",
+  "cabeza": "paleta de colores",
+  "busquedas": ["paleta de color", "paletas de color", "paleta colores", "generador de paleta de colores", "crear paleta de colores", "crear paletas de colores", "creador de paletas de colores", "paletas de colores codigos", "codigo de paleta de colores", "html paleta de colores", "paleta de color hexadecimal", "paleta de color rgb", "paleta de colores hex", "tableta de colores"],
+  "title": "Paleta de colores gratis con códigos HEX y RGB",
+  "h1": "Generador de paleta de colores",
+  "description": "Crea tu paleta de colores desde un color o desde una foto. Copia cada código HEX y RGB, y baja la paleta en PNG o como variables CSS. Gratis y sin registro.",
+  "resumen": "Arma paletas desde un color o una foto y copia sus códigos HEX",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige un color base y la herramienta arma cinco paletas que combinan con él. Cada color trae su código HEX, su RGB y su nombre.",
+    "También sacas la paleta de una foto o de tu logo. La bajas en PNG o como variables CSS sin crear cuenta."
+  ],
+  "herramienta": { "id": "paleta", "modo": "generador" },
+  "cuerpo": [
+    { "h2": "Cómo crear tu paleta en cuatro pasos" },
+    { "pasos": [
+      { "titulo": "Elige el color de tu marca", "texto": "Escribe su código HEX o muévete en el selector. Si no tienes uno, pide otro color al azar." },
+      { "titulo": "Revisa las cinco armonías", "texto": "Cada bloque usa una regla distinta del círculo de color. Quédate con la que se parezca a tu negocio." },
+      { "titulo": "Copia los códigos", "texto": "Toca cualquier franja y su código HEX queda copiado. Pégalo en tu diseño o en tu página." },
+      { "titulo": "Descarga la paleta", "texto": "El PNG sirve para mandarla a tu diseñador. El CSS sirve para pegarla en el código de tu sitio." }
+    ] },
+    { "h2": "Las cinco paletas que arma la herramienta" },
+    { "p": "Todas salen del mismo color base. Cambia la regla y cambia el carácter de la paleta." },
+    { "tabla": {
+      "columnas": ["Armonía", "Cómo se arma", "Cuándo usarla"],
+      "filas": [
+        ["Complementarios", "Tu color y su opuesto en el círculo", "Botones y avisos que deben resaltar"],
+        ["Análogos", "Tu color y sus vecinos", "Fondos tranquilos y marcas de bienestar"],
+        ["Tríada", "Tres colores a la misma distancia", "Negocios con mucha variedad como papelerías"],
+        ["Monocromático", "Un solo tono de oscuro a claro", "Páginas sobrias y documentos formales"],
+        ["Complementarios divididos", "Tu color y los vecinos de su opuesto", "Contraste sin que los colores choquen"]
+      ]
+    } },
+    { "h2": "Saca la paleta de una foto o de tu logo" },
+    { "p": "Elige «Desde una imagen» y sube un JPG, PNG o WebP. La herramienta toma los seis colores que más pesan en la foto." },
+    { "p": "Sirve para que tu página combine con tu local, tu empaque o tu logo actual. La imagen se lee en tu navegador y no se sube a ningún servidor." },
+    { "h2": "HEX y RGB, qué código pedir" },
+    { "p": "Los dos describen el mismo color con otra notación. El HEX usa seis letras y números después de un gato, como #1F6FB2." },
+    { "p": "El RGB dice cuánto rojo, verde y azul lleva, de 0 a 255. Las páginas web y casi todos los programas de diseño aceptan los dos." },
+    { "p": "Para imprenta te pedirán CMYK o un número de tinta. Lleva tus códigos HEX al taller y pide una prueba impresa antes del tiraje." },
+    { "h2": "Cómo repartir los colores en tu página" },
+    { "p": "Una regla que funciona es repartir 60, 30 y 10. El color más claro va en el fondo y cubre la mayor parte." },
+    { "p": "El segundo color va en encabezados y bloques. El más vivo se guarda para botones y precios, donde quieres que vean primero." },
+    { "ul": [
+      "Usa de tres a cinco colores en total, no más.",
+      "Pon texto oscuro sobre fondo claro para que se lea en la calle.",
+      "Deja el color más fuerte sólo para lo que pide una acción.",
+      "Repite la misma paleta en tu página, tus redes y tu local."
+    ] },
+    { "h2": "Ejemplos por giro" },
+    { "tabla": {
+      "columnas": ["Giro", "Color base sugerido", "Armonía que mejor le queda"],
+      "filas": [
+        ["Consultorio dental", "#2C7DA0", "Análogos para un ambiente tranquilo"],
+        ["Taquería", "#D62828", "Complementarios para anuncios que se vean de lejos"],
+        ["Estética o salón de uñas", "#E4007C", "Monocromático con rosas claros"],
+        ["Despacho contable", "#0B1F3A", "Monocromático con grises fríos"],
+        ["Tienda de abarrotes", "#2E9E44", "Tríada para ofertas y secciones"]
+      ]
+    } },
+    { "p": "Si ya tienes un color en mente, abre sus paletas armadas. Hay de [azul](id:paleta-de-colores-azul) y [café](id:paleta-de-colores-cafe), y también de [gris](id:paleta-de-colores-gris) o [beige](id:paleta-de-colores-beige). Para juntar dos colores que ya usas, ve a [combinaciones de colores](id:combinaciones-de-colores)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿El generador de paletas es gratis?", "respuesta": "Sí. No pide cuenta ni correo. Puedes armar y bajar todas las paletas que quieras." },
+    { "pregunta": "¿Cuántos colores debe tener una paleta?", "respuesta": "Entre tres y cinco. Cada paleta de la herramienta trae cinco y puedes quitar los que no uses." },
+    { "pregunta": "¿Puedo sacar los colores de mi logo?", "respuesta": "Sí. Elige «Desde una imagen» y sube tu logo en PNG o JPG." },
+    { "pregunta": "¿Mi foto se guarda en algún lado?", "respuesta": "No. Se lee dentro de tu navegador y nunca sale de tu equipo." },
+    { "pregunta": "¿Cómo uso el archivo CSS?", "respuesta": "Pégalo al inicio de tu hoja de estilos. Cada color queda como una variable que puedes llamar por su nombre." },
+    { "pregunta": "¿Los colores salen igual al imprimir?", "respuesta": "No siempre. La pantalla y la tinta mezclan el color distinto, así que pide una prueba impresa." }
+  ],
+  "relacionadas": ["paleta-de-colores-azul", "combinaciones-de-colores", "paleta-de-colores-cafe", "paleta-de-colores-gris", "paleta-de-colores-beige", "landing-page"],
+  "venta": {
+    "puente": "Tu paleta puede vestir tu propia página con tu dominio y tus colores.",
+    "aviso": "Ya tienes tus colores. ¿Quieres verlos en una página con tu marca y tu dominio?",
+    "titulo": "¿Hacemos tu página con esta paleta?",
+    "trabajos": ["laola", "comprafin", "makatea"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.crehana.com/blog/estilo-vida/como-crear-una-paleta-de-colores-aqui-esta-el-truco/", "titulo": "Cómo crear una paleta de colores", "promete": "Teoría del color y consejos; no trae un generador que funcione en la página" },
+    { "posicion": 2, "url": "https://www.tiendanube.com/blog/mx/paleta-de-colores", "titulo": "Paleta de colores: ¿qué es y cómo usarla en marketing?", "promete": "Definición y uso en marca; sin herramienta ni códigos para copiar" },
+    { "posicion": 3, "url": "https://www.shopify.com/es/blog/62615749-14-generadores-de-paletas-de-color-online-para-diseno-web", "titulo": "14 generadores de paletas de color online", "promete": "Lista de herramientas de terceros; manda a otros sitios en vez de resolver ahí" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Motor paleta modo generador (incluye desde imagen)."
+}

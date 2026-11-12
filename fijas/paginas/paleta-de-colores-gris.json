@@ -1,0 +1,189 @@
+{
+  "id": "paleta-de-colores-gris",
+  "slug": "paleta-de-colores-gris",
+  "molde": "herramienta",
+  "cabeza": "paleta de color gris",
+  "busquedas": [
+    "paletas de colores gris",
+    "paleta de gris",
+    "paleta de colores gris",
+    "colores que combinan con gris"
+  ],
+  "title": "Paleta de color gris con códigos HEX para copiar",
+  "h1": "Paleta de color gris",
+  "description": "Seis paletas de color gris, del grafito al gris cálido, con acentos de amarillo y coral. Copia cada código HEX y baja la paleta en PNG o CSS sin registro.",
+  "resumen": "Seis paletas grises con acentos para que no se vean apagadas",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El gris es el neutro que ordena todo lo demás. Se ve profesional y deja que tu producto o tu color de marca resalte.",
+    "Aquí abajo hay seis paletas grises con sus códigos HEX. Tres traen un acento de color para que la página no se vea triste."
+  ],
+  "herramienta": {
+    "id": "paleta",
+    "modo": "gris"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo elegir tu gris"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Fíjate en la temperatura",
+          "texto": "Un gris con tinte azul se siente técnico. Un gris con tinte café se siente acogedor."
+        },
+        {
+          "titulo": "Elige el acento",
+          "texto": "Amarillo para ferreterías y obra. Coral para moda y belleza."
+        },
+        {
+          "titulo": "Copia oscuro y claro",
+          "texto": "Necesitas al menos un gris casi negro para letras y uno casi blanco para fondo."
+        },
+        {
+          "titulo": "Descarga y prueba",
+          "texto": "Baja el PNG y ponlo junto a tu logo. Así ves si los grises lo apagan."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde funciona el gris"
+    },
+    {
+      "p": "El gris es el color del concreto, el acero y la herramienta. Constructoras, talleres y despachos de arquitectura lo usan como base."
+    },
+    {
+      "p": "También es el fondo favorito de tiendas de tecnología y estudios de foto. No compite con las imágenes de lo que vendes."
+    },
+    {
+      "p": "Sin acento se ve frío y aburrido. Por eso conviene un acento vivo que guíe la mirada al botón de compra."
+    },
+    {
+      "h2": "Las seis paletas grises"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Giro sugerido"
+        ],
+        "filas": [
+          [
+            "Grafito",
+            "#1F2328 #3A3F45 #6B7280 #A9AFB7 #E7E9EC",
+            "Tecnología o reparación de celulares"
+          ],
+          [
+            "Gris cálido",
+            "#2E2A27 #57514B #8C847C #C2BBB3 #F0EDEA",
+            "Decoración o diseño de interiores"
+          ],
+          [
+            "Gris y amarillo",
+            "#2B2D31 #5B5F66 #A0A4AA #E9EAEC #F2C230",
+            "Ferretería o constructora"
+          ],
+          [
+            "Gris azulado",
+            "#1C2833 #34495E #5D6D7E #AEB6BF #EBEDEF",
+            "Despacho legal o contable"
+          ],
+          [
+            "Concreto",
+            "#3D3D3D #6E6E6E #9E9E9E #CFCFCF #F5F5F5",
+            "Arquitectura o estudio de foto"
+          ],
+          [
+            "Gris y coral",
+            "#2F3437 #6C757D #CED4DA #F8F9FA #E76F51",
+            "Boutique o salón de belleza"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "El gris en letras y fondos"
+    },
+    {
+      "p": "Para texto largo usa un gris muy oscuro como #2B2D31 en vez de negro puro. Cansa menos la vista y se ve más fino."
+    },
+    {
+      "p": "Los grises medios como #9E9E9E no sirven para letras pequeñas sobre blanco. Se pierden en la pantalla del celular."
+    },
+    {
+      "p": "Un fondo gris muy claro como #F5F5F5 separa secciones sin dibujar líneas. Así la página respira."
+    },
+    {
+      "ul": [
+        "No pongas más de tres grises en una misma pantalla.",
+        "Deja el acento para una sola acción por sección.",
+        "Revisa que el gris de tu web combine con el de tu letrero."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una ferretería"
+    },
+    {
+      "p": "Una ferretería puede usar la paleta Gris y amarillo. El fondo de su página va en #E9EAEC y las letras en #2B2D31."
+    },
+    {
+      "p": "El amarillo #F2C230 marca sólo el botón de cotizar y las ofertas de la semana. Así recuerda a la señalización de obra sin cansar la vista."
+    },
+    {
+      "p": "Si quieres un neutro más cálido mira la [paleta de color beige](id:paleta-de-colores-beige). Para un look de lujo prueba la [paleta de colores elegante](id:paleta-de-colores-elegante)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué color combina con gris?",
+      "respuesta": "Amarillo, coral y azul. Cualquier color vivo resalta sobre gris."
+    },
+    {
+      "pregunta": "¿El gris se ve triste en una página?",
+      "respuesta": "Sólo si va solo. Con un acento de color se ve ordenado y moderno."
+    },
+    {
+      "pregunta": "¿Qué gris uso para el texto?",
+      "respuesta": "Uno casi negro como #1F2328 o #2B2D31. Se lee bien y no es tan duro como el negro."
+    },
+    {
+      "pregunta": "¿Gris cálido o gris frío?",
+      "respuesta": "Depende de tu giro. El cálido va con casa y moda, el frío con tecnología y oficinas."
+    },
+    {
+      "pregunta": "¿Puedo mezclar gris con beige?",
+      "respuesta": "Sí, si eliges un gris cálido. Un gris azulado junto al beige se ve sucio."
+    },
+    {
+      "pregunta": "¿Cómo bajo la paleta?",
+      "respuesta": "Con los botones PNG o CSS que aparecen junto a cada paleta."
+    }
+  ],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-beige",
+    "paleta-de-colores-elegante",
+    "paleta-de-colores-blanco",
+    "combinaciones-de-colores",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Una página en grises deja que tus fotos y tu producto se lleven la atención.",
+    "aviso": "Ya elegiste tus grises. ¿Armamos una página con ellos y tu dominio?",
+    "titulo": "¿Hacemos tu página con esta paleta gris?",
+    "trabajos": [
+      "signsolu",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo gris)."
+}

@@ -1,0 +1,231 @@
+{
+  "id": "qr-de-instagram",
+  "slug": "qr-de-instagram",
+  "molde": "herramienta",
+  "cabeza": "instagram qr",
+  "busquedas": [
+    "qr instagram",
+    "qr de instagram",
+    "codigo qr de instagram",
+    "codigo qr para instagram",
+    "qr code instagram png",
+    "codigo qr instagram",
+    "instagram codigo qr"
+  ],
+  "title": "Instagram QR gratis para tu perfil en PNG o SVG",
+  "h1": "QR de Instagram para tu perfil",
+  "description": "Escribe tu usuario de Instagram y baja un QR que abre tu perfil. Ponle tus colores o tu logo. Gratis, sin registro y sin caducidad, en PNG o SVG.",
+  "resumen": "Un QR que abre tu perfil de Instagram con tus colores",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tu usuario de Instagram y sale un QR que abre tu perfil. Puedes ponerle el color de tu marca, tu logo y un texto debajo.",
+    "Lo bajas en PNG o SVG para imprenta. No pide cuenta y no caduca."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "instagram"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer el QR de tu Instagram"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu usuario",
+          "texto": "Con o sin arroba. También puedes pegar la liga completa de tu perfil."
+        },
+        {
+          "titulo": "Dale tu estilo",
+          "texto": "Usa un color oscuro de tu marca y sube tu logo al centro si quieres."
+        },
+        {
+          "titulo": "Escribe un llamado",
+          "texto": "Un texto debajo como «Síguenos para ver lo nuevo» explica para qué escanear."
+        },
+        {
+          "titulo": "Escanea y descarga",
+          "texto": "Revisa que abra tu perfil y no otro con nombre parecido. Luego bájalo."
+        }
+      ]
+    },
+    {
+      "h2": "El QR de la app contra este QR"
+    },
+    {
+      "p": "Instagram tiene su propio código QR dentro de la opción de compartir perfil. Sirve, pero viene con el diseño de la app."
+    },
+    {
+      "p": "El QR de esta herramienta abre la misma dirección de tu perfil. La diferencia es que tú eliges colores, tamaño, logo y formato."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "QR dentro de Instagram",
+          "QR de esta herramienta"
+        ],
+        "filas": [
+          [
+            "Abre tu perfil",
+            "Sí",
+            "Sí"
+          ],
+          [
+            "Archivo para imprenta en SVG",
+            "No",
+            "Sí"
+          ],
+          [
+            "Tu logo al centro",
+            "No",
+            "Sí"
+          ],
+          [
+            "Texto debajo",
+            "No",
+            "Sí, el que escribas"
+          ],
+          [
+            "Necesita la app abierta para sacarlo",
+            "Sí",
+            "No"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué debe tener un QR de Instagram que sí escaneen"
+    },
+    {
+      "p": "La gente escanea cuando sabe qué gana. Escribe al lado qué va a encontrar en tu perfil."
+    },
+    {
+      "ul": [
+        "Una promesa clara como «Mira los modelos nuevos cada lunes».",
+        "Un premio por seguirte, como un descuento en la siguiente visita.",
+        "Tu usuario escrito abajo para quien no quiera escanear.",
+        "Un tamaño que se lea desde donde estará la persona."
+      ]
+    },
+    {
+      "h2": "Dónde poner tu QR de Instagram"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Lugar",
+          "Qué escribir al lado"
+        ],
+        "filas": [
+          [
+            "Espejo de una estética",
+            "Etiquétanos en tu foto de hoy"
+          ],
+          [
+            "Caja de un pastel",
+            "Mira más diseños y pide el tuyo"
+          ],
+          [
+            "Etiqueta de ropa",
+            "Combina esta prenda con lo nuevo"
+          ],
+          [
+            "Mesa de una cafetería",
+            "Síguenos y entérate del pan del día"
+          ],
+          [
+            "Stand en una feria",
+            "Sigue la cuenta y te mandamos el catálogo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa que tu cuenta sea pública. Si es privada, quien escanee verá un candado y no tus fotos."
+    },
+    {
+      "h2": "Ejemplo con una tienda de ropa"
+    },
+    {
+      "p": "Una tienda de ropa en Puebla pone su QR de Instagram en cada etiqueta. Debajo escribe «Mira cómo combinarla»."
+    },
+    {
+      "p": "En su perfil sube fotos de la misma prenda con tres atuendos distintos. La clienta regresa a comprar la blusa que vio combinada."
+    },
+    {
+      "p": "¿Tus clientes también te buscan en Facebook? Haz tu [QR de Facebook](id:qr-de-facebook). Para que te escriban directo usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El QR de Instagram es gratis?",
+      "respuesta": "Sí. Sin cuenta, sin marca de agua y sin límite."
+    },
+    {
+      "pregunta": "¿Funciona si cambio mi nombre de usuario?",
+      "respuesta": "No. El QR guarda el usuario de hoy y tendrías que hacer otro."
+    },
+    {
+      "pregunta": "¿Puedo hacer un QR de una publicación?",
+      "respuesta": "Sí. Copia la liga de la publicación y usa el [generador de QR](id:generador-de-qr) con esa liga."
+    },
+    {
+      "pregunta": "¿Se puede poner el logo de Instagram al centro?",
+      "respuesta": "Sí, pero es mejor tu propio logo. La gente ya sabe que es Instagram por el texto."
+    },
+    {
+      "pregunta": "¿En qué formato lo mando a imprimir?",
+      "respuesta": "En SVG. Se agranda sin perder calidad."
+    },
+    {
+      "pregunta": "¿Por qué abre la app y no la página?",
+      "respuesta": "Porque el celular reconoce la liga de Instagram. Si no tiene la app, abre el navegador."
+    }
+  ],
+  "relacionadas": [
+    "generador-de-qr",
+    "qr-de-facebook",
+    "codigo-qr-para-whatsapp",
+    "crear-qr-con-imagen",
+    "lector-qr",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu Instagram muestra lo nuevo y tu propia página cierra la venta con precios y pedidos.",
+    "aviso": "Tu QR de Instagram ya está listo. ¿Quieres también una página con tu dominio para vender?",
+    "titulo": "¿Hacemos la página que acompaña a tu Instagram?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://metricool.com/es/instagram-codigo-qr/",
+      "titulo": "Código QR de Instagram: qué es, dónde está y cómo descargarlo",
+      "promete": "Dónde está el QR dentro de la app; no deja personalizarlo ni bajarlo para imprenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.jotform.com/es/qr-code-generator/instagram/",
+      "titulo": "Generador de códigos QR para Instagram",
+      "promete": "QR con diseño dentro de su plataforma; pide cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.qrcode-tiger.com/es/qr-code-generator/instagram",
+      "titulo": "Crear código QR para Instagram",
+      "promete": "QR dinámico con estadísticas de pago; el gratis es limitado"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard (cabeza conservadora 3K pero 18K en México). Motor qr modo instagram."
+}

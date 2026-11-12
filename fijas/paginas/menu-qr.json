@@ -1,0 +1,176 @@
+{
+  "id": "menu-qr",
+  "slug": "menu-qr",
+  "molde": "herramienta",
+  "cabeza": "código qr de restaurante",
+  "busquedas": [
+    "menu qr",
+    "qr para menu",
+    "codigo qr menu restaurante",
+    "qr de menu"
+  ],
+  "title": "Código QR de restaurante para tu menú gratis",
+  "h1": "Menú QR para tu restaurante",
+  "description": "Crea el código QR de tu restaurante para que vean el menú desde su celular. Pega la liga de tu menú, ponle tu logo y bájalo en PNG o SVG. Gratis.",
+  "resumen": "El QR de tus mesas que abre tu menú en el celular",
+  "categoria": "Menú y catálogo",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Pega la liga donde está tu menú y sale el QR para tus mesas, ya con el texto «Escanea para ver el menú». Puedes ponerle tu logo y tus colores.",
+    "El QR no guarda el menú, guarda la liga. Por eso tu menú debe estar primero en una página o un archivo en internet."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "menu"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer el QR de tu menú"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Sube tu menú a internet",
+          "texto": "Puede ser tu página web, un PDF en tu nube o una imagen publicada. Copia su liga."
+        },
+        {
+          "titulo": "Pega la liga aquí",
+          "texto": "El QR aparece al momento con el texto para tus mesas ya escrito."
+        },
+        {
+          "titulo": "Ponle tu marca",
+          "texto": "Sube tu logo y usa un color oscuro del restaurante."
+        },
+        {
+          "titulo": "Imprime una prueba",
+          "texto": "Pégala en una mesa y escanéala sentado, con la luz real del lugar."
+        }
+      ]
+    },
+    {
+      "h2": "Dónde guardar el menú al que lleva el QR"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Opción",
+          "Ventaja",
+          "Lo que debes cuidar"
+        ],
+        "filas": [
+          [
+            "Tu página web",
+            "Cambias precios sin reimprimir el QR",
+            "Que cargue rápido con datos móviles"
+          ],
+          [
+            "PDF en una nube",
+            "Fácil de subir desde tu computadora",
+            "Que el archivo sea público y ligero"
+          ],
+          [
+            "Imagen en redes",
+            "Ya la tienes publicada",
+            "Que no la tape un aviso para iniciar sesión"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La opción más estable es tu propia página. Si la liga de una nube cambia, el QR impreso deja de servir."
+    },
+    {
+      "p": "Si todavía no tienes menú, hazlo con el [menú de restaurante](id:menu-de-restaurante) o el [menú de cafetería](id:menu-de-cafeteria). Los dos bajan en PDF o en imagen para celular."
+    },
+    {
+      "h2": "Medidas y lugares que funcionan en un restaurante"
+    },
+    {
+      "ul": [
+        "Un tarjetón de mesa con el QR de unos 5 a 6 centímetros.",
+        "Una calcomanía en la esquina de cada mesa, lejos de la grasa.",
+        "Un QR más grande en la entrada para quien espera mesa.",
+        "Otro en la barra para pedidos para llevar."
+      ]
+    },
+    {
+      "p": "Plastifica el tarjetón para poder limpiarlo. El brillo directo de un foco puede impedir la lectura, así que prueba el acabado mate."
+    },
+    {
+      "h2": "Menú QR y menú impreso no se pelean"
+    },
+    {
+      "p": "Hay clientes que prefieren la carta en la mano. Ten siempre unas cuantas impresas para ellos."
+    },
+    {
+      "p": "El QR sirve para que vean fotos, cambies precios rápido y gastes menos en reimprimir. La carta impresa sirve para quien no quiere sacar el celular."
+    },
+    {
+      "h2": "Ejemplo con un restaurante familiar"
+    },
+    {
+      "p": "Un restaurante familiar pone su menú en su propia página y un QR en cada mesa. Cuando sube el precio del aguacate cambia los precios en la página."
+    },
+    {
+      "p": "Los tarjetones de las mesas siguen igual y nadie reimprime nada. La carta impresa se queda para los clientes de siempre que la prefieren."
+    },
+    {
+      "ul": [
+        "Escribe el nombre del wifi junto al QR del menú.",
+        "Pon el horario y tu WhatsApp para pedidos al final del menú en línea.",
+        "Revisa una vez al mes que la liga siga abriendo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El menú QR es gratis?",
+      "respuesta": "Sí. El QR es gratis, no caduca y no lleva marca de agua."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el menú sin cambiar el QR?",
+      "respuesta": "Sí, si cambias el contenido en la misma liga. Si cambia la liga, necesitas QR nuevo."
+    },
+    {
+      "pregunta": "¿El QR guarda mi menú?",
+      "respuesta": "No. Guarda la liga a tu menú, que debe estar en internet."
+    },
+    {
+      "pregunta": "¿Qué tamaño debe tener en la mesa?",
+      "respuesta": "Unos 5 centímetros bastan. Pruébalo sentado antes de imprimir todos."
+    },
+    {
+      "pregunta": "¿Puedo poner el logo del restaurante?",
+      "respuesta": "Sí. Súbelo en los ajustes y el QR sube su corrección sola."
+    },
+    {
+      "pregunta": "¿Mis clientes necesitan una aplicación?",
+      "respuesta": "No. La cámara de los celulares recientes lo lee directo."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-restaurante",
+    "menu-de-cafeteria",
+    "menu-digital",
+    "catalogo-digital",
+    "qr-wifi",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu QR puede abrir el menú en tu propia página, donde cambias precios sin reimprimir.",
+    "aviso": "Tu QR ya está listo. ¿Quieres que abra tu menú en una página propia con tu dominio?",
+    "titulo": "¿Hacemos la página de tu menú?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor qr modo menu (pone «Escanea para ver el menú» debajo). El motor no aloja el menú: la página lo dice claro."
+}

@@ -1,0 +1,192 @@
+{
+  "id": "xml-de-factura",
+  "slug": "xml-de-factura",
+  "molde": "herramienta",
+  "cabeza": "xml factura",
+  "busquedas": [
+    "factura xml",
+    "facturas con xml",
+    "descargar xml de factura",
+    "facturacion xml",
+    "abrir xml de factura",
+    "ver xml factura",
+    "convertir xml a pdf factura",
+    "factura pdf",
+    "pdf factura"
+  ],
+  "title": "XML factura: ábrelo y conviértelo a PDF gratis",
+  "h1": "Abrir el XML de una factura",
+  "description": "Abre el XML de tu factura CFDI 4.0 o 3.3 y míralo legible con emisor, conceptos, impuestos y timbre. Descarga su representación en PDF. Gratis y privado.",
+  "resumen": "Abre el XML de un CFDI y bájalo legible en PDF",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "FinanceApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Arrastra el XML de tu factura y la herramienta lo muestra legible. Ves emisor y receptor, conceptos, impuestos y folio fiscal. Después bajas su representación impresa en PDF.",
+    "El comprobante fiscal válido es el XML timbrado, no el PDF. El archivo se abre en tu navegador y no se sube a ningún servidor."
+  ],
+  "herramienta": {
+    "id": "visor-cfdi",
+    "modo": null
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo ver tu factura en cuatro pasos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Ubica el XML",
+          "texto": "Viene adjunto en el correo de tu proveedor o lo bajas del portal del SAT."
+        },
+        {
+          "titulo": "Ábrelo aquí",
+          "texto": "Arrástralo al recuadro o elígelo desde tu equipo. Puedes abrir varios a la vez."
+        },
+        {
+          "titulo": "Revisa los datos",
+          "texto": "Los datos del emisor y del receptor aparecen arriba. Debajo van conceptos e impuestos."
+        },
+        {
+          "titulo": "Descarga el PDF o verifica",
+          "texto": "Baja la representación impresa o abre la verificación del SAT con un clic."
+        }
+      ]
+    },
+    {
+      "h2": "XML y PDF, cuál es la factura"
+    },
+    {
+      "p": "En México la factura es el CFDI y su archivo es el XML. Lleva el sello digital del emisor y el timbre del SAT o de un proveedor de certificación."
+    },
+    {
+      "p": "El PDF es sólo una representación impresa para leerla fácil. Si te mandan PDF sin XML, pide el XML porque es lo que cuenta para tu contabilidad."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "XML",
+          "PDF"
+        ],
+        "filas": [
+          [
+            "Qué es",
+            "El comprobante fiscal",
+            "Una vista para leer o imprimir"
+          ],
+          [
+            "Lo pide tu contador",
+            "Sí",
+            "A veces, como apoyo"
+          ],
+          [
+            "Se lee sin programas",
+            "No, es código",
+            "Sí"
+          ],
+          [
+            "Lleva sello y timbre",
+            "Sí, dentro del archivo",
+            "Sólo los muestra impresos"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué muestra la herramienta"
+    },
+    {
+      "ul": [
+        "Emisor y receptor con RFC, régimen fiscal y código postal.",
+        "Uso del CFDI, forma y método de pago con su nombre y no sólo su clave.",
+        "Conceptos con cantidad y unidad, además de clave, valor unitario e importe.",
+        "Impuestos trasladados y retenidos, y el total con letra.",
+        "Timbre fiscal con el folio fiscal, la fecha de certificación y los sellos.",
+        "Pagos recibidos en complementos de pago y CFDI relacionados."
+      ]
+    },
+    {
+      "p": "Lee facturas en versión 4.0 y 3.3. Si el archivo no trae timbre, la herramienta te avisa que no es válido ante el SAT."
+    },
+    {
+      "h2": "Cómo descargar el XML desde el SAT"
+    },
+    {
+      "p": "El SAT tiene un servicio gratuito para consultar y recuperar las facturas que emites y recibes. Entras con tu contraseña o tu e.firma."
+    },
+    {
+      "p": "Desde ahí bajas el XML y su representación impresa. El portal permite descargar hasta 2,000 XML por día."
+    },
+    {
+      "p": "Si sólo tienes una factura impresa, pide el XML a quien te facturó. Sin ese archivo no tienes la factura completa."
+    },
+    {
+      "h2": "Verifica que la factura sea real"
+    },
+    {
+      "p": "La herramienta arma la liga a la página de verificación del SAT con los datos de tu factura. Ahí confirmas si está vigente o cancelada."
+    },
+    {
+      "p": "Hazlo antes de pagar a un proveedor nuevo. Una factura cancelada no te sirve para deducir."
+    },
+    {
+      "p": "Si necesitas dar un comprobante que no es fiscal, usa la [nota de venta](id:nota-de-venta) o el [recibo de pago](id:recibo-de-pago). Para entender qué lleva una factura lee el [formato de factura](id:formato-de-factura)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El PDF que baja la herramienta es la factura?",
+      "respuesta": "No. Es una representación impresa. La factura válida es el XML timbrado."
+    },
+    {
+      "pregunta": "¿Mi XML se sube a internet?",
+      "respuesta": "No. Se lee dentro de tu navegador y no sale de tu equipo."
+    },
+    {
+      "pregunta": "¿Puedo abrir varias facturas a la vez?",
+      "respuesta": "Sí. Elige o arrastra varios XML y cambias entre ellos."
+    },
+    {
+      "pregunta": "¿Lee complementos de pago?",
+      "respuesta": "Sí. Muestra los pagos con su parcialidad, lo pagado y el saldo."
+    },
+    {
+      "pregunta": "¿Puedo pasar el XML a Excel?",
+      "respuesta": "No con esta herramienta. Da la vista legible y el PDF."
+    },
+    {
+      "pregunta": "¿Sirve para hacer una factura nueva?",
+      "respuesta": "No. Sólo abre facturas ya timbradas. Para facturar necesitas un proveedor autorizado."
+    }
+  ],
+  "relacionadas": [
+    "formato-de-factura",
+    "nota-de-venta",
+    "recibo-de-pago",
+    "formato-de-cotizacion",
+    "orden-de-compra",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus clientes pueden conocer tus servicios y pedirte factura desde tu propia página.",
+    "aviso": "Tu factura ya está en PDF. ¿Quieres una página para tu negocio con tu dominio?",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "comprafin",
+      "solu",
+      "signsolu"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "SAT, consulta y recuperación de comprobantes",
+      "url": "https://wwwmat.sat.gob.mx/consultas/42968/consulta-y-recuperacion-de-comprobantes-%28nuevo%29"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Servicio del SAT leído hoy (contraseña o e.firma, XML 3.0 a 4.0, 2,000 XML al día en portal). Motor visor-cfdi (4.0 y 3.3, pagos, relacionados, timbre, liga de verificación). MEJORA DE MOTOR: «factura en excel» no se cumple."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "nota-de-remision",
+  "slug": "nota-de-remision",
+  "molde": "herramienta",
+  "cabeza": "nota de remisión",
+  "busquedas": ["nota de remision editable", "notas de remision ejemplo", "ejemplo de nota de remision", "notas de remision para editar", "nota de remision para imprimir", "remito"],
+  "title": "Nota de remisión editable gratis para imprimir en PDF",
+  "h1": "Nota de remisión editable",
+  "description": "Llena tu nota de remisión en línea con tu logo, partidas y firma de quien recibe. Descárgala en PDF o imagen, o bájala en blanco para llenar a mano. Gratis.",
+  "resumen": "Llénala en línea con logo y firma, o bájala en blanco",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una nota de remisión acompaña la mercancía que entregas y la firma quien la recibe. Llena la de abajo con tus datos, tus productos y el domicilio de entrega.",
+    "La descargas en PDF carta o en imagen. Si la prefieres a mano, bájala sin partidas y sale en blanco."
+  ],
+  "herramienta": { "id": "documento", "modo": "nota-remision" },
+  "cuerpo": [
+    { "h2": "Cómo llenar tu nota de remisión" },
+    { "pasos": [
+      { "titulo": "Tus datos y tu logo", "texto": "Escribe el nombre de tu negocio y tu teléfono. Sube tu logo si lo tienes." },
+      { "titulo": "Cliente y lugar de entrega", "texto": "Pon a quién entregas y en qué domicilio. Ahorra dudas al repartidor." },
+      { "titulo": "La mercancía", "texto": "Una línea por producto con cantidad, descripción y precio si quieres mostrarlo." },
+      { "titulo": "Firmas", "texto": "Firma como «Entregó». El cliente firma «Recibí de conformidad» en la hoja impresa o en la pantalla." }
+    ] },
+    { "h2": "Para qué sirve una nota de remisión" },
+    { "p": "La remisión prueba que entregaste algo y que alguien lo recibió completo. Es la hoja que firma el cliente cuando baja la mercancía." },
+    { "p": "Se usa mucho cuando la factura llega después. También cuando el pago es a crédito y se cobra al final del mes." },
+    { "ul": [
+      "Materiales de construcción que se entregan en obra.",
+      "Garrafones, gas o abarrotes que se reparten por ruta.",
+      "Pedidos de mayoreo que se pagan cada quincena.",
+      "Muebles o equipos que se instalan en el domicilio."
+    ] },
+    { "h2": "Qué debe llevar" },
+    { "tabla": {
+      "columnas": ["Dato", "Por qué importa"],
+      "filas": [
+        ["Folio", "Para ligar la remisión con el cobro o la factura después"],
+        ["Fecha de entrega", "Para saber cuándo empezó a correr el crédito"],
+        ["Domicilio de entrega", "Para que no haya duda de dónde se dejó"],
+        ["Cantidad y descripción", "Para revisar que llegó todo lo pedido"],
+        ["Firma de quien recibe", "Es la prueba de la entrega"]
+      ]
+    } },
+    { "p": "El folio sube solo cada vez que descargas. La herramienta lo recuerda en tu navegador para la siguiente nota." },
+    { "h2": "Remisión con o sin precios" },
+    { "p": "Muchas remisiones van sin precios porque quien recibe es un almacenista. En ese caso deja vacío el precio y sólo pon cantidades." },
+    { "p": "Si el cliente paga contra entrega, conviene mostrar precios y total. Así firma la mercancía y el monto al mismo tiempo." },
+    { "h2": "Remisión y factura" },
+    { "p": "La nota de remisión no es un comprobante fiscal. Si tu cliente necesita deducir, después le emites su factura electrónica." },
+    { "p": "Anota el folio de la remisión en la factura. Así ligas la entrega con el cobro sin buscar papeles." },
+    { "p": "Cuando te paguen, entrega un [recibo de pago](id:recibo-de-pago). Para ventas de mostrador te sirve más la [nota de venta](id:nota-de-venta)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿La nota de remisión es gratis?", "respuesta": "Sí. Sin registro, sin marca de agua y con todas las que necesites." },
+    { "pregunta": "¿Se puede llenar a mano?", "respuesta": "Sí. Descárgala sin partidas y sale en blanco para escribir con pluma." },
+    { "pregunta": "¿El cliente puede firmar en el celular?", "respuesta": "Sí. Hay un recuadro para firmar con el dedo antes de descargar." },
+    { "pregunta": "¿Qué es un remito?", "respuesta": "Es el nombre de la nota de remisión en Argentina. Sirve para lo mismo." },
+    { "pregunta": "¿Se puede editar en Word o Excel?", "respuesta": "No. Se llena aquí y se descarga en PDF o imagen." },
+    { "pregunta": "¿Mis datos se guardan?", "respuesta": "Sí, sólo en tu navegador. Hay un botón para borrarlos de tu equipo." }
+  ],
+  "relacionadas": ["recibo-de-pago", "nota-de-venta", "orden-de-compra", "formato-de-cotizacion", "generador-de-codigo-de-barras", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tus clientes pueden hacerte pedidos desde tu propia página antes de que llegue la remisión.",
+    "aviso": "Tu remisión ya está lista. ¿Quieres que tus clientes te hagan pedidos desde tu propia página?",
+    "titulo": "¿Hacemos la página donde te hacen pedidos?",
+    "trabajos": ["comprafin", "makatea", "laola"]
+  },
+  "fuentes": [],
+  "serp": [
+    { "posicion": 1, "url": "https://www.edifact.com.mx/masinfo/notas-de-remision-para-editar", "titulo": "Notas de remisión para editar", "promete": "Sugiere hacerla en Excel; vende software de facturación" },
+    { "posicion": 2, "url": "https://facturama.mx/blog/que-significa/nota-de-remision/", "titulo": "Nota de remisión", "promete": "Qué es y qué datos lleva; no deja llenar ni descargar una" },
+    { "posicion": 3, "url": "https://www.siigo.com/mx/blog/obligaciones-fiscales/nota-de-remision-que-es-y-para-que-funciona/", "titulo": "Nota de remisión: qué es, para qué sirve y ejemplo práctico", "promete": "Definición y ejemplo; sin formato que se llene en línea ni firma" }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. Motor documento modo nota-remision (firmas Entregó y Recibí de conformidad, sin IVA por omisión, folio en localStorage). No exporta a Word ni Excel."
+}

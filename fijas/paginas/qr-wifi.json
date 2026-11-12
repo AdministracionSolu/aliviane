@@ -1,0 +1,200 @@
+{
+  "id": "qr-wifi",
+  "slug": "qr-wifi",
+  "molde": "herramienta",
+  "cabeza": "qr wifi",
+  "busquedas": [
+    "codigo qr de wifi",
+    "codigos qr de wifi",
+    "código qr wifi",
+    "wifi codigo qr",
+    "codigos qr wifi",
+    "qr internet",
+    "qr de internet",
+    "codigo qr de internet",
+    "codigo wifi"
+  ],
+  "title": "QR wifi gratis para conectarse sin escribir la clave",
+  "h1": "Código QR de wifi",
+  "description": "Crea un QR de wifi para que tus clientes se conecten sin teclear la contraseña. Escribe red y clave, y descárgalo en PNG o SVG. Gratis y sin registro.",
+  "resumen": "Tus clientes se conectan a tu wifi con sólo escanear",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre de tu red y tu contraseña, y sale un QR que conecta al celular con sólo escanearlo. Nadie tiene que deletrear la clave.",
+    "Tus datos no salen de tu equipo. Lo bajas en PNG o SVG para imprimirlo en tu mostrador o tus mesas."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "wifi"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer el QR de tu wifi"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Copia el nombre de tu red",
+          "texto": "Es el nombre que aparece en la lista de redes del celular. Cuentan mayúsculas y espacios."
+        },
+        {
+          "titulo": "Escribe la contraseña",
+          "texto": "Igual que en la etiqueta de tu módem. Un solo carácter distinto y no conecta."
+        },
+        {
+          "titulo": "Elige la seguridad",
+          "texto": "Casi todos los módems usan WPA o WPA2. Marca «red oculta» sólo si tu red no aparece en la lista."
+        },
+        {
+          "titulo": "Escanea antes de imprimir",
+          "texto": "Prueba con un celular que no esté conectado. Si se une a la red, ya está."
+        }
+      ]
+    },
+    {
+      "h2": "Qué guarda un QR de wifi"
+    },
+    {
+      "p": "No guarda una liga. Guarda tres datos que el celular sabe leer y usar para conectarse."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Qué es",
+          "Falla común"
+        ],
+        "filas": [
+          [
+            "Nombre de la red",
+            "El nombre que ves en la lista de redes",
+            "Escribirlo con otra mayúscula"
+          ],
+          [
+            "Contraseña",
+            "La clave de tu wifi",
+            "Confundir la clave del wifi con la del módem"
+          ],
+          [
+            "Seguridad",
+            "WPA, WEP o sin contraseña",
+            "Elegir WEP cuando la red es WPA2"
+          ],
+          [
+            "Red oculta",
+            "Si tu red no se anuncia",
+            "Marcarla cuando la red sí se ve"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las cámaras de celulares recientes leen estos códigos sin instalar nada. Algunos modelos viejos piden una aplicación lectora."
+    },
+    {
+      "h2": "Wifi para clientes sin regalar tu red principal"
+    },
+    {
+      "p": "Quien escanea el QR puede ver la contraseña desde los ajustes de su celular. Por eso conviene una red sólo para clientes."
+    },
+    {
+      "p": "Muchos módems de casa y negocio permiten crear una red de invitados. Pon esa red en el QR y deja la principal para tu caja y tus equipos."
+    },
+    {
+      "ul": [
+        "Cambia la clave de la red de invitados cada cierto tiempo.",
+        "Haz un QR nuevo cada vez que cambies la clave.",
+        "No uses la red de clientes para tu terminal de cobro.",
+        "Escribe el nombre de la red junto al QR por si alguien no puede escanear."
+      ]
+    },
+    {
+      "h2": "Dónde pegar tu QR de wifi"
+    },
+    {
+      "ul": [
+        "En cada mesa de tu cafetería o restaurante.",
+        "En la sala de espera de tu consultorio.",
+        "En la recepción de tu hotel o tu renta vacacional.",
+        "Junto a la caja de tu tienda o tu salón de belleza."
+      ]
+    },
+    {
+      "p": "Escribe arriba «Escanea para conectarte al wifi». Así nadie te interrumpe para preguntar la clave."
+    },
+    {
+      "p": "Si recibiste un QR de wifi y quieres ver la clave, usa el [lector de QR](id:lector-qr). Para un QR que abra tu menú en la misma mesa, haz tu [menú QR](id:menu-qr)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El QR de wifi es gratis?",
+      "respuesta": "Sí. Sin cuenta y sin marca de agua."
+    },
+    {
+      "pregunta": "¿Mi contraseña se manda a algún servidor?",
+      "respuesta": "No. El QR se arma en tu navegador y nada sale de tu equipo."
+    },
+    {
+      "pregunta": "¿Qué pasa si cambio la contraseña?",
+      "respuesta": "El QR viejo deja de conectar. Haz uno nuevo con la clave nueva."
+    },
+    {
+      "pregunta": "¿Funciona en iPhone y Android?",
+      "respuesta": "Sí. Las cámaras de modelos recientes lo leen sin aplicación extra."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo en el QR de wifi?",
+      "respuesta": "Sí. Súbelo en los ajustes y la corrección sube a máxima sola."
+    },
+    {
+      "pregunta": "¿Por qué no conecta aunque lo lee?",
+      "respuesta": "Casi siempre es la clave o el tipo de seguridad. Revisa mayúsculas y espacios."
+    }
+  ],
+  "relacionadas": [
+    "generador-de-qr",
+    "lector-qr",
+    "leer-qr-wifi",
+    "crear-qr-con-imagen",
+    "menu-qr",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "El mismo cliente que se conecta a tu wifi puede ver tu menú y tus promociones en tu página.",
+    "aviso": "Tu QR de wifi ya está listo. ¿Quieres que tus clientes también vean tu página al conectarse?",
+    "titulo": "¿Hacemos la página que ven tus clientes en tu local?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.qrcode-tiger.com/es/qr-code-generator/wifi",
+      "titulo": "Crear un código QR de Wi-Fi de forma gratuita",
+      "promete": "QR de wifi con diseño; empuja a planes de pago y no habla de red para invitados"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_mx/generador-codigo-qr-wifi/",
+      "titulo": "Generador de códigos QR para WiFi gratis",
+      "promete": "QR de wifi dentro de su editor; pide cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.genbeta.com/web/como-crear-codigo-qr-para-red-wifi-que-poder-conectarse-automaticamente",
+      "titulo": "Cómo crear un código QR para una red WiFi",
+      "promete": "Tutorial que manda a herramientas de terceros; sin generador propio"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard (12.6K en México). Motor qr modo wifi (WPA/WEP/sin clave, red oculta)."
+}

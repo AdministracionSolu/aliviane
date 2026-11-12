@@ -1,0 +1,190 @@
+{
+  "id": "recibo-de-renta",
+  "slug": "recibo-de-renta",
+  "molde": "herramienta",
+  "cabeza": "recibos de renta",
+  "busquedas": [
+    "recibos de alquiler",
+    "recibo de arrendamiento",
+    "recibo de renta",
+    "formato de recibo de renta",
+    "recibo de renta pdf"
+  ],
+  "title": "Recibos de renta gratis para llenar y bajar en PDF",
+  "h1": "Recibo de renta para llenar",
+  "description": "Llena tu recibo de renta con inmueble, mes que se paga, importe con letra y firma del arrendador. Descárgalo en PDF o imagen, o en blanco. Gratis.",
+  "resumen": "Con inmueble, mes pagado, importe con letra y firma",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un recibo de renta dice qué inmueble se pagó, qué mes cubre, cuánto se pagó y quién lo recibió. Llena el de abajo y firma como arrendador.",
+    "El importe con letra sale solo. Lo bajas en PDF para mandarlo por WhatsApp o en blanco para un block."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "recibo-renta"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo llenar el recibo de renta"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Nombre del arrendador",
+          "texto": "Escribe tu nombre como dueño o el de quien administra el inmueble."
+        },
+        {
+          "titulo": "Inquilino y monto",
+          "texto": "Pon el nombre de quien paga y la cantidad. La letra aparece abajo sola."
+        },
+        {
+          "titulo": "Inmueble y mes",
+          "texto": "Calle, número, colonia y ciudad. Después el mes que cubre el pago."
+        },
+        {
+          "titulo": "Forma de pago y firma",
+          "texto": "Elige efectivo o transferencia, firma y descarga."
+        }
+      ]
+    },
+    {
+      "h2": "Datos que no deben faltar"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Recibí de",
+            "Jorge Hernández Pérez"
+          ],
+          [
+            "La cantidad de",
+            "$7,500.00 con letra"
+          ],
+          [
+            "Inmueble",
+            "Calle Pino 214 interior 3, colonia Jardines, León"
+          ],
+          [
+            "Mes que paga",
+            "Noviembre de 2026"
+          ],
+          [
+            "Forma de pago",
+            "Transferencia"
+          ],
+          [
+            "Firma",
+            "Arrendador"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El mes pagado es lo más importante. Sin él no hay forma de saber si el recibo cubre octubre o noviembre."
+    },
+    {
+      "h2": "Casos que se pagan aparte"
+    },
+    {
+      "p": "No mezcles la renta con otros pagos en un mismo recibo. Haz uno por concepto para que las cuentas cuadren."
+    },
+    {
+      "ul": [
+        "**Depósito en garantía.** Un recibo propio al firmar el contrato.",
+        "**Mantenimiento.** Si lo cobras tú y no el condominio, va en otro recibo.",
+        "**Pagos atrasados.** Escribe el mes original aunque se pague después.",
+        "**Pagos parciales.** Anota «abono a la renta de noviembre» y cuánto falta."
+      ]
+    },
+    {
+      "h2": "Para el inquilino y para el dueño"
+    },
+    {
+      "p": "Al inquilino el recibo le prueba que está al corriente. Le sirve si cambia de dueño el inmueble o si hay un desacuerdo al salir."
+    },
+    {
+      "p": "Al dueño le sirve para llevar su control mes por mes. Con el folio sabe cuántos pagos lleva cada contrato."
+    },
+    {
+      "p": "El recibo de renta no es un comprobante fiscal. Si tu inquilino necesita factura, la emites como CFDI con tu proveedor de facturación."
+    },
+    {
+      "h2": "Recibos para varios departamentos"
+    },
+    {
+      "p": "Si rentas varios cuartos o locales, cambia sólo el inmueble y el inquilino. Tus datos de arrendador quedan guardados en el navegador."
+    },
+    {
+      "p": "Usa el folio con una letra por propiedad si te ayuda a ordenar. Por ejemplo A-012 para un local y B-012 para un departamento."
+    },
+    {
+      "h2": "Ejemplo con un departamento"
+    },
+    {
+      "p": "Una dueña renta un departamento en León y le pagan por transferencia cada primero de mes. Ese día llena el recibo y lo manda por WhatsApp."
+    },
+    {
+      "p": "El inquilino lo guarda en su chat y ella guarda la copia en una carpeta por año. Si alguno duda de un mes, los recibos lo resuelven."
+    },
+    {
+      "p": "Para otros cobros que no son renta usa el [recibo de pago](id:recibo-de-pago). Si cobras servicios con varias partidas, mira la [orden de servicio](id:orden-de-servicio)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El recibo de renta es gratis?",
+      "respuesta": "Sí. Sin registro y sin marca de agua."
+    },
+    {
+      "pregunta": "¿Sirve para rentas de locales y casas?",
+      "respuesta": "Sí. Escribe el inmueble que sea y el mes que se paga."
+    },
+    {
+      "pregunta": "¿Puedo imprimir varios en blanco?",
+      "respuesta": "Sí. Bájalo sin llenar y saca las copias que necesites."
+    },
+    {
+      "pregunta": "¿El recibo de renta sirve como factura?",
+      "respuesta": "No. La factura es un CFDI que se emite aparte."
+    },
+    {
+      "pregunta": "¿Puede firmar el arrendador desde el celular?",
+      "respuesta": "Sí. Hay un recuadro para firmar con el dedo."
+    },
+    {
+      "pregunta": "¿Se guardan mis datos de arrendador?",
+      "respuesta": "Sí, sólo en tu navegador. Los puedes borrar con un botón."
+    }
+  ],
+  "relacionadas": [
+    "recibo-de-pago",
+    "orden-de-servicio",
+    "nota-de-venta",
+    "formato-de-factura",
+    "lista-de-precios",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tus inmuebles en renta pueden tener su propia página con fotos, precio y WhatsApp.",
+    "aviso": "Tu recibo ya está listo. ¿Quieres una página para mostrar tus inmuebles en renta?",
+    "titulo": "¿Hacemos la página de tus rentas?",
+    "trabajos": [
+      "comprafin",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo recibo-renta (inmueble, mes que paga, forma de pago, firma Arrendador)."
+}

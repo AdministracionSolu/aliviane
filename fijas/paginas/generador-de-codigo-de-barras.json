@@ -1,0 +1,219 @@
+{
+  "id": "generador-de-codigo-de-barras",
+  "slug": "generador-de-codigo-de-barras",
+  "molde": "herramienta",
+  "cabeza": "generador de código de barras",
+  "busquedas": [
+    "crear codigo de barras",
+    "generar codigo de barras",
+    "generador de codigo barras",
+    "generar código de barras gratis",
+    "hacer codigo de barras",
+    "crear codigo de barras gratis",
+    "creador codigo de barras gratis",
+    "codigo de barras generador gratis",
+    "generador de codigo de barras gratis"
+  ],
+  "title": "Generador de código de barras gratis con hoja en PDF",
+  "h1": "Generador de código de barras",
+  "description": "Crea códigos de barras EAN-13, UPC, CODE128 y más. Calcula el dígito verificador y baja PNG, SVG o una hoja de etiquetas en PDF. Gratis y sin registro.",
+  "resumen": "EAN-13, UPC, CODE128 y hoja de etiquetas en PDF",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el tipo de código, escribe tu número y el código de barras aparece al momento. Si es EAN o UPC, la herramienta calcula el dígito verificador.",
+    "Lo bajas en PNG o SVG, o en una hoja tamaño carta llena de etiquetas para imprimir. No pide cuenta ni pone marca de agua."
+  ],
+  "herramienta": {
+    "id": "codigo-barras",
+    "modo": "ean13"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo crear tu código de barras"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el tipo",
+          "texto": "EAN-13 para productos en tienda. CODE128 para inventario, folios y envíos."
+        },
+        {
+          "titulo": "Escribe el número",
+          "texto": "En EAN-13 pon 12 dígitos y sale el último. Si pones 13, la herramienta revisa que esté bien."
+        },
+        {
+          "titulo": "Ajusta el tamaño",
+          "texto": "Cambia el grosor de las barras y su alto. Decide si muestras los números abajo."
+        },
+        {
+          "titulo": "Descarga o arma tu hoja",
+          "texto": "PNG o SVG para tu etiqueta. La hoja de etiquetas sale en PDF carta."
+        }
+      ]
+    },
+    {
+      "h2": "Qué tipo de código necesitas"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo",
+          "Qué acepta",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "EAN-13",
+            "13 dígitos",
+            "Productos que se venden en tiendas y supermercados"
+          ],
+          [
+            "EAN-8",
+            "8 dígitos",
+            "Empaques muy pequeños"
+          ],
+          [
+            "UPC-A",
+            "12 dígitos",
+            "Productos para Estados Unidos y Canadá"
+          ],
+          [
+            "CODE128",
+            "Letras, números y signos",
+            "Inventario, folios internos y paquetería"
+          ],
+          [
+            "CODE39",
+            "Mayúsculas, números y algunos signos",
+            "Credenciales, activos fijos y almacén"
+          ],
+          [
+            "ITF",
+            "Sólo números en pares",
+            "Cajas de embarque con el ITF-14"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "El dígito verificador"
+    },
+    {
+      "p": "El último número de un EAN o un UPC no se inventa. Sale de una cuenta con los demás dígitos."
+    },
+    {
+      "p": "Sirve para que el lector detecte un número mal leído. Si escribes los 13 dígitos y el último no cuadra, la herramienta te dice cuál debería ser."
+    },
+    {
+      "h2": "Códigos para vender en tiendas grandes"
+    },
+    {
+      "p": "Para vender en cadenas y supermercados de México necesitas un código registrado. Los asigna GS1 México, el organismo que emite y administra estos códigos en el país."
+    },
+    {
+      "p": "El prefijo 750 indica que el código se registró en México. No dice que el producto se fabricó aquí."
+    },
+    {
+      "p": "Esta herramienta dibuja el código del número que escribas. No te da un número registrado ni sustituye el trámite con GS1."
+    },
+    {
+      "p": "Para tu inventario, tu tienda o tu bodega no necesitas registro. Usa CODE128 con tus propias claves y listo."
+    },
+    {
+      "h2": "La hoja de etiquetas"
+    },
+    {
+      "p": "Abre «Hoja de etiquetas para imprimir» y elige la medida de tus etiquetas adhesivas. Hay medidas de 10, 21, 30 y 80 por hoja."
+    },
+    {
+      "p": "Puedes repetir el mismo código o pegar una lista con un código por renglón. La hoja sale en PDF lista para imprimir."
+    },
+    {
+      "ul": [
+        "Imprime una hoja de prueba y pásala por tu lector.",
+        "Usa impresora láser para barras más nítidas.",
+        "No reduzcas el código por debajo de lo que tu lector alcanza a leer.",
+        "Deja el margen blanco a los lados del código."
+      ]
+    },
+    {
+      "p": "Si haces notas para tus entregas usa la [nota de remisión](id:nota-de-remision). Para dar precios a tus clientes arma tu [lista de precios](id:lista-de-precios)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El generador de código de barras es gratis?",
+      "respuesta": "Sí. Sin cuenta, sin marca de agua y sin límite de códigos."
+    },
+    {
+      "pregunta": "¿Puedo vender en supermercados con estos códigos?",
+      "respuesta": "No sin registro. Las cadenas piden un código asignado por GS1 México."
+    },
+    {
+      "pregunta": "¿Qué código uso para mi inventario?",
+      "respuesta": "CODE128. Acepta letras y números y lo lee cualquier lector."
+    },
+    {
+      "pregunta": "¿Qué es el dígito verificador?",
+      "respuesta": "El último número de un EAN o UPC. Sale de una cuenta con los demás dígitos."
+    },
+    {
+      "pregunta": "¿En qué formato lo mando a imprimir?",
+      "respuesta": "En SVG o en la hoja PDF. Los dos imprimen las barras nítidas."
+    },
+    {
+      "pregunta": "¿Puedo hacer muchos códigos distintos en una hoja?",
+      "respuesta": "Sí. Pega tu lista con un código por renglón en la hoja de etiquetas."
+    }
+  ],
+  "relacionadas": [
+    "nota-de-remision",
+    "lista-de-precios",
+    "orden-de-compra",
+    "codigo-de-barras-en-excel",
+    "catalogo-digital",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus productos con código pueden tener también su página con fotos y precios.",
+    "aviso": "Tus códigos ya están listos. ¿Quieres una página donde se vean tus productos?",
+    "titulo": "¿Hacemos la página de tus productos?",
+    "trabajos": [
+      "comprafin",
+      "makatea",
+      "laola"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "thelogisticsworld.com, el mito del código de barras 750 (GS1 México)",
+      "url": "https://thelogisticsworld.com/historico/el-mito-del-codigo-de-barras-750"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/generador-codigos-de-barra/",
+      "titulo": "Generador de códigos de barras online gratuito",
+      "promete": "Código dentro de su editor; pide cuenta y no arma hoja de etiquetas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/mx/herramientas/generador-codigo-de-barras",
+      "titulo": "Generador de código de barras",
+      "promete": "Sólo EAN-13 con dígito de control y SVG; sin CODE128 ni hoja para imprimir"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.shopify.com/es/herramientas/generador-codigo-barras",
+      "titulo": "Generador de código de barras",
+      "promete": "Pide correo antes de entregar el código"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. GS1 y prefijo 750 leídos hoy en thelogisticsworld.com (gs1mexico.org dio 404). Motor codigo-barras modo ean13 (los demás tipos y la hoja se eligen dentro)."
+}

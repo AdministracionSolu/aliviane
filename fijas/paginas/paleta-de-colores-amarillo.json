@@ -1,0 +1,78 @@
+{
+  "id": "paleta-de-colores-amarillo",
+  "slug": "paleta-de-colores-amarillo",
+  "molde": "herramienta",
+  "cabeza": "paleta de color amarilla",
+  "busquedas": ["paletas de colores amarillo", "paleta de color amarillo", "paleta de colores amarillos", "colores que combinan con amarillo"],
+  "title": "Paleta de color amarilla con códigos HEX gratis",
+  "h1": "Paleta de color amarillo",
+  "description": "Seis paletas de color amarillo, de la mostaza a la miel, con negro, azul y verde de contraste. Copia cada código HEX y baja la paleta en PNG o CSS gratis.",
+  "resumen": "Seis paletas amarillas de la mostaza a la miel",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El amarillo es el color que primero ve el ojo. Sirve para avisos, ofertas y marcas alegres, pero casi nunca para letras.",
+    "Abajo hay seis paletas amarillas con sus códigos HEX. Cada una trae un tono oscuro para que el amarillo no quede solo."
+  ],
+  "herramienta": { "id": "paleta", "modo": "amarillo" },
+  "cuerpo": [
+    { "h2": "Cómo usar una paleta amarilla" },
+    { "pasos": [
+      { "titulo": "Elige el amarillo según tu giro", "texto": "El amarillo sol es alegre y la mostaza es más adulta. La miel se siente artesanal." },
+      { "titulo": "Asegura el contraste", "texto": "Pon el amarillo junto a negro, azul marino o verde oscuro. Sobre blanco se pierde." },
+      { "titulo": "Copia los códigos", "texto": "Toca la franja para copiar el HEX y pégalo en tu diseño." },
+      { "titulo": "Descarga y prueba en la calle", "texto": "El amarillo cambia mucho con el sol. Imprime una prueba y mírala afuera." }
+    ] },
+    { "h2": "Para qué negocios funciona el amarillo" },
+    { "p": "El amarillo transmite alegría, rapidez y precio bajo. Lo eligen tiendas de descuento, comida rápida, taxis y escuelas de manejo." },
+    { "p": "También es el color de la obra y la seguridad. Ferreterías, constructoras y señalización lo usan junto al negro." },
+    { "p": "En una marca de lujo el amarillo puro se ve fuera de lugar. Ahí conviene el oro viejo o la mostaza." },
+    { "h2": "Las seis paletas amarillas" },
+    { "tabla": {
+      "columnas": ["Paleta", "Códigos HEX", "Para quién"],
+      "filas": [
+        ["Amarillo sol", "#6B4E00 #B88A00 #F2C230 #F9E07F #FFF8DC", "Guardería o heladería"],
+        ["Mostaza", "#3C3A2E #7A6A26 #C9A227 #E6C65C #F6EDC6", "Tienda vintage o cafetería"],
+        ["Amarillo y negro", "#111111 #333333 #F5C518 #FFE580 #FFFBEA", "Ferretería o taller"],
+        ["Limón y verde", "#2D6A4F #52B788 #D8F3DC #FFE66D #FFD000", "Jugos o frutería"],
+        ["Amarillo y azul", "#0B2545 #13315C #8DA9C4 #EEF4ED #F4C430", "Escuela o papelería"],
+        ["Miel", "#6F4518 #A0662B #D99A3D #F2C26B #FBE7B5", "Apicultor o panadería"]
+      ]
+    } },
+    { "h2": "El problema de las letras amarillas" },
+    { "p": "Texto amarillo sobre blanco es de las combinaciones que peor se leen. Muchos clientes ni lo notan en el celular." },
+    { "p": "Haz lo contrario y escribe en negro sobre un fondo amarillo. Así lo ven de lejos y se lee perfecto." },
+    { "ul": [
+      "Botón amarillo con letras negras, nunca con letras blancas.",
+      "Franjas amarillas para destacar una oferta o un horario.",
+      "Un amarillo pálido como #FFF8DC sirve de fondo cálido.",
+      "La mostaza #C9A227 se ve más cara que el amarillo limón."
+    ] },
+    { "h2": "Ejemplo con una frutería" },
+    { "p": "Una frutería de mercado puede usar la paleta Limón y verde. Su fondo va en #D8F3DC y los títulos en #2D6A4F." },
+    { "p": "El letrero de oferta del día va en #FFD000 con letras verdes oscuras. Los precios se leen desde el pasillo y el puesto se ve fresco." },
+    { "p": "Para combinar el amarillo con su opuesto prueba [combinaciones de colores](id:combinaciones-de-colores). Si buscas un tono más cálido abre la [paleta de color naranja](id:paleta-de-colores-naranja)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Qué color combina con amarillo?", "respuesta": "Negro, azul marino y verde oscuro. Los tres le dan el contraste que le falta." },
+    { "pregunta": "¿Cuál es el HEX del amarillo?", "respuesta": "Un amarillo vivo es #FFD500. La paleta Amarillo sol usa #F2C230, más fácil de imprimir." },
+    { "pregunta": "¿El amarillo sirve para un restaurante?", "respuesta": "Sí, en comida rápida y antojitos. Úsalo con rojo o con negro." },
+    { "pregunta": "¿Mostaza o amarillo limón?", "respuesta": "Mostaza para algo adulto o artesanal. Limón para algo fresco y juvenil." },
+    { "pregunta": "¿Puedo escribir en amarillo?", "respuesta": "Sólo sobre fondo oscuro. Sobre blanco casi no se lee." },
+    { "pregunta": "¿Se descarga la paleta completa?", "respuesta": "Sí. Cada paleta trae botón PNG y botón CSS." }
+  ],
+  "relacionadas": ["paleta-de-colores", "paleta-de-colores-naranja", "combinaciones-de-colores", "paleta-de-colores-gris", "paleta-de-colores-azul", "landing-page"],
+  "venta": {
+    "puente": "Una página con este amarillo hace que tu oferta se vea antes que todo.",
+    "aviso": "Ya tienes tu amarillo. ¿Armamos una página que lo use con buen contraste?",
+    "titulo": "¿Hacemos tu página con esta paleta amarilla?",
+    "trabajos": ["laola", "makatea", "comprafin"]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo amarillo)."
+}

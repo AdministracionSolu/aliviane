@@ -1,0 +1,213 @@
+{
+  "id": "paleta-de-colores-azul",
+  "slug": "paleta-de-colores-azul",
+  "molde": "herramienta",
+  "cabeza": "azul paleta de colores",
+  "busquedas": [
+    "paleta de colores azul",
+    "paleta de color azul",
+    "paletas de colores azules",
+    "azul marino paleta",
+    "colores que combinan con azul"
+  ],
+  "title": "Azul paleta de colores con códigos HEX para copiar",
+  "h1": "Paleta de colores azul",
+  "description": "Seis paletas de color azul listas para tu negocio, del marino al turquesa. Copia cada código HEX con un toque y baja la paleta en PNG o CSS gratis.",
+  "resumen": "Seis paletas azules del marino al turquesa con sus códigos HEX",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El azul transmite confianza y orden, por eso lo usan bancos, consultorios y despachos. Abajo tienes seis paletas azules armadas con sus códigos HEX.",
+    "Toca un color para copiarlo. Si tu azul es otro, escríbelo abajo y salen sus combinaciones."
+  ],
+  "herramienta": {
+    "id": "paleta",
+    "modo": "azul"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo usar estas paletas azules"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escoge el tono de tu giro",
+          "texto": "Un marino se ve formal y un turquesa se ve fresco. Empieza por la sensación que buscas."
+        },
+        {
+          "titulo": "Copia los cinco códigos",
+          "texto": "Cada franja copia su HEX al tocarla. Pégalos en tu programa de diseño o en tu página."
+        },
+        {
+          "titulo": "Prueba tu propio azul",
+          "texto": "En «Arma la tuya desde un color» escribe el azul de tu logo. Salen sus complementarios y sus análogos."
+        },
+        {
+          "titulo": "Guarda la paleta",
+          "texto": "Bájala en PNG para tu diseñador o en CSS para tu sitio."
+        }
+      ]
+    },
+    {
+      "h2": "Qué comunica el azul en un negocio"
+    },
+    {
+      "p": "El azul se asocia con calma, limpieza y seriedad. Por eso aparece tanto en bancos, aseguradoras y clínicas."
+    },
+    {
+      "p": "También es el color del agua. Las purificadoras, lavanderías y albercas lo eligen para que su servicio se sienta limpio."
+    },
+    {
+      "p": "Su riesgo es verse frío o igual a la competencia. Un acento cálido como el naranja lo vuelve más cercano."
+    },
+    {
+      "h2": "Las seis paletas y para quién sirven"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Giro que le queda"
+        ],
+        "filas": [
+          [
+            "Azul marino clásico",
+            "#0B1F3A #1E4E8C #4F7CAC #A9C4E0 #F2F5F9",
+            "Despacho contable o aseguradora"
+          ],
+          [
+            "Mar y arena",
+            "#12355B #2E86AB #A3CEF1 #F1E9DA #E4C590",
+            "Hotel de playa o mariscos"
+          ],
+          [
+            "Azul cielo",
+            "#0A2342 #2C7DA0 #61A5C2 #A9D6E5 #E9F5FA",
+            "Consultorio o laboratorio"
+          ],
+          [
+            "Azul y naranja",
+            "#0D3B66 #1F6FB2 #F4F1EA #F79D2B #E2620F",
+            "Ferretería o taller mecánico"
+          ],
+          [
+            "Índigo nocturno",
+            "#10142E #262C6B #4B4FA6 #8D90D6 #D8D9F2",
+            "Bar o estudio de tatuaje"
+          ],
+          [
+            "Turquesa fresco",
+            "#05445E #189AB4 #75E6DA #D4F1F4 #F7FBFC",
+            "Purificadora o lavandería"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Azules que se usan mucho en México"
+    },
+    {
+      "ul": [
+        "**Azul marino** como #0B1F3A para uniformes, letreros de despachos y tarjetas formales.",
+        "**Azul rey** como #2350A8 para escuelas, equipos deportivos y ofertas de temporada.",
+        "**Azul talavera** en tonos como #1E4E8C para restaurantes y artesanías poblanas.",
+        "**Turquesa** como #189AB4 para negocios de playa en el Pacífico y el Caribe."
+      ]
+    },
+    {
+      "h2": "Errores comunes con el azul"
+    },
+    {
+      "p": "Texto azul claro sobre fondo blanco casi no se lee en el celular. Deja los azules claros para fondos y franjas."
+    },
+    {
+      "p": "Juntar dos azules muy parecidos parece una falla de impresión. Separa los tonos con un claro o un oscuro de verdad."
+    },
+    {
+      "p": "Un sitio todo azul cansa la vista. Agrega un neutro cálido como #F1E9DA para dar descanso."
+    },
+    {
+      "h2": "Ejemplo de una página en azul"
+    },
+    {
+      "p": "Imagina un consultorio dental con la paleta Azul cielo. El fondo va en #E9F5FA y los títulos en #0A2342."
+    },
+    {
+      "p": "El botón de agendar cita va en #2C7DA0 con letras blancas. Las fotos del consultorio llevan luz natural para no enfriar más el conjunto."
+    },
+    {
+      "p": "¿Tu azul tira a gris? Mira la [paleta de colores gris](id:paleta-de-colores-gris). ¿Quieres algo más frío? Abre las [paletas de colores fríos](id:paleta-de-colores-frios)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué color combina con azul marino?",
+      "respuesta": "Blanco, beige y dorado. En la paleta Azul marino clásico tienes el marino con grises azulados y un blanco frío."
+    },
+    {
+      "pregunta": "¿El azul sirve para un restaurante?",
+      "respuesta": "Sí, en mariscos y cocina poblana. Combínalo con arena o naranja para que no se sienta frío."
+    },
+    {
+      "pregunta": "¿Cuál es el código HEX del azul rey?",
+      "respuesta": "Un azul rey común es #2350A8. Hay variantes según la marca o la tinta."
+    },
+    {
+      "pregunta": "¿Puedo usar estas paletas en mi logo?",
+      "respuesta": "Sí. Son libres y no piden permiso ni mención."
+    },
+    {
+      "pregunta": "¿Cómo saco las combinaciones de mi propio azul?",
+      "respuesta": "Escríbelo en «Arma la tuya desde un color». Salen cinco paletas con ese azul de base."
+    },
+    {
+      "pregunta": "¿El azul claro sirve para letras?",
+      "respuesta": "No es buena idea. Úsalo de fondo y escribe encima con un azul marino o negro."
+    }
+  ],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-frios",
+    "combinaciones-de-colores",
+    "paleta-de-colores-gris",
+    "paleta-de-colores-naranja",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Tu landing puede usar esta paleta azul con tu logo y tu dominio.",
+    "aviso": "Ya copiaste tu azul. ¿Lo vemos en una página con tu nombre y tu dominio?",
+    "titulo": "¿Hacemos tu página en azul?",
+    "trabajos": [
+      "comprafin",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.figma.com/es-la/colores/azul/",
+      "titulo": "Azul: código, significado y paletas",
+      "promete": "Ficha de un solo tono con combinaciones sueltas; no agrupa paletas por giro de negocio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://predis.ai/es/resources/blue-color-palette/",
+      "titulo": "Códigos hexadecimales de la paleta de colores azul",
+      "promete": "Lista larga de azules; da #00FFFF como azul, que es cian"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.media.io/es/color-palette/cerulean-blue-color-palette.html",
+      "titulo": "Paletas azul cerúleo",
+      "promete": "Más de 20 paletas de un solo azul; sin uso en negocios ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Top 3 leído con WebSearch standard. HEX de la tabla = paletas curadas del motor paleta (modo azul)."
+}

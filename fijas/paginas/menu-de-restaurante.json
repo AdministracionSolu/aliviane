@@ -1,0 +1,213 @@
+{
+  "id": "menu-de-restaurante",
+  "slug": "menu-de-restaurante",
+  "molde": "herramienta",
+  "cabeza": "menú de restaurante",
+  "busquedas": [
+    "menú para restaurante",
+    "menús de restaurantes",
+    "menus para restaurantes",
+    "diseño de menu",
+    "carta de restaurante",
+    "carta de menu restaurante"
+  ],
+  "title": "Menú de restaurante gratis para imprimir en PDF",
+  "h1": "Menú de restaurante para imprimir",
+  "description": "Haz el menú de tu restaurante con secciones, precios y fotos. Elige entre seis diseños y descárgalo en PDF carta o media carta, o en imagen. Gratis.",
+  "resumen": "Tu carta con secciones, precios y fotos en PDF",
+  "categoria": "Menú y catálogo",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tus secciones, platillos y precios, y el menú se arma solo en la hoja. Elige entre seis diseños y agrega fotos de tus platillos.",
+    "Lo bajas en PDF tamaño carta o media carta para imprimir, o en imagen para el celular. Sin cuenta y sin marca de agua."
+  ],
+  "herramienta": {
+    "id": "menu",
+    "modo": "restaurante"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu menú en cuatro pasos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Pon el nombre y los datos",
+          "texto": "Nombre del lugar, una frase corta y tu dirección, teléfono y horario."
+        },
+        {
+          "titulo": "Arma las secciones",
+          "texto": "Desayunos, comida corrida, platos fuertes y bebidas. Agrega o quita las que quieras."
+        },
+        {
+          "titulo": "Escribe platillos y precios",
+          "texto": "Una descripción corta ayuda a vender. La foto es opcional."
+        },
+        {
+          "titulo": "Elige diseño y tamaño",
+          "texto": "Clásico para fonda, pizarrón para cantina, sobrio para cocina de autor. Descarga en PDF."
+        }
+      ]
+    },
+    {
+      "h2": "El orden de un menú que vende"
+    },
+    {
+      "p": "El cliente lee la carta en el orden en que va a comer. Respeta ese orden y no le hagas buscar."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Sección",
+          "Qué poner",
+          "Tip"
+        ],
+        "filas": [
+          [
+            "Entradas",
+            "Guacamole, sopes, quesos fundidos",
+            "Dos o tres para compartir bastan"
+          ],
+          [
+            "Sopas y caldos",
+            "Sopa del día, consomé, pozole",
+            "Di si el día cambia la sopa"
+          ],
+          [
+            "Platos fuertes",
+            "Carnes, enchiladas, pescados",
+            "Tu platillo estrella va primero"
+          ],
+          [
+            "Comida corrida",
+            "Sopa, guisado, agua y postre",
+            "Un solo precio por el paquete"
+          ],
+          [
+            "Bebidas",
+            "Aguas frescas, refrescos, café",
+            "Indica tamaño o mililitros"
+          ],
+          [
+            "Postres",
+            "Flan, arroz con leche, pastel",
+            "Una línea con el precio basta"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo describir un platillo"
+    },
+    {
+      "p": "Una buena descripción dice qué lleva y cómo se prepara. No hace falta más de una línea."
+    },
+    {
+      "ul": [
+        "**Corta.** «Tres enchiladas de pollo en salsa verde, gratinadas»",
+        "**Con origen.** «Cochinita pibil al estilo de Mérida con cebolla morada»",
+        "**Con porción.** «Orden de cuatro tacos de suadero»",
+        "**Con aviso.** «Pica» o «Lleva cacahuate» cuando haga falta"
+      ]
+    },
+    {
+      "p": "Evita palabras vacías como «delicioso» o «exquisito». El ingrediente concreto convence más."
+    },
+    {
+      "h2": "Qué diseño elegir"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Diseño",
+          "Le queda a"
+        ],
+        "filas": [
+          [
+            "Clásico",
+            "Fondas, cocinas económicas y restaurantes familiares"
+          ],
+          [
+            "Pizarrón",
+            "Cantinas, bares y cervecerías"
+          ],
+          [
+            "Moderno",
+            "Hamburguesas, alitas y comida rápida"
+          ],
+          [
+            "Taquería",
+            "Taquerías, torterías y antojitos"
+          ],
+          [
+            "Sobrio",
+            "Cocina de autor y restaurantes de mantel"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Carta, media carta o imagen"
+    },
+    {
+      "p": "La carta a dos columnas cabe en una mica de mesa. La media carta se dobla fácil y sirve para menús cortos."
+    },
+    {
+      "p": "La imagen para celular es para mandarla por WhatsApp o subirla a tus redes. Si quieres que la vean desde la mesa, pon un [menú QR](id:menu-qr) que lleve a tu menú en línea."
+    },
+    {
+      "p": "Para una cafetería con tamaños y extras usa el [menú de cafetería](id:menu-de-cafeteria). Para algo pensado sólo en el celular mira el [menú digital](id:menu-digital)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El menú de restaurante es gratis?",
+      "respuesta": "Sí. Sin registro, sin marca de agua y con todas las páginas que necesites."
+    },
+    {
+      "pregunta": "¿Puedo poner fotos de mis platillos?",
+      "respuesta": "Sí. Cada platillo acepta una foto que no sale de tu equipo."
+    },
+    {
+      "pregunta": "¿Se guarda mi menú si cierro la página?",
+      "respuesta": "Sí, en tu mismo navegador. En otro equipo tendrás que capturarlo de nuevo."
+    },
+    {
+      "pregunta": "¿Puedo agregar un QR al menú impreso?",
+      "respuesta": "Sí. Marca la opción y pega la liga de tu página o tu WhatsApp."
+    },
+    {
+      "pregunta": "¿Qué tamaño imprimo?",
+      "respuesta": "Carta para la mesa. La media carta sirve para menús cortos o para llevar."
+    },
+    {
+      "pregunta": "¿Puedo editarlo en Word?",
+      "respuesta": "No. Se edita aquí y se baja en PDF o imagen."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-cafeteria",
+    "menu-digital",
+    "menu-qr",
+    "catalogo-digital",
+    "promociones-de-hamburguesas",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu menú puede vivir en la página de tu restaurante con fotos, horario y pedidos por WhatsApp.",
+    "aviso": "Tu menú ya está listo. ¿Lo subimos a una página con tu dominio y tu WhatsApp?",
+    "titulo": "¿Hacemos la página de tu restaurante?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo restaurante (6 diseños, carta/media/celular, fotos, QR opcional). No exporta a Word."
+}

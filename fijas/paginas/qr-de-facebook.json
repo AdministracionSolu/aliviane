@@ -1,0 +1,179 @@
+{
+  "id": "qr-de-facebook",
+  "slug": "qr-de-facebook",
+  "molde": "herramienta",
+  "cabeza": "qr facebook",
+  "busquedas": [
+    "qr de facebook",
+    "codigo qr de pagina de facebook",
+    "codigo qr facebook",
+    "qr para facebook"
+  ],
+  "title": "QR Facebook gratis para tu página de negocio",
+  "h1": "QR de Facebook para tu página",
+  "description": "Crea un QR que abre la página de Facebook de tu negocio. Ponle tus colores, tu logo y un texto. Gratis, sin registro y sin caducidad, en PNG o SVG.",
+  "resumen": "Un QR que abre la página de Facebook de tu negocio",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el usuario de tu página de Facebook o pega su liga, y sale un QR que la abre. Sirve para que te sigan, te dejen reseña o vean tus publicaciones.",
+    "Lo personalizas con tu color y tu logo. Lo bajas en PNG o SVG sin crear cuenta."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "facebook"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer el QR de tu página de Facebook"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Busca tu usuario o tu liga",
+          "texto": "Abre tu página en el navegador y copia la dirección completa. También sirve sólo el usuario."
+        },
+        {
+          "titulo": "Pégalo en el campo",
+          "texto": "El QR cambia al momento. Si pegaste la liga, la herramienta la respeta tal cual."
+        },
+        {
+          "titulo": "Agrega tu estilo",
+          "texto": "Un azul oscuro o el color de tu marca funcionan bien. Sube tu logo si quieres."
+        },
+        {
+          "titulo": "Prueba y descarga",
+          "texto": "Escanéalo y revisa que abra tu página y no tu perfil personal."
+        }
+      ]
+    },
+    {
+      "h2": "Perfil personal, página o grupo"
+    },
+    {
+      "p": "Facebook tiene tres cosas distintas y cada una tiene su propia liga. Revisa cuál quieres compartir antes de imprimir."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Qué es",
+          "Para qué sirve el QR",
+          "Qué copiar"
+        ],
+        "filas": [
+          [
+            "Página de negocio",
+            "Que te sigan y vean tus ofertas",
+            "La liga o el usuario de la página"
+          ],
+          [
+            "Perfil personal",
+            "Que te agreguen como amigo",
+            "La liga de tu perfil"
+          ],
+          [
+            "Grupo",
+            "Que se unan a tu comunidad de clientes",
+            "La liga completa del grupo"
+          ],
+          [
+            "Publicación o evento",
+            "Que vean una promoción concreta",
+            "La liga de esa publicación"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para grupos, eventos y publicaciones pega la liga completa en el campo. El QR abre exactamente esa dirección."
+    },
+    {
+      "h2": "Usos que sí traen clientes"
+    },
+    {
+      "ul": [
+        "Pedir reseñas con un QR en la caja que diga «Cuéntanos cómo te fue».",
+        "Anunciar rifas y dinámicas que se publican en tu página.",
+        "Invitar a tu grupo de clientes frecuentes con ofertas exclusivas.",
+        "Mostrar tu horario actualizado cuando cambia por temporada."
+      ]
+    },
+    {
+      "p": "En negocios de barrio Facebook sigue siendo donde muchos clientes buscan horarios y teléfono. Un QR a tu página les ahorra buscarte."
+    },
+    {
+      "h2": "Detalles antes de imprimir"
+    },
+    {
+      "ul": [
+        "Revisa que tu página sea pública y tenga foto y horario.",
+        "Escribe el nombre de tu página junto al QR.",
+        "Usa el SVG para lonas y el PNG para redes.",
+        "Si tu liga es muy larga, usa sólo el usuario para un QR más limpio."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una pastelería"
+    },
+    {
+      "p": "Una pastelería pone su QR de Facebook en la caja de cada pastel. Al lado dice «Mira más diseños y deja tu foto en nuestra página»."
+    },
+    {
+      "p": "Los clientes suben la foto del pastel en su fiesta y etiquetan la página. Esas fotos traen nuevos pedidos de sus invitados."
+    },
+    {
+      "p": "¿También tienes Instagram? Haz tu [QR de Instagram](id:qr-de-instagram). Para que te escriban sin pasar por Facebook usa el [código QR para WhatsApp](id:codigo-qr-para-whatsapp)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El QR de Facebook es gratis?",
+      "respuesta": "Sí. No pide cuenta ni pone marca de agua."
+    },
+    {
+      "pregunta": "¿Funciona con un grupo de Facebook?",
+      "respuesta": "Sí. Pega la liga completa del grupo en el campo."
+    },
+    {
+      "pregunta": "¿Qué pasa si cambio el nombre de usuario de mi página?",
+      "respuesta": "El QR viejo puede dejar de abrirla. Haz uno nuevo con el usuario actual."
+    },
+    {
+      "pregunta": "¿Puedo poner el QR en mi lona?",
+      "respuesta": "Sí. Baja el SVG para que la imprenta lo agrande sin perder calidad."
+    },
+    {
+      "pregunta": "¿Abre la aplicación o el navegador?",
+      "respuesta": "La aplicación si está instalada. Si no, abre el navegador."
+    },
+    {
+      "pregunta": "¿Puedo saber cuántos lo escanean?",
+      "respuesta": "No con este QR. Revisa las visitas a tu página en las estadísticas de Facebook."
+    }
+  ],
+  "relacionadas": [
+    "generador-de-qr",
+    "qr-de-instagram",
+    "codigo-qr-para-whatsapp",
+    "crear-qr-con-imagen",
+    "pagina-de-facebook-para-negocio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu página de Facebook trae seguidores y tu propia página web con dominio les da confianza para comprar.",
+    "aviso": "Tu QR de Facebook ya está listo. ¿Quieres también tu propia página con dominio?",
+    "titulo": "¿Hacemos tu página web además de tu Facebook?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3, se escribió contra la familia QR. Motor qr modo facebook (usuario o liga completa)."
+}

@@ -1,0 +1,180 @@
+{
+  "id": "catalogo-digital",
+  "slug": "catalogo-digital",
+  "molde": "herramienta",
+  "cabeza": "catálogo digital",
+  "busquedas": [
+    "catálogo en línea",
+    "catálogo online gratis",
+    "catalogo online",
+    "catálogo de productos",
+    "catálogo virtual"
+  ],
+  "title": "Catálogo digital gratis en PDF con botón de WhatsApp",
+  "h1": "Catálogo digital de productos",
+  "description": "Haz tu catálogo digital con fotos, precios y un botón de pedir por WhatsApp en cada producto. Descárgalo en PDF o en imágenes para redes. Gratis.",
+  "resumen": "PDF con fotos, precios y botón de pedir por WhatsApp",
+  "categoria": "Menú y catálogo",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Sube la foto, el nombre y el precio de cada producto, y el catálogo se arma solo. Cada producto lleva un botón «Pedir por WhatsApp» que funciona dentro del PDF.",
+    "También bajas una imagen por producto para tus redes. Tus fotos no salen de tu equipo."
+  ],
+  "herramienta": {
+    "id": "catalogo",
+    "modo": null
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu catálogo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu negocio y tu WhatsApp",
+          "texto": "El número es el que recibirá los pedidos. Revisa que tenga 10 dígitos."
+        },
+        {
+          "titulo": "Agrega tus productos",
+          "texto": "Foto, nombre, precio y una descripción corta. Ordénalos con subir y bajar."
+        },
+        {
+          "titulo": "Elige acomodo y color",
+          "texto": "Seis por hoja para muchos productos. Lista con foto grande para pocos y caros."
+        },
+        {
+          "titulo": "Descarga y comparte",
+          "texto": "Manda el PDF por WhatsApp o baja la imagen de cada producto para tus estados."
+        }
+      ]
+    },
+    {
+      "h2": "Qué hace el botón de pedir"
+    },
+    {
+      "p": "Cada producto del PDF tiene un botón que abre tu WhatsApp. El mensaje ya lleva el nombre del producto que le interesa al cliente."
+    },
+    {
+      "p": "Así no te preguntan «¿cuál era el de la foto?». Llega el pedido con el producto escrito."
+    },
+    {
+      "h2": "Los dos acomodos"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Acomodo",
+          "Cómo se ve",
+          "Para qué negocio"
+        ],
+        "filas": [
+          [
+            "Seis por hoja",
+            "Cuadrícula de tres por dos con foto chica",
+            "Ropa, dulces, papelería y regalos"
+          ],
+          [
+            "Lista con foto grande",
+            "Un producto por fila con foto destacada",
+            "Muebles, joyería y pasteles por pedido"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Fotos que venden en un catálogo"
+    },
+    {
+      "ul": [
+        "Fondo liso y claro para todos los productos.",
+        "Luz de ventana, nunca flash directo.",
+        "La misma distancia y el mismo ángulo en toda la serie.",
+        "Una foto por producto y no un collage.",
+        "Fotos cuadradas para que no se corten."
+      ]
+    },
+    {
+      "p": "Unas fotos parejas hacen ver ordenado al negocio más chico. Toma todas el mismo día y con la misma luz."
+    },
+    {
+      "h2": "Catálogo en PDF o en imágenes"
+    },
+    {
+      "p": "El PDF sirve para mandar todo junto a quien pide «lo que tengas». Lo abre cualquier celular y se puede imprimir."
+    },
+    {
+      "p": "La imagen por producto sirve para estados, publicaciones y respuestas rápidas. Cada una mide 1080 por 1350 píxeles, la medida vertical de las redes."
+    },
+    {
+      "ul": [
+        "Pon precios con IVA incluido para cobrar sin discusiones.",
+        "Indica tallas, colores o sabores en la descripción.",
+        "Actualiza el catálogo cuando cambien precios y vuelve a mandarlo.",
+        "Escribe la fecha en la frase de arriba si tus precios cambian seguido."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una tienda de velas"
+    },
+    {
+      "p": "Una tienda de velas en Puebla arma su catálogo con seis por hoja. Cada vela lleva foto, aroma, gramos y precio."
+    },
+    {
+      "p": "Cuando una clienta toca «Pedir por WhatsApp» en la vela de lavanda, el chat abre con ese nombre escrito. La dueña contesta con el total y la forma de envío."
+    },
+    {
+      "p": "Si vendes comida, usa mejor el [menú digital](id:menu-digital). Para dar precios sin fotos a mayoristas sirve la [lista de precios](id:lista-de-precios)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El catálogo digital es gratis?",
+      "respuesta": "Sí. Sin registro, sin marca de agua y sin límite de productos."
+    },
+    {
+      "pregunta": "¿El botón de WhatsApp funciona dentro del PDF?",
+      "respuesta": "Sí. Al tocarlo abre tu chat con el nombre del producto escrito."
+    },
+    {
+      "pregunta": "¿Mis fotos se suben a internet?",
+      "respuesta": "No. Se quedan en tu equipo y el PDF se arma en tu navegador."
+    },
+    {
+      "pregunta": "¿Puedo editar el catálogo después?",
+      "respuesta": "Sí. Queda guardado en este navegador para la próxima vez."
+    },
+    {
+      "pregunta": "¿El catálogo tiene una liga para compartir?",
+      "respuesta": "No. Se comparte como archivo PDF o como imágenes."
+    },
+    {
+      "pregunta": "¿Cuántos productos caben?",
+      "respuesta": "Los que quieras. El PDF agrega hojas solo."
+    }
+  ],
+  "relacionadas": [
+    "menu-digital",
+    "menu-de-restaurante",
+    "menu-qr",
+    "lista-de-precios",
+    "link-de-whatsapp",
+    "tienda-de-ropa"
+  ],
+  "venta": {
+    "puente": "Tu catálogo puede vivir en tu propia página con una liga que nunca caduca.",
+    "aviso": "Tu catálogo ya está listo. ¿Quieres que también esté en una página con tu dominio?",
+    "titulo": "¿Hacemos la página de tu catálogo?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor catalogo (PDF con liga de WhatsApp por producto, PNG 1080×1350 por producto). MEJORA DE MOTOR: «catálogo en línea» pide una liga pública; el motor no aloja."
+}

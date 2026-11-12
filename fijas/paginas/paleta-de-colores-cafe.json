@@ -1,0 +1,76 @@
+{
+  "id": "paleta-de-colores-cafe",
+  "slug": "paleta-de-colores-cafe",
+  "molde": "herramienta",
+  "cabeza": "paleta de color café",
+  "busquedas": ["paletas de colores cafe", "paleta de colores cafe", "paleta color marron", "colores que combinan con cafe"],
+  "title": "Paleta de color café con códigos HEX gratis",
+  "h1": "Paleta de color café",
+  "description": "Seis paletas de color café para cafeterías, panaderías y marcas artesanales. Copia los códigos HEX de cada tono y baja la paleta en PNG o CSS gratis.",
+  "resumen": "Seis paletas cafés del chocolate al café con leche",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El café da calidez y huele a hecho en casa. Va con cafeterías, panaderías, carpinterías y productos artesanales.",
+    "Abajo tienes seis paletas cafés con sus códigos HEX. Toca un tono para copiarlo o arma la tuya desde tu propio café."
+  ],
+  "herramienta": { "id": "paleta", "modo": "cafe" },
+  "cuerpo": [
+    { "h2": "Cómo aprovechar estas paletas cafés" },
+    { "pasos": [
+      { "titulo": "Decide qué tan oscuro", "texto": "El chocolate se siente elegante y el café con leche se siente cercano. Elige según tu cliente." },
+      { "titulo": "Copia los tonos que usarás", "texto": "Un toque sobre la franja copia el HEX. Junta un oscuro para letras y un crema para fondo." },
+      { "titulo": "Agrega un acento", "texto": "La paleta Madera y verde ya trae un verde salvia. Úsalo en botones o etiquetas." },
+      { "titulo": "Baja el archivo", "texto": "El PNG va a tu imprenta o diseñador. El CSS va directo a tu sitio." }
+    ] },
+    { "h2": "Por qué el café funciona en negocios de comida y oficio" },
+    { "p": "El café recuerda madera, barro, pan y grano tostado. Son materiales que la gente asocia con trabajo hecho a mano." },
+    { "p": "Por eso lo eligen cafeterías de especialidad, panaderías de barrio y mueblerías. También marcas de piel, velas y jabones artesanales." },
+    { "p": "Su punto débil es que se ve apagado en pantalla. Un fondo crema muy claro lo levanta y lo hace verse limpio." },
+    { "h2": "Las seis paletas cafés" },
+    { "tabla": {
+      "columnas": ["Paleta", "Códigos HEX", "Ideal para"],
+      "filas": [
+        ["Café de olla", "#2B1B12 #5A3A22 #8B5E3C #C69C72 #EFE3D3", "Fonda o cafetería tradicional"],
+        ["Chocolate y crema", "#3B2416 #6F4E37 #A47551 #D9BFA0 #F6EEE3", "Chocolatería o repostería fina"],
+        ["Café con leche", "#4B3426 #7F5539 #B08968 #DDB892 #EDE0D4", "Panadería o desayunos"],
+        ["Madera y verde", "#3E2C1C #7A5230 #B58B5A #8A9A5B #E9E4D4", "Carpintería o vivero"],
+        ["Canela", "#5C3317 #8E5A2E #C17F45 #E3B07D #F8E7D2", "Dulces típicos o pan de muerto"],
+        ["Moka moderno", "#1E1B18 #4A3B31 #8C7462 #CDBBA7 #F4F0EB", "Barbería o tienda de ropa"]
+      ]
+    } },
+    { "h2": "Ideas de uso en tu local y tu página" },
+    { "ul": [
+      "Escribe tu menú en #2B1B12 sobre crema #EFE3D3 para que se lea con poca luz.",
+      "Usa el caramelo #C17F45 sólo en precios y botones de pedido.",
+      "Pinta un muro en café claro y repite ese tono en tus bolsas de papel.",
+      "Si vendes café en grano, pon el tono más oscuro en la etiqueta del costal."
+    ] },
+    { "h2": "Café en pantalla contra café impreso" },
+    { "p": "En papel kraft el café se oscurece porque la tinta se mezcla con el fondo. Imprime una prueba antes de un tiraje grande." },
+    { "p": "En el celular los cafés medios pueden verse grises. Sube un poco la saturación si tu página se ve deslavada." },
+    { "p": "Para menús de cafetería con esta paleta prueba el [menú de cafetería](id:menu-de-cafeteria). Si buscas tonos más rojizos, abre la [paleta de colores tierra](id:paleta-de-colores-tierra)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Qué colores combinan con café?", "respuesta": "Crema, verde salvia y dorado. El azul marino también funciona como contraste." },
+    { "pregunta": "¿Café y marrón son lo mismo?", "respuesta": "Sí. En México se dice café y en otros países marrón." },
+    { "pregunta": "¿El café sirve para una marca moderna?", "respuesta": "Sí. La paleta Moka moderno lo junta con casi negro y un gris cálido." },
+    { "pregunta": "¿Qué HEX uso para un café oscuro de letras?", "respuesta": "#2B1B12 o #3B2416. Los dos se leen bien sobre crema." },
+    { "pregunta": "¿Puedo sacar el café de una foto de mi local?", "respuesta": "Sí. Usa el [generador de paletas](id:paleta-de-colores) y elige «Desde una imagen»." },
+    { "pregunta": "¿Necesito pagar por usar estos colores?", "respuesta": "No. Los códigos de color no tienen dueño y puedes usarlos libremente." }
+  ],
+  "relacionadas": ["paleta-de-colores", "paleta-de-colores-tierra", "paleta-de-colores-beige", "combinaciones-de-colores", "menu-de-cafeteria", "pagina-web-para-negocio"],
+  "venta": {
+    "puente": "Tu cafetería o tu taller puede tener su página con estos tonos cafés y tu menú.",
+    "aviso": "Ya tienes tus cafés. ¿Quieres una página con tus productos en estos colores?",
+    "titulo": "¿Hacemos tu página en tonos café?",
+    "trabajos": ["laola", "comprafin", "signsolu"]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3, se escribió contra la familia. HEX = paletas curadas del motor paleta (modo cafe)."
+}

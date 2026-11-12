@@ -1,0 +1,181 @@
+{
+  "id": "orden-de-servicio",
+  "slug": "orden-de-servicio",
+  "molde": "herramienta",
+  "cabeza": "orden de servicio",
+  "busquedas": [
+    "orden de trabajo",
+    "formato de orden de servicio",
+    "orden de servicio pdf",
+    "orden de servicio taller"
+  ],
+  "title": "Orden de servicio gratis para talleres en PDF",
+  "h1": "Orden de servicio para talleres",
+  "description": "Llena tu orden de servicio con equipo, marca, serie, falla reportada, refacciones y mano de obra. Firma del técnico y del cliente. PDF o imagen gratis.",
+  "resumen": "Equipo, falla, refacciones y firmas del técnico y cliente",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una orden de servicio registra qué equipo recibes, qué falla tiene y cuánto costará arreglarlo. La firman el técnico y el cliente.",
+    "La de abajo trae campos para marca, modelo, serie y fecha de entrega. La bajas en PDF o imagen sin registrarte."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "orden-servicio"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo llenar la orden de servicio"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Recibe el equipo",
+          "texto": "Escribe qué es, marca, modelo y número de serie. Así nadie confunde un aparato con otro."
+        },
+        {
+          "titulo": "Anota la falla",
+          "texto": "Con las palabras del cliente. «No enciende» o «hace ruido al centrifugar»."
+        },
+        {
+          "titulo": "Desglosa el trabajo",
+          "texto": "Refacciones y mano de obra en renglones separados. El total sale solo."
+        },
+        {
+          "titulo": "Firmen los dos",
+          "texto": "El técnico al recibir y el cliente al aceptar. Escribe la fecha estimada de entrega."
+        }
+      ]
+    },
+    {
+      "h2": "Por qué una orden protege a tu taller"
+    },
+    {
+      "p": "El equipo pasa días en tu taller y vale dinero. La orden prueba en qué estado llegó y qué se pidió arreglar."
+    },
+    {
+      "p": "Si el cliente dice que la pantalla ya venía rota o no, la orden lo aclara. Anota rayones y golpes al recibir."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Taller",
+          "Qué anotar al recibir"
+        ],
+        "filas": [
+          [
+            "Celulares",
+            "Si enciende, estado de la pantalla y si deja el chip"
+          ],
+          [
+            "Línea blanca",
+            "Modelo, si es a domicilio y piezas que se cambian"
+          ],
+          [
+            "Computadoras",
+            "Si deja cargador y si hay datos que respaldar"
+          ],
+          [
+            "Talleres mecánicos",
+            "Kilometraje, nivel de gasolina y objetos dentro"
+          ],
+          [
+            "Bicicletas",
+            "Rodada, piezas dañadas y accesorios que deja"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Refacciones y mano de obra separadas"
+    },
+    {
+      "p": "El cliente acepta mejor el precio si ve cuánto es pieza y cuánto es trabajo. Escribe cada refacción en su renglón."
+    },
+    {
+      "p": "La orden viene con precios con IVA incluido. Si cobras el impuesto aparte, cambia la opción antes de descargar."
+    },
+    {
+      "ul": [
+        "Anota la garantía en las notas, por ejemplo 30 días en mano de obra.",
+        "Escribe cuánto cobras por revisión si el cliente no acepta el arreglo.",
+        "Pon cuántos días guardas un equipo que nadie recoge."
+      ]
+    },
+    {
+      "h2": "Orden de servicio y orden de trabajo"
+    },
+    {
+      "p": "Son el mismo documento con dos nombres. En talleres se dice orden de trabajo y en servicio técnico orden de servicio."
+    },
+    {
+      "p": "Cambia el título del documento si en tu giro se dice distinto. El resto de los campos sirve igual."
+    },
+    {
+      "p": "La orden de servicio no es un comprobante fiscal. Si el cliente pide factura al recoger, emítela con tu proveedor de facturación."
+    },
+    {
+      "h2": "Ejemplo con un taller de celulares"
+    },
+    {
+      "p": "Un taller recibe un celular con la pantalla estrellada. En la orden anota marca, modelo y que el equipo sí enciende."
+    },
+    {
+      "p": "Desglosa la pantalla nueva y la mano de obra en dos renglones. El cliente firma en la tableta y se lleva su copia en PDF por WhatsApp."
+    },
+    {
+      "p": "Cuando el cliente pague usa el [recibo de pago](id:recibo-de-pago). Si te pide precio antes de dejar el equipo, mándale una [cotización](id:formato-de-cotizacion)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿La orden de servicio es gratis?",
+      "respuesta": "Sí. Sin registro y sin marca de agua."
+    },
+    {
+      "pregunta": "¿Puede firmar el cliente en la tableta?",
+      "respuesta": "Sí. Hay recuadros para firmar con el dedo."
+    },
+    {
+      "pregunta": "¿Sirve para taller mecánico?",
+      "respuesta": "Sí. Usa el campo de equipo para el vehículo y la serie para las placas."
+    },
+    {
+      "pregunta": "¿Puedo imprimir un block en blanco?",
+      "respuesta": "Sí. Descárgala sin renglones llenos y sale lista para llenar a mano."
+    },
+    {
+      "pregunta": "¿El folio cambia solo?",
+      "respuesta": "Sí. Sube cada vez que descargas en el mismo navegador."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el título a orden de trabajo?",
+      "respuesta": "Sí. El título del documento se edita sobre la hoja."
+    }
+  ],
+  "relacionadas": [
+    "recibo-de-pago",
+    "formato-de-cotizacion",
+    "nota-de-remision",
+    "orden-de-compra",
+    "lista-de-precios",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu taller puede tener su página con servicios, precios y un botón para agendar por WhatsApp.",
+    "aviso": "Tu orden ya está lista. ¿Quieres una página para tu taller con tu dominio?",
+    "titulo": "¿Hacemos la página de tu taller?",
+    "trabajos": [
+      "makatea",
+      "comprafin",
+      "signsolu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo orden-servicio (equipo, marca, serie, entrega estimada, falla, firmas Técnico y Cliente)."
+}

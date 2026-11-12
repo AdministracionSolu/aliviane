@@ -1,0 +1,210 @@
+{
+  "id": "lista-de-precios",
+  "slug": "lista-de-precios",
+  "molde": "herramienta",
+  "cabeza": "lista de precios",
+  "busquedas": [
+    "formato de lista de precios",
+    "lista de precios pdf",
+    "lista de precios para imprimir",
+    "hacer lista de precios"
+  ],
+  "title": "Lista de precios gratis con tu logo para bajar en PDF",
+  "h1": "Lista de precios para tu negocio",
+  "description": "Haz tu lista de precios con clave, descripción y precio, tu logo y la fecha de vigencia. Descárgala en PDF o imagen para mandar por WhatsApp. Gratis.",
+  "resumen": "Clave, descripción, precio y vigencia en PDF",
+  "categoria": "Formatos y documentos",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tus productos con su clave y su precio, y la lista se arma en la hoja con tu logo. Pon hasta qué fecha valen los precios.",
+    "La bajas en PDF o imagen para mandarla por WhatsApp o imprimirla. Sin registro y sin marca de agua."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "lista-precios"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu lista de precios"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Tu logo y tus datos",
+          "texto": "Nombre del negocio, teléfono y dirección para que te ubiquen."
+        },
+        {
+          "titulo": "Clave, descripción y precio",
+          "texto": "Un renglón por producto. La clave ayuda a que te pidan sin confusiones."
+        },
+        {
+          "titulo": "Fecha de vigencia",
+          "texto": "Escribe hasta cuándo respetas los precios. Así nadie te reclama una lista vieja."
+        },
+        {
+          "titulo": "Descarga y comparte",
+          "texto": "El PDF para correo e impresión. La imagen para estados y grupos."
+        }
+      ]
+    },
+    {
+      "h2": "Lista de precios, catálogo y cotización"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Documento",
+          "Para qué sirve",
+          "A quién se manda"
+        ],
+        "filas": [
+          [
+            "Lista de precios",
+            "Todos tus precios en una hoja",
+            "Clientes frecuentes y mayoristas"
+          ],
+          [
+            "Catálogo",
+            "Productos con foto y botón de pedido",
+            "Clientes nuevos que quieren ver"
+          ],
+          [
+            "Cotización",
+            "Precio de un pedido concreto",
+            "Un cliente que ya pidió algo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La lista es lo más rápido de mandar a quien ya te conoce. No necesita fotos porque el cliente ya sabe qué vendes."
+    },
+    {
+      "h2": "Cómo ordenar tus precios"
+    },
+    {
+      "ul": [
+        "Por familia de producto, como en el anaquel de tu tienda.",
+        "De lo que más vendes a lo que menos.",
+        "Con la presentación en la descripción, como «caja con 12 piezas».",
+        "Con precio de mayoreo en otra lista y no en la misma."
+      ]
+    },
+    {
+      "p": "Las claves cortas como A01 o PAP-12 evitan errores al tomar pedidos por WhatsApp. El cliente escribe la clave y la cantidad."
+    },
+    {
+      "h2": "Ejemplo de lista de una papelería"
+    },
+    {
+      "tabla": {
+        "titulo": "Papelería San José · Precios válidos hasta el 30 de noviembre de 2026",
+        "columnas": [
+          "Clave",
+          "Descripción",
+          "Precio"
+        ],
+        "filas": [
+          [
+            "PAP-01",
+            "Paquete de 500 hojas tamaño carta",
+            "$115"
+          ],
+          [
+            "PAP-02",
+            "Cuaderno profesional de cuadro chico",
+            "$48"
+          ],
+          [
+            "PAP-03",
+            "Caja de 12 lápices del número 2",
+            "$62"
+          ],
+          [
+            "PAP-04",
+            "Juego de geometría escolar",
+            "$35"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los precios del ejemplo son inventados. Pon los tuyos en la herramienta de arriba."
+    },
+    {
+      "h2": "IVA en la lista"
+    },
+    {
+      "p": "La lista viene con precios con IVA incluido porque así compran casi todos los clientes de mostrador. Si vendes a empresas, cambia la opción a IVA aparte."
+    },
+    {
+      "p": "Escríbelo claro en la hoja para que nadie te pida un descuento por un impuesto que ya cobraste."
+    },
+    {
+      "h2": "Cómo mandarla por WhatsApp"
+    },
+    {
+      "p": "Manda el PDF como documento y no como foto. Así el cliente puede hacer zoom y no se pierden los números."
+    },
+    {
+      "p": "La imagen funciona mejor en estados y grupos de clientes. Súbela cada vez que cambies precios y borra la anterior."
+    },
+    {
+      "p": "Fija el mensaje con la lista en tus chats de clientes frecuentes. Así la encuentran sin preguntarte otra vez."
+    },
+    {
+      "p": "Si quieres mostrar tus productos con foto usa el [catálogo digital](id:catalogo-digital). Para dar el precio de un pedido con totales usa la [cotización](id:formato-de-cotizacion)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿La lista de precios es gratis?",
+      "respuesta": "Sí. Sin registro y sin marca de agua."
+    },
+    {
+      "pregunta": "¿Cuántos productos caben?",
+      "respuesta": "Los que necesites. La lista agrega páginas sola."
+    },
+    {
+      "pregunta": "¿Puedo poner fotos?",
+      "respuesta": "No en la lista. Para fotos usa el catálogo digital."
+    },
+    {
+      "pregunta": "¿Puedo editarla en Excel?",
+      "respuesta": "No. Se edita aquí y queda guardada en tu navegador."
+    },
+    {
+      "pregunta": "¿Cada cuándo debo actualizarla?",
+      "respuesta": "Cada vez que cambie un precio. La fecha de vigencia te lo recuerda."
+    },
+    {
+      "pregunta": "¿La lista lleva folio?",
+      "respuesta": "No. Lleva la fecha de vigencia, que es lo que importa."
+    }
+  ],
+  "relacionadas": [
+    "catalogo-digital",
+    "formato-de-cotizacion",
+    "nota-de-venta",
+    "generador-de-codigo-de-barras",
+    "orden-de-compra",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu lista de precios puede estar siempre al día en tu propia página.",
+    "aviso": "Tu lista ya está lista. ¿Quieres que tus precios vivan en una página con tu dominio?",
+    "titulo": "¿Hacemos la página con tus precios?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor documento modo lista-precios (clave, descripción, precio, vigencia, sin folio)."
+}

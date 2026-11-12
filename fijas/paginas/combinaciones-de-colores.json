@@ -1,0 +1,84 @@
+{
+  "id": "combinaciones-de-colores",
+  "slug": "combinaciones-de-colores",
+  "molde": "herramienta",
+  "cabeza": "paleta de colores para combinar",
+  "busquedas": ["paletas de colores para combinar", "paleta de colores combinaciones", "paleta de colores complementarios", "combinaciones de colores", "colores complementarios", "colores que combinan"],
+  "title": "Paleta de colores para combinar desde tu propio color",
+  "h1": "Combinaciones de colores",
+  "description": "Escribe tu color y mira con qué combina: complementarios, análogos, tríada y divididos. Copia cada código HEX y baja la combinación en PNG o CSS gratis.",
+  "resumen": "Escribe tu color y ve sus complementarios, análogos y tríada",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el color que ya usas y la herramienta te dice con cuáles combina. Muestra primero su complementario y luego cuatro reglas más del círculo de color.",
+    "Cada combinación trae sus códigos HEX para copiar. La bajas en PNG o CSS sin registrarte."
+  ],
+  "herramienta": { "id": "paleta", "modo": "complementarios" },
+  "cuerpo": [
+    { "h2": "Cómo encontrar con qué combina tu color" },
+    { "pasos": [
+      { "titulo": "Escribe tu color", "texto": "Pon el HEX de tu logo, tu fachada o tu uniforme. Si no lo sabes, usa el selector." },
+      { "titulo": "Mira el complementario", "texto": "Es el color opuesto en el círculo. Da el contraste más fuerte posible." },
+      { "titulo": "Compara las otras reglas", "texto": "Análogos, tríada, monocromático y divididos salen debajo con el mismo color base." },
+      { "titulo": "Copia lo que te sirva", "texto": "Toca un color para copiar su HEX o baja la combinación completa." }
+    ] },
+    { "h2": "Las parejas complementarias más usadas" },
+    { "p": "Estas combinaciones salen de la misma herramienta con un color base de ejemplo. El segundo código es el opuesto exacto." },
+    { "tabla": {
+      "columnas": ["Color base", "Su complementario", "Dónde se ve"],
+      "filas": [
+        ["Azul #1F6FB2", "Cobre #B2621F", "Mensajería, ferreterías y equipos de futbol"],
+        ["Rojo #D62828", "Turquesa #28D6D6", "Fiestas, dulcerías y juguetes"],
+        ["Verde #2E9E44", "Magenta #9E2E88", "Florerías y marcas de cosmética"],
+        ["Rosa mexicano #E4007C", "Verde #00E468", "Artesanía y fiestas patrias"],
+        ["Amarillo #F2C230", "Azul rey #3060F2", "Escuelas, papelerías y transporte"]
+      ]
+    } },
+    { "p": "El complementario puro casi siempre es muy fuerte. Úsalo en una sola cosa, como un botón o una etiqueta de precio." },
+    { "h2": "Qué regla elegir según lo que necesitas" },
+    { "tabla": {
+      "columnas": ["Necesitas", "Regla", "Ejemplo con azul #1F6FB2"],
+      "filas": [
+        ["Que un botón resalte", "Complementarios", "#1F6FB2 con #B2621F"],
+        ["Un fondo tranquilo", "Análogos", "#1FA0B2 #1F6FB2 #1F3EB2"],
+        ["Variedad sin choque", "Tríada", "#1F6FB2 con #B21F6F y #6FB21F"],
+        ["Contraste más suave", "Complementarios divididos", "#1F6FB2 con #B21F26 y #B2AB1F"],
+        ["Orden y sobriedad", "Monocromático", "Del azul más oscuro al más claro"]
+      ]
+    } },
+    { "h2": "Combinar dos colores que ya tienes" },
+    { "p": "Muchos negocios heredan dos colores que no eligieron. Pasa con el uniforme de la franquicia o la fachada que ya estaba pintada." },
+    { "p": "Escribe el más importante como color base. Revisa si el otro se parece a alguno de los que salen en las cinco reglas." },
+    { "p": "Si no se parece a ninguno, no lo pongas junto. Sepáralo con un neutro claro o un oscuro y la mezcla se calma." },
+    { "ul": [
+      "Dos colores fuertes juntos pelean. Deja que uno mande.",
+      "Un neutro entre dos colores vivos los hace convivir.",
+      "Las letras van siempre en el tono más oscuro de la combinación.",
+      "Prueba la mezcla impresa antes de pintar una pared."
+    ] },
+    { "p": "Para paletas ya armadas por color abre la [paleta de colores azul](id:paleta-de-colores-azul) o la [paleta de color naranja](id:paleta-de-colores-naranja). Si quieres sacar tu combinación de una foto, usa el [generador de paleta de colores](id:paleta-de-colores)." }
+  ],
+  "faqs": [
+    { "pregunta": "¿Qué son los colores complementarios?", "respuesta": "Los que están opuestos en el círculo de color. Azul y naranja son el ejemplo más conocido." },
+    { "pregunta": "¿Los complementarios siempre combinan?", "respuesta": "Sí, pero en dosis chicas. En partes iguales cansan la vista." },
+    { "pregunta": "¿Qué son los colores análogos?", "respuesta": "Los vecinos en el círculo. Por ejemplo azul, azul verdoso y turquesa." },
+    { "pregunta": "¿Qué es una tríada?", "respuesta": "Tres colores separados por la misma distancia en el círculo. Da variedad con equilibrio." },
+    { "pregunta": "¿Puedo combinar más de tres colores?", "respuesta": "Sí, si dos de ellos son neutros. Blanco, gris o crema no cuentan como color fuerte." },
+    { "pregunta": "¿La herramienta funciona con mi color de marca?", "respuesta": "Sí. Escribe su HEX y todas las combinaciones salen de él." }
+  ],
+  "relacionadas": ["paleta-de-colores", "paleta-de-colores-azul", "paleta-de-colores-naranja", "paleta-de-colores-amarillo", "paleta-de-colores-frios", "diseno-de-paginas-web"],
+  "venta": {
+    "puente": "Tu combinación puede ser la base de tu propia página con tu dominio.",
+    "aviso": "Ya encontraste tu combinación. ¿La vemos aplicada en una página con tu marca?",
+    "titulo": "¿Hacemos tu página con esta combinación?",
+    "trabajos": ["comprafin", "laola", "makatea"]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). La lista pedía el modo «combinar», que el motor paleta no tiene: se usa el modo real «complementarios» (pone esa armonía primero). HEX de las tablas calculados con armonia() del motor."
+}

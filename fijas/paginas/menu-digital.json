@@ -1,0 +1,177 @@
+{
+  "id": "menu-digital",
+  "slug": "menu-digital",
+  "molde": "herramienta",
+  "cabeza": "menú digital",
+  "busquedas": [
+    "menus digitales",
+    "carta digital",
+    "menu digital gratis",
+    "menu para celular"
+  ],
+  "title": "Menú digital gratis en imagen para celular y PDF",
+  "h1": "Menú digital para celular",
+  "description": "Crea tu menú digital en imagen vertical para WhatsApp y redes, o en PDF ligero. Con secciones, precios, fotos y QR opcional. Gratis y sin registro.",
+  "resumen": "Tu menú en imagen vertical para WhatsApp y redes",
+  "categoria": "Menú y catálogo",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un menú digital es un menú hecho para verse en el celular. Aquí lo armas en formato vertical y lo bajas como imagen para mandar por WhatsApp.",
+    "También sale en PDF si alguien te lo pide para imprimir. No pide cuenta ni pone marca de agua."
+  ],
+  "herramienta": {
+    "id": "menu",
+    "modo": "digital"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer tu menú digital"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tu negocio y cómo pedir",
+          "texto": "Pon tu nombre y una línea como «Pedidos por WhatsApp al 33 1234 5678»."
+        },
+        {
+          "titulo": "Captura secciones y precios",
+          "texto": "En celular conviene un menú corto. Pon lo que más vendes primero."
+        },
+        {
+          "titulo": "Elige el formato celular",
+          "texto": "Ya viene marcado. Sale una imagen alta que se lee bajando con el dedo."
+        },
+        {
+          "titulo": "Descarga y comparte",
+          "texto": "Mándala a tus clientes, súbela a tus estados y fíjala en tus redes."
+        }
+      ]
+    },
+    {
+      "h2": "Tres cosas que la gente llama menú digital"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo",
+          "Cómo lo ve el cliente",
+          "Qué necesitas"
+        ],
+        "filas": [
+          [
+            "Imagen para celular",
+            "La recibe por WhatsApp o la ve en tus redes",
+            "Esta herramienta en formato celular"
+          ],
+          [
+            "PDF en línea",
+            "Lo abre desde una liga o un QR",
+            "Subir el PDF a una nube y compartir la liga"
+          ],
+          [
+            "Menú en una página web",
+            "Lo abre desde tu dominio con fotos y botón de pedido",
+            "Una página propia"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La imagen es lo más rápido para pedidos por WhatsApp. Una página es lo que mejor se encuentra en Google y donde cambias precios sin mandar otra imagen."
+    },
+    {
+      "h2": "Reglas para que se lea en el celular"
+    },
+    {
+      "ul": [
+        "Pocas secciones con nombres cortos.",
+        "Precios grandes a la derecha del platillo.",
+        "Descripciones de una línea o ninguna.",
+        "Tu teléfono o tu forma de pedir al principio y al final.",
+        "Fotos sólo de lo que más vendes."
+      ]
+    },
+    {
+      "p": "Prueba la imagen en tu propio celular antes de mandarla. Si tienes que hacer zoom para leer, quita texto."
+    },
+    {
+      "h2": "Cómo usarlo para vender por WhatsApp"
+    },
+    {
+      "p": "Guarda la imagen como respuesta rápida en WhatsApp Business. Cuando alguien pregunte qué tienes, la mandas con un toque."
+    },
+    {
+      "p": "Súbela a tus estados a la hora en que la gente decide qué comer. Repite el día que cambies precios o platillos."
+    },
+    {
+      "ul": [
+        "Fija la imagen en tu perfil de Facebook.",
+        "Agrégala a tu perfil de Google en la parte de menú.",
+        "Ponla en tu catálogo de WhatsApp Business como primer producto."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una taquería"
+    },
+    {
+      "p": "Una taquería que vende para llevar arma su menú digital con tacos y bebidas. La primera línea dice cómo pedir y a qué número."
+    },
+    {
+      "p": "Cada tarde sube la imagen a sus estados antes de abrir. Quien la ve contesta el estado con su pedido y llega a recogerlo caliente."
+    },
+    {
+      "p": "Si tus mesas necesitan verlo, imprime un [menú QR](id:menu-qr) que lleve a tu menú en línea. Si vendes productos y no platillos, te sirve más el [catálogo digital](id:catalogo-digital)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El menú digital es gratis?",
+      "respuesta": "Sí. Lo haces y lo descargas sin pagar ni registrarte."
+    },
+    {
+      "pregunta": "¿Qué medida tiene la imagen?",
+      "respuesta": "Es vertical para celular. Su alto crece según cuántos platillos tenga tu menú."
+    },
+    {
+      "pregunta": "¿El menú digital tiene liga?",
+      "respuesta": "No por sí solo. Para tener liga súbelo a una página o a una nube."
+    },
+    {
+      "pregunta": "¿Puedo poner fotos?",
+      "respuesta": "Sí. Cada platillo acepta una foto que no sale de tu equipo."
+    },
+    {
+      "pregunta": "¿Se puede actualizar después?",
+      "respuesta": "Sí. Tu menú queda guardado en este navegador y sólo cambias lo necesario."
+    },
+    {
+      "pregunta": "¿Puedo poner un QR dentro del menú?",
+      "respuesta": "Sí. Marca la opción y pega la liga de tu WhatsApp o tu página."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-restaurante",
+    "menu-de-cafeteria",
+    "menu-qr",
+    "catalogo-digital",
+    "link-de-whatsapp",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu menú digital puede tener su propia liga en tu página, con fotos y botón de pedido.",
+    "aviso": "Tu menú ya está listo. ¿Quieres que también viva en una página con tu dominio?",
+    "titulo": "¿Hacemos la página de tu menú?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo digital (formato celular, diseño moderno). MEJORA DE MOTOR anotada: «menú digital» suele pedir una liga en línea; el motor sólo baja imagen y PDF."
+}

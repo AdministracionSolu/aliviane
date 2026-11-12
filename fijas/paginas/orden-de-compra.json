@@ -1,0 +1,383 @@
+{
+  "id": "orden-de-compra",
+  "slug": "orden-de-compra",
+  "molde": "plantilla",
+  "cabeza": "orden de compra formato",
+  "busquedas": [
+    "orden de compra formatos",
+    "órdenes de compra formato",
+    "modelo de orden de compra",
+    "orden de compra",
+    "formato de orden de compra",
+    "orden de compra ejemplo"
+  ],
+  "title": "Orden de compra formato gratis para llenar en PDF",
+  "h1": "Formato de orden de compra",
+  "description": "Orden de compra formato gratis. Llénala con tu proveedor, partidas, IVA, fecha y lugar de entrega, y condiciones de pago. Descárgala en PDF sin registro.",
+  "resumen": "Pide a tu proveedor por escrito con partidas, IVA y entrega",
+  "categoria": "Formatos y documentos",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una orden de compra es el documento con el que tu negocio le pide mercancía a un proveedor. Dice qué compras, a qué precio, cuándo y dónde te lo entregan.",
+    "Llena el formato de abajo y descárgalo en PDF. No pide cuenta y tus datos no salen de tu equipo."
+  ],
+  "herramienta": {
+    "id": "documento",
+    "modo": "orden-compra"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué lleva una orden de compra"
+    },
+    {
+      "p": "La orden la hace quien compra, no quien vende. Por eso los datos de arriba son los de tu negocio y abajo va el proveedor."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Tu negocio con logo y RFC",
+            "Que el proveedor sepa quién compra y a quién facturar"
+          ],
+          [
+            "Folio y fecha",
+            "Ubicar la orden cuando llegue la factura"
+          ],
+          [
+            "Proveedor",
+            "Nombre y datos de contacto de quien te vende"
+          ],
+          [
+            "Partidas",
+            "Cantidad, descripción y precio acordado de cada producto"
+          ],
+          [
+            "Subtotal, IVA y total",
+            "El monto que vas a pagar"
+          ],
+          [
+            "Fecha de entrega",
+            "El día en que esperas la mercancía"
+          ],
+          [
+            "Lugar de entrega",
+            "Tu almacén, tu tienda o la obra"
+          ],
+          [
+            "Condiciones de pago",
+            "Contado, anticipo o días de crédito"
+          ],
+          [
+            "Firmas",
+            "Quien autorizó la compra y el proveedor"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo llenar el formato"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Tus datos",
+          "texto": "Escribe el nombre de tu negocio, tu RFC y un teléfono. Sube tu logo para que se vea formal."
+        },
+        {
+          "titulo": "El proveedor",
+          "texto": "Pon su nombre y cómo contactarlo. Usa el mismo nombre que aparece en su factura."
+        },
+        {
+          "titulo": "Lo que compras",
+          "texto": "Un renglón por producto. Escribe la presentación exacta, como «bulto de 50 kg»."
+        },
+        {
+          "titulo": "Entrega y pago",
+          "texto": "Elige la fecha, el lugar y las condiciones. Por ejemplo 30 días de crédito."
+        },
+        {
+          "titulo": "Autoriza y manda",
+          "texto": "Firma como «Autorizó» y manda el PDF al proveedor por correo o WhatsApp."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplo de orden de compra llena"
+    },
+    {
+      "p": "Este ejemplo es de una cafetería que surte su almacén. Sirve de guía para cualquier giro que compre a proveedores."
+    },
+    {
+      "tabla": {
+        "titulo": "Café La Esquina · Orden de compra 0031 · 12 de noviembre de 2026",
+        "columnas": [
+          "Cantidad",
+          "Descripción",
+          "Precio unitario",
+          "Importe"
+        ],
+        "filas": [
+          [
+            "10",
+            "Kilo de café de altura en grano tostado medio",
+            "$320",
+            "$3,200"
+          ],
+          [
+            "6",
+            "Caja de 1,000 vasos de cartón de 12 oz",
+            "$780",
+            "$4,680"
+          ],
+          [
+            "4",
+            "Caja de 12 litros de leche entera",
+            "$290",
+            "$1,160"
+          ],
+          [
+            "",
+            "Subtotal",
+            "",
+            "$9,040"
+          ],
+          [
+            "",
+            "IVA 16%",
+            "",
+            "$1,446.40"
+          ],
+          [
+            "",
+            "Total",
+            "",
+            "$10,486.40"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Entrega el lunes 16 de noviembre en Calle Morelos 45 de 8 a 11 h. Pago a 15 días contra factura."
+    },
+    {
+      "p": "Los precios del ejemplo son inventados. Pon los que acordaste con tu proveedor."
+    },
+    {
+      "h2": "Para qué le sirve a un negocio chico"
+    },
+    {
+      "p": "Muchos negocios piden por WhatsApp con un mensaje suelto. Funciona hasta que llega menos mercancía o con otro precio."
+    },
+    {
+      "p": "La orden de compra deja por escrito lo que acordaste. Cuando llega el pedido, comparas la orden contra lo que bajó del camión."
+    },
+    {
+      "ul": [
+        "Evita discusiones por precios que cambiaron sin aviso.",
+        "Te dice cuánto debes a cada proveedor al final del mes.",
+        "Ayuda a que tu encargado compre sólo lo autorizado.",
+        "Te deja comparar precios de un mes contra otro."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Los tres papeles de una compra"
+    },
+    {
+      "p": "Una compra bien llevada tiene tres papeles que se revisan entre sí. Si los tres cuadran, pagas tranquilo."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Papel",
+          "Quién lo hace",
+          "Qué revisas"
+        ],
+        "filas": [
+          [
+            "Orden de compra",
+            "Tú, al pedir",
+            "Qué pediste y a qué precio"
+          ],
+          [
+            "Nota de remisión",
+            "El proveedor, al entregar",
+            "Qué llegó y en qué cantidad"
+          ],
+          [
+            "Factura",
+            "El proveedor, al cobrar",
+            "Que cobre lo que pediste y llegó"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si la remisión trae menos piezas que la orden, anótalo antes de firmar. Pide que la factura salga sólo por lo recibido."
+    },
+    {
+      "p": "La orden de compra no es un comprobante fiscal. El comprobante para tu contabilidad es la factura del proveedor."
+    },
+    {
+      "h2": "Condiciones de pago más comunes"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Condición",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "Contado",
+            "Pagas al recibir la mercancía"
+          ],
+          [
+            "Anticipo",
+            "Pagas una parte al pedir y el resto al recibir"
+          ],
+          [
+            "Crédito a 15 o 30 días",
+            "Pagas después de la fecha de la factura"
+          ],
+          [
+            "Contra factura",
+            "Pagas cuando el proveedor manda su factura"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Escribe la condición tal como la acordaste. Si el proveedor ofrece descuento por pronto pago, anótalo en las notas."
+    },
+    {
+      "h2": "IVA en la orden"
+    },
+    {
+      "p": "La orden viene con el IVA aparte, como lo suelen manejar los proveedores. En México la tasa general es de 16%."
+    },
+    {
+      "p": "Si tu proveedor te da precios con IVA incluido, cambia la opción. Así el total coincide con lo que te van a cobrar."
+    },
+    {
+      "p": "Hay productos con tasa cero o exentos. Si compras alimentos básicos o medicinas, pregúntale al proveedor cómo factura."
+    },
+    {
+      "h2": "Errores al hacer una orden de compra"
+    },
+    {
+      "ul": [
+        "Escribir «café» en vez de la presentación exacta y la marca.",
+        "No poner fecha de entrega y esperar sin saber cuándo llega.",
+        "Olvidar el lugar de entrega cuando tienes dos sucursales.",
+        "Mandar la orden sin firma de quien autoriza el gasto.",
+        "No guardar la orden para revisar la factura."
+      ]
+    },
+    {
+      "p": "El folio sube solo cada vez que descargas. Así tus órdenes quedan numeradas sin llevar una libreta."
+    },
+    {
+      "h2": "Variantes del formato"
+    },
+    {
+      "ul": [
+        "**Orden de compra corta** para un proveedor y pocos productos.",
+        "**Orden de compra con anticipo** cuando pagas una parte al pedir.",
+        "**Orden de compra para obra** con el domicilio de la obra como lugar de entrega.",
+        "**Orden de compra en blanco** para llenar a mano en la bodega."
+      ]
+    },
+    {
+      "p": "Para el formato en blanco descarga sin escribir partidas. Sale la hoja con renglones vacíos lista para imprimir."
+    },
+    {
+      "h2": "Cómo revisar el pedido cuando llega"
+    },
+    {
+      "p": "Ten la orden impresa o abierta en el celular cuando baje la mercancía. Cuenta pieza por pieza contra cada renglón."
+    },
+    {
+      "p": "Revisa también la presentación y la caducidad en productos de comida. Un bulto de otra medida cambia tu costo aunque el precio sea igual."
+    },
+    {
+      "ul": [
+        "Marca con una palomita cada renglón que llegó completo.",
+        "Anota faltantes y piezas dañadas en la remisión antes de firmar.",
+        "Toma foto de lo que llegó mal y mándala al proveedor el mismo día.",
+        "Guarda la orden junto con la remisión y la factura del mismo pedido."
+      ]
+    },
+    {
+      "p": "Con este hábito sabes qué proveedor cumple y cuál te queda mal. Esa información vale más que cualquier descuento."
+    },
+    {
+      "p": "Cuando el proveedor entregue, pide su [nota de remisión](id:nota-de-remision). Si tú eres el proveedor y te piden precio, manda una [cotización](id:formato-de-cotizacion)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El formato de orden de compra es gratis?",
+      "respuesta": "Sí. No pide registro ni correo y no lleva marca de agua."
+    },
+    {
+      "pregunta": "¿Quién hace la orden de compra?",
+      "respuesta": "El que compra. Se la manda al proveedor antes de la entrega."
+    },
+    {
+      "pregunta": "¿Es lo mismo orden de compra que pedido?",
+      "respuesta": "Casi. La orden es el pedido por escrito, con precio y condiciones."
+    },
+    {
+      "pregunta": "¿La orden de compra obliga al proveedor?",
+      "respuesta": "Sirve de prueba cuando el proveedor la acepta. Antes de eso es sólo tu pedido."
+    },
+    {
+      "pregunta": "¿Puedo poner mi logo?",
+      "respuesta": "Sí. Lo subes y sale arriba del PDF."
+    },
+    {
+      "pregunta": "¿Se puede descargar en Excel?",
+      "respuesta": "No. Sale en PDF y en imagen para que nadie cambie las cantidades."
+    },
+    {
+      "pregunta": "¿Dónde se guardan mis datos?",
+      "respuesta": "En tu navegador. Hay un botón para borrarlos de tu equipo."
+    }
+  ],
+  "relacionadas": [
+    "nota-de-remision",
+    "formato-de-cotizacion",
+    "recibo-de-pago",
+    "lista-de-precios",
+    "generador-de-codigo-de-barras",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus proveedores y tus clientes pueden conocer tu negocio en tu propia página.",
+    "tituloCorto": "Tu negocio con su propia página",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "comprafin",
+      "makatea",
+      "laola"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley del Impuesto al Valor Agregado, artículo 1 (Cámara de Diputados)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Plantilla con motor documento modo orden-compra (proveedor, fecha y lugar de entrega, condiciones de pago, IVA aparte, firmas Autorizó y Proveedor). Cabeza < 10K: sin top 3."
+}

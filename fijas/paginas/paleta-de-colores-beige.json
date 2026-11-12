@@ -1,0 +1,192 @@
+{
+  "id": "paleta-de-colores-beige",
+  "slug": "paleta-de-colores-beige",
+  "molde": "herramienta",
+  "cabeza": "paletas de color beige",
+  "busquedas": [
+    "paleta de color beige",
+    "paleta de colores beige",
+    "colores que combinan con beige",
+    "paleta beige"
+  ],
+  "title": "Paletas de color beige con códigos HEX gratis",
+  "h1": "Paletas de color beige",
+  "description": "Seis paletas de color beige con lino, arena, vainilla y acentos de olivo y terracota. Copia cada código HEX y baja la paleta en PNG o CSS sin registro.",
+  "resumen": "Seis paletas beige con lino, arena y vainilla",
+  "categoria": "Colores",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El beige es un neutro cálido que se siente natural y tranquilo. Lo usan estéticas, tiendas de decoración, bodas y marcas de cuidado personal.",
+    "Abajo tienes seis paletas beige con sus códigos HEX. Toca un tono para copiarlo y bájala completa en PNG."
+  ],
+  "herramienta": {
+    "id": "paleta",
+    "modo": "beige"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo usar una paleta beige"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige el beige de fondo",
+          "texto": "Los tonos más claros como #F7F3EC van en el fondo de tu página o tu tarjeta."
+        },
+        {
+          "titulo": "Busca el contraste",
+          "texto": "Toda paleta beige necesita un tono oscuro para las letras. Revisa que lo traiga."
+        },
+        {
+          "titulo": "Suma un acento",
+          "texto": "Olivo para algo natural y terracota para algo más cálido. Negro para un estilo editorial."
+        },
+        {
+          "titulo": "Guarda tus códigos",
+          "texto": "Copia cada HEX o baja el CSS para pegarlo en tu sitio."
+        }
+      ]
+    },
+    {
+      "h2": "Qué transmite el beige"
+    },
+    {
+      "p": "El beige recuerda lino, arena y madera clara. Da sensación de calma y de producto cuidado."
+    },
+    {
+      "p": "Por eso lo eligen estéticas faciales, consultorios de nutrición y marcas de cosmética natural. También organizadoras de bodas y fotógrafos de eventos."
+    },
+    {
+      "p": "Con beige no conviene gritar ofertas. Funciona mejor en negocios que venden experiencia y no precio bajo."
+    },
+    {
+      "h2": "Las seis paletas beige"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Paleta",
+          "Códigos HEX",
+          "Para qué negocio"
+        ],
+        "filas": [
+          [
+            "Beige natural",
+            "#8E7F6A #B9A68A #D8C3A5 #EAE0D0 #F7F3EC",
+            "Estética o spa de día"
+          ],
+          [
+            "Lino",
+            "#5E5346 #A39382 #CDBFAE #E8DED1 #FAF7F2",
+            "Ropa de cama o tienda de blancos"
+          ],
+          [
+            "Beige y verde olivo",
+            "#4F5D2F #8A9A5B #D8C3A5 #EDE3D1 #F8F4EC",
+            "Cosmética natural o vivero"
+          ],
+          [
+            "Arena y negro",
+            "#1B1B1B #5C554B #B8A88A #E4D8C3 #F6F1E7",
+            "Fotógrafo o arquitecto"
+          ],
+          [
+            "Beige y terracota",
+            "#A0522D #C97B5A #E2C2A4 #F0E3D3 #FBF7F1",
+            "Cerámica o restaurante de autor"
+          ],
+          [
+            "Vainilla",
+            "#6B5B45 #C9B79C #E6D5B8 #F3E9D7 #FFFBF4",
+            "Repostería o invitaciones de boda"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cuidado con el beige en pantalla"
+    },
+    {
+      "p": "Un beige medio como #D8C3A5 junto a blanco puro se ve sucio. Mejor usa un blanco cálido como #FAF7F2."
+    },
+    {
+      "p": "Las letras en beige casi nunca se leen bien. Reserva el beige para fondos, marcos y franjas."
+    },
+    {
+      "p": "Las pantallas baratas lo muestran rosado o amarillento. Revisa tu página en más de un celular antes de decidir."
+    },
+    {
+      "ul": [
+        "Para letras usa #1B1B1B o #5E5346, nunca un beige.",
+        "Combínalo con fotos de luz natural y no con fotos frías.",
+        "Si tu logo es negro, la paleta Arena y negro ya está resuelta."
+      ]
+    },
+    {
+      "h2": "Ejemplo con una estética facial"
+    },
+    {
+      "p": "Una estética en Querétaro puede usar la paleta Beige natural en su página. El fondo va en #F7F3EC y los títulos en #8E7F6A."
+    },
+    {
+      "p": "Los textos largos van en un café casi negro para que se lean. El botón de reservar cita va en el tono más oscuro de la paleta."
+    },
+    {
+      "p": "Sus fotos de cabina con toallas claras y plantas completan la sensación de calma. La misma paleta sirve para sus tarjetas y su letrero."
+    },
+    {
+      "p": "¿Necesitas un neutro aún más claro? Abre la [paleta de colores blancos](id:paleta-de-colores-blanco). Para tonos con más color prueba la [paleta de colores tierra](id:paleta-de-colores-tierra)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué colores combinan con beige?",
+      "respuesta": "Verde olivo, terracota, negro y blanco cálido. Todos vienen en las paletas de arriba."
+    },
+    {
+      "pregunta": "¿Cuál es el código HEX del beige?",
+      "respuesta": "Un beige clásico es #D8C3A5. Hay versiones más claras como #EAE0D0."
+    },
+    {
+      "pregunta": "¿El beige sirve para una marca de lujo?",
+      "respuesta": "Sí, junto con negro o dorado. Solo se ve más sencillo."
+    },
+    {
+      "pregunta": "¿Beige y crema son lo mismo?",
+      "respuesta": "No. El crema tira a amarillo y el beige tira a gris o café."
+    },
+    {
+      "pregunta": "¿Puedo usar beige con gris?",
+      "respuesta": "Sí, con un gris cálido. Un gris azulado al lado se ve apagado."
+    },
+    {
+      "pregunta": "¿Se puede descargar la paleta?",
+      "respuesta": "Sí. Cada paleta tiene botón PNG y botón CSS."
+    }
+  ],
+  "relacionadas": [
+    "paleta-de-colores",
+    "paleta-de-colores-blanco",
+    "paleta-de-colores-tierra",
+    "paleta-de-colores-cafe",
+    "paleta-de-colores-elegante",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Una landing en beige le queda a tu estética, tu estudio o tu marca natural.",
+    "aviso": "Ya tienes tus tonos beige. ¿Los vemos en una página con tu marca?",
+    "titulo": "¿Hacemos tu página en beige?",
+    "trabajos": [
+      "laola",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo beige)."
+}

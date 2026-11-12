@@ -1,0 +1,181 @@
+{
+  "id": "menu-de-cafeteria",
+  "slug": "menu-de-cafeteria",
+  "molde": "herramienta",
+  "cabeza": "menu de cafeteria",
+  "busquedas": [
+    "cafetería menú",
+    "menu cafeteria",
+    "la cafeteria menu",
+    "menu en cafeteria",
+    "menu de una cafeteria"
+  ],
+  "title": "Menu de cafetería gratis con tamaños y precios en PDF",
+  "h1": "Menú de cafetería",
+  "description": "Haz el menú de tu cafetería con bebidas, tamaños, extras y pan del día. Diseño de cafetería en media carta, PDF o imagen para celular. Gratis y sin registro.",
+  "resumen": "Bebidas, tamaños y pan del día en media carta o imagen",
+  "categoria": "Menú y catálogo",
+  "categoriaApp": "DesignApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tus bebidas, sus tamaños y tu pan del día, y el menú de cafetería se arma en la hoja. Ya viene con un diseño de cafetería en media carta.",
+    "Puedes poner precios por tamaño en una sola línea. Lo bajas en PDF o en imagen para celular sin pagar."
+  ],
+  "herramienta": {
+    "id": "menu",
+    "modo": "cafeteria"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo hacer el menú de tu cafetería"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Cambia el ejemplo por tu café",
+          "texto": "El menú trae un ejemplo con americano, capuchino y pan. Escribe encima tus bebidas."
+        },
+        {
+          "titulo": "Escribe los tamaños",
+          "texto": "En precio pon un texto como «Ch $40 · Gde $55». Así no repites la bebida."
+        },
+        {
+          "titulo": "Agrega extras",
+          "texto": "Leche de avena, carga extra o jarabe van en la descripción o en su propia sección."
+        },
+        {
+          "titulo": "Elige formato",
+          "texto": "Media carta para el mostrador. Imagen para tus estados de WhatsApp."
+        }
+      ]
+    },
+    {
+      "h2": "Qué hace distinto a un menú de cafetería"
+    },
+    {
+      "p": "En un restaurante se elige un platillo. En una cafetería se elige bebida, tamaño, tipo de leche y a veces pan."
+    },
+    {
+      "p": "Por eso el menú debe ser corto y muy ordenado. Mucha gente lo lee de pie en la fila y con prisa."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Sección",
+          "Qué incluir"
+        ],
+        "filas": [
+          [
+            "Café caliente",
+            "Espresso, americano y capuchino, además de latte y café de olla"
+          ],
+          [
+            "Fríos",
+            "Frappés, café reposado en frío y bebidas con hielo"
+          ],
+          [
+            "Sin café",
+            "Chocolate, té y tisanas"
+          ],
+          [
+            "Para acompañar",
+            "Conchas, cuernitos, pan de elote y galletas"
+          ],
+          [
+            "Extras",
+            "Leche vegetal, carga extra, crema batida"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Precios por tamaño sin enredar"
+    },
+    {
+      "p": "Lo más claro es una sola línea por bebida con sus tamaños al lado. El campo de precio acepta texto libre para eso."
+    },
+    {
+      "ul": [
+        "«Ch $40 · Gde $55» para dos tamaños.",
+        "«12 oz $45 · 16 oz $55» si mides en onzas.",
+        "«+ $10 leche de avena» en la descripción del latte.",
+        "Un solo precio para el pan del día si cambia diario."
+      ]
+    },
+    {
+      "h2": "El menú del mostrador y el de la mesa"
+    },
+    {
+      "p": "El menú de mostrador debe leerse a un metro de distancia. Usa pocas palabras y letras grandes."
+    },
+    {
+      "p": "En la mesa el cliente tiene tiempo. Ahí sí caben descripciones del origen del grano o del pan."
+    },
+    {
+      "ul": [
+        "Media carta enmicada para cada mesa.",
+        "Una versión carta grande para el muro del mostrador.",
+        "La imagen para celular en tus estados cada mañana con el pan del día."
+      ]
+    },
+    {
+      "h2": "Diseños que le quedan a una cafetería"
+    },
+    {
+      "p": "El diseño Cafetería usa tonos crema y café con títulos en cursiva. El Pizarrón imita la tiza de un muro y el Sobrio va con cafeterías de especialidad."
+    },
+    {
+      "p": "Si quieres que el menú combine con tu local, revisa la [paleta de color café](id:paleta-de-colores-cafe). Para un menú más largo de comida usa el [menú de restaurante](id:menu-de-restaurante)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El menú de cafetería es gratis?",
+      "respuesta": "Sí. No pide cuenta y no pone marca de agua."
+    },
+    {
+      "pregunta": "¿Puedo poner dos precios por bebida?",
+      "respuesta": "Sí. Escribe en el precio un texto como «Ch $40 · Gde $55»."
+    },
+    {
+      "pregunta": "¿Qué tamaño de hoja conviene?",
+      "respuesta": "Media carta para mesas y mostrador. Carta si tu menú es largo."
+    },
+    {
+      "pregunta": "¿Puedo poner fotos de las bebidas?",
+      "respuesta": "Sí. Cada producto acepta una foto opcional."
+    },
+    {
+      "pregunta": "¿Puedo cambiar el pan del día cada mañana?",
+      "respuesta": "Sí. Tu menú queda guardado en tu navegador y sólo editas esa línea."
+    },
+    {
+      "pregunta": "¿Sirve para una cafetería escolar?",
+      "respuesta": "Sí. Cambia las secciones por desayunos, lonches y bebidas."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-restaurante",
+    "menu-digital",
+    "menu-qr",
+    "catalogo-digital",
+    "paleta-de-colores-cafe",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu cafetería puede tener su página con el menú, el pan del día y pedidos por WhatsApp.",
+    "aviso": "Tu menú ya está listo. ¿Quieres una página para tu cafetería con tu dominio?",
+    "titulo": "¿Hacemos la página de tu cafetería?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. Motor menu modo cafeteria (diseño cafetería, media carta por omisión, precio en texto libre)."
+}
