@@ -181,9 +181,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.figma.com/es-la/colores/gris/",
+      "titulo": "Gris (Figma)",
+      "promete": "Códigos del gris y creador de paletas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://crazy-colors.net/es/palette/minimaliste-gris/",
+      "titulo": "Minimalista gris (Crazy Colors)",
+      "promete": "Una paleta con códigos HEX"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.media.io/es/color-palette/gray-silver-color-palette.html",
+      "titulo": "Paleta gris plata (Media.io)",
+      "promete": "Ideas con códigos HEX; texto automático"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo gris)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo gris). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

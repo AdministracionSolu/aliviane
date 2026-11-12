@@ -181,7 +181,14 @@
       "respuesta": "Sí. Baja el archivo .html o copia el código para pegarlo en otro programa."
     }
   ],
-  "relacionadas": ["firma-de-gmail", "correo-corporativo", "que-es-un-dominio", "tarjetas-de-presentacion", "link-de-whatsapp", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "firma-de-gmail",
+    "correo-corporativo",
+    "que-es-un-dominio",
+    "tarjetas-de-presentacion",
+    "link-de-whatsapp",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "La liga de tu firma puede llevar a tu propia página con tu dominio.",
     "aviso": "¿Tu firma ya tiene liga a tu página? Si aún no tienes página, te la hacemos.",
@@ -193,9 +200,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://meetergo.com/es/tools/email-signatur-generator",
+      "titulo": "Generador de firma de correo (Meetergo)",
+      "promete": "Firma con foto y botón de cita; vende su agenda"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_mx/crear/firmas-correo/",
+      "titulo": "Firmas de correo (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.hubspot.es/marketing/firma-correo-electronico",
+      "titulo": "Cómo hacer una firma para correo profesional (HubSpot)",
+      "promete": "Guía y generador; vende su software"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos de cada correo tomados del motor firma-correo."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos de cada correo tomados del motor firma-correo. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

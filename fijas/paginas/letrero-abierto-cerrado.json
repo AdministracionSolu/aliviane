@@ -187,9 +187,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/plantillas/s/letrero/",
+      "titulo": "Plantillas de letrero (Canva)",
+      "promete": "Plantillas editables con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://georgeandwilly.com/es-es/products/open-sign",
+      "titulo": "Señal de abierto/cerrado (George & Willy)",
+      "promete": "Venta de letrero físico"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.webstaurantstore.com/choice-19-x-10-led-rectangular-abierto-sign-with-2-display-modes/466LEDABIERT.html",
+      "titulo": "Letrero LED de abierto (WebstaurantStore)",
+      "promete": "Venta de letrero luminoso"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/letrero-abierto-cerrado (dos caras, sin QR)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3 por regla. Motor editor-diseno/letrero-abierto-cerrado (dos caras, sin QR). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

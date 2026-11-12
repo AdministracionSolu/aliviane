@@ -183,9 +183,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/crear/letreros/",
+      "titulo": "Crear letreros (Canva)",
+      "promete": "Creador con descarga e impresión de pago"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.cspapeleria.com/en/node/18966",
+      "titulo": "Cartel SE VENDE (CS Papelería)",
+      "promete": "Venta de cartel de plástico"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.vistaprint.com/es/carteles-posteres/letreros-para-exteriores",
+      "titulo": "Letreros para exteriores (Vistaprint)",
+      "promete": "Impresión de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/se-vende (titulares: se vende, se renta, se traspasa, se vende o se renta, disponible)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/se-vende (titulares: se vende, se renta, se traspasa, se vende o se renta, disponible). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

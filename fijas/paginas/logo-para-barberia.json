@@ -170,9 +170,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_mx/logos/plantillas/barberia/",
+      "titulo": "Plantillas para logos de barbería (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://agendapro.com/blog/ejemplos-de-logos-de-barberia/",
+      "titulo": "Logos de barbería: 50 ejemplos (AgendaPro)",
+      "promete": "Ejemplos y precios de diseñador; vende su agenda"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.treatwell.es/partners/recursos/blog/disenar-logo-barberia/",
+      "titulo": "Logo barbería: 20 ideas (Treatwell)",
+      "promete": "Ideas de España"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/barberia (poste, navaja, bigote, tijeras; paleta P_BARBERIA)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor logo/barberia (poste, navaja, bigote, tijeras; paleta P_BARBERIA). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

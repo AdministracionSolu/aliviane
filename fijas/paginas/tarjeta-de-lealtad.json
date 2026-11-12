@@ -170,9 +170,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://biz.booksy.com/es-es/blog/como-crear-un-programa-de-fidelizacion",
+      "titulo": "Cómo crear un programa de fidelización (Booksy)",
+      "promete": "Consejos de sellos; vende su app"
+    },
+    {
+      "posicion": 2,
+      "url": "https://biz.booksy.com/es-es/blog/8-formas-de-usar-un-programa-de-fidelizacion-con-tarjeta-de-sellos-en-tu-salon-de-belleza-o-barberia",
+      "titulo": "Tarjeta de sellos en salón o barbería (Booksy)",
+      "promete": "Ideas para belleza; vende su app"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.canva.com/es_mx/tarjetas-lealtad/",
+      "titulo": "Tarjetas de lealtad (Canva)",
+      "promete": "Plantillas e impresión de pago"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-lealtad (6/8/10/12 sellos, regalo en la última, hoja de 10). La Ola tiene lealtad: trabajo relevante. Mejora: tarjeta de sellos digital."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/tarjeta-lealtad (6/8/10/12 sellos, regalo en la última, hoja de 10). La Ola tiene lealtad: trabajo relevante. Mejora: tarjeta de sellos digital. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

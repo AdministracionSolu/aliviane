@@ -172,9 +172,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://metricool.com/es/portadas-historias-destacadas-instagram",
+      "titulo": "Portadas para historias destacadas (Metricool)",
+      "promete": "Pasos para ponerlas; vende su software"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/mx/blog/portadas-para-historias-destacadas",
+      "titulo": "Portadas para historias destacadas (Tiendanube)",
+      "promete": "Ideas y recursos; empuja a abrir tienda"
+    },
+    {
+      "posicion": 3,
+      "url": "https://skedsocial.com/es/blog/how-to-get-instagram-highlight-covers",
+      "titulo": "Cómo crear portadas destacadas (Sked Social)",
+      "promete": "Medidas y herramientas de terceros"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/iconos-destacadas (hasta 8 iconos, 5 estilos, ZIP). El ZIP sale cuando hay 2 o más caras."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Cabeza < 10K: sin top 3. Motor editor-diseno/iconos-destacadas (hasta 8 iconos, 5 estilos, ZIP). El ZIP sale cuando hay 2 o más caras. serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

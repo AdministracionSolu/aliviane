@@ -158,7 +158,14 @@
       "respuesta": "Sí. Mira los pasos en la [firma de correo](id:firma-de-correo)."
     }
   ],
-  "relacionadas": ["firma-de-correo", "correo-corporativo", "que-es-un-dominio", "link-de-whatsapp", "tarjeta-de-presentacion-digital", "pagina-web-para-negocio"],
+  "relacionadas": [
+    "firma-de-correo",
+    "correo-corporativo",
+    "que-es-un-dominio",
+    "link-de-whatsapp",
+    "tarjeta-de-presentacion-digital",
+    "pagina-web-para-negocio"
+  ],
   "venta": {
     "puente": "Tu firma de Gmail puede llevar a tu propia página con tu dominio.",
     "aviso": "¿Tu firma tiene a dónde llevar? Tu página puede estar lista en pocos días.",
@@ -170,9 +177,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://es.digitaltrends.com/?p=723812",
+      "titulo": "Cómo crear una firma en Gmail (Digital Trends)",
+      "promete": "Pasos en configuración; sin diseñador"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.xataka.com/basics/como-anadir-varias-firmas-a-gmail-decidir-cuando-utilizar-cada",
+      "titulo": "Cómo añadir varias firmas a Gmail (Xataka)",
+      "promete": "Varias firmas en escritorio, una en la app"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.getmailbird.com/es/como-anadir-una-firma-en-gmail/",
+      "titulo": "Cómo añadir una firma en Gmail (Mailbird)",
+      "promete": "Guía con imagen y HTML; vende su app"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos tomados del motor firma-correo (modo gmail)."
+  "publicacion": "2026-11-12",
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos tomados del motor firma-correo (modo gmail). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

@@ -184,9 +184,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://filmora.wondershare.com.br/video-creative-tips/beige-color-palette.html",
+      "titulo": "Paleta beige (Filmora)",
+      "promete": "Ideas con códigos; en portugués"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.figma.com/es-la/colores/beige/",
+      "titulo": "Beige (Figma)",
+      "promete": "Código del beige y creador de paletas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.media.io/es/color-palette/beige-brown-color-palette.html",
+      "titulo": "Paletas beige y marrón (Media.io)",
+      "promete": "Ideas con códigos HEX"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo beige)."
+  "publicacion": "2026-11-12",
+  "nota": "H1 (12-nov). Cabeza < 10K: sin top 3. HEX = paletas curadas del motor paleta (modo beige). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }

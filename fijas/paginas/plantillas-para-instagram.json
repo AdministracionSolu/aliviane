@@ -315,9 +315,28 @@
     ]
   },
   "fuentes": [],
-  "serp": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.canva.com/es_es/posts-instagram/plantillas/negocio/",
+      "titulo": "Plantillas de posts para Instagram de empresas (Canva)",
+      "promete": "Plantillas con cuenta"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/business/descargables/plantillas-de-instagram-stories-para-tu-negocio/",
+      "titulo": "Plantillas de historias para tu negocio (Crehana)",
+      "promete": "Descargable con registro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.adobe.com/es/express/collections/small-business",
+      "titulo": "Plantillas para pequeños negocios (Adobe Express)",
+      "promete": "Plantillas con cuenta"
+    }
+  ],
   "creada": "2026-11-12",
   "actualizado": "2026-11-12",
-  "publicacion": null,
-  "nota": "H2. Molde plantilla (1,100-2,000). Cabeza < 10K: sin top 3. Motor editor-diseno/post-instagram (cuadrada, vertical, historia con guías; 6 diseños; sin QR)."
+  "publicacion": "2026-11-12",
+  "nota": "H2. Molde plantilla (1,100-2,000). Cabeza < 10K: sin top 3. Motor editor-diseno/post-instagram (cuadrada, vertical, historia con guías; 6 diseños; sin QR). serp leído con WebSearch el 12-nov-2026 al publicar (P-Aliviane)."
 }
