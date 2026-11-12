@@ -1,0 +1,294 @@
+{
+  "id": "tienda-de-ropa",
+  "slug": "tienda-de-ropa",
+  "molde": "por-giro",
+  "cabeza": "tienda online ropa",
+  "busquedas": [
+    "tienda online ropa",
+    "tienda online de ropa",
+    "página web para tienda de ropa",
+    "vender ropa por internet",
+    "publicidad para tienda de ropa"
+  ],
+  "title": "Tienda online ropa: tu catálogo y pedidos por WhatsApp",
+  "h1": "Tienda online de ropa para tu negocio",
+  "description": "Tienda online de ropa con tu catálogo, tallas y pedidos por WhatsApp. Ideas para vender más y tu página desde $1,500 con dominio incluido y cambios cada semana.",
+  "resumen": "Catálogo, tallas y pedidos por WhatsApp para tu tienda de ropa",
+  "categoria": "Por giro",
+  "revisada": "2026-11",
+  "servicio": {
+    "nombre": "Página web para tienda de ropa",
+    "tipo": "Diseño de páginas web"
+  },
+  "respuesta": [
+    "Una tienda online de ropa necesita fotos claras, tallas y una forma fácil de pedir. Para muchas tiendas basta un catálogo con botón a WhatsApp.",
+    "Aliviane hace esa página desde $1,500 con tu dominio. Si quieres cobro en línea con carrito, se cotiza aparte."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué necesita la página de una tienda de ropa"
+    },
+    {
+      "p": "La clienta de ropa quiere ver la prenda puesta, saber si hay su talla y cuánto cuesta. Si tiene que preguntar las tres cosas, se va."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Sección",
+          "Qué poner",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "Catálogo por categoría",
+            "Vestidos · blusas · pantalones o lo que vendas",
+            "Encuentra rápido lo que busca"
+          ],
+          [
+            "Fotos de la prenda",
+            "Puesta y extendida con luz de día",
+            "Ve cómo cae la tela"
+          ],
+          [
+            "Tabla de tallas",
+            "Medidas en centímetros por talla",
+            "Menos cambios por talla equivocada"
+          ],
+          [
+            "Precio visible",
+            "En cada prenda o por colección",
+            "Evita el mensaje de cuánto cuesta"
+          ],
+          [
+            "Pedido por WhatsApp",
+            "Botón con la prenda ya escrita",
+            "Pide en un toque"
+          ],
+          [
+            "Envíos y cambios",
+            "Zonas, costo y política de cambios",
+            "Da confianza para comprar sin tocar"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La tabla de tallas es la sección más olvidada. Pon el largo, el busto y la cintura en centímetros."
+    },
+    {
+      "h2": "Catálogo con WhatsApp o tienda con carrito"
+    },
+    {
+      "p": "No todas las tiendas necesitan carrito y cobro con tarjeta. Depende de cuánto vendes y de cómo te pagan hoy."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Catálogo con WhatsApp",
+          "Tienda con carrito"
+        ],
+        "filas": [
+          [
+            "Cómo compra la clienta",
+            "Te escribe y acuerdan pago y entrega",
+            "Paga en la página"
+          ],
+          [
+            "Conviene si",
+            "Vendes por pedido o en tu colonia",
+            "Vendes mucho a otras ciudades"
+          ],
+          [
+            "Con Aliviane",
+            "Landing $1,500 o sitio completo $5,000",
+            "Se cotiza aparte"
+          ],
+          [
+            "Inventario",
+            "Lo controlas tú",
+            "Necesita estar al día en la página"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchas tiendas empiezan con catálogo y WhatsApp. Cuando los pedidos crecen, dan el paso al carrito."
+    },
+    {
+      "h2": "Cómo se ve una página de ropa por dentro"
+    },
+    {
+      "ol": [
+        "Arriba tu nombre, tu estilo y el botón para pedir.",
+        "Después la colección nueva con fotos grandes.",
+        "Luego las categorías con precio desde.",
+        "Más abajo la tabla de tallas y los envíos.",
+        "Al final tu política de cambios, tus redes y otra vez el botón."
+      ]
+    },
+    {
+      "p": "Con el sitio completo cada categoría tiene su página. Así una tienda con muchas prendas no se vuelve una lista eterna."
+    },
+    {
+      "h2": "Fotos de ropa que venden"
+    },
+    {
+      "ul": [
+        "Toma la prenda puesta y también sobre un fondo liso.",
+        "Usa luz de ventana para que el color salga real.",
+        "Haz una foto de cerca de la tela y las costuras.",
+        "Pon la misma pose para toda la colección.",
+        "Di la talla de quien modela la prenda."
+      ]
+    },
+    {
+      "p": "Una foto con el color equivocado provoca devoluciones. Revisa tus fotos en el celular antes de subirlas."
+    },
+    {
+      "h2": "Ideas de publicidad para tu tienda de ropa"
+    },
+    {
+      "h3": "Estrenos de cada semana"
+    },
+    {
+      "p": "Publica la ropa nueva el mismo día y a la misma hora. Tus clientas aprenden cuándo entrar a ver."
+    },
+    {
+      "h3": "Prendas combinadas"
+    },
+    {
+      "p": "Arma un conjunto completo y véndelo como sugerencia. Ayuda a quien no sabe con qué combinar."
+    },
+    {
+      "h3": "Historias con pruebas en vivo"
+    },
+    {
+      "p": "Pruébate las prendas en historias y di la talla. Resuelves dudas antes de que pregunten."
+    },
+    {
+      "h3": "Liga de tu catálogo en todos lados"
+    },
+    {
+      "p": "Pon la liga de tu página en tu perfil, en tus bolsas y en tu [tarjeta de presentación](id:tarjetas-de-presentacion). Un [QR](id:generador-de-qr) en el probador también funciona."
+    },
+    {
+      "h3": "Fechas que mueven la venta"
+    },
+    {
+      "p": "Regreso a clases, Día de las Madres, posadas y fin de año. Prepara la colección con un mes de anticipación."
+    },
+    {
+      "h2": "Cómo atender los pedidos por WhatsApp"
+    },
+    {
+      "p": "El botón de tu página manda un mensaje con la prenda ya escrita. Así sabes desde el primer renglón qué quiere tu clienta."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Confirma talla y color",
+          "texto": "Antes de cobrar pregunta la talla y manda una foto de la prenda real."
+        },
+        {
+          "titulo": "Da el total con envío",
+          "texto": "Suma la prenda y el envío en un solo número para que no haya sorpresas al recibir."
+        },
+        {
+          "titulo": "Acuerda el pago",
+          "texto": "Transferencia, depósito o pago al entregar según lo que manejes."
+        },
+        {
+          "titulo": "Manda la guía",
+          "texto": "Comparte el número de rastreo o la hora de entrega el mismo día."
+        }
+      ]
+    },
+    {
+      "p": "Guarda respuestas rápidas para las preguntas de siempre. Talla, envío y cambios se contestan igual cada vez."
+    },
+    {
+      "h2": "Errores comunes de las tiendas de ropa en línea"
+    },
+    {
+      "ul": [
+        "Fotos tomadas de internet que no son tus prendas.",
+        "No decir el precio y contestar lo mismo todo el día.",
+        "Prendas agotadas que siguen en el catálogo.",
+        "No tener una política de cambios por talla.",
+        "Tardar horas en contestar un pedido."
+      ]
+    },
+    {
+      "p": "Arma tu [política de devoluciones](id:politica-de-devoluciones) gratis y ponla en tu página. Una clienta que sabe que puede cambiar la talla compra con más confianza."
+    },
+    {
+      "h2": "Lo que cuesta tu página"
+    },
+    {
+      "p": "La landing cuesta $1,500 con tu dominio y luego $99 al mes con una ronda de cambios cada semana. Sirve si tu catálogo es corto o vendes por colección."
+    },
+    {
+      "p": "El sitio completo cuesta $5,000 con hasta 10 páginas. Ahí cabe un catálogo por categoría con aviso de privacidad y términos incluidos."
+    },
+    {
+      "p": "Las prendas nuevas se suben en la ronda de cambios de la semana. Lo que mandas hasta el viernes queda el sábado."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta la página de mi tienda de ropa?",
+      "respuesta": "Desde $1,500 con dominio. El sitio completo con catálogo cuesta $5,000."
+    },
+    {
+      "pregunta": "¿Mis clientas pueden pagar en la página?",
+      "respuesta": "No en los paquetes. Te piden por WhatsApp y el cobro en línea se cotiza aparte."
+    },
+    {
+      "pregunta": "¿Puedo cambiar las prendas cada semana?",
+      "respuesta": "Sí. Mandas las fotos por WhatsApp y quedan el sábado."
+    },
+    {
+      "pregunta": "¿Sirve si vendo desde mi casa?",
+      "respuesta": "Sí. Ponemos tu zona de entrega en lugar de una dirección."
+    },
+    {
+      "pregunta": "¿Necesito Instagram para tener página?",
+      "respuesta": "No. Si lo tienes, lo ligamos desde tu página."
+    },
+    {
+      "pregunta": "¿Puedo poner tabla de tallas?",
+      "respuesta": "Sí. La armamos con tus medidas en centímetros por talla."
+    },
+    {
+      "pregunta": "¿La página me trae clientas sola?",
+      "respuesta": "No sola. Funciona junto con tus redes, tus bolsas y tus recomendaciones."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-tiendas-de-ropa",
+    "logo-para-marca-de-ropa",
+    "catalogo-digital",
+    "politica-de-devoluciones",
+    "pagina-web-para-negocio",
+    "tienda-en-linea"
+  ],
+  "venta": {
+    "puente": "Tu ropa puede tener una página con tu catálogo, tus tallas y un botón para pedir por WhatsApp.",
+    "tituloCorto": "La página de tu tienda desde $1,500",
+    "titulo": "¿Hacemos la página de tu tienda de ropa?",
+    "mensaje": "Hola, vi la página de tienda online de ropa en aliviane.mx y quiero una página para mi tienda. (ref f-tienda-de-ropa)",
+    "trabajos": [
+      "pilsi",
+      "comprafin",
+      "laola"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Intención mezclada (comprar ropa contra vender ropa): se escribe para quien vende. Cabeza de 3K: no se leyó top 3. No hay tienda de ropa en el portafolio."
+}

@@ -1,0 +1,187 @@
+{
+  "id": "nombres-para-comida-rapida",
+  "slug": "nombres-para-comida-rapida",
+  "molde": "herramienta",
+  "cabeza": "creativos nombre para negocio de comida rápida",
+  "busquedas": [],
+  "title": "Creativos nombre para negocio de comida rápida gratis",
+  "h1": "Nombres creativos para comida rápida",
+  "description": "Nombres creativos para negocio de comida rápida: tacos, tortas, dogos y antojitos. Ideas con humor o con tu apellido, listas para guardar. Gratis y sin cuenta.",
+  "resumen": "Ideas para taquería, tortería, dogos o antojitos",
+  "categoria": "Nombres y slogan",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe tu antojo estrella y toca «Dame ideas». Salen nombres para taquerías, torterías, dogos y antojitos.",
+    "En comida rápida gana el nombre que se grita fácil en la calle."
+  ],
+  "herramienta": {
+    "id": "nombres",
+    "modo": "comida-rapida"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo sacar tu nombre"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe lo que más vendes",
+          "texto": "Tortas, trompo, hamburguesas o elotes. El generador lo combina con su banco."
+        },
+        {
+          "titulo": "Elige el humor",
+          "texto": "En la calle funcionan los nombres alegres y con doble sentido sano."
+        },
+        {
+          "titulo": "Pruébalo en la lona",
+          "texto": "Debe leerse desde el otro lado de la calle con pocas letras."
+        },
+        {
+          "titulo": "Revisa apps de entrega",
+          "texto": "Busca que no exista otro negocio igual en tu ciudad."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplos para comida rápida"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo",
+          "Ejemplos"
+        ],
+        "filas": [
+          [
+            "Cortos",
+            "Antojeta · Bolillo · Tortera · Salsia"
+          ],
+          [
+            "En español",
+            "Don Bocado · La Mordida Tremenda · El Sope del Barrio · Chile y Limón"
+          ],
+          [
+            "Juego de palabras",
+            "Pura Torta · Quesadillama · Burritono · Puro Trompo"
+          ],
+          [
+            "Con apellido",
+            "Taquería Ramírez · Tortas Ramírez · El Trompo de Ramírez"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Quesadillama hace sonreír y se recuerda al día siguiente. Chile y Limón dice el sabor sin decir el platillo."
+    },
+    {
+      "h2": "Lo que pide un puesto o local de comida rápida"
+    },
+    {
+      "p": "La gente decide en segundos mientras camina o maneja. El nombre tiene que leerse rápido y abrir el apetito."
+    },
+    {
+      "ul": [
+        "Pocas palabras para que quepan grandes en la lona.",
+        "Un sabor o un ingrediente que se antoje al leerlo.",
+        "Humor sin groserías para que funcione con familias.",
+        "Fácil de buscar en apps de entrega y en mapas."
+      ]
+    },
+    {
+      "p": "Si tienes carrito o puesto, tu nombre también viaja contigo. Que sirva igual en el tianguis que en el local fijo."
+    },
+    {
+      "h2": "Tropiezos de taquerías y torterías"
+    },
+    {
+      "ul": [
+        "Copiar el nombre de la taquería famosa de tu ciudad.",
+        "Usar groserías que alejan a familias y a empresas que piden comida.",
+        "Un nombre tan largo que en la lona se lee chiquito.",
+        "Poner un precio en el nombre que luego tendrás que subir."
+      ]
+    },
+    {
+      "h2": "Dónde va a vivir tu nombre"
+    },
+    {
+      "p": "En comida rápida el nombre aparece en más lugares de los que piensas. Hazlo pensando en todos ellos desde el principio."
+    },
+    {
+      "ul": [
+        "La lona o el letrero del puesto.",
+        "El papel o la caja donde entregas la orden.",
+        "Tu perfil en apps de entrega y en Google Maps.",
+        "El contacto de WhatsApp donde te piden para llevar."
+      ]
+    },
+    {
+      "p": "Si el nombre se lee bien en una caja de cartón con plumón, sirve en todos lados."
+    },
+    {
+      "h2": "Tu nombre ante el IMPI"
+    },
+    {
+      "p": "«Tacos» o «tortas» solas son nombres comunes del producto y no se registran. Necesitas otra palabra que te distinga."
+    },
+    {
+      "p": "Un nombre de persona idéntico a una marca ya registrada también se niega. Lo marca la fracción XX del artículo 173."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es un nombre creativo para comida rápida?",
+      "respuesta": "Uno corto con un sabor o un juego de palabras. Pura Torta o Chile y Limón son ejemplos."
+    },
+    {
+      "pregunta": "¿Sirve para hamburguesas y hot dogs?",
+      "respuesta": "Sí. Escribe hamburguesa o dogos en tus palabras y aparecen en las ideas."
+    },
+    {
+      "pregunta": "¿Sirve para un puesto o carrito?",
+      "respuesta": "Sí. Elige uno corto que se lea bien en la lona del puesto."
+    },
+    {
+      "pregunta": "¿Los nombres traen groserías?",
+      "respuesta": "No. El generador las filtra para que puedas usarlos con familias."
+    },
+    {
+      "pregunta": "¿Puedo registrar «Tacos» y mi apellido?",
+      "respuesta": "Sí, como conjunto. La parte que te protege es tu apellido."
+    },
+    {
+      "pregunta": "¿Tienen ideas de promociones para mi negocio?",
+      "respuesta": "Sí. Mira las [promociones de hamburguesas](id:promociones-de-hamburguesas) para empezar."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-restaurantes",
+    "nombres-para-polleria",
+    "promociones-de-hamburguesas",
+    "menu-de-restaurante",
+    "slogan",
+    "lona-publicitaria"
+  ],
+  "venta": {
+    "puente": "Tu negocio de comida rápida puede tener una página con tu menú y pedidos directos por WhatsApp.",
+    "aviso": "¿Ya tienes nombre? Tu negocio puede recibir pedidos desde su página.",
+    "titulo": "¿Hacemos la página de tu negocio de comida?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección a la Propiedad Industrial, artículos 171, 173, 178, 201, 204 y 233 (Cámara de Diputados, última reforma DOF 03-04-2026)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Ejemplos sacados del motor nombres (generarNombres, semilla 7, apellido Ramírez). Ley leída en diputados.gob.mx el 12-nov-2026. La cabeza de la lista suena forzada en el title; se dejó tal cual porque el title debe empezar con ella."
+}

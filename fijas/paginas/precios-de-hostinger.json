@@ -1,0 +1,484 @@
+{
+  "id": "precios-de-hostinger",
+  "slug": "precios-de-hostinger",
+  "molde": "comparativa",
+  "cabeza": "hostinger planes",
+  "busquedas": [
+    "hostinger planes",
+    "hostinger precios",
+    "hostinger méxico precios",
+    "cuánto cuesta hostinger",
+    "hostinger vs aliviane"
+  ],
+  "title": "Hostinger planes y precios en pesos frente a Aliviane",
+  "h1": "Planes y precios de Hostinger en México",
+  "description": "Hostinger planes en pesos leídos el 12 de noviembre de 2026, qué incluye cada uno y cuánto pagas al renovar. Compáralo con tu página hecha por Aliviane.",
+  "resumen": "Los cuatro planes en pesos, la renovación y qué incluye cada uno",
+  "categoria": "Dominio y hosting",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Hostinger México muestra cuatro planes de hosting web con precios desde $24.99 al mes. Ese precio exige pagar 48 meses por adelantado.",
+    "Al renovar, el precio mensual sube. El plan más barato pasa a $89.99 al mes, según su página del 12 de noviembre de 2026."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Precios de Hostinger en pesos"
+    },
+    {
+      "p": "Estos son los precios que muestra hostinger.com/mx para hosting web. Los leímos el 12 de noviembre de 2026."
+    },
+    {
+      "tabla": {
+        "titulo": "Precio por mes con contrato de 48 meses",
+        "columnas": [
+          "Plan",
+          "Precio de entrada",
+          "Pago total hoy",
+          "Precio al renovar"
+        ],
+        "filas": [
+          [
+            "Single",
+            "$24.99",
+            "$1,199.52",
+            "$89.99 al mes"
+          ],
+          [
+            "Premium",
+            "$32.99",
+            "$1,583.52",
+            "$149.99 al mes"
+          ],
+          [
+            "Unlimited",
+            "$49.99",
+            "$2,399.52",
+            "$299.99 al mes"
+          ],
+          [
+            "Cloud Startup",
+            "$140.99",
+            "$6,767.52",
+            "$455.99 al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Todos los planes se pagan por adelantado. El precio mensual es el total dividido entre los meses del contrato."
+    },
+    {
+      "p": "La página no dice si los precios incluyen IVA. Tampoco muestra el precio para plazos de uno o doce meses."
+    },
+    {
+      "p": "Hostinger cambia precios y promociones seguido. Revisa el precio vigente en su página antes de pagar."
+    },
+    {
+      "h2": "Qué incluye cada plan"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Single",
+          "Premium",
+          "Unlimited",
+          "Cloud Startup"
+        ],
+        "filas": [
+          [
+            "Sitios web",
+            "1",
+            "3",
+            "Ilimitados",
+            "Ilimitados"
+          ],
+          [
+            "Almacenamiento",
+            "10 GB SSD",
+            "20 GB SSD",
+            "50 GB NVMe",
+            "100 GB NVMe"
+          ],
+          [
+            "Dominio gratis",
+            "Ver nota abajo",
+            "El primer año",
+            "El primer año",
+            "El primer año"
+          ],
+          [
+            "Buzones de correo",
+            "Uno",
+            "Dos por sitio el primer año",
+            "Ilimitados el primer año",
+            "Ilimitados el primer año"
+          ],
+          [
+            "Respaldos",
+            "Semanales",
+            "Semanales",
+            "Diarios",
+            "Diarios y bajo demanda"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En el plan Single la página se contradice. La lista del plan dice dominio gratis y sus preguntas dicen que Single no lo incluye."
+    },
+    {
+      "p": "Si el dominio te importa, confírmalo con Hostinger antes de contratar ese plan."
+    },
+    {
+      "p": "Todos los planes mencionan red de distribución, soporte las 24 horas y funciones de comercio electrónico. La página dice que el certificado SSL se instala solo."
+    },
+    {
+      "h2": "Los planes uno por uno"
+    },
+    {
+      "h3": "Single"
+    },
+    {
+      "p": "Es el plan de entrada para un solo sitio. Trae 10 GB de espacio, respaldos semanales y un buzón de correo."
+    },
+    {
+      "p": "Sirve para una página informativa con pocas visitas. Revisa lo del dominio antes de elegirlo."
+    },
+    {
+      "h3": "Premium"
+    },
+    {
+      "p": "Permite tres sitios con 20 GB de espacio. Incluye dominio gratis el primer año y dos buzones por sitio ese año."
+    },
+    {
+      "p": "Es el plan que la mayoría de los negocios compara. Por eso lo usamos en la tabla contra Aliviane."
+    },
+    {
+      "h3": "Unlimited"
+    },
+    {
+      "p": "Permite sitios ilimitados con 50 GB en discos NVMe. Agrega respaldos diarios con restauración sencilla."
+    },
+    {
+      "p": "Conviene a quien administra varias páginas, como una agencia chica o un negocio con varias marcas."
+    },
+    {
+      "h3": "Cloud Startup"
+    },
+    {
+      "p": "Es el más caro de la lista con 100 GB de espacio. Trae respaldos diarios y también bajo demanda."
+    },
+    {
+      "p": "Está pensado para sitios con más tráfico o tiendas que ya venden en línea."
+    },
+    {
+      "h2": "Cuánto pagas en realidad"
+    },
+    {
+      "p": "El precio de entrada sólo aplica si pagas los 48 meses juntos. Después de ese plazo se cobra el precio de renovación."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Plan",
+          "Primeros 48 meses",
+          "Al renovar, cada año"
+        ],
+        "filas": [
+          [
+            "Single",
+            "$1,199.52",
+            "$1,079.88"
+          ],
+          [
+            "Premium",
+            "$1,583.52",
+            "$1,799.88"
+          ],
+          [
+            "Unlimited",
+            "$2,399.52",
+            "$3,599.88"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La columna de renovación multiplica el precio mensual de renovación por doce. Hostinger aplica la renovación por el mismo plazo que contrataste."
+    },
+    {
+      "p": "El dominio gratis del primer año también se renueva después. Su precio de renovación no aparece en la página de planes."
+    },
+    {
+      "h2": "Qué es Hostinger y qué no hace por ti"
+    },
+    {
+      "p": "Hostinger renta espacio en sus servidores para que tu página viva en internet. Es un proveedor de hosting y de dominios."
+    },
+    {
+      "p": "Con el hosting tienes dónde poner tu página. Armarla, escribir los textos y subir fotos sigue siendo trabajo tuyo o de quien contrates."
+    },
+    {
+      "ul": [
+        "Eliges el plan y pagas el periodo completo.",
+        "Registras o conectas tu dominio.",
+        "Instalas un gestor de contenidos o subes tu página.",
+        "Diseñas, escribes y subes fotos.",
+        "Actualizas precios y datos cuando cambian."
+      ]
+    },
+    {
+      "p": "Si sabes hacer páginas o tienes a alguien que te las hace, es un camino barato. Lee [qué es hosting](id:que-es-hosting) si quieres entender bien cada pieza."
+    },
+    {
+      "h2": "Hostinger contra una página hecha por Aliviane"
+    },
+    {
+      "p": "No son lo mismo. Hostinger te renta el espacio y Aliviane te entrega la página publicada con espacio, dominio y cambios."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Hostinger Premium",
+          "Aliviane landing"
+        ],
+        "filas": [
+          [
+            "Qué compras",
+            "Espacio para tu página",
+            "La página hecha y publicada"
+          ],
+          [
+            "Quién la diseña",
+            "Tú o quien contrates",
+            "Aliviane con tus datos y fotos"
+          ],
+          [
+            "Pago inicial",
+            "$1,583.52 por 48 meses",
+            "$1,500 por la landing"
+          ],
+          [
+            "Pago después",
+            "$149.99 al mes al renovar",
+            "$99 al mes desde el segundo mes"
+          ],
+          [
+            "Dominio",
+            "Gratis el primer año",
+            "Incluido y a tu nombre, con renovación en la mensualidad"
+          ],
+          [
+            "Cambios",
+            "Los haces tú",
+            "Una ronda cada semana"
+          ],
+          [
+            "Botón de WhatsApp",
+            "Lo agregas tú",
+            "Incluido"
+          ],
+          [
+            "Ves el resultado antes de pagar",
+            "No aplica",
+            "Sí, con una muestra"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con Aliviane el primer año suma $1,500 más once mensualidades de $99. Eso da $2,589 con la página hecha y el dominio incluido."
+    },
+    {
+      "p": "En cuatro años la landing de Aliviane suma $6,153. En ese tiempo ya pagaste diseño, hosting, dominio y cambios semanales."
+    },
+    {
+      "h2": "Un ejemplo con números"
+    },
+    {
+      "p": "Imagina un taller mecánico que quiere enseñar sus servicios y recibir mensajes. No necesita carrito ni varios sitios."
+    },
+    {
+      "p": "Con Hostinger Premium pagaría $1,583.52 hoy por cuatro años de espacio. Además tendría que armar la página o pagarle a alguien."
+    },
+    {
+      "p": "Con Aliviane pagaría $1,500 y recibiría la página publicada. Desde el segundo mes pagaría $99 con cambios cada semana."
+    },
+    {
+      "p": "En dinero del primer día los dos se parecen. La diferencia está en quién hace la página y quién la mantiene al día."
+    },
+    {
+      "h2": "Hosting, dominio y correo son tres cosas distintas"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Pieza",
+          "Qué es",
+          "Quién te la da"
+        ],
+        "filas": [
+          [
+            "Hosting",
+            "El espacio donde vive tu página",
+            "Hostinger o el proveedor que elijas"
+          ],
+          [
+            "Dominio",
+            "La dirección que escribe tu cliente",
+            "Un registrador, a veces gratis el primer año"
+          ],
+          [
+            "Correo",
+            "Buzones con tu dominio",
+            "Tu hosting o un servicio aparte"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos planes juntan las tres piezas el primer año. Al renovar conviene revisar cuál sigue incluida y cuál se cobra aparte."
+    },
+    {
+      "p": "Lee más sobre cómo se conectan en [dominio y hosting](id:dominio-y-hosting)."
+    },
+    {
+      "h2": "Para quién es mejor Aliviane"
+    },
+    {
+      "ul": [
+        "Tienes un negocio local y tus clientes te escriben por WhatsApp.",
+        "No quieres aprender a armar ni a mantener una página.",
+        "Prefieres pagar poco al inicio y no 48 meses juntos.",
+        "Quieres ver tu página terminada antes de pagar.",
+        "Quieres mandar un mensaje y que alguien haga el cambio."
+      ]
+    },
+    {
+      "p": "Aliviane hace páginas informativas con botones de contacto. Pedidos en línea, cobros y sistemas se cotizan aparte."
+    },
+    {
+      "h2": "Para quién es Hostinger"
+    },
+    {
+      "ul": [
+        "Sabes armar páginas o tienes quien te las haga.",
+        "Necesitas varios sitios en un solo plan.",
+        "Quieres una tienda con carrito en tu propio gestor.",
+        "Puedes pagar varios años por adelantado."
+      ]
+    },
+    {
+      "h2": "Si eliges un hosting, cómo empezar bien"
+    },
+    {
+      "ol": [
+        "Registra el dominio a tu nombre y no al de quien te ayuda.",
+        "Guarda usuario y contraseña del panel en un lugar seguro.",
+        "Activa los respaldos y prueba restaurar uno.",
+        "Pon tu página con candado antes de compartir la liga.",
+        "Anota la fecha de renovación en tu calendario."
+      ]
+    },
+    {
+      "p": "Un plan barato que vence sin aviso deja a tu negocio sin página. La fecha de renovación vale tanto como el precio."
+    },
+    {
+      "h2": "Lo que conviene revisar en cualquier hosting"
+    },
+    {
+      "ol": [
+        "El precio de renovación y no sólo el de entrada.",
+        "Cuántos meses tienes que pagar para ese precio.",
+        "Si el dominio es gratis para siempre o sólo el primer año.",
+        "Si el correo con tu dominio sigue gratis después del primer año.",
+        "Quién hace los respaldos y cómo se restauran.",
+        "Si los precios incluyen IVA."
+      ]
+    },
+    {
+      "p": "Con estas respuestas comparas cualquier proveedor. El precio de la portada casi nunca es lo que pagas al tercer año."
+    },
+    {
+      "h2": "Si ya tienes Hostinger"
+    },
+    {
+      "p": "Puedes conservar tu dominio y usar tu hosting para otra cosa. Si tu dominio está a tu nombre, se puede apuntar a una página nueva."
+    },
+    {
+      "p": "Antes de cancelar cualquier plan, guarda tus textos y fotos. Revisa también si tu correo vive en ese hosting."
+    },
+    {
+      "p": "Si sólo quieres cambiar de proveedor de dominio, lee [traslado de dominio](id:traslado-de-dominio). Ahí explicamos el código de transferencia."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta Hostinger en México?",
+      "respuesta": "Desde $24.99 al mes con 48 meses pagados por adelantado. Al renovar el plan Single cuesta $89.99 al mes."
+    },
+    {
+      "pregunta": "¿Hostinger incluye dominio gratis?",
+      "respuesta": "En Premium y planes mayores sí, el primer año. En Single su página se contradice."
+    },
+    {
+      "pregunta": "¿Los precios de Hostinger incluyen IVA?",
+      "respuesta": "Su página no lo dice. Confírmalo al pagar."
+    },
+    {
+      "pregunta": "¿Hostinger me hace la página?",
+      "respuesta": "No en el hosting web. El plan te da espacio y la página la armas tú."
+    },
+    {
+      "pregunta": "¿Qué pasa con mi página de Aliviane si dejo de pagar?",
+      "respuesta": "Se pausa. El dominio sigue siendo tuyo."
+    },
+    {
+      "pregunta": "¿Puedo usar mi dominio de Hostinger con Aliviane?",
+      "respuesta": "Sí. Si está a tu nombre, lo apuntamos a tu nueva página."
+    },
+    {
+      "pregunta": "¿Puedo pagar Hostinger mes con mes?",
+      "respuesta": "Su página de planes no muestra ese precio. Sólo enseña el de 48 meses."
+    },
+    {
+      "pregunta": "¿Aliviane incluye el hosting?",
+      "respuesta": "Sí. Los $99 al mes mantienen tu página en línea con tus cambios."
+    },
+    {
+      "pregunta": "¿Qué conviene para un negocio pequeño?",
+      "respuesta": "Depende de quién hará la página. Si no quieres hacerla tú, conviene pedirla hecha."
+    }
+  ],
+  "relacionadas": [
+    "que-es-hosting",
+    "dominio-y-hosting",
+    "hosting-en-mexico",
+    "precios-de-wix",
+    "comprar-dominio",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Si no quieres armar tu página en un hosting, Aliviane te la entrega publicada con dominio y cambios.",
+    "titulo": "¿Prefieres tu página ya hecha?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "signsolu"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Hostinger México, planes de hosting web (leído el 12 de noviembre de 2026)",
+      "url": "https://www.hostinger.com/mx/hosting-web"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Precios leídos con WebFetch en hostinger.com/mx/hosting-web el 12-nov-2026 (48 meses, sin decir IVA; Single con dominio contradictorio entre la lista y las preguntas). Cabeza de 3K: no se leyó top 3. Antes de publicar, volver a leer la fuente y actualizar tabla y «revisada»."
+}

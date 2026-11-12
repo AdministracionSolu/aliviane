@@ -1,0 +1,207 @@
+{
+  "id": "firma-de-correo",
+  "slug": "firma-de-correo",
+  "molde": "herramienta",
+  "cabeza": "firma de correo",
+  "busquedas": [
+    "firma correo",
+    "firma para correo",
+    "firmas de correo"
+  ],
+  "title": "Firma de correo gratis para Gmail y Outlook",
+  "h1": "Generador de firma de correo",
+  "description": "Firma de correo con tu logo, tu WhatsApp y tus redes. Cinco diseños, copia con formato para Gmail, Outlook y Apple Mail o baja el .html. Gratis y sin cuenta.",
+  "resumen": "Cinco diseños con logo, WhatsApp y redes, listos para pegar",
+  "categoria": "Correo",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Llena tu nombre, tu puesto y tus datos de contacto. Elige uno de los cinco diseños y toca «Copiar firma».",
+    "Pégala en la configuración de tu correo y queda con formato, ligas y colores."
+  ],
+  "herramienta": {
+    "id": "firma-correo",
+    "modo": ""
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo armar tu firma"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe tus datos",
+          "texto": "Sólo el nombre es obligatorio. Lo demás aparece si lo llenas."
+        },
+        {
+          "titulo": "Agrega tu logo",
+          "texto": "Pega la liga de tu logo si ya está en internet. Es lo que mejor funciona."
+        },
+        {
+          "titulo": "Elige diseño y color",
+          "texto": "Hay clásica, con línea o compacta. También centrada y tipo tarjeta."
+        },
+        {
+          "titulo": "Copia y pega",
+          "texto": "Abre la configuración de tu correo y pega con Ctrl + V."
+        }
+      ]
+    },
+    {
+      "h2": "Los cinco diseños"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Diseño",
+          "Cómo se ve",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Clásica",
+            "Nombre arriba y datos en renglones",
+            "Cualquier negocio"
+          ],
+          [
+            "Con línea",
+            "Una barra de color separa logo y datos",
+            "Marcas con color propio"
+          ],
+          [
+            "Compacta",
+            "Todo en pocas líneas",
+            "Quien escribe muchos correos cortos"
+          ],
+          [
+            "Centrada",
+            "Datos alineados al centro",
+            "Despachos y profesionistas"
+          ],
+          [
+            "Tarjeta",
+            "Recuadro con logo al lado",
+            "Ventas y atención a clientes"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué poner en una firma de negocio"
+    },
+    {
+      "ul": [
+        "Tu nombre y tu puesto.",
+        "El nombre de tu negocio.",
+        "Un teléfono y tu WhatsApp como liga que abre el chat.",
+        "Tu página web.",
+        "Una o dos redes, no todas."
+      ]
+    },
+    {
+      "p": "La dirección sólo conviene si recibes clientes en tu local. Si trabajas a distancia, mejor deja la ciudad."
+    },
+    {
+      "p": "Menos es más en una firma. Una firma de diez renglones se ve como publicidad y la gente deja de leerla."
+    },
+    {
+      "h2": "Cómo pegarla en cada correo"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Correo",
+          "Dónde se pega"
+        ],
+        "filas": [
+          [
+            "Gmail",
+            "Engrane · Ver toda la configuración · General · Firma"
+          ],
+          [
+            "Outlook en la web",
+            "Configuración · Cuentas · Firmas"
+          ],
+          [
+            "Outlook clásico",
+            "Archivo · Opciones · Correo · Firmas"
+          ],
+          [
+            "Apple Mail",
+            "Ajustes · Firmas · tu cuenta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La herramienta abre los pasos de cada correo debajo de la firma. Para Gmail hay una página con más detalle en [firma de Gmail](id:firma-de-gmail)."
+    },
+    {
+      "h2": "El logo, la parte que más falla"
+    },
+    {
+      "p": "Gmail no guarda las imágenes que subes desde tu equipo dentro de la firma. Para que se vea en Gmail tu logo debe estar en internet."
+    },
+    {
+      "p": "En Outlook y Apple Mail sí funciona el logo subido. Si tu logo está en tu página, copia su dirección y pégala en el campo de liga."
+    },
+    {
+      "h2": "Una firma con dominio propio"
+    },
+    {
+      "p": "Una firma con correo de Gmail gratis se ve menos formal que una con tu dominio. Un correo como ventas@tunegocio.mx genera más confianza."
+    },
+    {
+      "p": "Lee qué necesitas para tener un [correo corporativo](id:correo-corporativo) con el nombre de tu negocio."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El generador de firma es gratis?",
+      "respuesta": "Sí. No pide cuenta y no agrega publicidad a tu firma."
+    },
+    {
+      "pregunta": "¿Por qué no se ve mi logo en Gmail?",
+      "respuesta": "Porque lo subiste desde tu equipo. En Gmail usa la liga de tu logo en internet."
+    },
+    {
+      "pregunta": "¿Se pierde el formato al pegar?",
+      "respuesta": "No. Se copia con formato para que conserve tabla, ligas y negritas."
+    },
+    {
+      "pregunta": "¿Puedo poner mi WhatsApp?",
+      "respuesta": "Sí. Escribe tus 10 dígitos y sale como liga que abre el chat."
+    },
+    {
+      "pregunta": "¿Se guardan mis datos?",
+      "respuesta": "Sí, sólo en tu equipo. Así no los vuelves a escribir la próxima vez."
+    },
+    {
+      "pregunta": "¿Puedo bajar la firma?",
+      "respuesta": "Sí. Baja el archivo .html o copia el código para pegarlo en otro programa."
+    }
+  ],
+  "relacionadas": [
+    "firma-de-gmail",
+    "correo-corporativo",
+    "que-es-un-dominio",
+    "tarjetas-de-presentacion",
+    "link-de-whatsapp"
+  ],
+  "venta": {
+    "puente": "La liga de tu firma puede llevar a tu propia página con tu dominio.",
+    "aviso": "¿Tu firma ya tiene liga a tu página? Si aún no tienes página, te la hacemos.",
+    "titulo": "¿Hacemos la página que va en tu firma?",
+    "trabajos": [
+      "signsolu",
+      "makatea",
+      "solu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos de cada correo tomados del motor firma-correo."
+}

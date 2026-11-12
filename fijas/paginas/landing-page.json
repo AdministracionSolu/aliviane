@@ -1,0 +1,433 @@
+{
+  "id": "landing-page",
+  "slug": "landing-page",
+  "molde": "servicio",
+  "cabeza": "landing page",
+  "busquedas": [
+    "landing page",
+    "landing page precio",
+    "landing page para negocio",
+    "hacer landing page",
+    "diseño de landing page",
+    "página de aterrizaje"
+  ],
+  "title": "Landing page para tu negocio por $1,500 con dominio",
+  "h1": "Landing page para tu negocio",
+  "description": "Landing page hecha por Aliviane en pocos días. Una página para tu giro con tus servicios, tus fotos y tu WhatsApp. $1,500 con dominio incluido y $99 al mes.",
+  "resumen": "Una sola página para tu giro con botón a tu WhatsApp",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "servicio": {
+    "nombre": "Landing page",
+    "tipo": "Diseño de landing page"
+  },
+  "respuesta": [
+    "Una landing page es una sola página larga que cuenta lo importante de tu negocio y lleva a una acción. En tu caso, que te escriban por WhatsApp.",
+    "Aliviane la hace en pocos días por $1,500 con tu dominio incluido. Después pagas $99 al mes con cambios cada semana."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué recibes con tu landing"
+    },
+    {
+      "p": "Una página diseñada para tu giro que se recorre de arriba abajo con el dedo. Cada sección empuja a tu cliente al botón de WhatsApp."
+    },
+    {
+      "ul": [
+        "Diseño hecho para tu giro y tu marca.",
+        "Tus servicios y tus fotos en un solo lugar.",
+        "Botón directo a tu WhatsApp en varias partes de la página.",
+        "Tu dominio incluido y registrado a tu nombre.",
+        "Una ronda de cambios cada semana."
+      ]
+    },
+    {
+      "p": "Antes de contratar ves tu landing terminada. La hacemos con los datos públicos de tu negocio y te mandamos la liga."
+    },
+    {
+      "h2": "Precio de la landing"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Concepto",
+          "Costo"
+        ],
+        "filas": [
+          [
+            "Diseño y publicación",
+            "$1,500 MXN de pago único"
+          ],
+          [
+            "Dominio a tu nombre",
+            "Incluido"
+          ],
+          [
+            "Mensualidad",
+            "$99 desde el segundo mes"
+          ],
+          [
+            "Renovación del dominio",
+            "Sale de la mensualidad"
+          ],
+          [
+            "Ronda de cambios semanal",
+            "Incluida en la mensualidad"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Se paga con tarjeta en pesos mexicanos. Hoy pagas la landing y la mensualidad empieza al mes."
+    },
+    {
+      "p": "Si tu negocio crece y necesitas más páginas, pasas al sitio completo de $5,000. Te abonamos los $1,500 que ya pagaste."
+    },
+    {
+      "h2": "Cómo se ordena una landing que vende"
+    },
+    {
+      "p": "El orden importa tanto como el diseño. Así acomodamos las secciones de una landing para negocio local."
+    },
+    {
+      "ol": [
+        "Arriba va tu nombre con lo que haces. También tu zona y el botón de WhatsApp.",
+        "Después, tus servicios con precio o precio desde.",
+        "Luego, fotos reales de tu trabajo o tu local.",
+        "Después, por qué elegirte y opiniones de clientes.",
+        "Preguntas que siempre te hacen, ya contestadas.",
+        "Al final, mapa, horario y otra vez el botón."
+      ]
+    },
+    {
+      "p": "El mensaje de WhatsApp ya va escrito. Tu cliente sólo toca enviar y tú recibes la pregunta con contexto."
+    },
+    {
+      "h2": "Landing o sitio completo"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Landing",
+          "Sitio completo"
+        ],
+        "filas": [
+          [
+            "Precio",
+            "$1,500",
+            "$5,000"
+          ],
+          [
+            "Páginas",
+            "Una sola, larga",
+            "Hasta 10"
+          ],
+          [
+            "Conviene si",
+            "Vendes pocos servicios y te escriben por WhatsApp",
+            "Tienes menú largo, catálogo o agenda de citas"
+          ],
+          [
+            "Aviso de privacidad y términos",
+            "Aparte",
+            "Incluidos"
+          ],
+          [
+            "Mensualidad",
+            "$99",
+            "$99"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para la mayoría de los negocios locales la landing alcanza. Es también la mejor forma de empezar si es tu primera página."
+    },
+    {
+      "h2": "Ejemplos por giro"
+    },
+    {
+      "p": "La estructura cambia según lo que vende cada negocio. Estos son tres ejemplos de cómo la armamos."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Secciones de su landing"
+        ],
+        "filas": [
+          [
+            "Dentista",
+            "Tratamientos · precio desde · fotos del consultorio y botón para cita"
+          ],
+          [
+            "Pastelería",
+            "Pasteles por ocasión · sabores · tamaños y pedido con anticipación"
+          ],
+          [
+            "Plomero",
+            "Servicios · zona que atiende · urgencias y presupuesto por WhatsApp"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En los tres casos la meta es la misma. Que el cliente te escriba con una pregunta concreta."
+    },
+    {
+      "h2": "Proyectos que ya están en línea"
+    },
+    {
+      "p": "Abre estos sitios en tu celular. Fíjate cómo cada uno te lleva a una sola acción."
+    },
+    {
+      "trabajos": true
+    },
+    {
+      "p": "En La Ola la acción es ver el menú y reservar. En Solú es empezar la solicitud desde el celular."
+    },
+    {
+      "h2": "Cómo trabajamos tu landing"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Te mandamos la muestra",
+          "texto": "La armamos con los datos de tu ficha de Google y la ves en tu celular."
+        },
+        {
+          "titulo": "La ajustamos contigo",
+          "texto": "Nos mandas tus fotos, tu logo y lo que quieres cambiar."
+        },
+        {
+          "titulo": "La publicamos",
+          "texto": "Con tu dominio y dada de alta en Google junto a tu ficha de Maps."
+        },
+        {
+          "titulo": "La mantenemos",
+          "texto": "Pides cambios por WhatsApp hasta el viernes y quedan listos el sábado."
+        }
+      ]
+    },
+    {
+      "h2": "Para qué sirve una landing en un negocio local"
+    },
+    {
+      "p": "En marketing una landing suele usarse para una campaña o un anuncio. En un negocio local hace de tarjeta de presentación completa."
+    },
+    {
+      "ul": [
+        "La liga que pones en tu perfil de Instagram y Facebook.",
+        "El destino del QR de tu mostrador, tu menú o tus volantes.",
+        "La página a la que mandas a quien te pide informes por mensaje.",
+        "La dirección web que aparece en tu ficha de Google Maps."
+      ]
+    },
+    {
+      "p": "Si quieres entender mejor el concepto, lee [qué es una landing page](id:que-es-una-landing-page). También puedes ver [ejemplos de landing page](id:ejemplos-de-landing-page) por giro."
+    },
+    {
+      "h2": "Errores que vemos en landings hechas a la carrera"
+    },
+    {
+      "ul": [
+        "Un botón de contacto escondido hasta el final.",
+        "Fotos de banco que no son del negocio.",
+        "Textos largos que nadie lee en el celular.",
+        "Imágenes tan pesadas que la página tarda en abrir.",
+        "Un teléfono viejo que ya nadie contesta."
+      ]
+    },
+    {
+      "p": "Cuidamos que tu landing cargue rápido con datos del celular. También revisamos que los datos coincidan con tu ficha de Google."
+    },
+    {
+      "h2": "Lo que tu cliente decide en la primera pantalla"
+    },
+    {
+      "p": "Quien abre tu landing decide en segundos si sigue leyendo. La primera pantalla del celular tiene que contestar tres preguntas."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Pregunta del cliente",
+          "Qué le contesta tu landing"
+        ],
+        "filas": [
+          [
+            "¿Qué venden aquí?",
+            "Una frase corta con tu servicio principal"
+          ],
+          [
+            "¿Me queda cerca?",
+            "Tu colonia, tu ciudad o la zona que atiendes"
+          ],
+          [
+            "¿Cómo les escribo?",
+            "El botón de WhatsApp a la vista"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Todo lo demás va más abajo. Fotos, precios y opiniones convencen a quien ya decidió quedarse."
+    },
+    {
+      "h2": "Cómo escribimos los textos de tu landing"
+    },
+    {
+      "p": "En el celular la gente lee poco y de prisa. Por eso cada sección de tu landing dice una sola cosa."
+    },
+    {
+      "ul": [
+        "Títulos cortos que se entienden sin leer el resto.",
+        "Precios con número, aunque sea precio desde.",
+        "Palabras de tus clientes y no de catálogo.",
+        "Un botón al final de cada sección importante."
+      ]
+    },
+    {
+      "p": "Si ya tienes textos en tus redes o tu ficha de Google, los aprovechamos. Tú sólo revisas que digan lo correcto."
+    },
+    {
+      "h2": "Tu landing como destino de anuncios"
+    },
+    {
+      "p": "Si pagas anuncios en Facebook, Instagram o Google, necesitas a dónde mandar a la gente. Mandarla a tu landing ordena la conversación."
+    },
+    {
+      "p": "El cliente ve tus servicios y tus precios antes de escribir. Te llegan mensajes de gente que ya sabe lo que quiere."
+    },
+    {
+      "p": "Cuando cambias de promoción, la cambiamos en la ronda de la semana. Así tu anuncio y tu landing dicen lo mismo."
+    },
+    {
+      "h2": "Después de publicarla"
+    },
+    {
+      "p": "Tu landing no se queda congelada. Cada semana puedes pedir una ronda de cambios sin pagar extra."
+    },
+    {
+      "ul": [
+        "Subir la promoción de la quincena o de temporada.",
+        "Cambiar precios cuando suban tus costos.",
+        "Agregar fotos de trabajos nuevos.",
+        "Poner un aviso de vacaciones o de horario especial.",
+        "Quitar un servicio que ya no das."
+      ]
+    },
+    {
+      "p": "Lo que pides hasta el viernes queda listo el sábado. Si cambias de teléfono, lo corregimos el mismo día."
+    },
+    {
+      "p": "Con el tiempo tu landing aprende de tus clientes. Si muchos preguntan lo mismo, agregamos la respuesta en la página."
+    },
+    {
+      "h2": "Qué necesitamos para empezar"
+    },
+    {
+      "ul": [
+        "El nombre de tu negocio y tu logo si ya lo tienes.",
+        "Tus servicios con su precio.",
+        "Fotos de tus trabajos o de tu local.",
+        "El número de WhatsApp donde quieres recibir clientes."
+      ]
+    },
+    {
+      "p": "Si no tienes logo, armamos tu nombre con una letra que vaya con tu giro. Mientras mandas tus fotos usamos las de tu ficha de Google."
+    },
+    {
+      "h2": "Qué no incluye"
+    },
+    {
+      "p": "La landing es informativa con botones de contacto. Pedidos en línea, cobros dentro de la página y sistemas se cotizan aparte."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta una landing page?",
+      "respuesta": "$1,500 con tu dominio incluido. Después $99 al mes con cambios cada semana."
+    },
+    {
+      "pregunta": "¿En cuánto tiempo está lista?",
+      "respuesta": "En pocos días. La muestra ya está hecha cuando hablamos."
+    },
+    {
+      "pregunta": "¿Puedo verla antes de pagar?",
+      "respuesta": "Sí. Te mandamos la liga de tu muestra para que la abras en tu celular."
+    },
+    {
+      "pregunta": "¿El dominio es mío?",
+      "respuesta": "Sí. Se registra a nombre de tu negocio y no se paga aparte."
+    },
+    {
+      "pregunta": "¿Qué pasa si dejo de pagar los $99?",
+      "respuesta": "Tu página se pausa. El dominio sigue siendo tuyo."
+    },
+    {
+      "pregunta": "¿Puedo pasar de landing a sitio completo?",
+      "respuesta": "Sí. Te abonamos los $1,500 de tu landing al sitio de $5,000."
+    },
+    {
+      "pregunta": "¿Sirve si atiendo a domicilio y no tengo local?",
+      "respuesta": "Sí. Ponemos la zona que atiendes en lugar de una dirección."
+    },
+    {
+      "pregunta": "¿Cuántos cambios puedo pedir?",
+      "respuesta": "Una ronda cada semana. Teléfono o dirección se corrigen el mismo día."
+    },
+    {
+      "pregunta": "¿Necesito tener logo?",
+      "respuesta": "No. Si no tienes, armamos tu nombre con una letra que vaya con tu giro."
+    },
+    {
+      "pregunta": "¿La landing puede cobrar con tarjeta?",
+      "respuesta": "No en el paquete. Los cobros en línea se cotizan aparte."
+    }
+  ],
+  "relacionadas": [
+    "pagina-web-para-negocio",
+    "ejemplos-de-landing-page",
+    "que-es-una-landing-page",
+    "diseno-de-paginas-web",
+    "plantillas-html",
+    "favicon"
+  ],
+  "venta": {
+    "puente": "Tu landing puede estar en tu celular para revisarla antes de que pagues.",
+    "tituloCorto": "Tu landing por $1,500 con dominio",
+    "titulo": "¿Hacemos tu landing?",
+    "trabajos": [
+      "laola",
+      "solu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.dolarapp.com/en-MX/blog/freelancer-tips/landing-page-que-es-para-que-sirve-ejemplos",
+      "titulo": "Landing page: qué es, para qué sirve y ejemplos",
+      "promete": "Definición para campañas; no la ofrece hecha ni da precio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.salesforce.com/mx/marketing/how-to-create-landing-pages/",
+      "titulo": "Cómo crear landing pages",
+      "promete": "Guía para empresas grandes con su software de marketing"
+    },
+    {
+      "posicion": 3,
+      "url": "https://landingi.com/es/landing-page/costo/",
+      "titulo": "Costo de una landing page",
+      "promete": "Precios en euros y dólares de su constructor; no aplica a un negocio local en México"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Precio, plazos e inclusiones sólo los que dice index.html. Trabajos: proyectos del portafolio sin Agroqs ni Avelina (pendientes de permiso). Top 3 leído con WebSearch el 12-nov-2026 (búsqueda «landing page qué es precio México»)."
+}

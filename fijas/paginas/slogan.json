@@ -1,0 +1,241 @@
+{
+  "id": "slogan",
+  "slug": "slogan",
+  "molde": "herramienta",
+  "cabeza": "slogan",
+  "busquedas": [
+    "eslogan",
+    "slogan de marca",
+    "eslogan de marca",
+    "slogan de una marca",
+    "slogan creativos",
+    "slogan creativo",
+    "ejemplo slogan",
+    "slogan ejemplos",
+    "eslogan ejemplos",
+    "ejemplo de slogan",
+    "ejemplo de eslogan"
+  ],
+  "title": "Slogan para tu negocio: generador gratis con ejemplos",
+  "h1": "Generador de slogan para tu negocio",
+  "description": "Slogan para tu negocio en segundos. Elige giro, lo que más cuidas y el tono. Guarda tus favoritos y bájalos en una lista. Gratis, sin cuenta y sin correo.",
+  "resumen": "Slogans por giro, tono y lo que más cuidas de tu negocio",
+  "categoria": "Nombres y slogan",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige tu giro y lo que más cuidas, como sabor, precio o rapidez. Toca «Dame slogans» y salen frases listas para tu letrero.",
+    "Puedes poner el nombre de tu negocio y tu ciudad para que aparezcan en la frase."
+  ],
+  "herramienta": {
+    "id": "slogan",
+    "modo": ""
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo armar tu slogan"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escoge el giro",
+          "texto": "Hay giros de comida, ropa, belleza y tiendas. Cada uno tiene frases propias."
+        },
+        {
+          "titulo": "Elige lo que más cuidas",
+          "texto": "Puede ser precio o calidad. También sabor, atención o entrega a domicilio."
+        },
+        {
+          "titulo": "Filtra por tono",
+          "texto": "Puede ser cercano o directo. También divertido, elegante o tradicional."
+        },
+        {
+          "titulo": "Guarda y prueba",
+          "texto": "Escribe tus favoritos debajo de tu logo y mira cuál se lee mejor."
+        }
+      ]
+    },
+    {
+      "h2": "Slogans que salieron del generador"
+    },
+    {
+      "p": "Estos ejemplos salieron con el nombre de prueba Casa Ramírez."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Ejemplos"
+        ],
+        "filas": [
+          [
+            "Restaurante",
+            "Del comal a tu mesa. Barriga llena, corazón contento."
+          ],
+          [
+            "Ropa",
+            "El arte de vestir bien. Variedad que se nota."
+          ],
+          [
+            "Barbería",
+            "Barba que da envidia. El oficio de siempre."
+          ],
+          [
+            "General",
+            "Hacemos que pase. Tu lugar de siempre, cerca de casa."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué es un slogan y para qué sirve"
+    },
+    {
+      "p": "El slogan es la frase corta que acompaña a tu nombre. Dice por qué elegirte en menos de diez palabras."
+    },
+    {
+      "p": "El nombre dice quién eres. El slogan dice qué te hace distinto o qué promete tu negocio."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Nombre",
+          "Slogan"
+        ],
+        "filas": [
+          [
+            "Qué hace",
+            "Te identifica",
+            "Te diferencia"
+          ],
+          [
+            "Cuánto cambia",
+            "Casi nunca",
+            "Puede cambiar con tu campaña"
+          ],
+          [
+            "Dónde va",
+            "Letrero, factura y dominio",
+            "Debajo del logo, en lonas y redes"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo saber si tu slogan sirve"
+    },
+    {
+      "ul": [
+        "Se entiende sin explicación.",
+        "Cabe en una línea debajo de tu logo.",
+        "Promete algo que de verdad cumples.",
+        "No lo podría usar tu competencia tal cual.",
+        "Suena bien dicho en voz alta."
+      ]
+    },
+    {
+      "p": "Pruébalo con tus clientes. Si lo repiten sin que se los pidas, encontraste el bueno."
+    },
+    {
+      "h2": "Errores al escribir un slogan"
+    },
+    {
+      "ul": [
+        "Prometer «el mejor de México» sin forma de demostrarlo.",
+        "Escribir una frase de veinte palabras que nadie recuerda.",
+        "Copiar el slogan de una marca famosa con otra palabra.",
+        "Usar palabras que sólo se entienden en tu región si vendes en todo el país."
+      ]
+    },
+    {
+      "p": "Cambia el tono según dónde lo uses. El tradicional va bien en una fonda y el divertido en una lona de promoción."
+    },
+    {
+      "h2": "El slogan también se puede registrar"
+    },
+    {
+      "p": "En la ley mexicana el slogan se llama aviso comercial. El artículo 201 lo define como la frase que anuncia un negocio o un producto."
+    },
+    {
+      "p": "Su registro ante el IMPI dura diez años desde que se otorga. Se renueva por periodos iguales según el artículo 204."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El generador de slogan es gratis?",
+      "respuesta": "Sí. No pide cuenta ni correo y puedes pedir todos los slogans que quieras."
+    },
+    {
+      "pregunta": "¿Se dice slogan o eslogan?",
+      "respuesta": "Las dos se usan en México. En español la forma escrita es eslogan."
+    },
+    {
+      "pregunta": "¿Puedo poner el nombre de mi negocio en la frase?",
+      "respuesta": "Sí. Escríbelo en el campo de nombre y aparece en varios slogans."
+    },
+    {
+      "pregunta": "¿Cuántas palabras debe tener un slogan?",
+      "respuesta": "Entre tres y ocho. Más largo cuesta trabajo recordarlo."
+    },
+    {
+      "pregunta": "¿Puedo registrar mi slogan?",
+      "respuesta": "Sí. Se registra ante el IMPI como aviso comercial y dura diez años."
+    },
+    {
+      "pregunta": "¿Dónde se guardan mis favoritos?",
+      "respuesta": "En tu equipo. No se mandan a ningún servidor."
+    },
+    {
+      "pregunta": "¿Puedo tener más de un slogan?",
+      "respuesta": "Sí. Uno fijo para tu marca y otros para cada campaña o temporada."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-empresas",
+    "nombres-para-restaurantes",
+    "nombres-para-tiendas-de-ropa",
+    "crear-logo-gratis",
+    "frases-para-vender",
+    "flyer"
+  ],
+  "venta": {
+    "puente": "Tu slogan luce mejor arriba de tu propia página, junto a tus servicios y tu WhatsApp.",
+    "aviso": "¿Ya tienes tu frase? Ponla en la portada de tu propia página.",
+    "titulo": "¿Hacemos la página donde va tu slogan?",
+    "trabajos": [
+      "laola",
+      "makatea",
+      "comprafin"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección a la Propiedad Industrial, artículos 171, 173, 178, 201, 204 y 233 (Cámara de Diputados, última reforma DOF 03-04-2026)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/mx/blog/slogan-ejemplos/",
+      "titulo": "200 ejemplos de eslóganes famosos y únicos que dejaron huella",
+      "promete": "Lista larga de slogans de marcas famosas; no genera uno para tu negocio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.canva.com/es_mx/generador-esloganes/",
+      "titulo": "Generador de eslóganes gratuito",
+      "promete": "Generador con IA y créditos limitados en la cuenta gratis; pide registrarte"
+    },
+    {
+      "posicion": 3,
+      "url": "https://es.shopify.com/herramientas/generador-eslogan-para-empresas",
+      "titulo": "Generador de eslogan para empresas",
+      "promete": "Frases a partir de una palabra; sin giros ni tonos de México"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Ejemplos del motor slogan (generarSlogans, semilla 3, nombre Casa Ramírez). Top 3 leído con WebSearch el 12-nov-2026. Artículos 201 y 204 LFPPI leídos en diputados.gob.mx."
+}

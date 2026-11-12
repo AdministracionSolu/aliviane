@@ -1,0 +1,184 @@
+{
+  "id": "firma-de-gmail",
+  "slug": "firma-de-gmail",
+  "molde": "herramienta",
+  "cabeza": "firma gmail",
+  "busquedas": [
+    "firma gmail",
+    "firma de gmail",
+    "como poner firma en gmail",
+    "firma con logo en gmail"
+  ],
+  "title": "Firma Gmail con logo y redes lista para pegar",
+  "h1": "Firma para Gmail",
+  "description": "Firma Gmail con tu logo, tu WhatsApp y tus redes. La armas aquí, la copias con formato y la pegas en Gmail en cinco pasos. Gratis y sin dar tu contraseña.",
+  "resumen": "Arma tu firma y pégala en Gmail en cinco pasos",
+  "categoria": "Correo",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Arma tu firma arriba y toca «Copiar firma». En Gmail entra a la configuración, busca «Firma» y pégala.",
+    "Para que tu logo se vea en Gmail usa la liga de una imagen que ya esté en internet."
+  ],
+  "herramienta": {
+    "id": "firma-correo",
+    "modo": "gmail"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo poner tu firma en Gmail"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre la configuración",
+          "texto": "En Gmail da clic en el engrane de arriba y luego en «Ver toda la configuración»."
+        },
+        {
+          "titulo": "Busca «Firma»",
+          "texto": "En la pestaña «General» baja hasta «Firma» y da clic en «Crear nueva»."
+        },
+        {
+          "titulo": "Pega tu firma",
+          "texto": "Ponle un nombre y pega con Ctrl + V o Cmd + V en Mac."
+        },
+        {
+          "titulo": "Elige cuándo usarla",
+          "texto": "En los valores predeterminados escógela para correos nuevos y respuestas."
+        },
+        {
+          "titulo": "Guarda",
+          "texto": "Baja hasta el final y da clic en «Guardar cambios»."
+        }
+      ]
+    },
+    {
+      "p": "Escribe un correo de prueba para ti mismo. Así ves la firma como la verá tu cliente."
+    },
+    {
+      "h2": "El logo en Gmail"
+    },
+    {
+      "p": "Gmail no conserva la imagen si la subes desde tu computadora a la herramienta. Al pegarla, la firma llega sin logo."
+    },
+    {
+      "p": "La solución es usar la liga de tu logo. Si tu página ya lo tiene, da clic derecho sobre él y copia la dirección de la imagen."
+    },
+    {
+      "ul": [
+        "Usa un logo de unos 100 a 150 píxeles de ancho.",
+        "Guárdalo en PNG para que conserve bordes limpios.",
+        "Revisa que la liga abra la imagen sola en el navegador.",
+        "No uses ligas de Drive privadas porque no abren a otros."
+      ]
+    },
+    {
+      "h2": "Firma en el celular"
+    },
+    {
+      "p": "La app de Gmail en el celular tiene su propia firma de sólo texto. La firma con diseño sólo sale desde la computadora."
+    },
+    {
+      "p": "Si respondes mucho desde el celular, pon ahí tu nombre y tu WhatsApp. Es la versión corta de tu firma."
+    },
+    {
+      "h2": "Varias firmas en una cuenta"
+    },
+    {
+      "p": "Gmail te deja guardar varias firmas. Puedes tener una larga para correos nuevos y una corta para respuestas."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Firma",
+          "Qué lleva",
+          "Cuándo"
+        ],
+        "filas": [
+          [
+            "Completa",
+            "Logo · nombre · puesto · teléfono · página y redes",
+            "Primer correo a un cliente"
+          ],
+          [
+            "Corta",
+            "Nombre y WhatsApp",
+            "Respuestas en una conversación larga"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué no poner en tu firma de Gmail"
+    },
+    {
+      "ul": [
+        "Frases motivacionales o citas largas.",
+        "Más de dos números de teléfono.",
+        "Imágenes pesadas que tardan en cargar.",
+        "Avisos legales de un párrafo que nadie lee."
+      ]
+    },
+    {
+      "p": "Una firma limpia hace que tu correo se lea como de negocio. Lo importante es que te puedan contestar o llamar sin buscar."
+    },
+    {
+      "h2": "Si se ve mal al llegar"
+    },
+    {
+      "ul": [
+        "Si salen espacios de más, borra la firma vieja antes de pegar.",
+        "Si cambian los colores, revisa el modo oscuro de quien la recibe.",
+        "Si las ligas no abren, revisa que tengan https al inicio."
+      ]
+    },
+    {
+      "p": "Gmail con tu dominio se ve aún mejor. Mira cómo tener un [correo corporativo](id:correo-corporativo) para tu negocio."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cómo pongo mi logo en la firma de Gmail?",
+      "respuesta": "Con la liga de tu logo. Las imágenes subidas desde tu equipo no se guardan."
+    },
+    {
+      "pregunta": "¿La herramienta necesita mi contraseña de Gmail?",
+      "respuesta": "No. Tú copias la firma y la pegas en tu cuenta."
+    },
+    {
+      "pregunta": "¿Puedo tener dos firmas en Gmail?",
+      "respuesta": "Sí. Gmail guarda varias y eliges cuál usar en nuevos correos y respuestas."
+    },
+    {
+      "pregunta": "¿La firma sale en la app del celular?",
+      "respuesta": "No igual. La app usa su propia firma de texto."
+    },
+    {
+      "pregunta": "¿Sirve también para Outlook?",
+      "respuesta": "Sí. Mira los pasos en la [firma de correo](id:firma-de-correo)."
+    }
+  ],
+  "relacionadas": [
+    "firma-de-correo",
+    "correo-corporativo",
+    "que-es-un-dominio",
+    "link-de-whatsapp",
+    "tarjeta-de-presentacion-digital"
+  ],
+  "venta": {
+    "puente": "Tu firma de Gmail puede llevar a tu propia página con tu dominio.",
+    "aviso": "¿Tu firma tiene a dónde llevar? Tu página puede estar lista en pocos días.",
+    "titulo": "¿Hacemos la página de tu firma?",
+    "trabajos": [
+      "makatea",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Pasos tomados del motor firma-correo (modo gmail)."
+}

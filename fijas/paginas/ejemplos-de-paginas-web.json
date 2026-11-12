@@ -1,0 +1,399 @@
+{
+  "id": "ejemplos-de-paginas-web",
+  "slug": "ejemplos-de-paginas-web",
+  "molde": "plantilla",
+  "cabeza": "ejemplos de páginas web",
+  "busquedas": [
+    "plantillas de páginas web",
+    "plantillas web",
+    "ejemplos de sitios web",
+    "sitio web ejemplos",
+    "website plantillas",
+    "ejemplo de sitio web",
+    "paginas web de ejemplos",
+    "paginas web gratis plantillas",
+    "plantillas de paginas web gratis",
+    "plantillas para paginas web gratis",
+    "plantillas gratuitas para paginas web"
+  ],
+  "title": "Ejemplos de páginas web reales y qué copiarles",
+  "h1": "Ejemplos de páginas web",
+  "description": "Ejemplos de páginas web reales en línea, qué hace bien cada una y la estructura por giro para la tuya. Si prefieres, Aliviane te la hace desde $1,500.",
+  "resumen": "Páginas reales en línea y la estructura que conviene por giro",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Aquí tienes páginas reales que puedes abrir en tu celular y lo que hace bien cada una. Abajo está la estructura que conviene según tu giro.",
+    "No damos plantillas para descargar. Si quieres una así con tu marca, te la hacemos."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Páginas que ya están en línea"
+    },
+    {
+      "p": "Todas las hizo Aliviane y siguen funcionando hoy. Ábrelas en tu teléfono porque ahí las ve la mayoría de la gente."
+    },
+    {
+      "trabajos": true
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Página",
+          "Dirección",
+          "Lo que hace bien"
+        ],
+        "filas": [
+          [
+            "La Ola",
+            "laola.mx",
+            "Junta menú, eventos y lealtad de cuatro sucursales"
+          ],
+          [
+            "Comprafin",
+            "comprafin.com",
+            "Compara los precios del día de cada proveedor en una tabla"
+          ],
+          [
+            "Makatea",
+            "makatea.ai",
+            "Explica su servicio en español, inglés y portugués"
+          ],
+          [
+            "SignSolú",
+            "signsolu.com",
+            "Lleva directo a firmar un contrato desde el celular"
+          ],
+          [
+            "Solú",
+            "solufintech.com",
+            "Empieza una solicitud de crédito sin ir a sucursal"
+          ],
+          [
+            "Pilsi",
+            "pilsi.art",
+            "Conecta a quien busca talento creativo con quien lo hace"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Qué aprender de cada ejemplo"
+    },
+    {
+      "h3": "La Ola · varias sucursales en un sitio"
+    },
+    {
+      "p": "Un restaurante con cuatro sucursales necesita que cada cliente encuentre la suya. La página separa menú, eventos y programa de lealtad."
+    },
+    {
+      "h3": "Comprafin · datos que cambian cada día"
+    },
+    {
+      "p": "Su valor está en una tabla que se actualiza. La página pone esa tabla al frente y no la esconde detrás de un menú."
+    },
+    {
+      "h3": "Makatea · un servicio en tres idiomas"
+    },
+    {
+      "p": "Cada idioma tiene su propia versión del texto. El visitante no ve frases mezcladas de otro idioma."
+    },
+    {
+      "h3": "SignSolú · una sola acción importante"
+    },
+    {
+      "p": "La página empuja a una cosa, que es firmar un contrato. Todo lo demás está para resolver dudas antes de ese paso."
+    },
+    {
+      "h3": "Solú · confianza antes de pedir datos"
+    },
+    {
+      "p": "Antes de pedir información, la página explica requisitos y costos. Así la persona llega a la solicitud sabiendo qué esperar."
+    },
+    {
+      "h3": "Pilsi · un directorio que se recorre fácil"
+    },
+    {
+      "p": "Muestra perfiles de talento con fotos de su trabajo. Quien busca encuentra rápido a la persona que necesita."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Estructura de una página por giro"
+    },
+    {
+      "p": "Los ejemplos de arriba son de giros distintos. Esta tabla resume qué secciones lleva la página de los giros más comunes."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Secciones que no pueden faltar"
+        ],
+        "filas": [
+          [
+            "Restaurante o fonda",
+            "Menú con precios · horario · pedidos por WhatsApp y mapa"
+          ],
+          [
+            "Consultorio",
+            "Especialidades · cédula · ubicación y botón de cita"
+          ],
+          [
+            "Taller mecánico",
+            "Servicios · marcas que atiende · fotos y presupuesto"
+          ],
+          [
+            "Tienda",
+            "Catálogo con fotos · precios · envíos y pedido"
+          ],
+          [
+            "Salón de belleza",
+            "Galería, lista de precios y apartado de cita"
+          ],
+          [
+            "Despacho",
+            "Áreas de práctica, equipo y consulta inicial"
+          ],
+          [
+            "Escuela o academia",
+            "Cursos · horarios · costos e inscripción"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu giro no está, piensa en las tres preguntas que más te hacen por mensaje. Esas respuestas son tus secciones."
+    },
+    {
+      "h2": "Qué tienen en común las páginas que funcionan"
+    },
+    {
+      "ul": [
+        "En la primera pantalla se entiende qué ofrecen.",
+        "El botón para escribir o comprar se ve sin buscarlo.",
+        "Cargan rápido con datos del celular.",
+        "Usan fotos propias y no de bancos de imágenes.",
+        "Tienen pocas secciones y cada una dice una sola cosa.",
+        "Los datos de contacto son los mismos que en Google."
+      ]
+    },
+    {
+      "p": "Revisa cualquier ejemplo con esta lista. Te sirve para juzgar una página antes de copiarle algo."
+    },
+    {
+      "h2": "Cómo usar un ejemplo sin copiarlo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Fíjate en el orden",
+          "texto": "Anota qué va primero, qué va después y dónde está el botón."
+        },
+        {
+          "titulo": "Cambia el contenido",
+          "texto": "Usa tus fotos, tus precios y tus palabras. Copiar textos ajenos te perjudica en Google."
+        },
+        {
+          "titulo": "Quita lo que no usas",
+          "texto": "Si no tienes sucursales, no necesitas esa sección."
+        },
+        {
+          "titulo": "Pruébalo con un cliente",
+          "texto": "Pide a alguien que encuentre tu precio en diez segundos."
+        }
+      ]
+    },
+    {
+      "h2": "Plantillas gratis o página hecha"
+    },
+    {
+      "p": "Los creadores de sitios tienen plantillas gratis listas para llenar. Son útiles si tienes tiempo de armar y mantener tu página."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Plantilla de un creador de sitios",
+          "Página hecha por Aliviane"
+        ],
+        "filas": [
+          [
+            "Quién la arma",
+            "Tú",
+            "Aliviane con tus datos"
+          ],
+          [
+            "Diseño",
+            "El de la plantilla",
+            "Hecho para tu giro"
+          ],
+          [
+            "Dominio",
+            "Según el plan que pagues",
+            "Incluido a tu nombre"
+          ],
+          [
+            "Cambios",
+            "Los haces tú",
+            "Una ronda cada semana"
+          ],
+          [
+            "Precio",
+            "Según el plan",
+            "$1,500 y $99 al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si quieres hacerla tú, lee [cómo crear una página web](id:como-crear-una-pagina-web). Si buscas código para editar, mira las [plantillas HTML](id:plantillas-html)."
+    },
+    {
+      "h2": "Ejemplos de páginas por tamaño de negocio"
+    },
+    {
+      "p": "No todas las páginas necesitan lo mismo. El tamaño de tu negocio cambia cuántas páginas y secciones conviene tener."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Negocio",
+          "Qué tipo de página",
+          "Ejemplo de secciones"
+        ],
+        "filas": [
+          [
+            "Trabajas solo o en pareja",
+            "Una landing",
+            "Servicios · fotos · opiniones y WhatsApp"
+          ],
+          [
+            "Local con menú o catálogo corto",
+            "Una landing larga",
+            "Menú · horario · mapa y pedidos"
+          ],
+          [
+            "Varias sucursales",
+            "Sitio de varias páginas",
+            "Una página por sucursal y un menú común"
+          ],
+          [
+            "Muchos productos",
+            "Sitio con catálogo",
+            "Categorías, fichas de producto y envíos"
+          ],
+          [
+            "Servicio en varios idiomas",
+            "Sitio por idioma",
+            "La misma estructura en cada idioma"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La Ola es el caso de varias sucursales. Makatea es el caso de varios idiomas. Una fonda de barrio cabe en una landing."
+    },
+    {
+      "h2": "Cómo juzgar un ejemplo en tu celular"
+    },
+    {
+      "p": "La mayoría de tus clientes va a ver tu página en el teléfono. Haz esta prueba con cualquier ejemplo que te guste."
+    },
+    {
+      "ol": [
+        "Ábrelo con datos móviles y no con el wifi de tu casa.",
+        "Cuenta los segundos que tarda en verse completo.",
+        "Busca el botón de contacto sin mover la pantalla.",
+        "Intenta encontrar un precio en menos de diez segundos.",
+        "Toca el botón y revisa a dónde te lleva."
+      ]
+    },
+    {
+      "p": "Si un ejemplo falla en dos de estas pruebas, no lo copies aunque se vea bonito. Lo que se ve bien en computadora no siempre funciona en el teléfono."
+    },
+    {
+      "h2": "Qué cambia cuando la página es tuya"
+    },
+    {
+      "p": "Un ejemplo bonito no sirve si nadie lo actualiza. La diferencia entre una página viva y una olvidada está en los cambios de cada semana."
+    },
+    {
+      "p": "Las páginas de los ejemplos cambian precios, fotos y avisos seguido. Por eso siguen diciendo lo mismo que el negocio."
+    },
+    {
+      "h2": "Antes de elegir tu ejemplo favorito"
+    },
+    {
+      "ul": [
+        "¿Tu cliente te escribe por WhatsApp o prefiere llamar?",
+        "¿Vendes cinco cosas o quinientas?",
+        "¿Atiendes en un local o vas a domicilio?",
+        "¿Tienes fotos propias o hay que tomarlas?"
+      ]
+    },
+    {
+      "p": "Con esas respuestas sabes si te conviene una [landing page](id:landing-page) o un sitio de varias páginas."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo descargar estas páginas como plantilla?",
+      "respuesta": "No. Son páginas reales de negocios. Si quieres una así, te la hacemos con tu marca."
+    },
+    {
+      "pregunta": "¿Quién hizo los ejemplos?",
+      "respuesta": "Aliviane. Todos siguen en línea y puedes abrirlos."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta una página como estas?",
+      "respuesta": "La landing cuesta $1,500 con dominio. El sitio completo cuesta $5,000."
+    },
+    {
+      "pregunta": "¿Puedo ver mi página antes de pagar?",
+      "respuesta": "Sí. Te mandamos una muestra con los datos de tu negocio."
+    },
+    {
+      "pregunta": "¿Copiar el diseño de otra página es ilegal?",
+      "respuesta": "Depende. Copiar textos, fotos o logos ajenos sí te puede traer problemas."
+    },
+    {
+      "pregunta": "¿Hacen páginas en varios idiomas?",
+      "respuesta": "Sí, como Makatea en tres idiomas. Escríbenos por WhatsApp para ver cómo quedaría la tuya."
+    },
+    {
+      "pregunta": "¿Puedo pedir que la mía se parezca a uno de estos?",
+      "respuesta": "Sí. Dinos cuál te gusta y lo tomamos como punto de partida."
+    },
+    {
+      "pregunta": "¿Qué ejemplo me conviene si soy un negocio chico?",
+      "respuesta": "Uno de una sola página con botón a WhatsApp. Mira los [ejemplos de landing page](id:ejemplos-de-landing-page)."
+    }
+  ],
+  "relacionadas": [
+    "ejemplos-de-landing-page",
+    "plantillas-html",
+    "pagina-web-para-negocio",
+    "landing-page",
+    "como-crear-una-pagina-web",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Si te gustó un ejemplo, te hacemos uno igual de claro con tu marca y tus fotos.",
+    "tituloCorto": "Una así para tu negocio",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Sólo trabajos del portafolio de img/trabajos/ (sin Agroqs ni Avelina, pendientes de permiso). No se usan las muestras de sitios/: son de prospectos, no de clientes. Cabeza de 3K: no se leyó top 3."
+}

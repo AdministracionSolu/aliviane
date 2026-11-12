@@ -1,0 +1,464 @@
+{
+  "id": "pagina-web-para-negocio",
+  "slug": "pagina-web-para-negocio",
+  "molde": "servicio",
+  "cabeza": "página web",
+  "busquedas": [
+    "página web",
+    "paginas web",
+    "sitio web",
+    "página web para negocio",
+    "página web para empresas",
+    "paginas web para empresas",
+    "página web sencilla",
+    "página web barata",
+    "paginas web baratas",
+    "empresas de páginas web",
+    "mi pagina web",
+    "página web gratis",
+    "sitio web gratis"
+  ],
+  "title": "Página web para tu negocio desde $1,500 con dominio",
+  "h1": "Página web para tu negocio",
+  "description": "Página web para tu negocio hecha por Aliviane. Ves tu muestra antes de contratar. Landing de $1,500 con dominio a tu nombre y $99 al mes con cambios semanales.",
+  "resumen": "Tu página hecha y publicada en días, con dominio a tu nombre",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "servicio": {
+    "nombre": "Página web para negocio",
+    "tipo": "Diseño de páginas web"
+  },
+  "respuesta": [
+    "Aliviane diseña y publica la página web de tu negocio en pocos días. Primero ves tu muestra en el celular y después decides.",
+    "La landing cuesta $1,500 con tu dominio incluido. Luego pagas $99 al mes con tu página en línea y una ronda de cambios cada semana."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Lo que recibes y en cuánto tiempo"
+    },
+    {
+      "p": "Recibes una página diseñada para tu giro con tus servicios y tus fotos en un solo lugar. Tus clientes te escriben con un botón directo a tu WhatsApp."
+    },
+    {
+      "p": "La muestra ya está hecha cuando hablamos. La armamos con los datos públicos de tu negocio en Google."
+    },
+    {
+      "p": "Con tus fotos y tus cambios la terminamos en pocos días. Después la publicamos con tu propio dominio, por ejemplo tunegocio.mx."
+    },
+    {
+      "ul": [
+        "Una página diseñada para tu giro.",
+        "Tus servicios y tus fotos en un solo lugar.",
+        "Botón directo a tu WhatsApp.",
+        "Tu dominio incluido y a tu nombre.",
+        "Alta en Google ligada a tu ficha de Maps.",
+        "Una ronda de cambios cada semana."
+      ]
+    },
+    {
+      "h2": "Precio y lo que incluye"
+    },
+    {
+      "p": "Hay dos paquetes con precio fijo. Sabes cuánto vas a pagar antes de empezar y no cobramos por hora."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Landing",
+          "Sitio completo"
+        ],
+        "filas": [
+          [
+            "Pago único",
+            "$1,500 MXN",
+            "$5,000 MXN"
+          ],
+          [
+            "Después",
+            "$99 al mes",
+            "$99 al mes"
+          ],
+          [
+            "Cuántas páginas",
+            "Una página con todas tus secciones",
+            "Hasta 10 páginas"
+          ],
+          [
+            "Menú · catálogo · galería o citas",
+            "Tus servicios y fotos juntos",
+            "Sí, con su propia sección"
+          ],
+          [
+            "Aviso de privacidad y términos",
+            "Aparte",
+            "Incluidos"
+          ],
+          [
+            "Dominio a tu nombre",
+            "Incluido",
+            "Incluido"
+          ],
+          [
+            "Cambios",
+            "Una ronda cada semana",
+            "Una ronda cada semana"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los precios son en pesos y se pagan con tarjeta. Hoy pagas el paquete y la mensualidad empieza al mes."
+    },
+    {
+      "p": "Si después quieres más páginas, te abonamos los $1,500 de tu landing al sitio completo. También cotizamos en dólares."
+    },
+    {
+      "h3": "Qué pagas cada mes"
+    },
+    {
+      "p": "Los $99 mantienen tu página en línea. Tus cambios de cada semana van incluidos y la renovación anual del dominio sale de esa mensualidad."
+    },
+    {
+      "h2": "Trabajos que ya están en línea"
+    },
+    {
+      "p": "Cada uno se diseñó para su marca y para quien lo abre desde el celular. Ábrelos en tu teléfono y fíjate qué tan rápido cargan."
+    },
+    {
+      "trabajos": true
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Proyecto",
+          "Giro",
+          "Lo que resuelve su página"
+        ],
+        "filas": [
+          [
+            "La Ola",
+            "Restaurante",
+            "Menú, eventos y lealtad de cuatro sucursales"
+          ],
+          [
+            "Comprafin",
+            "Compras para restaurantes",
+            "Precios del día de cada proveedor en una tabla"
+          ],
+          [
+            "Makatea",
+            "Cobranza",
+            "Recordatorios de pago en tres idiomas"
+          ],
+          [
+            "SignSolú",
+            "Firma electrónica",
+            "Contratos que se firman desde el celular"
+          ],
+          [
+            "Solú",
+            "Créditos",
+            "Solicitud desde el celular sin ir a sucursal"
+          ],
+          [
+            "Pilsi",
+            "Talento creativo",
+            "Directorio para encontrar a quien hace el trabajo"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo funciona"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Armamos una muestra",
+          "texto": "Usamos los datos públicos de tu negocio en Google. Te la mandamos para que la veas en tu celular."
+        },
+        {
+          "titulo": "Tú la ajustas",
+          "texto": "Nos dices qué cambiar y nos mandas tus fotos y tu logo."
+        },
+        {
+          "titulo": "La publicamos a tu nombre",
+          "texto": "Con tu propio dominio y dada de alta en Google junto a tu ficha de Maps."
+        },
+        {
+          "titulo": "Cambios cada semana",
+          "texto": "Los pides por WhatsApp hasta el viernes y quedan listos el sábado."
+        }
+      ]
+    },
+    {
+      "p": "Si prefieres verlo en vivo, agenda una demo de 15 minutos por videollamada. No tiene costo y te enseñamos cómo quedaría tu página."
+    },
+    {
+      "h2": "¿Por qué una página si ya tengo redes?"
+    },
+    {
+      "p": "Tus redes son de la plataforma y tu página es tuya. Si una red cambia sus reglas, tu página sigue en tu dominio."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Sólo redes sociales",
+          "Con página propia"
+        ],
+        "filas": [
+          [
+            "Quién la controla",
+            "La plataforma",
+            "Tú, con tu dominio"
+          ],
+          [
+            "Aparece al buscarte en Google",
+            "A veces",
+            "Sí, ligada a tu ficha de Maps"
+          ],
+          [
+            "Precios y servicios ordenados",
+            "Entre publicaciones",
+            "En una sola página"
+          ],
+          [
+            "Se ve sin cuenta",
+            "No siempre",
+            "Sí, en cualquier navegador"
+          ],
+          [
+            "Dirección que puedes imprimir",
+            "Un usuario largo",
+            "tunegocio.mx"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo mejor es usar las dos. Tus redes atraen a la gente y tu página la convence de escribirte."
+    },
+    {
+      "h2": "Página web gratis o hecha a tu medida"
+    },
+    {
+      "p": "Existen creadores de páginas con planes gratis. Sirven para probar, pero el trabajo de armarla y mantenerla te toca a ti."
+    },
+    {
+      "p": "Con Aliviane pagas el trabajo hecho. Tú atiendes tu negocio y nosotros publicamos, ajustamos y mantenemos tu página."
+    },
+    {
+      "p": "Si quieres hacerla por tu cuenta, lee [cómo crear una página web](id:como-crear-una-pagina-web). Ahí explicamos cada camino paso a paso."
+    },
+    {
+      "h2": "Qué lleva la página de un negocio"
+    },
+    {
+      "p": "Una buena página contesta en pocos segundos lo que tu cliente quiere saber. Estas son las secciones que no pueden faltar."
+    },
+    {
+      "ol": [
+        "Qué vendes y en qué zona atiendes, en la primera pantalla.",
+        "Tus servicios o productos con precio o precio desde.",
+        "Fotos reales de tu local, tus trabajos o tus productos.",
+        "Botón de WhatsApp visible en todo momento.",
+        "Dirección, mapa y horario iguales a tu ficha de Google.",
+        "Opiniones de clientes si ya las tienes."
+      ]
+    },
+    {
+      "p": "Si tu negocio tiene menú largo, catálogo o agenda de citas, conviene el sitio completo. Cada cosa tiene su propia página ahí."
+    },
+    {
+      "h2": "Qué necesitamos de ti"
+    },
+    {
+      "ul": [
+        "El nombre de tu negocio y tu logo si ya tienes.",
+        "Tus servicios o productos con su precio.",
+        "Fotos de tu negocio, tu equipo o tus trabajos.",
+        "El WhatsApp donde quieres recibir mensajes."
+      ]
+    },
+    {
+      "p": "No necesitas saber de computación. Nosotros la publicamos y la conectamos con tu dominio."
+    },
+    {
+      "h2": "Qué cambia según tu giro"
+    },
+    {
+      "p": "Cada giro pide algo distinto en su página. El mensaje del botón de WhatsApp también cambia."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Lo que el cliente busca primero",
+          "Mensaje que trae el botón"
+        ],
+        "filas": [
+          [
+            "Fonda o restaurante",
+            "El menú del día y el horario",
+            "Quiero pedir para llevar"
+          ],
+          [
+            "Consultorio",
+            "Especialidad y ubicación",
+            "Quiero agendar una cita"
+          ],
+          [
+            "Taller mecánico",
+            "Qué arreglan y si dan presupuesto",
+            "Quiero un presupuesto para mi auto"
+          ],
+          [
+            "Estética",
+            "Fotos de trabajos y precios",
+            "Quiero apartar un lugar"
+          ],
+          [
+            "Despacho",
+            "Áreas que atienden",
+            "Quiero una consulta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con el mensaje correcto sabes desde el primer renglón qué quiere tu cliente. Contestas más rápido y cierras más."
+    },
+    {
+      "h2": "Tu dominio, la dirección de tu negocio en internet"
+    },
+    {
+      "p": "El dominio es el nombre que la gente escribe para llegar a tu página. Por ejemplo tunegocio.mx o tunegocio.com.mx."
+    },
+    {
+      "p": "Con Aliviane el dominio va incluido y se registra a nombre de tu negocio. Si un día te cambias, te lo llevas."
+    },
+    {
+      "p": "Si todavía no sabes cuál elegir, revisa si está libre con el [buscador de dominios](id:buscar-dominio). Te dice si está libre en .com.mx, .mx y .com."
+    },
+    {
+      "h2": "Si ya tienes una página vieja"
+    },
+    {
+      "p": "Muchos negocios tienen una página que hizo un sobrino o una agencia que ya no contesta. Se quedó con precios viejos y nadie la puede cambiar."
+    },
+    {
+      "ul": [
+        "Si el dominio está a tu nombre, lo apuntamos a tu nueva página.",
+        "Si está a nombre de otra persona, te decimos cómo recuperarlo.",
+        "Rehacemos tus textos y tus fotos en el diseño nuevo.",
+        "Cambiamos la liga en tu ficha de Google para que todo cuadre."
+      ]
+    },
+    {
+      "p": "Lo importante es que tu negocio no se quede ni un día sin página. Publicamos la nueva antes de quitar la vieja."
+    },
+    {
+      "h2": "Cómo saber si tu página está funcionando"
+    },
+    {
+      "p": "Una página de negocio local se mide por los mensajes que llegan. No por las visitas ni por los «me gusta»."
+    },
+    {
+      "ul": [
+        "Llegan mensajes de WhatsApp con el texto que trae el botón.",
+        "Te preguntan menos «cuánto cuesta» porque ya leyeron tus precios.",
+        "Clientes nuevos te dicen que te encontraron en Google.",
+        "Te piden cosas que sí vendes y no cosas que no haces."
+      ]
+    },
+    {
+      "p": "Si algo no funciona, lo cambiamos en la ronda de la semana. La página mejora con lo que te dicen tus propios clientes."
+    },
+    {
+      "h2": "Lo que queda fuera de los paquetes"
+    },
+    {
+      "p": "Las páginas de Aliviane son informativas con botones de contacto. Pedidos en línea, cobros y sistemas se cotizan aparte."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta una página web para mi negocio?",
+      "respuesta": "$1,500 la landing y $5,000 el sitio completo. Los dos pagan $99 al mes después."
+    },
+    {
+      "pregunta": "¿Cuánto tardan en tenerla lista?",
+      "respuesta": "Pocos días. La muestra ya está hecha cuando hablamos."
+    },
+    {
+      "pregunta": "¿El dominio queda a mi nombre?",
+      "respuesta": "Sí. Se registra a nombre de tu negocio y va incluido en tu paquete."
+    },
+    {
+      "pregunta": "¿Qué pasa si dejo de pagar la mensualidad?",
+      "respuesta": "Tu página se pausa. El dominio sigue siendo tuyo."
+    },
+    {
+      "pregunta": "¿Cómo pido un cambio?",
+      "respuesta": "Por WhatsApp. Lo que pidas hasta el viernes queda listo el sábado."
+    },
+    {
+      "pregunta": "¿Y si cambio de teléfono o de dirección?",
+      "respuesta": "Lo corregimos el mismo día. No esperas a la ronda del sábado."
+    },
+    {
+      "pregunta": "¿Mi negocio va a salir en Google?",
+      "respuesta": "Sí, la damos de alta. La ligamos a tu ficha de Maps para que quien te busca llegue a tu página."
+    },
+    {
+      "pregunta": "¿Necesito saber de computación?",
+      "respuesta": "No. Tú nos dices qué quieres y nosotros la publicamos."
+    }
+  ],
+  "relacionadas": [
+    "landing-page",
+    "diseno-de-paginas-web",
+    "ejemplos-de-paginas-web",
+    "como-crear-una-pagina-web",
+    "que-es-un-dominio",
+    "precios-de-hostinger"
+  ],
+  "venta": {
+    "puente": "Ves tu página terminada en tu celular antes de pagar un peso.",
+    "tituloCorto": "$1,500 con tu dominio incluido",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.cronoshare.com.mx/cuanto-cuesta/diseno-web-empresas",
+      "titulo": "¿Cuánto cuesta el diseño web para empresas?",
+      "promete": "Rangos de precio de proveedores; directorio sin trabajos propios ni muestra previa"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/latam/clientes/cuanto-cuesta-una-pagina-web-mexico",
+      "titulo": "Cuánto cuesta una página web en México",
+      "promete": "Costos según plataforma; vende su constructor y su hosting"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.neolo.com/blog/cuanto-cuesta-crear-una-pagina-en-wordpress-en-mexico.php",
+      "titulo": "Cuánto cuesta una página web en México 2026",
+      "promete": "Precios de hacerla en WordPress; el trabajo lo haces tú"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Precio, plazos e inclusiones sólo los que dice index.html. Trabajos: proyectos del portafolio sin Agroqs ni Avelina (pendientes de permiso). Top 3 leído con WebSearch el 12-nov-2026 (búsqueda «página web para negocio México precio»)."
+}

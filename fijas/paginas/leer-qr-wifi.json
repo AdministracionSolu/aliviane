@@ -1,0 +1,178 @@
+{
+  "id": "leer-qr-wifi",
+  "slug": "leer-qr-wifi",
+  "molde": "herramienta",
+  "cabeza": "escanear código qr wifi",
+  "busquedas": [
+    "qr scanner wifi",
+    "scanner qr wifi",
+    "código qr wifi ver contraseña",
+    "como escanear el codigo qr de wifi"
+  ],
+  "title": "Escanear código QR wifi y ver la contraseña",
+  "h1": "Leer el QR de una red wifi",
+  "description": "Escanea el código QR de una red wifi y ve el nombre de la red y la contraseña. Cópiala para conectar tu computadora. Gratis y la imagen no sale de tu equipo.",
+  "resumen": "Ve el nombre de la red y la contraseña de un QR de wifi",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Apunta la cámara al QR del wifi o sube una foto del código. Te mostramos el nombre de la red, la contraseña y el tipo de seguridad.",
+    "Copia la contraseña y pégala al conectar tu computadora o tu tele."
+  ],
+  "herramienta": {
+    "id": "lector-qr",
+    "modo": "wifi"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo ver la contraseña de un QR de wifi"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Lee el código",
+          "texto": "Usa la cámara o sube la foto del QR que está en el router o en el mostrador."
+        },
+        {
+          "titulo": "Mira los datos de la red",
+          "texto": "Aparecen el nombre, la contraseña, la seguridad y si la red está oculta."
+        },
+        {
+          "titulo": "Copia la contraseña",
+          "texto": "Toca «Copiar contraseña» para no escribirla a mano."
+        },
+        {
+          "titulo": "Conéctate",
+          "texto": "Busca la red en el wifi de tu equipo y pega la contraseña."
+        }
+      ]
+    },
+    {
+      "h2": "Qué guarda un QR de wifi"
+    },
+    {
+      "p": "Un QR de wifi es texto con un formato fijo. Empieza con WIFI y trae el nombre de la red, la clave y el tipo de cifrado."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Dato",
+          "Ejemplo",
+          "Qué significa"
+        ],
+        "filas": [
+          [
+            "Nombre de la red",
+            "Cafe La Esquina",
+            "La red que buscas en tu equipo"
+          ],
+          [
+            "Contraseña",
+            "cafe2026",
+            "La clave para entrar"
+          ],
+          [
+            "Seguridad",
+            "WPA",
+            "El tipo de cifrado de la red"
+          ],
+          [
+            "Red oculta",
+            "Sí o no",
+            "Si la red no aparece en la lista y hay que escribirla"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El lector respeta los signos raros de la contraseña. Las comillas, los dos puntos o las diagonales salen tal como son."
+    },
+    {
+      "h2": "Cuándo sirve"
+    },
+    {
+      "ul": [
+        "Tu laptop no tiene cámara y el QR está en el router.",
+        "Alguien te mandó la foto del QR por WhatsApp.",
+        "Quieres anotar la contraseña de tu propia red.",
+        "Necesitas conectar una tele o una consola que no lee QR."
+      ]
+    },
+    {
+      "p": "Muchos celulares se conectan solos al leer el QR con la cámara. Lo que no siempre enseñan es la contraseña en texto."
+    },
+    {
+      "h2": "Si eres dueño de la red"
+    },
+    {
+      "p": "En muchos celulares Android puedes enseñar el QR de tu red desde los ajustes de wifi. Toma una captura y léela aquí para ver la contraseña."
+    },
+    {
+      "h2": "Si el código no es de wifi"
+    },
+    {
+      "p": "El lector te avisa y te muestra lo que dice el código. Puede ser una liga, un contacto o un texto."
+    },
+    {
+      "p": "Si no lee nada, toma la foto más cerca y con buena luz. Los QR pegados en routers suelen estar rayados o con polvo."
+    },
+    {
+      "h2": "Para tu negocio"
+    },
+    {
+      "p": "Si das wifi a tus clientes, pon el QR en la mesa o en el mostrador. Hazlo gratis con el [generador de QR para wifi](id:qr-wifi)."
+    },
+    {
+      "p": "Usa una red para clientes separada de la de tu caja. Así tu equipo de cobro queda aparte."
+    },
+    {
+      "p": "Cambia la contraseña de vez en cuando y vuelve a imprimir el QR. Es más fácil que dictarla cada vez."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo ver la contraseña de cualquier wifi?",
+      "respuesta": "No. Sólo la de un QR que tengas enfrente o en una foto."
+    },
+    {
+      "pregunta": "¿Se guarda la contraseña en algún lado?",
+      "respuesta": "No. Todo pasa en tu equipo y no se manda a ningún servidor."
+    },
+    {
+      "pregunta": "¿Funciona con una foto que me mandaron?",
+      "respuesta": "Sí. Súbela o pégala con Ctrl + V."
+    },
+    {
+      "pregunta": "¿Por qué no aparece la red después de copiar la clave?",
+      "respuesta": "Puede ser una red oculta. Agrégala a mano con el nombre exacto."
+    },
+    {
+      "pregunta": "¿Cómo hago un QR de mi propio wifi?",
+      "respuesta": "Con el [QR para wifi](id:qr-wifi). Escribes nombre y clave y lo bajas."
+    }
+  ],
+  "relacionadas": [
+    "qr-wifi",
+    "lector-qr",
+    "generador-de-qr",
+    "menu-qr",
+    "codigo-qr-para-whatsapp"
+  ],
+  "venta": {
+    "puente": "Tu negocio puede poner junto al wifi un QR que lleve a tu página con tu menú y tus promociones.",
+    "aviso": "¿Das wifi a tus clientes? Que también encuentren tu página con un QR.",
+    "titulo": "¿Hacemos la página de tu negocio?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "solu"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3."
+}

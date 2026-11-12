@@ -1,0 +1,192 @@
+{
+  "id": "terminos-y-condiciones",
+  "slug": "terminos-y-condiciones",
+  "molde": "herramienta",
+  "cabeza": "términos y condiciones",
+  "busquedas": [
+    "términos y condiciones",
+    "terminos y condiciones ejemplo",
+    "términos y condiciones de una tienda en línea",
+    "generador de términos y condiciones"
+  ],
+  "title": "Términos y condiciones: modelo gratis para tu página",
+  "h1": "Términos y condiciones para tu negocio",
+  "description": "Términos y condiciones para tu página o tienda en línea. Eliges cómo vendes, cómo cobras y dónde entregas, y sale el texto listo para copiar o bajar en PDF.",
+  "resumen": "Arma tus términos según cómo vendes, cobras y entregas",
+  "categoria": "Textos legales",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Los términos y condiciones dicen las reglas de compra en tu página. Eliges cómo vendes y cobras y sale el texto completo.",
+    "Es un modelo. Revísalo con un abogado antes de publicarlo."
+  ],
+  "herramienta": {
+    "id": "texto-legal",
+    "modo": "terminos"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo llenarlo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Datos del negocio",
+          "texto": "Nombre, domicilio y correo de contacto son obligatorios."
+        },
+        {
+          "titulo": "Tipo de página",
+          "texto": "Tienda con pago en línea, pedidos por WhatsApp, servicios con cita o sólo informativa."
+        },
+        {
+          "titulo": "Pagos y entregas",
+          "texto": "Marca tus formas de pago, a dónde entregas y en cuántos días hábiles."
+        },
+        {
+          "titulo": "Suscripciones y ciudad",
+          "texto": "Indica si cobras pagos automáticos y dónde se resolverían controversias."
+        }
+      ]
+    },
+    {
+      "h2": "Qué cambia según tu tipo de página"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo",
+          "Lo que agrega el modelo"
+        ],
+        "filas": [
+          [
+            "Tienda con pago en línea",
+            "Precios · pagos con tarjeta · envíos y derecho a revocar la compra"
+          ],
+          [
+            "Pedidos por WhatsApp",
+            "Confirmación del pedido, entrega y formas de pago"
+          ],
+          [
+            "Servicios o citas",
+            "Cómo se agenda y qué pasa si el servicio falla"
+          ],
+          [
+            "Sólo informativa",
+            "Uso del contenido, ligas a otros sitios y quejas"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Apartados que trae el texto"
+    },
+    {
+      "ul": [
+        "Quién vende y cómo contactarlo.",
+        "Precios y formas de pago aceptadas.",
+        "Envíos, plazos de entrega y paquetes dañados.",
+        "Cambios, devoluciones y garantías.",
+        "Suscripciones y cobros automáticos si los tienes.",
+        "Uso de datos, contenido de la página y ligas externas.",
+        "Quejas, cambios a los términos y ley aplicable."
+      ]
+    },
+    {
+      "h2": "Las reglas de la ley que ya trae"
+    },
+    {
+      "p": "El modelo sigue la Ley Federal de Protección al Consumidor. Así la cita el texto que genera la herramienta."
+    },
+    {
+      "p": "Para compras fuera del local cita el artículo 56. El cliente tiene cinco días hábiles desde la entrega para revocar la compra."
+    },
+    {
+      "p": "Para productos con defecto cita los artículos 92 y 92 TER. El cliente puede pedir cambio o devolución además de una bonificación."
+    },
+    {
+      "p": "Si cobras suscripciones cita el artículo 76 BIS. Avisas cinco días naturales antes de renovar y el cliente puede cancelar sin penalización."
+    },
+    {
+      "h2": "Errores comunes en términos copiados"
+    },
+    {
+      "ul": [
+        "Pegar los términos de otra tienda con su nombre todavía adentro.",
+        "Copiar términos de otro país con leyes que no aplican en México.",
+        "Prometer entregas en plazos que no puedes cumplir.",
+        "Olvidar decir cómo se cancela una suscripción.",
+        "No poner un correo real para quejas."
+      ]
+    },
+    {
+      "p": "El modelo de arriba usa tus propios datos y tus formas de pago. Así evitas textos que no corresponden a tu negocio."
+    },
+    {
+      "h2": "Dónde se publican"
+    },
+    {
+      "p": "Pon una liga a tus términos en el pie de tu página. Si vendes en línea, ponla también junto al botón de pagar."
+    },
+    {
+      "p": "Junto a tus términos van el [aviso de privacidad](id:aviso-de-privacidad) y tu [política de devoluciones](id:politica-de-devoluciones). Los tres se complementan."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Mi página necesita términos y condiciones?",
+      "respuesta": "Sí, si vendes o recibes pedidos. Dejan claras las reglas de compra."
+    },
+    {
+      "pregunta": "¿Este texto sirve tal cual?",
+      "respuesta": "Es un modelo. Conviene revisarlo con un abogado para tu caso."
+    },
+    {
+      "pregunta": "¿Qué pasa si sólo tengo una página informativa?",
+      "respuesta": "El texto se acorta. Quedan el uso del contenido, las ligas y las quejas."
+    },
+    {
+      "pregunta": "¿Puedo bajarlo en PDF?",
+      "respuesta": "Sí. También lo copias en texto o en HTML para tu página."
+    },
+    {
+      "pregunta": "¿Cada cuánto debo actualizarlos?",
+      "respuesta": "Cada vez que cambies precios, pagos o entregas. El texto lleva la fecha de su última actualización."
+    },
+    {
+      "pregunta": "¿Se guardan los datos que escribo?",
+      "respuesta": "Sí, sólo en tu equipo. Así puedes corregirlos sin empezar de cero."
+    },
+    {
+      "pregunta": "¿Incluye la Profeco?",
+      "respuesta": "Sí. Dice que el cliente puede acudir a la Procuraduría Federal del Consumidor."
+    }
+  ],
+  "relacionadas": [
+    "aviso-de-privacidad",
+    "politica-de-devoluciones",
+    "tienda-en-linea",
+    "como-vender-por-internet",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus términos van en el pie de tu propia página, junto a tu aviso de privacidad.",
+    "aviso": "¿Ya tienes tus términos? Publícalos en tu propia página con tu dominio.",
+    "titulo": "¿Hacemos la página donde van tus términos?",
+    "trabajos": [
+      "solu",
+      "signsolu",
+      "comprafin"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección al Consumidor (última reforma DOF 12-12-2025), Cámara de Diputados",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3."
+}

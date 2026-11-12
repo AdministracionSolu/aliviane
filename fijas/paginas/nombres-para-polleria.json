@@ -1,0 +1,176 @@
+{
+  "id": "nombres-para-polleria",
+  "slug": "nombres-para-polleria",
+  "molde": "herramienta",
+  "cabeza": "nombres para pollería",
+  "busquedas": [],
+  "title": "Nombres para pollería y pollos asados gratis",
+  "h1": "Nombres para pollería",
+  "description": "Nombres para pollería, rosticería y pollos al carbón. Ideas con brasa, granja o tu apellido, filtradas para no chocar con cadenas conocidas. Gratis.",
+  "resumen": "Ideas para pollería, rosticería o pollos al carbón",
+  "categoria": "Nombres y slogan",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el estilo y toca «Dame ideas». Salen nombres con palabras de brasa, granja y adobo para tu pollería.",
+    "El generador quita los nombres de cadenas de pollo conocidas para que no te metas en problemas."
+  ],
+  "herramienta": {
+    "id": "nombres",
+    "modo": "polleria"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo usarlo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Di cómo lo preparas",
+          "texto": "Al carbón, rostizado o adobado. Escríbelo en tus palabras para que el nombre lo refleje."
+        },
+        {
+          "titulo": "Agrega tu toque",
+          "texto": "Tu pueblo, tu rancho o tu receta pueden ir dentro del nombre."
+        },
+        {
+          "titulo": "Mira los de apellido",
+          "texto": "Pollos Asados Ramírez se recuerda y no se confunde con nadie."
+        },
+        {
+          "titulo": "Guárdalos y decide",
+          "texto": "Junta tres favoritos y pregunta a tus clientes cuál les gusta."
+        }
+      ]
+    },
+    {
+      "h2": "Ejemplos del banco de pollerías"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo",
+          "Ejemplos"
+        ],
+        "filas": [
+          [
+            "Cortos",
+            "Espiga · Cresta · Carbonero · Asadita"
+          ],
+          [
+            "En español",
+            "La Gallina Roja · Ala y Achiote · La Gallina Adobada"
+          ],
+          [
+            "Juego de palabras",
+            "Brasazón · Brasa y Ala · Pollo de Rancho · Puro Gallo"
+          ],
+          [
+            "Con apellido",
+            "Rosticería Ramírez · Pollos al Carbón Ramírez · El Asadero de Ramírez"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ala y Achiote cuenta la receta en tres palabras. Brasazón junta la brasa con el sazón y se recuerda al instante."
+    },
+    {
+      "h2": "Lo que vende en una pollería"
+    },
+    {
+      "p": "El pollo asado se compra por el olor y por la costumbre del domingo. El nombre debe sonar a fuego, a casa o a rancho."
+    },
+    {
+      "ul": [
+        "Palabras de fuego como brasa, carbón o asador abren el apetito.",
+        "Un animal o un ingrediente en el nombre ayuda a ubicarte rápido.",
+        "Los nombres cortos se leen mejor en la bolsa de papel y en la caja.",
+        "Tu apellido da confianza en un giro donde se compra por recomendación."
+      ]
+    },
+    {
+      "p": "Mucha gente pide por teléfono el fin de semana. Un nombre que se dice fácil ahorra confusiones al tomar el pedido."
+    },
+    {
+      "h2": "Lo que conviene evitar"
+    },
+    {
+      "ul": [
+        "Copiar la palabra «loco» o «feliz» de cadenas famosas de pollo.",
+        "Llamarte sólo «Pollos Asados» como medio barrio.",
+        "Un juego de palabras que suene a burla del animal.",
+        "Un nombre que no cabe en el anuncio de tu mostrador."
+      ]
+    },
+    {
+      "p": "Piensa también en la caja o la bolsa donde entregas el pollo. Un nombre corto ahí es publicidad que llega a la mesa de cada familia."
+    },
+    {
+      "h2": "Qué dice la ley sobre nombres de pollo"
+    },
+    {
+      "p": "«Pollos asados» es el nombre común del producto. Por eso el artículo 173 de la ley de propiedad industrial no deja registrarlo como marca."
+    },
+    {
+      "p": "Las cadenas de pollo suelen tener su marca registrada. Un nombre parecido para el mismo servicio puede negarse o terminar en un reclamo."
+    },
+    {
+      "p": "Si registras tu marca te protege diez años. Revisa también que el dominio esté libre antes de rotular la fachada."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo llamar a mi negocio Pollos Asados y mi apellido?",
+      "respuesta": "Sí. Lo que hace única a la marca es tu apellido y no «pollos asados»."
+    },
+    {
+      "pregunta": "¿Por qué no salen nombres de cadenas conocidas?",
+      "respuesta": "Porque el generador las filtra. Así evitas parecerte a una marca registrada."
+    },
+    {
+      "pregunta": "¿Sirve para rosticería y para pollo frito?",
+      "respuesta": "Sí. El banco mezcla palabras de asado, carbón y rostizado."
+    },
+    {
+      "pregunta": "¿Conviene poner el nombre de mi pueblo?",
+      "respuesta": "Sí, si tu receta viene de ahí. Da origen y se distingue de las cadenas."
+    },
+    {
+      "pregunta": "¿Puedo bajar mis nombres favoritos?",
+      "respuesta": "Sí. Bájalos en un archivo o cópialos para mandarlos por WhatsApp."
+    },
+    {
+      "pregunta": "¿Qué sigue después del nombre?",
+      "respuesta": "Tu logo y tu menú. Mira el [logo para restaurante](id:logo-para-restaurante) y arma tu carta."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-restaurantes",
+    "nombres-para-comida-rapida",
+    "logo-para-restaurante",
+    "menu-de-restaurante",
+    "slogan",
+    "nombres-para-empresas"
+  ],
+  "venta": {
+    "puente": "Tu pollería puede tener una página con tus paquetes, tu horario y pedidos por WhatsApp.",
+    "aviso": "¿Ya elegiste nombre? Tu pollería puede recibir pedidos desde su propia página.",
+    "titulo": "¿Hacemos la página de tu pollería?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección a la Propiedad Industrial, artículos 171, 173, 178, 201, 204 y 233 (Cámara de Diputados, última reforma DOF 03-04-2026)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Ejemplos sacados del motor nombres (generarNombres, semilla 7, apellido Ramírez). Ley leída en diputados.gob.mx el 12-nov-2026."
+}

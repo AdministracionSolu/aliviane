@@ -1,0 +1,187 @@
+{
+  "id": "aviso-de-privacidad",
+  "slug": "aviso-de-privacidad",
+  "molde": "herramienta",
+  "cabeza": "avisos de privacidad ejemplos",
+  "busquedas": [
+    "avisos de privacidad ejemplos",
+    "ejemplos avisos de privacidad",
+    "aviso de privacidad",
+    "aviso de privacidad que es",
+    "aviso de privacidad simplificado",
+    "aviso de privacidad integral",
+    "generador de aviso de privacidad"
+  ],
+  "title": "Avisos de privacidad ejemplos y generador gratis",
+  "h1": "Aviso de privacidad para tu negocio",
+  "description": "Avisos de privacidad de ejemplo armados con tus datos. Elige integral o simplificado, qué datos pides y para qué. Copia el texto o bájalo en PDF o HTML. Gratis.",
+  "resumen": "Arma tu aviso integral o simplificado con los datos que pides",
+  "categoria": "Textos legales",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El aviso de privacidad le dice a tus clientes qué datos les pides, para qué y cómo ejercer sus derechos. Llena el formulario y sale tu aviso completo.",
+    "Es un modelo. Conviene revisarlo con un abogado antes de publicarlo."
+  ],
+  "herramienta": {
+    "id": "texto-legal",
+    "modo": "aviso-privacidad"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo armar tu aviso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe los datos del negocio",
+          "texto": "Nombre o razón social, domicilio y correo. Sin ellos no se puede copiar ni bajar."
+        },
+        {
+          "titulo": "Elige la versión",
+          "texto": "El integral va en tu página. El simplificado va donde pides datos."
+        },
+        {
+          "titulo": "Marca qué datos pides",
+          "texto": "Puede ser domicilio o datos fiscales. También de pago, de salud o de navegación."
+        },
+        {
+          "titulo": "Marca para qué los usas",
+          "texto": "Ventas, citas o cotizaciones. También facturas y garantías, y aparte las promociones."
+        }
+      ]
+    },
+    {
+      "p": "Copia el texto, copia el HTML o baja el PDF. Lo que escribes se guarda en tu equipo para corregirlo después."
+    },
+    {
+      "h2": "Integral o simplificado"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Integral",
+          "Simplificado"
+        ],
+        "filas": [
+          [
+            "Dónde va",
+            "En una página propia de tu sitio",
+            "En el formulario o el mostrador donde pides datos"
+          ],
+          [
+            "Qué tan largo es",
+            "Completo con todos los apartados",
+            "Corto con lo esencial"
+          ],
+          [
+            "Qué lleva",
+            "Responsable · datos · finalidades y derechos",
+            "Responsable, finalidades y liga al integral"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo normal es tener los dos. El simplificado lleva a quien lo lee al integral."
+    },
+    {
+      "h2": "Qué apartados trae el ejemplo"
+    },
+    {
+      "ul": [
+        "Quién es responsable de los datos y cómo contactarlo.",
+        "Qué datos personales usas.",
+        "Para qué los usas y cuáles usos son opcionales.",
+        "Con quién compartes los datos.",
+        "Cómo limitar el uso de los datos.",
+        "Cómo ejercer los derechos de acceso, rectificación, cancelación y oposición.",
+        "Cómo cuidas los datos y cómo avisas de cambios."
+      ]
+    },
+    {
+      "p": "Si marcas datos de navegación, el aviso agrega un apartado de cookies. Si marcas datos de salud, los menciona por separado."
+    },
+    {
+      "h2": "La ley que sigue el modelo"
+    },
+    {
+      "p": "El texto sigue la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. Es la ley nueva publicada en el DOF el 20 de marzo de 2025."
+    },
+    {
+      "p": "El modelo pone los plazos de respuesta a los derechos de acceso y corrección. Son 20 días hábiles para contestar y 15 para cumplir si procede."
+    },
+    {
+      "p": "También cita el artículo 36 para las transferencias que no piden consentimiento. Un ejemplo es cuando lo pide una autoridad."
+    },
+    {
+      "h2": "Quién necesita aviso de privacidad"
+    },
+    {
+      "p": "Casi cualquier negocio que pide nombre, teléfono o correo a sus clientes. Eso incluye un formulario en tu página o una libreta de citas."
+    },
+    {
+      "ul": [
+        "Consultorios y clínicas que guardan expedientes.",
+        "Tiendas en línea que piden domicilio de entrega.",
+        "Salones y talleres que agendan citas por WhatsApp.",
+        "Negocios que facturan y guardan datos fiscales."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El aviso de privacidad es obligatorio?",
+      "respuesta": "Sí, si tratas datos personales de tus clientes. La ley pide informarles antes."
+    },
+    {
+      "pregunta": "¿Este aviso sirve tal cual?",
+      "respuesta": "Es un modelo. Revísalo con un abogado según tu negocio."
+    },
+    {
+      "pregunta": "¿Dónde publico el aviso integral?",
+      "respuesta": "En una página de tu sitio, por ejemplo /aviso-de-privacidad."
+    },
+    {
+      "pregunta": "¿Lo puedo bajar en PDF?",
+      "respuesta": "Sí. También lo copias como texto o como HTML para tu página."
+    },
+    {
+      "pregunta": "¿Mis datos se mandan a algún lado?",
+      "respuesta": "No. El formulario se llena y se guarda en tu equipo."
+    },
+    {
+      "pregunta": "¿Qué son los derechos ARCO?",
+      "respuesta": "Acceso, rectificación, cancelación y oposición. Tu cliente los ejerce escribiendo a tu correo."
+    }
+  ],
+  "relacionadas": [
+    "terminos-y-condiciones",
+    "politica-de-devoluciones",
+    "pagina-web-para-negocio",
+    "tienda-en-linea",
+    "firma-de-correo"
+  ],
+  "venta": {
+    "puente": "Tu aviso de privacidad necesita una página donde publicarse con tu dominio.",
+    "aviso": "¿Ya tienes tu aviso? Publícalo en tu propia página con tu dominio.",
+    "titulo": "¿Hacemos la página donde va tu aviso?",
+    "trabajos": [
+      "solu",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares (DOF 20-03-2025, última reforma 14-11-2025), Cámara de Diputados",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3."
+}

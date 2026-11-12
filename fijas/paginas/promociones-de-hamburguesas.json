@@ -1,0 +1,325 @@
+{
+  "id": "promociones-de-hamburguesas",
+  "slug": "promociones-de-hamburguesas",
+  "molde": "por-giro",
+  "cabeza": "promociones de hamburguesas",
+  "busquedas": [
+    "promociones de hamburguesas",
+    "promociones para hamburguesería",
+    "ideas de promociones de hamburguesas",
+    "publicidad para hamburguesas",
+    "página web para hamburguesería"
+  ],
+  "title": "Promociones de hamburguesas que llenan tu negocio",
+  "h1": "Promociones de hamburguesas para tu negocio",
+  "description": "Promociones de hamburguesas para cada día de la semana, combos que dejan ganancia y la página con tu menú y pedidos por WhatsApp desde $1,500 con dominio.",
+  "resumen": "Ideas de promociones y la página de tu hamburguesería",
+  "categoria": "Por giro",
+  "revisada": "2026-11",
+  "servicio": {
+    "nombre": "Página web para hamburguesería",
+    "tipo": "Diseño de páginas web"
+  },
+  "respuesta": [
+    "Las promociones de hamburguesas que funcionan llenan los días flojos sin regalar tu ganancia. Un combo del día o un 2x1 de martes son lo clásico.",
+    "Ponlas en tu página junto a tu menú y un botón para pedir por WhatsApp."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Promociones para cada día de la semana"
+    },
+    {
+      "p": "El fin de semana se vende solo. Las promociones sirven para llenar de lunes a jueves."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Día",
+          "Promoción",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Lunes",
+            "Papas gratis en la compra de dos hamburguesas",
+            "Mover el día más flojo"
+          ],
+          [
+            "Martes",
+            "2x1 en la hamburguesa clásica",
+            "Atraer a quien nunca ha venido"
+          ],
+          [
+            "Miércoles",
+            "Refresco grande al precio del chico",
+            "Subir el ticket sin bajar precio"
+          ],
+          [
+            "Jueves",
+            "Combo familiar con cuatro hamburguesas",
+            "Ganar pedidos para la casa"
+          ],
+          [
+            "Viernes",
+            "Hamburguesa especial de la semana",
+            "Dar algo nuevo que comentar"
+          ],
+          [
+            "Domingo",
+            "Malteada a mitad de precio con combo",
+            "Atraer familias por la tarde"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "No hagas todas a la vez. Elige dos o tres y repítelas el mismo día por varias semanas."
+    },
+    {
+      "h2": "Combos que dejan ganancia"
+    },
+    {
+      "p": "Un combo bien armado sube el ticket sin que sientas que regalas. La clave es combinar lo que más te deja con lo que más se antoja."
+    },
+    {
+      "ul": [
+        "Hamburguesa con papas y refresco, el combo base.",
+        "Doble carne con papas gajo para quien llega con hambre.",
+        "Combo pareja con dos hamburguesas y una orden grande de papas.",
+        "Combo infantil con hamburguesa chica, jugo y un dulce.",
+        "Combo de la casa con tu salsa especial como gancho."
+      ]
+    },
+    {
+      "p": "Calcula cuánto te cuesta cada combo antes de anunciarlo. Las papas y el refresco suelen dejar más margen que la carne."
+    },
+    {
+      "h2": "Promociones por temporada"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Fecha",
+          "Idea"
+        ],
+        "filas": [
+          [
+            "Partidos de futbol",
+            "Paquete de hamburguesas y alitas para ver el juego"
+          ],
+          [
+            "Regreso a clases",
+            "Combo de estudiante con credencial"
+          ],
+          [
+            "Día del Padre",
+            "Hamburguesa gigante para compartir"
+          ],
+          [
+            "Quincena",
+            "Combo familiar con descuento los días 15 y 30"
+          ],
+          [
+            "Fiestas patrias",
+            "Hamburguesa con chile poblano y salsa verde"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Anuncia cada promoción con fecha de fin. Una fecha clara hace que la gente pida pronto."
+    },
+    {
+      "h2": "Cómo anunciar tus promociones"
+    },
+    {
+      "h3": "En tu página"
+    },
+    {
+      "p": "Pon la promoción del día arriba del menú. Quien entra a ver precios la encuentra sin buscar."
+    },
+    {
+      "h3": "En redes sociales"
+    },
+    {
+      "p": "Sube una foto real de la hamburguesa con el precio grande. Arma el anuncio con el [generador de flyers](id:flyer) y súbelo como historia."
+    },
+    {
+      "h3": "En tu local"
+    },
+    {
+      "p": "Un cartel en la ventana y un [cupón de descuento](id:cupon-de-descuento) en la bolsa traen de vuelta a quien ya probó."
+    },
+    {
+      "h3": "Con tarjeta de sellos"
+    },
+    {
+      "p": "Una hamburguesa gratis al juntar diez sellos. Haz la tuya con la [tarjeta de lealtad](id:tarjeta-de-lealtad)."
+    },
+    {
+      "h2": "Qué necesita la página de una hamburguesería"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Sección",
+          "Qué poner"
+        ],
+        "filas": [
+          [
+            "Promoción del día",
+            "Arriba de todo con precio y vigencia"
+          ],
+          [
+            "Menú",
+            "Hamburguesas, combos y extras con precio"
+          ],
+          [
+            "Fotos",
+            "Tus hamburguesas reales con buena luz"
+          ],
+          [
+            "Pedido",
+            "Botón a WhatsApp con la orden ya escrita"
+          ],
+          [
+            "Entrega",
+            "Zonas a domicilio, costo y tiempo aproximado"
+          ],
+          [
+            "Horario y mapa",
+            "Iguales a tu ficha de Google"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El menú es lo que más se consulta. Si es largo, el sitio completo le da su propia página."
+    },
+    {
+      "h2": "Promociones a domicilio"
+    },
+    {
+      "p": "Los pedidos a domicilio tienen su propia lógica. El cliente compara el total con envío y no sólo el precio de la hamburguesa."
+    },
+    {
+      "ul": [
+        "Envío gratis a partir de cierto monto para subir la orden.",
+        "Combo de dos que cuesta lo mismo que uno con envío.",
+        "Postre de regalo en pedidos de los días flojos.",
+        "Un horario de entrega rápida en la hora de la comida."
+      ]
+    },
+    {
+      "p": "Pon en tu página las colonias a las que entregas y el costo. Así no pierdes tiempo con pedidos fuera de tu zona."
+    },
+    {
+      "h2": "Cómo medir si una promoción funcionó"
+    },
+    {
+      "p": "Una promoción que llena el local pero no deja dinero no sirve. Antes de repetirla revisa tres números."
+    },
+    {
+      "ul": [
+        "Cuántas órdenes vendiste ese día contra un día normal.",
+        "Cuánto dejó cada orden después de pagar ingredientes.",
+        "Cuántos clientes nuevos regresaron la semana siguiente."
+      ]
+    },
+    {
+      "p": "Anota los números en una libreta o en una hoja de cálculo. Con cuatro semanas sabes qué promoción repetir y cuál quitar."
+    },
+    {
+      "h2": "Frases para anunciar tus promociones"
+    },
+    {
+      "ul": [
+        "Martes de 2x1 en la clásica. Trae a tu compa.",
+        "El combo de la semana ya llegó. Pídelo por WhatsApp.",
+        "Papas gratis los lunes en la compra de dos hamburguesas.",
+        "Junta diez sellos y la siguiente va por la casa.",
+        "Ve el partido con nuestro paquete para cuatro."
+      ]
+    },
+    {
+      "p": "Si necesitas más ideas, usa el [generador de slogan](id:slogan) con el giro de comida rápida."
+    },
+    {
+      "h2": "Errores que vacían la caja"
+    },
+    {
+      "ul": [
+        "Un 2x1 todos los días que acostumbra a la gente a no pagar completo.",
+        "Promociones sin fecha de fin que nunca se pueden quitar.",
+        "Fotos de banco que no se parecen a tu hamburguesa.",
+        "Un menú en imagen que no se lee en el celular.",
+        "Promociones en redes que no aparecen en tu página."
+      ]
+    },
+    {
+      "h2": "Lo que cuesta tu página"
+    },
+    {
+      "p": "La landing cuesta $1,500 con dominio incluido y luego $99 al mes. Cada semana cambias la promoción en la ronda de cambios."
+    },
+    {
+      "p": "Si tu menú es grande o tienes sucursales, el sitio completo cuesta $5,000 con hasta 10 páginas."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuál es la mejor promoción para hamburguesas?",
+      "respuesta": "Un combo con papas y refresco. Sube el ticket sin bajar tu precio."
+    },
+    {
+      "pregunta": "¿Conviene el 2x1?",
+      "respuesta": "Sí, un día fijo de la semana. Todos los días acostumbra a no pagar completo."
+    },
+    {
+      "pregunta": "¿Puedo cambiar la promoción cada semana en mi página?",
+      "respuesta": "Sí. La mandas por WhatsApp hasta el viernes y queda el sábado."
+    },
+    {
+      "pregunta": "¿Mis clientes pueden pedir desde la página?",
+      "respuesta": "Sí. El botón abre tu WhatsApp con la orden ya escrita."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta la página de mi hamburguesería?",
+      "respuesta": "$1,500 con dominio y $99 al mes. El sitio completo cuesta $5,000."
+    },
+    {
+      "pregunta": "¿Cada cuánto cambio mis promociones?",
+      "respuesta": "Cada cuatro o seis semanas. Antes no da tiempo de que la gente las aprenda."
+    },
+    {
+      "pregunta": "¿La página cobra los pedidos?",
+      "respuesta": "No en los paquetes. El cobro en línea se cotiza aparte."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-comida-rapida",
+    "menu-de-restaurante",
+    "cupon-de-descuento",
+    "tarjeta-de-lealtad",
+    "flyer",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus promociones lucen más en tu propia página, junto a tu menú y tu botón de pedidos.",
+    "tituloCorto": "La página de tu hamburguesería",
+    "titulo": "¿Hacemos la página de tu hamburguesería?",
+    "mensaje": "Hola, vi la página de promociones de hamburguesas en aliviane.mx y quiero una página para mi negocio. (ref f-promociones-de-hamburguesas)",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Intención mezclada: ideas de promociones + página de la hamburguesería. Cabeza de 3K: no se leyó top 3. Las promociones son ideas, no cifras de terceros."
+}

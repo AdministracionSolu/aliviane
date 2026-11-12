@@ -1,0 +1,410 @@
+{
+  "id": "ejemplos-de-landing-page",
+  "slug": "ejemplos-de-landing-page",
+  "molde": "plantilla",
+  "cabeza": "ejemplos de landing page",
+  "busquedas": [
+    "landing page ejemplos",
+    "one page ejemplos"
+  ],
+  "title": "Ejemplos de landing page por giro y su estructura",
+  "h1": "Ejemplos de landing page",
+  "description": "Ejemplos de landing page reales y su estructura por giro: restaurante, consultorio, taller, salón y tienda. Toma la idea o pide que te la hagamos por $1,500.",
+  "resumen": "Landings reales y el orden de secciones para cada giro",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una landing es una sola página que lleva a una acción. Aquí ves landings reales y el orden de secciones para seis giros.",
+    "Tómalo como guía para la tuya. Si prefieres que la hagamos, cuesta $1,500 con dominio."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Tres landings que puedes abrir hoy"
+    },
+    {
+      "p": "Cada una tiene una meta distinta. Fíjate cómo todo en la página empuja hacia esa meta."
+    },
+    {
+      "trabajos": true
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Landing",
+          "Meta",
+          "Cómo la empuja"
+        ],
+        "filas": [
+          [
+            "Solú",
+            "Empezar una solicitud de crédito",
+            "Requisitos claros antes del botón"
+          ],
+          [
+            "SignSolú",
+            "Firmar un contrato",
+            "Explica el proceso en pocos pasos"
+          ],
+          [
+            "Makatea",
+            "Probar recordatorios de pago",
+            "Muestra el mensaje que recibe el cliente"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Las partes de una landing"
+    },
+    {
+      "p": "Casi todas las landings que funcionan repiten el mismo esqueleto. Cambia el contenido, pero el orden se parece."
+    },
+    {
+      "ol": [
+        "Encabezado con la promesa principal y el botón.",
+        "Problema que resuelves en palabras de tu cliente.",
+        "Lo que ofreces con precio o precio desde.",
+        "Pruebas como fotos, opiniones o números reales.",
+        "Preguntas frecuentes ya contestadas.",
+        "Cierre con el mismo botón del principio."
+      ]
+    },
+    {
+      "p": "El botón aparece al menos dos veces. Quien se convence a la mitad no debe regresar hasta arriba."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Ejemplos de landing por giro"
+    },
+    {
+      "h3": "Taquería o fonda"
+    },
+    {
+      "p": "Arriba va el platillo estrella con foto y el botón de pedir. Después el menú corto, el horario y las colonias de entrega."
+    },
+    {
+      "h3": "Consultorio dental"
+    },
+    {
+      "p": "La promesa habla de la molestia que resuelves. Luego tratamientos con precio desde, fotos del consultorio y botón de cita."
+    },
+    {
+      "h3": "Taller mecánico"
+    },
+    {
+      "p": "Primero los servicios más pedidos y las marcas que atiendes. Al final fotos de trabajos y presupuesto por WhatsApp."
+    },
+    {
+      "h3": "Salón de uñas"
+    },
+    {
+      "p": "La galería de diseños manda en esta landing. La lista de precios y el botón para apartar van justo debajo."
+    },
+    {
+      "h3": "Abogado o contador"
+    },
+    {
+      "p": "La promesa es tranquilidad. Áreas que atiendes, forma de trabajo y consulta inicial son lo importante."
+    },
+    {
+      "h3": "Venta por catálogo"
+    },
+    {
+      "p": "Los productos más vendidos van arriba con precio. Después envíos, formas de pago y botón para pedir."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Botón principal",
+          "Prueba que más convence"
+        ],
+        "filas": [
+          [
+            "Taquería",
+            "Pedir por WhatsApp",
+            "Foto del platillo real"
+          ],
+          [
+            "Dentista",
+            "Agendar cita",
+            "Fotos del consultorio y cédula"
+          ],
+          [
+            "Taller",
+            "Pedir presupuesto",
+            "Fotos de trabajos terminados"
+          ],
+          [
+            "Uñas",
+            "Apartar lugar",
+            "Galería de diseños"
+          ],
+          [
+            "Despacho",
+            "Pedir consulta",
+            "Años de experiencia y casos"
+          ],
+          [
+            "Catálogo",
+            "Hacer pedido",
+            "Opiniones de clientes"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Lista para revisar tu landing"
+    },
+    {
+      "ul": [
+        "¿Se entiende qué vendes en cinco segundos?",
+        "¿El botón se ve sin mover la pantalla?",
+        "¿Hay un precio o un precio desde?",
+        "¿Las fotos son tuyas?",
+        "¿Abre rápido con datos del celular?",
+        "¿El botón final repite la misma acción?"
+      ]
+    },
+    {
+      "p": "Si contestas que no a dos o más, tu landing pierde clientes. Arréglalas antes de pagar anuncios."
+    },
+    {
+      "h2": "Landing o página de varias secciones"
+    },
+    {
+      "p": "La landing no tiene menú que distraiga. Por eso funciona cuando quieres una sola cosa del visitante."
+    },
+    {
+      "p": "Si tu negocio tiene muchos productos o sucursales, conviene un sitio con varias páginas. Mira más [ejemplos de páginas web](id:ejemplos-de-paginas-web) para comparar."
+    },
+    {
+      "h2": "Cómo escribir el encabezado"
+    },
+    {
+      "p": "El encabezado es la frase más leída de tu landing. Debe decir qué haces y para quién en una línea."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Flojo",
+          "Mejor"
+        ],
+        "filas": [
+          [
+            "Bienvenidos a nuestro sitio",
+            "Mariscos frescos en Tepic con entrega a domicilio"
+          ],
+          [
+            "Calidad y servicio",
+            "Afinación en un día con presupuesto por WhatsApp"
+          ],
+          [
+            "Somos los mejores",
+            "Uñas de gel desde $250 con cita el mismo día"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los precios de esta tabla son ejemplos. Pon los de tu negocio."
+    },
+    {
+      "h2": "Cómo elegir las fotos de tu landing"
+    },
+    {
+      "p": "Las fotos pesan más que cualquier texto. Una landing con fotos reales convence a quien todavía duda."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Foto que va arriba",
+          "Fotos que van después"
+        ],
+        "filas": [
+          [
+            "Comida",
+            "El platillo más vendido de cerca",
+            "Tu local, tu cocina y tu equipo"
+          ],
+          [
+            "Belleza",
+            "Un trabajo terminado con buena luz",
+            "Antes y después con permiso de la clienta"
+          ],
+          [
+            "Oficios",
+            "Un trabajo terminado completo",
+            "Tu equipo trabajando y tu camioneta"
+          ],
+          [
+            "Profesionistas",
+            "Tu foto con fondo limpio",
+            "Tu oficina y tu sala de espera"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Toma las fotos con luz de día y el celular derecho. Una foto oscura hace ver tu negocio descuidado."
+    },
+    {
+      "h2": "Qué medir cuando tu landing ya está en línea"
+    },
+    {
+      "ul": [
+        "Cuántos mensajes de WhatsApp llegan desde el botón.",
+        "Qué preguntan esos mensajes y si ya estaba en la página.",
+        "Cuántos de esos mensajes terminan en venta.",
+        "Si cambia algo cuando cambias la promoción de arriba."
+      ]
+    },
+    {
+      "p": "Pon un mensaje prellenado en el botón con el nombre de tu landing. Así sabes cuántos clientes llegan por ahí."
+    },
+    {
+      "h2": "La misma landing para anuncios y para redes"
+    },
+    {
+      "p": "Una sola landing puede recibir a quien llega de un anuncio, de tu perfil o de un QR. Lo que cambia es la promoción de arriba."
+    },
+    {
+      "p": "Si pagas anuncios para un servicio, conviene una landing para ese servicio. Quien da clic en un anuncio de frenos quiere leer de frenos."
+    },
+    {
+      "h2": "Preguntas que tu landing debe contestar"
+    },
+    {
+      "p": "Una buena sección de preguntas ahorra mensajes. Estas son las que más se repiten en negocios locales."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Pregunta que más llega"
+        ],
+        "filas": [
+          [
+            "Comida",
+            "¿Hasta qué hora entregan y a qué colonias?"
+          ],
+          [
+            "Belleza",
+            "¿Cuánto dura la cita y si piden anticipo?"
+          ],
+          [
+            "Talleres",
+            "¿Cobran por revisar el auto?"
+          ],
+          [
+            "Consultorios",
+            "¿Aceptan tarjeta y dan factura?"
+          ],
+          [
+            "Tiendas",
+            "¿Hacen envíos a otras ciudades?"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Escribe la respuesta corta primero y el detalle después. Quien lee de prisa se queda con la primera frase."
+    },
+    {
+      "h2": "El botón y su mensaje"
+    },
+    {
+      "p": "El botón es la parte más importante de tu landing. Su texto dice qué pasa al tocarlo."
+    },
+    {
+      "ul": [
+        "Mejor «Pedir por WhatsApp» que «Contacto».",
+        "Mejor «Apartar mi cita» que «Enviar».",
+        "Pon un mensaje ya escrito que diga de qué landing viene.",
+        "Usa un color que no se repita en el resto de la página."
+      ]
+    },
+    {
+      "p": "Arma la liga del botón gratis con el [link de WhatsApp](id:link-de-whatsapp). Escribe el mensaje que quieres recibir."
+    },
+    {
+      "h2": "Cuánto texto lleva una landing"
+    },
+    {
+      "p": "Lo justo para contestar dudas sin cansar. En el celular un párrafo de tres líneas ya se siente largo."
+    },
+    {
+      "ul": [
+        "Títulos de cinco a ocho palabras.",
+        "Párrafos de dos o tres frases cortas.",
+        "Listas en lugar de párrafos cuando hay varias cosas.",
+        "Precios con número y no con la frase pregunta por precio."
+      ]
+    },
+    {
+      "h2": "Errores que vemos en landings"
+    },
+    {
+      "ul": [
+        "Un carrusel de fotos que tapa la promesa.",
+        "Cinco botones distintos que confunden.",
+        "Un formulario largo cuando basta WhatsApp.",
+        "Textos copiados de otra landing del mismo giro."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una landing page?",
+      "respuesta": "Una sola página que lleva a una acción. Lee más en [qué es una landing page](id:que-es-una-landing-page)."
+    },
+    {
+      "pregunta": "¿Puedo descargar estas landings?",
+      "respuesta": "No. Son proyectos en línea y no plantillas para bajar."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta una landing hecha?",
+      "respuesta": "$1,500 con dominio incluido. Después $99 al mes con cambios cada semana."
+    },
+    {
+      "pregunta": "¿Cuántas secciones debe tener?",
+      "respuesta": "Entre cinco y siete. Más que eso se vuelve difícil de recorrer en el celular."
+    },
+    {
+      "pregunta": "¿Necesito formulario o basta WhatsApp?",
+      "respuesta": "Basta WhatsApp para la mayoría de los negocios locales."
+    },
+    {
+      "pregunta": "¿Una landing sirve para anuncios?",
+      "respuesta": "Sí. Es el mejor destino para un anuncio porque lleva a una sola acción."
+    }
+  ],
+  "relacionadas": [
+    "landing-page",
+    "ejemplos-de-paginas-web",
+    "que-es-una-landing-page",
+    "plantillas-html",
+    "pagina-web-para-negocio",
+    "favicon"
+  ],
+  "venta": {
+    "puente": "Tu landing puede seguir este orden con tu marca, tus fotos y tu WhatsApp.",
+    "tituloCorto": "Tu landing por $1,500",
+    "titulo": "¿Hacemos tu landing?",
+    "trabajos": [
+      "solu",
+      "signsolu",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Sólo trabajos del portafolio de img/trabajos/ (sin Agroqs ni Avelina, pendientes de permiso). No se usan las muestras de sitios/: son de prospectos, no de clientes. Cabeza de 3K: no se leyó top 3."
+}

@@ -1,0 +1,223 @@
+{
+  "id": "lector-qr",
+  "slug": "lector-qr",
+  "molde": "herramienta",
+  "cabeza": "escánear codigo qr",
+  "busquedas": [
+    "escanear código qr",
+    "lector qr",
+    "lector de qr en línea",
+    "camara qr",
+    "qr camara",
+    "camara codigo qr",
+    "codigo qr camara",
+    "scanner codigo qr",
+    "scanner qr gratis",
+    "buscar qr",
+    "buscar codigo qr",
+    "código qr no válido",
+    "leer qr desde imagen"
+  ],
+  "title": "Escanear código QR en línea con cámara o foto",
+  "h1": "Escanear código QR en línea",
+  "description": "Escanea un código QR con la cámara de tu equipo o desde una foto o captura. Ves lo que dice antes de abrirlo. Gratis, sin instalar nada y sin subir la imagen.",
+  "resumen": "Lee un QR con la cámara o desde una foto sin instalar nada",
+  "categoria": "Códigos QR",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Toca «Abrir cámara» y apunta al código, o sube una foto o captura donde se vea el QR. Te mostramos lo que dice antes de abrir nada.",
+    "La imagen no sale de tu equipo. Sirve en computadora y en celular."
+  ],
+  "herramienta": {
+    "id": "lector-qr",
+    "modo": "camara"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo leer un QR aquí"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige cámara o foto",
+          "texto": "En computadora puedes usar la cámara web o subir una captura de pantalla."
+        },
+        {
+          "titulo": "Da permiso a la cámara",
+          "texto": "El navegador te lo pide una vez. Si lo niegas, sube una foto del código."
+        },
+        {
+          "titulo": "Revisa el resultado",
+          "texto": "Te decimos si es una liga, un wifi, un teléfono o un contacto."
+        },
+        {
+          "titulo": "Decide qué hacer",
+          "texto": "Copia el texto o toca el botón para abrir la liga cuando estés seguro."
+        }
+      ]
+    },
+    {
+      "p": "También puedes arrastrar la foto al cuadro o pegarla con Ctrl + V. Es lo más rápido si te mandaron el QR en una captura."
+    },
+    {
+      "h2": "Qué puede traer un código QR"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Tipo",
+          "Qué te mostramos",
+          "Botón"
+        ],
+        "filas": [
+          [
+            "Liga de una página",
+            "La dirección completa y el sitio",
+            "Abrir liga"
+          ],
+          [
+            "WhatsApp",
+            "El número y el mensaje escrito",
+            "Abrir en WhatsApp"
+          ],
+          [
+            "Red wifi",
+            "Nombre de la red y contraseña",
+            "Copiar contraseña"
+          ],
+          [
+            "Teléfono o SMS",
+            "El número y el texto",
+            "Llamar o mandar mensaje"
+          ],
+          [
+            "Contacto",
+            "Nombre · empresa · teléfono y correo",
+            "Guardar contacto"
+          ],
+          [
+            "Ubicación",
+            "Las coordenadas",
+            "Ver en el mapa"
+          ],
+          [
+            "Texto",
+            "El texto tal cual",
+            "Copiar"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Por qué no abrimos la liga solos"
+    },
+    {
+      "p": "Un QR puede llevar a una página falsa que imita a tu banco. Por eso primero te enseñamos la dirección completa."
+    },
+    {
+      "ul": [
+        "Revisa que el sitio sea el que esperas, letra por letra.",
+        "Desconfía de un QR pegado encima de otro en un cartel.",
+        "No escribas contraseñas en una página que abriste desde un QR dudoso.",
+        "Si el QR pide pagar, confirma el cobro con el negocio."
+      ]
+    },
+    {
+      "h2": "Cuando sale «código QR no válido»"
+    },
+    {
+      "p": "Casi siempre es la foto y no el código. Prueba estos arreglos en orden."
+    },
+    {
+      "ul": [
+        "Acércate hasta que el código ocupe casi toda la imagen.",
+        "Pon el código derecho y sin reflejo de la luz.",
+        "Limpia la lente de la cámara.",
+        "Si está en pantalla, sube el brillo o toma una captura.",
+        "Si está dañado o recortado, pide otro al negocio."
+      ]
+    },
+    {
+      "p": "Un QR con muy poco contraste también falla. Los colores claros sobre fondo claro no se leen bien con ningún lector."
+    },
+    {
+      "h2": "En el celular también sirve la cámara"
+    },
+    {
+      "p": "La mayoría de los celulares recientes leen QR desde la app de cámara. Este lector te sirve en la computadora o cuando el QR está en una foto guardada."
+    },
+    {
+      "p": "Si quieres hacer tu propio código, usa el [generador de QR](id:generador-de-qr). Lo puedes probar aquí mismo antes de imprimirlo."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿El lector de QR es gratis?",
+      "respuesta": "Sí. No pide cuenta ni instalar ninguna aplicación."
+    },
+    {
+      "pregunta": "¿Se sube mi foto a algún lado?",
+      "respuesta": "No. La imagen se lee en tu equipo y no se manda a ningún servidor."
+    },
+    {
+      "pregunta": "¿Puedo leer un QR desde una captura de pantalla?",
+      "respuesta": "Sí. Súbela, arrástrala o pégala con Ctrl + V."
+    },
+    {
+      "pregunta": "¿Funciona en computadora sin cámara?",
+      "respuesta": "Sí. Sube una foto o una captura donde se vea el código."
+    },
+    {
+      "pregunta": "¿Lee códigos de barras?",
+      "respuesta": "No. Este lector sólo lee códigos QR."
+    },
+    {
+      "pregunta": "¿Por qué la cámara no abre?",
+      "respuesta": "Falta el permiso del navegador. Actívalo en el candado de la barra de direcciones o sube una foto."
+    }
+  ],
+  "relacionadas": [
+    "generador-de-qr",
+    "leer-qr-wifi",
+    "crear-qr-con-imagen",
+    "codigo-qr-para-whatsapp",
+    "qr-wifi",
+    "menu-qr"
+  ],
+  "venta": {
+    "puente": "Si tu negocio usa QR en carteles o mesas, que lleven a tu propia página.",
+    "aviso": "¿Tu negocio tiene QR en el mostrador? Haz que abra tu propia página.",
+    "titulo": "¿Hacemos la página a la que lleva tu QR?",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://dnschecker.org/es/escanear-codigo-qr",
+      "titulo": "Escanear código QR",
+      "promete": "Lector en línea con cámara o imagen; no explica qué hacer si el código no se lee"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.qrcode-tiger.com/es/qr-code-scanner",
+      "titulo": "Escáner de códigos QR",
+      "promete": "Guía para escanear con el dispositivo; vende QR dinámicos"
+    },
+    {
+      "posicion": 3,
+      "url": "https://u2l.ai/es/tools/qr-code-scanner",
+      "titulo": "Lector de QR",
+      "promete": "Lee desde imagen, portapapeles o cámara; sin aviso de seguridad antes de abrir ligas"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Top 3 leído con WebSearch el 12-nov-2026. ⚠️ lib.mjs sólo muestra el aviso suave con «aliviane:resultado»; el evento «leer» del motor no lo dispara (decisión del dueño de lib.mjs)."
+}

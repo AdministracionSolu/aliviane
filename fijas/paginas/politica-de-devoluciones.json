@@ -1,0 +1,212 @@
+{
+  "id": "politica-de-devoluciones",
+  "slug": "politica-de-devoluciones",
+  "molde": "herramienta",
+  "cabeza": "política de devoluciones",
+  "busquedas": [
+    "política de devoluciones",
+    "politica de cambios y devoluciones",
+    "politica de devoluciones ejemplo",
+    "politica de devolucion tienda"
+  ],
+  "title": "Política de devoluciones: modelo gratis para tu tienda",
+  "h1": "Política de cambios y devoluciones",
+  "description": "Política de devoluciones para tu tienda física o en línea. Decides días de cambio por gusto, qué no se cambia y quién paga el envío. Cópiala o bájala en PDF.",
+  "resumen": "Decide cambios por gusto, excepciones y envíos y baja tu política",
+  "categoria": "Textos legales",
+  "categoriaApp": "BusinessApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Tu política de devoluciones dice cuándo aceptas cambios y cómo se piden. Decides los días y las condiciones y sale el texto completo.",
+    "Es un modelo. Conviene revisarlo con un abogado antes de publicarlo."
+  ],
+  "herramienta": {
+    "id": "texto-legal",
+    "modo": "devoluciones"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo armar tu política"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Días para cambios por gusto",
+          "texto": "Pon 0 si no aceptas cambios por gusto. Los defectos siempre se atienden."
+        },
+        {
+          "titulo": "Qué ofreces",
+          "texto": "Cambio por otro producto, saldo a favor o reembolso."
+        },
+        {
+          "titulo": "Condiciones y excepciones",
+          "texto": "Sin uso, con empaque o con ticket. Marca lo que no cambias por higiene."
+        },
+        {
+          "titulo": "Venta en línea y garantía",
+          "texto": "Indica si vendes a distancia, quién paga el envío y cuántos días de garantía das."
+        }
+      ]
+    },
+    {
+      "h2": "Cambio por gusto y cambio por defecto"
+    },
+    {
+      "p": "Son dos cosas distintas y la política las separa. El cambio por gusto lo decides tú. El cambio por defecto lo marca la ley."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Por gusto",
+          "Por defecto"
+        ],
+        "filas": [
+          [
+            "¿Es obligatorio?",
+            "No, lo decides tú",
+            "Sí, siempre se atiende"
+          ],
+          [
+            "Plazo",
+            "Los días que tú fijes",
+            "El que cita el modelo según la ley"
+          ],
+          [
+            "Qué recibe el cliente",
+            "Cambio, saldo o reembolso",
+            "Cambio o devolución más bonificación"
+          ],
+          [
+            "Envío",
+            "Lo pagas tú o el cliente",
+            "Lo pagas tú"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Productos que suelen quedar fuera"
+    },
+    {
+      "ul": [
+        "Alimentos y perecederos.",
+        "Ropa interior y trajes de baño.",
+        "Productos personalizados o hechos a la medida.",
+        "Artículos de higiene personal abiertos.",
+        "Productos digitales ya entregados."
+      ]
+    },
+    {
+      "p": "Quedan fuera sólo del cambio por gusto. Si llegan con defecto, la política dice que sí se atienden."
+    },
+    {
+      "h2": "Lo que cita el modelo de la ley"
+    },
+    {
+      "p": "Para compras en línea o a distancia cita los artículos 51 y 56 de la Ley Federal de Protección al Consumidor. El cliente tiene cinco días hábiles para revocar."
+    },
+    {
+      "p": "Para productos con defecto cita los artículos 92 y 92 TER. Agrega una bonificación de al menos 20% del precio pagado."
+    },
+    {
+      "p": "Si das garantía, el modelo no baja de 90 días. Si das servicios, cita los artículos 92 BIS y 92 TER."
+    },
+    {
+      "h2": "Consejos por giro"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Giro",
+          "Lo que conviene fijar"
+        ],
+        "filas": [
+          [
+            "Ropa",
+            "Cambio por talla con etiqueta y ticket"
+          ],
+          [
+            "Electrónica",
+            "Garantía clara y revisión antes de cambiar"
+          ],
+          [
+            "Comida",
+            "Sin cambio por gusto y atención rápida de quejas"
+          ],
+          [
+            "Regalos",
+            "Saldo a favor en lugar de reembolso"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pon tu política a la vista en el mostrador y en tu página. Un cliente que la conoce antes de comprar reclama menos."
+    },
+    {
+      "h2": "Cómo atender una devolución sin perder al cliente"
+    },
+    {
+      "ol": [
+        "Contesta el mismo día aunque todavía no tengas la solución.",
+        "Pide fotos del producto y del ticket por WhatsApp.",
+        "Ofrece la opción que marca tu política sin regatear.",
+        "Confirma por escrito cuándo recibe su cambio o su dinero."
+      ]
+    },
+    {
+      "p": "Un cliente bien atendido en una devolución suele volver a comprar. Uno ignorado se queja en tus reseñas de Google."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Estoy obligado a aceptar cambios por gusto?",
+      "respuesta": "No. Lo decides tú, pero los defectos siempre se atienden."
+    },
+    {
+      "pregunta": "¿Este texto sirve tal cual?",
+      "respuesta": "Es un modelo. Revísalo con un abogado según tu giro."
+    },
+    {
+      "pregunta": "¿Puedo dar saldo a favor en lugar de dinero?",
+      "respuesta": "Sí, en cambios por gusto. En defectos el cliente elige cambio o devolución."
+    },
+    {
+      "pregunta": "¿Quién paga el envío de una devolución?",
+      "respuesta": "Depende. En cambios por gusto lo decides tú y en defectos lo pagas tú."
+    },
+    {
+      "pregunta": "¿Se puede bajar en PDF?",
+      "respuesta": "Sí. También lo copias como texto o HTML."
+    }
+  ],
+  "relacionadas": [
+    "terminos-y-condiciones",
+    "aviso-de-privacidad",
+    "tienda-en-linea",
+    "nota-de-venta",
+    "tienda-de-ropa"
+  ],
+  "venta": {
+    "puente": "Tu política de devoluciones se lee mejor en tu propia página, junto a tu catálogo.",
+    "aviso": "¿Ya tienes tu política? Publícala en tu página junto a tu catálogo.",
+    "titulo": "¿Hacemos la página de tu tienda?",
+    "trabajos": [
+      "comprafin",
+      "pilsi",
+      "laola"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección al Consumidor (última reforma DOF 12-12-2025), Cámara de Diputados",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Las leyes se citan sólo como las cita el motor texto-legal (leídas por E2 en diputados.gob.mx el 12-nov-2026). Revisar en cada «revisada». Cabeza de 3K: no se leyó top 3."
+}

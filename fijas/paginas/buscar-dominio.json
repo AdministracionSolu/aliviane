@@ -1,0 +1,221 @@
+{
+  "id": "buscar-dominio",
+  "slug": "buscar-dominio",
+  "molde": "herramienta",
+  "cabeza": "dominios disponibles",
+  "busquedas": [
+    "dominios libres",
+    "comprobar dominio",
+    "buscar dominios",
+    "buscador de dominios",
+    "who is dominio"
+  ],
+  "title": "Dominios disponibles: busca .mx y .com al instante",
+  "h1": "Buscar dominios disponibles",
+  "description": "Revisa si tu dominio está libre en .com.mx, .mx, .com y más. Ves quién lo tiene ocupado desde cuándo y opciones parecidas. Gratis y sin dejar tu correo.",
+  "resumen": "Revisa si tu dominio está libre en .com.mx, .mx y .com",
+  "categoria": "Dominio y hosting",
+  "categoriaApp": "UtilitiesApplication",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Escribe el nombre que quieres y elige las terminaciones. Te decimos si cada dominio está libre, probablemente libre u ocupado.",
+    "Si está ocupado, te enseñamos variantes parecidas en .com.mx y .mx."
+  ],
+  "herramienta": {
+    "id": "dominio-disponible",
+    "modo": ""
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo buscar tu dominio"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe el nombre",
+          "texto": "Sin espacios ni acentos. Si los pones, los quitamos por ti."
+        },
+        {
+          "titulo": "Elige terminaciones",
+          "texto": "Por omisión revisamos .com.mx, .mx y .com."
+        },
+        {
+          "titulo": "Lee el resultado",
+          "texto": "Libre, probablemente libre u ocupado, con la fecha de registro si existe."
+        },
+        {
+          "titulo": "Mira las variantes",
+          "texto": "Si tu nombre está tomado, salen opciones parecidas."
+        }
+      ]
+    },
+    {
+      "h2": "Qué significa cada resultado"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Resultado",
+          "Qué quiere decir",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "Libre",
+            "El registro público dice que nadie lo tiene",
+            "Regístralo pronto"
+          ],
+          [
+            "Probablemente libre",
+            "No tiene servidores, pero puede estar apartado",
+            "Confírmalo al comprarlo"
+          ],
+          [
+            "Ocupado",
+            "Ya tiene dueño",
+            "Prueba otra terminación o una variante"
+          ],
+          [
+            "No se pudo revisar",
+            "Falló la conexión",
+            "Intenta de nuevo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En los .mx y .com.mx el registro público no se puede consultar igual que en un .com. Por eso a veces ves «probablemente libre»."
+    },
+    {
+      "h2": "Las terminaciones que revisa"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Terminación",
+          "Para qué conviene"
+        ],
+        "filas": [
+          [
+            ".com.mx",
+            "Negocios en México, la más reconocida aquí"
+          ],
+          [
+            ".mx",
+            "Corta y mexicana, buena para marcas nuevas"
+          ],
+          [
+            ".com",
+            "Si vendes también fuera de México"
+          ],
+          [
+            ".net y .org",
+            "Opciones si el .com ya está tomado"
+          ],
+          [
+            ".shop y .store",
+            "Tiendas que venden en línea"
+          ],
+          [
+            ".online",
+            "Alternativa cuando todo lo demás está ocupado"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Cómo elegir un buen dominio"
+    },
+    {
+      "ul": [
+        "Que sea igual o muy parecido al nombre de tu negocio.",
+        "Corto, de preferencia menos de 15 letras.",
+        "Sin guiones ni números que haya que explicar.",
+        "Fácil de dictar por teléfono.",
+        "Sin ñ ni acentos para que nadie se equivoque al escribirlo."
+      ]
+    },
+    {
+      "p": "Si tu nombre está ocupado en .com, revisa el .com.mx. Muchos clientes en México lo escriben sin pensar."
+    },
+    {
+      "h2": "Qué hacer cuando lo encuentras libre"
+    },
+    {
+      "p": "Un dominio libre hoy puede estar tomado mañana. Si ya decidiste, regístralo el mismo día."
+    },
+    {
+      "ul": [
+        "Regístralo a nombre de tu negocio o a tu nombre, nunca de un tercero.",
+        "Anota la fecha de vencimiento y activa la renovación automática.",
+        "Guarda el usuario y la contraseña del registro en un lugar seguro.",
+        "Aparta también el .com.mx si compraste el .mx, o al revés."
+      ]
+    },
+    {
+      "p": "Un dominio vencido puede quedar libre para otra persona. Revisa la fecha de vencimiento que te mostramos cuando buscas el tuyo."
+    },
+    {
+      "h2": "Tu búsqueda queda entre tú y el registro"
+    },
+    {
+      "p": "La consulta va directo de tu navegador al registro público. No guardamos lo que buscas ni lo usamos para apartar dominios."
+    },
+    {
+      "p": "Puedes llegar con la búsqueda hecha agregando ?dominio=tunombre a la dirección de esta página."
+    },
+    {
+      "p": "Si todavía no tienes nombre, prueba el [generador de nombres para empresas](id:nombres-para-empresas) y revisa aquí los que te gusten."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Buscar dominios aquí es gratis?",
+      "respuesta": "Sí. Puedes buscar todos los que quieras sin dejar tu correo."
+    },
+    {
+      "pregunta": "¿Guardan los dominios que busco?",
+      "respuesta": "No. La consulta va de tu navegador al registro público."
+    },
+    {
+      "pregunta": "¿Puedo comprar el dominio aquí?",
+      "respuesta": "No. Esta herramienta sólo revisa si está libre."
+    },
+    {
+      "pregunta": "¿Por qué dice probablemente libre?",
+      "respuesta": "Porque no tiene servidores. Puede estar apartado y se confirma al comprarlo."
+    },
+    {
+      "pregunta": "¿Me conviene .mx o .com.mx?",
+      "respuesta": "Los dos sirven en México. El .com.mx es el más conocido y el .mx es más corto."
+    },
+    {
+      "pregunta": "¿Qué hago si mi dominio está ocupado?",
+      "respuesta": "Prueba otra terminación o agrega tu ciudad o tu giro al nombre."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "comprar-dominio",
+    "dominio-y-hosting",
+    "nombres-para-empresas",
+    "que-es-hosting",
+    "certificado-ssl"
+  ],
+  "venta": {
+    "puente": "Si haces tu página con Aliviane, el dominio ya viene incluido y queda a tu nombre.",
+    "aviso": "¿Encontraste tu dominio libre? Con Aliviane va incluido en tu página.",
+    "titulo": "¿Tu página con ese dominio incluido?",
+    "trabajos": [
+      "signsolu",
+      "comprafin",
+      "laola"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Cabeza de 3K: no se leyó top 3. Única herramienta con red (RDAP y DNS). Sin precios de registradores. ⚠️ lib.mjs no muestra el aviso suave con el evento «consultar»."
+}

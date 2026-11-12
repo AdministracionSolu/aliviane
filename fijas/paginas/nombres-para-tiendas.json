@@ -1,0 +1,181 @@
+{
+  "id": "nombres-para-tiendas",
+  "slug": "nombres-para-tiendas",
+  "molde": "herramienta",
+  "cabeza": "nombres para tiendas",
+  "busquedas": [
+    "nombres de tiendas",
+    "10 nombres de tiendas",
+    "nombres de tiendas que llamen la atención"
+  ],
+  "title": "Nombres para tiendas que llaman la atención",
+  "h1": "Nombres para tiendas",
+  "description": "Nombres para tiendas de abarrotes, misceláneas y minisúper. Ideas con sabor de barrio o con tu apellido, listas para guardar y revisar como dominio. Gratis.",
+  "resumen": "Ideas para tiendita, abarrotes, miscelánea o minisúper",
+  "categoria": "Nombres y slogan",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Elige el estilo y toca «Dame ideas». Salen nombres para tienditas, abarrotes y minisúper con palabras de despensa y de barrio.",
+    "Los mejores se recuerdan al primer «voy a la tienda de…»."
+  ],
+  "herramienta": {
+    "id": "nombres",
+    "modo": "tiendas"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo elegir en cuatro pasos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Piensa en tu cuadra",
+          "texto": "Tus clientes viven cerca y te van a nombrar entre ellos. Busca algo que se diga fácil."
+        },
+        {
+          "titulo": "Usa tus palabras",
+          "texto": "Escribe el nombre de tu calle, de tu mamá o de lo que más vendes."
+        },
+        {
+          "titulo": "Revisa el estilo con apellido",
+          "texto": "En abarrotes funciona mucho porque la gente ya conoce a la familia."
+        },
+        {
+          "titulo": "Pruébalo con vecinos",
+          "texto": "Pregunta a tres clientes cuál recuerdan al día siguiente."
+        }
+      ]
+    },
+    {
+      "h2": "Lo que sale para tiendas"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Estilo",
+          "Ejemplos"
+        ],
+        "filas": [
+          [
+            "Cortos",
+            "Granero · Surtido · Vecineta · Tiendito"
+          ],
+          [
+            "De barrio",
+            "La Canasta de la Colonia · La Despensa Moderna · Mi Bodega Buena"
+          ],
+          [
+            "Juego de palabras",
+            "Ya Llegó el Mandado · Todo a la Mano · La Esquina de Siempre"
+          ],
+          [
+            "Con apellido",
+            "Abarrotes Hermanos Ramírez · Miscelánea Ramírez · La Tiendita de Ramírez"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ya Llegó el Mandado tiene humor y se queda en la cabeza. Minisúper Ramírez suena serio y sirve si piensas crecer."
+    },
+    {
+      "h2": "Qué hace que un nombre de tienda funcione"
+    },
+    {
+      "p": "En una tienda de barrio el nombre se usa como dirección. «Te veo afuera de La Canasta» es mejor publicidad que cualquier volante."
+    },
+    {
+      "ul": [
+        "Corto para que quepa en una lona sobre la cortina.",
+        "Fácil de decir para que los niños lo recuerden al ir por el mandado.",
+        "Con algo tuyo, como tu apellido o la esquina donde estás.",
+        "Distinto a la tienda de la otra cuadra."
+      ]
+    },
+    {
+      "p": "Si repartes a domicilio, el nombre también va en tu WhatsApp. Ahí te guardan como contacto y conviene que se distinga."
+    },
+    {
+      "h2": "Tropiezos frecuentes"
+    },
+    {
+      "ul": [
+        "Quedarse con «Abarrotes» a secas y que nadie sepa cuál eres.",
+        "Imitar el nombre o los colores de una cadena de conveniencia.",
+        "Elegir un nombre muy largo que no cabe en el letrero.",
+        "Cambiarlo cuando ya todos te conocen por otro."
+      ]
+    },
+    {
+      "p": "Antes de pintar la cortina, pide a dos o tres vecinos que lo digan en voz alta. Si se traban, busca otro."
+    },
+    {
+      "h2": "Protege el nombre si piensas crecer"
+    },
+    {
+      "p": "Las palabras genéricas como «abarrotes» o «tienda» no se pueden registrar solas. Lo dice la fracción I del artículo 173 de la ley de propiedad industrial."
+    },
+    {
+      "p": "Si abres una segunda sucursal, vale la pena registrar la marca. El registro dura diez años y se renueva por periodos iguales."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué nombre le pongo a una tienda de abarrotes?",
+      "respuesta": "Uno corto que suene a barrio o que lleve tu apellido. Pruébalo con tus vecinos."
+    },
+    {
+      "pregunta": "¿Sirve para miscelánea y minisúper?",
+      "respuesta": "Sí. El banco de tiendas tiene palabras de las tres."
+    },
+    {
+      "pregunta": "¿Necesito registrar el nombre de mi tiendita?",
+      "respuesta": "No es obligatorio. Conviene si vas a crecer o abrir otra sucursal."
+    },
+    {
+      "pregunta": "¿Puedo pedir más ideas?",
+      "respuesta": "Sí. Toca «Más ideas» las veces que quieras y salen combinaciones nuevas."
+    },
+    {
+      "pregunta": "¿Debe llevar la palabra abarrotes?",
+      "respuesta": "No es necesario. Si el nombre no la lleva, ponla chica en el letrero para que se entienda el giro."
+    },
+    {
+      "pregunta": "¿Puedo usar el nombre de mi calle?",
+      "respuesta": "Sí. Funciona mientras no pienses mudarte o abrir en otra colonia."
+    },
+    {
+      "pregunta": "¿Hay ideas para tienda de regalos o de todo un poco?",
+      "respuesta": "Sí. Usa el generador de [tienda de variedades](id:nombres-para-tienda-de-variedades)."
+    }
+  ],
+  "relacionadas": [
+    "nombres-para-tienda-de-variedades",
+    "nombres-para-empresas",
+    "letreros-para-negocios",
+    "slogan",
+    "lista-de-precios",
+    "buscar-dominio"
+  ],
+  "venta": {
+    "puente": "Tu tienda puede tener una página con tus precios y un botón para pedir el mandado por WhatsApp.",
+    "aviso": "¿Ya tienes nombre? Tu tienda puede tener su página con pedidos por WhatsApp.",
+    "titulo": "¿Hacemos la página de tu tienda?",
+    "trabajos": [
+      "comprafin",
+      "laola",
+      "solu"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección a la Propiedad Industrial, artículos 171, 173, 178, 201, 204 y 233 (Cámara de Diputados, última reforma DOF 03-04-2026)",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). Ejemplos sacados del motor nombres (generarNombres, semilla 7, apellido Ramírez). Ley leída en diputados.gob.mx el 12-nov-2026."
+}

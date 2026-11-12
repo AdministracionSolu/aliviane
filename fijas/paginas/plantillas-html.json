@@ -1,0 +1,403 @@
+{
+  "id": "plantillas-html",
+  "slug": "plantillas-html",
+  "molde": "plantilla",
+  "cabeza": "plantillas html",
+  "busquedas": [
+    "plantillas html",
+    "plantillas html gratis",
+    "plantilla html para negocio",
+    "plantilla html landing page"
+  ],
+  "title": "Plantillas HTML gratis o tu landing hecha desde $1,500",
+  "h1": "Plantillas HTML para tu negocio",
+  "description": "Plantillas HTML gratis: qué traen, qué necesitas para publicarlas y qué revisar de su licencia. Llévate la estructura de una landing o pídela hecha.",
+  "resumen": "Qué trae una plantilla HTML, qué necesitas y la estructura para llevarte",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una plantilla HTML es el código de una página lista para cambiarle textos e imágenes. Para publicarla necesitas editarla, un hosting y un dominio.",
+    "Aliviane no da plantillas para descargar. Aquí te llevas la estructura de una landing, o te la hacemos con tu marca."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué trae una plantilla HTML"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Archivo",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "index.html",
+            "La página con sus textos y secciones"
+          ],
+          [
+            "Hojas de estilo",
+            "Colores, letras y acomodo de la página"
+          ],
+          [
+            "Scripts",
+            "Menús que se abren, carruseles y animaciones"
+          ],
+          [
+            "Imágenes",
+            "Fotos de muestra que debes cambiar por las tuyas"
+          ],
+          [
+            "Licencia",
+            "Lo que puedes y no puedes hacer con la plantilla"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las fotos de muestra casi nunca se pueden usar en tu página. Cámbialas antes de publicar."
+    },
+    {
+      "h2": "Qué necesitas para usar una"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Un editor de código",
+          "texto": "Para cambiar textos, ligas y colores sin romper el diseño."
+        },
+        {
+          "titulo": "Saber un poco de HTML",
+          "texto": "Al menos reconocer etiquetas y no borrar las que cierran."
+        },
+        {
+          "titulo": "Un hosting",
+          "texto": "El espacio donde vive tu página. Compara precios en [planes de hosting](id:precios-de-hostinger)."
+        },
+        {
+          "titulo": "Un dominio",
+          "texto": "La dirección de tu página. Revisa si está libre en el [buscador de dominios](id:buscar-dominio)."
+        },
+        {
+          "titulo": "Subir y conectar",
+          "texto": "Subes los archivos y apuntas el dominio al hosting."
+        }
+      ]
+    },
+    {
+      "p": "Si cada paso te suena conocido, una plantilla te puede ahorrar tiempo. Si no, el tiempo de aprender cuesta más que la plantilla."
+    },
+    {
+      "h2": "Revisa la licencia antes de usarla"
+    },
+    {
+      "p": "Gratis no quiere decir que puedas hacer cualquier cosa. Cada plantilla trae sus propias reglas."
+    },
+    {
+      "ul": [
+        "Algunas piden dejar una liga al autor en el pie.",
+        "Otras no permiten usarlas en proyectos de clientes.",
+        "Las fotos y los íconos pueden tener otra licencia.",
+        "Una plantilla sin licencia escrita no da permiso de uso."
+      ]
+    },
+    {
+      "p": "Descarga plantillas sólo de su autor o de sitios conocidos. Un archivo de origen dudoso puede traer código que no quieres en tu página."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "La estructura que sí te puedes llevar"
+    },
+    {
+      "p": "Esta es la estructura que usamos en las landings de negocio local. Sirve igual para una plantilla que para un creador de sitios."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Bloque",
+          "Qué va",
+          "Consejo"
+        ],
+        "filas": [
+          [
+            "Encabezado",
+            "Nombre, frase de lo que haces y botón",
+            "Que quepa en la primera pantalla del celular"
+          ],
+          [
+            "Servicios",
+            "Tres a seis servicios con precio desde",
+            "Uno por tarjeta con una línea de texto"
+          ],
+          [
+            "Fotos",
+            "Seis a nueve fotos reales",
+            "Comprímelas antes de subirlas"
+          ],
+          [
+            "Por qué tú",
+            "Tres razones concretas",
+            "Nada de frases de catálogo"
+          ],
+          [
+            "Opiniones",
+            "Dos o tres reseñas reales",
+            "Con nombre y fecha si es posible"
+          ],
+          [
+            "Preguntas",
+            "Las que más te hacen por mensaje",
+            "Respuesta corta primero"
+          ],
+          [
+            "Contacto",
+            "WhatsApp, mapa y horario",
+            "Iguales a tu ficha de Google"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lleva esta tabla a tu plantilla y llena cada bloque. Te va a salir una página más clara que la de muestra."
+    },
+    {
+      "h2": "Lo que suele fallar con plantillas"
+    },
+    {
+      "ul": [
+        "Se quedan textos de muestra en otro idioma.",
+        "Pesa mucho por scripts y efectos que no usas.",
+        "El formulario de contacto no manda nada sin un servidor.",
+        "Falta el favicon y sale un ícono genérico.",
+        "Nadie la actualiza después de publicarla."
+      ]
+    },
+    {
+      "p": "El favicon lo resuelves gratis con el [generador de favicon](id:favicon). Lo demás pide tiempo y cuidado cada semana."
+    },
+    {
+      "h2": "Plantilla, creador de sitios o página hecha"
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "",
+          "Plantilla HTML",
+          "Creador de sitios",
+          "Aliviane"
+        ],
+        "filas": [
+          [
+            "Quién la arma",
+            "Tú, con código",
+            "Tú, con un editor",
+            "Aliviane"
+          ],
+          [
+            "Necesitas saber código",
+            "Sí",
+            "No",
+            "No"
+          ],
+          [
+            "Hosting y dominio",
+            "Los contratas tú",
+            "Según el plan",
+            "Incluidos"
+          ],
+          [
+            "Cambios",
+            "Tú en el código",
+            "Tú en el editor",
+            "Una ronda cada semana"
+          ],
+          [
+            "Precio",
+            "Gratis la plantilla",
+            "Según el plan",
+            "$1,500 y $99 al mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las tres opciones sirven. La diferencia está en cuánto tiempo quieres poner tú."
+    },
+    {
+      "h2": "Cómo adaptar una plantilla a tu negocio"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Cambia todos los textos",
+          "texto": "Busca palabras de muestra en otro idioma y cámbialas por las tuyas."
+        },
+        {
+          "titulo": "Pon tus colores",
+          "texto": "Cambia los colores en la hoja de estilo y no en cada sección."
+        },
+        {
+          "titulo": "Sustituye las fotos",
+          "texto": "Usa fotos tuyas del mismo tamaño para no romper el acomodo."
+        },
+        {
+          "titulo": "Arregla el contacto",
+          "texto": "Cambia el formulario por un botón de WhatsApp si no tienes servidor."
+        },
+        {
+          "titulo": "Revisa en el celular",
+          "texto": "Abre la página en tu teléfono antes de publicarla."
+        }
+      ]
+    },
+    {
+      "p": "También cambia el título de la pestaña y la descripción para buscadores. Muchas plantillas se publican con el título de muestra."
+    },
+    {
+      "h2": "Cuánto pesa una plantilla y por qué importa"
+    },
+    {
+      "p": "Muchas plantillas gratis traen efectos y librerías que no necesitas. Cada una agrega peso y hace más lenta tu página."
+    },
+    {
+      "ul": [
+        "Quita los carruseles si no los vas a usar.",
+        "Borra las fuentes de letra que no aparecen en tu página.",
+        "Comprime las fotos antes de subirlas.",
+        "Prueba tu página con datos del celular y no sólo con wifi."
+      ]
+    },
+    {
+      "p": "Una página ligera abre rápido aunque la señal sea mala. Eso cuenta mucho cuando tu cliente te busca desde la calle."
+    },
+    {
+      "h2": "Lo que la plantilla no resuelve"
+    },
+    {
+      "p": "Una plantilla es el diseño. El contenido, las fotos, el dominio y los cambios de cada semana siguen siendo tarea tuya."
+    },
+    {
+      "p": "Por eso muchas páginas hechas con plantilla se quedan con precios viejos. Si eliges este camino, aparta un rato a la semana para revisarla."
+    },
+    {
+      "h2": "Plantilla HTML para una landing de negocio"
+    },
+    {
+      "p": "Si buscas una plantilla para tu negocio, elige una de una sola página. Las de muchas páginas traen secciones que vas a dejar vacías."
+    },
+    {
+      "ul": [
+        "Que se vea bien en el celular desde la vista previa.",
+        "Que tenga lugar para precios y no sólo para textos.",
+        "Que el botón principal sea fácil de cambiar por WhatsApp.",
+        "Que no dependa de un formulario que necesita servidor.",
+        "Que tenga pocas animaciones."
+      ]
+    },
+    {
+      "p": "Con esos cinco puntos descartas la mayoría de las plantillas en minutos."
+    },
+    {
+      "h2": "Dónde publicar tu plantilla"
+    },
+    {
+      "p": "Una plantilla HTML necesita un lugar donde vivir en internet. Hay tres caminos comunes."
+    },
+    {
+      "tabla": {
+        "columnas": [
+          "Opción",
+          "Qué haces",
+          "Qué cuidar"
+        ],
+        "filas": [
+          [
+            "Hosting compartido",
+            "Subes los archivos por su panel",
+            "El precio de renovación"
+          ],
+          [
+            "Servicio de páginas estáticas",
+            "Subes la carpeta completa",
+            "Configurar tu dominio a mano"
+          ],
+          [
+            "Tu propio servidor",
+            "Lo administras tú",
+            "Seguridad y respaldos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En los tres casos necesitas un certificado para que la página abra con candado. Lee más en [certificado SSL](id:certificado-ssl)."
+    },
+    {
+      "h2": "Cuándo conviene pedirla hecha"
+    },
+    {
+      "ul": [
+        "No tienes tiempo de aprender a editar código.",
+        "Quieres el dominio y el hosting resueltos en un solo pago.",
+        "Prefieres pedir cambios por WhatsApp.",
+        "Quieres ver tu página terminada antes de pagar."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Aliviane tiene plantillas HTML para descargar?",
+      "respuesta": "No. Hacemos la página con tu marca desde $1,500."
+    },
+    {
+      "pregunta": "¿Una plantilla HTML gratis se puede usar en un negocio?",
+      "respuesta": "Depende de su licencia. Léela antes de publicar."
+    },
+    {
+      "pregunta": "¿Necesito hosting para una plantilla HTML?",
+      "respuesta": "Sí. También un dominio para que tenga dirección propia."
+    },
+    {
+      "pregunta": "¿Puedo poner el botón de WhatsApp en una plantilla?",
+      "respuesta": "Sí. Arma la liga con el [link de WhatsApp](id:link-de-whatsapp) y pégala en el botón."
+    },
+    {
+      "pregunta": "¿Las fotos de la plantilla son gratis?",
+      "respuesta": "No siempre. Cámbialas por fotos tuyas."
+    },
+    {
+      "pregunta": "¿Cuánto tarda adaptar una plantilla?",
+      "respuesta": "Depende de cuánto sepas de código. Para quien empieza puede tomar varios días."
+    },
+    {
+      "pregunta": "¿Qué hago si no sé editar código?",
+      "respuesta": "Usa un creador de sitios o pide la página hecha."
+    }
+  ],
+  "relacionadas": [
+    "ejemplos-de-paginas-web",
+    "ejemplos-de-landing-page",
+    "landing-page",
+    "favicon",
+    "precios-de-hostinger",
+    "buscar-dominio"
+  ],
+  "venta": {
+    "puente": "Si prefieres no tocar código, te hacemos la landing con tu marca y tu dominio incluido.",
+    "tituloCorto": "Tu landing sin tocar código",
+    "titulo": "¿Te hacemos la landing?",
+    "trabajos": [
+      "signsolu",
+      "solu",
+      "pilsi"
+    ]
+  },
+  "fuentes": [],
+  "serp": [],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "Lote H3 (12-nov-2026). DECISIÓN: Aliviane no da plantillas HTML descargables; la página explica, deja la estructura de landing como tabla y ofrece la landing hecha. Cabeza de 3K: no se leyó top 3."
+}
