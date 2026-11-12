@@ -105,7 +105,7 @@ export const GIROS = {
     beneficios: ['sabor', 'frescura', 'precio', 'rapidez', 'tradicion', 'domicilio'],
     propios: {
       cercano: ['El pollo del domingo, todos los días.', 'Pollo doradito para toda la familia.', 'Tu comida resuelta.'],
-      directo: ['Pollo fresco, asado al momento.', 'Doradito por fuera, jugoso por dentro.', 'Al carbón, como debe ser.'],
+      directo: ['Pollo fresco, asado al momento.', 'Dorado al carbón, como en casa.', 'Al carbón, como debe ser.'],
       divertido: ['Pollo tan rico que te chupas los dedos.', 'Aquí el que manda es el pollo.', 'Hoy no cocinas, hoy hay pollo.'],
       elegante: ['El arte del buen asado.', 'Brasa, tiempo y sazón.'],
       tradicional: ['Adobado con la receta de la casa.', 'Al carbón, como antes.', 'Sabor de leña y tradición.'],
