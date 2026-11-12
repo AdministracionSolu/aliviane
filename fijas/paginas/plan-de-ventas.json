@@ -1,0 +1,593 @@
+{
+  "id": "plan-de-ventas",
+  "slug": "plan-de-ventas",
+  "molde": "guia",
+  "cabeza": "plan de ventas",
+  "busquedas": [
+    "planeacion de las ventas"
+  ],
+  "title": "Plan de ventas: cómo hacerlo con ejemplo y plantilla",
+  "h1": "Plan de ventas para un negocio pequeño, con ejemplo",
+  "description": "Un plan de ventas dice cuánto quieres vender, a quién y cómo lo vas a lograr. Te damos los 7 pasos, las cuentas con un ejemplo y una plantilla para llenar hoy.",
+  "resumen": "Los pasos de un plan de ventas, las cuentas de la meta y una plantilla",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un plan de ventas es un documento corto que dice cuánto quieres vender en un periodo, a quién y con qué acciones. Convierte una meta de dinero en tareas de cada semana.",
+    "Para hacerlo necesitas tus ventas pasadas, tu ticket promedio y cuántos interesados se vuelven clientes. Abajo tienes los pasos, las cuentas con un ejemplo y una plantilla."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un plan de ventas"
+    },
+    {
+      "p": "Un plan de ventas es tu mapa para vender lo que necesitas. Dice cuánto, a quién, cómo y cuándo."
+    },
+    {
+      "p": "No es un documento de cien páginas. Para un negocio pequeño cabe en una o dos hojas."
+    },
+    {
+      "p": "La diferencia con un plan de negocios es el alcance. El plan de negocios explica todo el negocio y el de ventas sólo cómo vas a vender."
+    },
+    {
+      "p": "Si todavía no tienes plan de negocios, revisa la guía de [plan de negocios](id:plan-de-negocios)."
+    },
+    {
+      "h2": "Las partes de un plan de ventas"
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un plan de ventas",
+        "columnas": [
+          "Parte",
+          "Qué contesta"
+        ],
+        "filas": [
+          [
+            "Meta",
+            "¿Cuánto quiero vender y en qué periodo?"
+          ],
+          [
+            "Punto de partida",
+            "¿Cuánto vendí antes y qué funcionó?"
+          ],
+          [
+            "Cliente",
+            "¿A quién le voy a vender?"
+          ],
+          [
+            "Oferta",
+            "¿Qué productos o servicios empujo y a qué precio?"
+          ],
+          [
+            "Canales",
+            "¿Por dónde me van a llegar los interesados?"
+          ],
+          [
+            "Acciones",
+            "¿Qué hago cada semana para lograrlo?"
+          ],
+          [
+            "Seguimiento",
+            "¿Cómo sé si voy bien o mal?"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cada parte se llena con datos, no con deseos. «Vender más» no es una meta, «vender 80,000 pesos en marzo» sí."
+    },
+    {
+      "h2": "Los 7 pasos para hacerlo"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Revisa tus ventas pasadas",
+          "texto": "Junta lo que vendiste mes por mes el último año. Si no lo tienes, empieza a anotarlo hoy."
+        },
+        {
+          "titulo": "Fija una meta realista",
+          "texto": "Toma tu mejor mes reciente y súmale un poco. No pongas una meta que nunca has estado cerca de lograr."
+        },
+        {
+          "titulo": "Calcula tu ticket promedio",
+          "texto": "Divide lo que vendiste entre el número de ventas. Es lo que gasta en promedio cada cliente."
+        },
+        {
+          "titulo": "Calcula tu conversión",
+          "texto": "De cada diez interesados que te escriben, cuenta cuántos compran."
+        },
+        {
+          "titulo": "Saca cuántos interesados necesitas",
+          "texto": "Con la meta, el ticket y la conversión calculas cuánta gente debe escribirte."
+        },
+        {
+          "titulo": "Elige tus canales y acciones",
+          "texto": "Decide de dónde saldrán esos interesados y qué harás cada semana."
+        },
+        {
+          "titulo": "Revisa cada semana",
+          "texto": "Compara lo vendido contra la meta y ajusta lo que no funciona."
+        }
+      ]
+    },
+    {
+      "p": "Los pasos tres a cinco son la parte que casi nadie hace. Y son la que convierte la meta en trabajo concreto."
+    },
+    {
+      "h2": "Las cuentas con un ejemplo"
+    },
+    {
+      "p": "Este es un ejemplo inventado con números redondos. Una cerrajería quiere vender 60,000 pesos en un mes."
+    },
+    {
+      "tabla": {
+        "titulo": "De la meta a los interesados",
+        "columnas": [
+          "Dato",
+          "Cómo se saca",
+          "Resultado del ejemplo"
+        ],
+        "filas": [
+          [
+            "Meta del mes",
+            "La decides tú",
+            "60,000 pesos"
+          ],
+          [
+            "Ticket promedio",
+            "Ventas del mes pasado entre número de servicios",
+            "600 pesos"
+          ],
+          [
+            "Ventas necesarias",
+            "Meta entre ticket promedio",
+            "100 servicios"
+          ],
+          [
+            "Conversión",
+            "De cada 10 que escriben, cuántos contratan",
+            "4 de 10"
+          ],
+          [
+            "Interesados necesarios",
+            "Ventas necesarias entre la conversión",
+            "250 mensajes"
+          ],
+          [
+            "Interesados por semana",
+            "Interesados entre cuatro semanas",
+            "Unos 63 por semana"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Ahora la meta tiene sentido práctico. La cerrajería sabe que necesita unos 63 mensajes por semana."
+    },
+    {
+      "p": "Si hoy recibe 40 por semana, tiene tres caminos. Traer más interesados, convertir mejor o subir su ticket promedio."
+    },
+    {
+      "h2": "Si no sabes tu conversión"
+    },
+    {
+      "p": "Muchos negocios nunca han contado cuántos interesados compran. No pasa nada, empieza a contarlo esta semana."
+    },
+    {
+      "p": "Haz dos columnas en una libreta. En una anotas cada persona que pregunta y en la otra si compró."
+    },
+    {
+      "p": "Al final de dos semanas divide compras entre preguntas. Ese número es tu conversión aproximada."
+    },
+    {
+      "p": "Mientras tanto, usa una estimación conservadora. Es mejor planear con un número bajo y sorprenderte que al revés."
+    },
+    {
+      "h2": "Las tres palancas para vender más"
+    },
+    {
+      "tabla": {
+        "titulo": "Tres formas de llegar a la meta",
+        "columnas": [
+          "Palanca",
+          "Qué significa",
+          "Ejemplo para la cerrajería"
+        ],
+        "filas": [
+          [
+            "Más interesados",
+            "Que más gente te escriba",
+            "Ficha de Google completa y anuncios en su zona"
+          ],
+          [
+            "Mejor conversión",
+            "Que más de los que escriben compren",
+            "Contestar en minutos y dar precio claro"
+          ],
+          [
+            "Ticket más alto",
+            "Que cada cliente gaste más",
+            "Ofrecer cambio de chapa además de la apertura"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchas veces la palanca más barata es la conversión. Contestar rápido no cuesta, y puede subir tus ventas sin un solo interesado más."
+    },
+    {
+      "p": "Lee cómo traer más interesados en [cómo atraer clientes](id:como-atraer-clientes)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Plantilla de plan de ventas en una hoja"
+    },
+    {
+      "p": "Copia esta plantilla en una hoja de cálculo o en un cuaderno. Llénala para el próximo mes."
+    },
+    {
+      "tabla": {
+        "titulo": "Plantilla",
+        "columnas": [
+          "Campo",
+          "Tu respuesta"
+        ],
+        "filas": [
+          [
+            "Periodo",
+            ""
+          ],
+          [
+            "Meta de ventas en pesos",
+            ""
+          ],
+          [
+            "Ventas del mismo periodo el año pasado",
+            ""
+          ],
+          [
+            "Ticket promedio",
+            ""
+          ],
+          [
+            "Conversión actual",
+            ""
+          ],
+          [
+            "Interesados necesarios",
+            ""
+          ],
+          [
+            "Productos o servicios a empujar",
+            ""
+          ],
+          [
+            "Cliente al que me enfoco",
+            ""
+          ],
+          [
+            "Canales principales",
+            ""
+          ],
+          [
+            "Acciones de la semana 1",
+            ""
+          ],
+          [
+            "Acciones de la semana 2",
+            ""
+          ],
+          [
+            "Acciones de la semana 3",
+            ""
+          ],
+          [
+            "Acciones de la semana 4",
+            ""
+          ],
+          [
+            "Responsable de cada acción",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pega la hoja donde la veas todos los días. Un plan guardado en un cajón no vende."
+    },
+    {
+      "p": "Si trabajas con alguien más, compártele la hoja. Todos deben saber la meta y qué acciones tocan esta semana."
+    },
+    {
+      "h2": "Cómo elegir qué vender primero"
+    },
+    {
+      "p": "No todos tus productos dejan lo mismo. Empuja los que tienen buen margen y se venden fácil."
+    },
+    {
+      "tabla": {
+        "titulo": "Clasifica tus productos",
+        "columnas": [
+          "Tipo",
+          "Margen",
+          "Se vende",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "Estrella",
+            "Alto",
+            "Fácil",
+            "Empújalo en todos tus canales"
+          ],
+          [
+            "Gancho",
+            "Bajo",
+            "Fácil",
+            "Úsalo para atraer y ofrece algo más"
+          ],
+          [
+            "Escondido",
+            "Alto",
+            "Difícil",
+            "Explícalo mejor, quizá falta que lo conozcan"
+          ],
+          [
+            "Pesado",
+            "Bajo",
+            "Difícil",
+            "Considera dejar de ofrecerlo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una estética puede descubrir que el tinte deja más que el corte. Su plan empujaría el tinte con fotos y precio claro."
+    },
+    {
+      "h2": "Acciones semanales de ejemplo"
+    },
+    {
+      "p": "Las acciones deben ser concretas y con responsable. «Hacer redes» no es una acción, «publicar tres reels de trabajos» sí."
+    },
+    {
+      "ul": [
+        "Publicar tres videos de trabajos terminados.",
+        "Contestar todos los mensajes antes de una hora.",
+        "Pedir reseña a cada cliente atendido.",
+        "Llamar o escribir a las cotizaciones de la semana pasada.",
+        "Visitar dos negocios vecinos para proponer alianza.",
+        "Revisar el viernes cuánto se vendió contra la meta."
+      ]
+    },
+    {
+      "p": "Para un negocio que vende a otras empresas, las acciones cambian. Revisa la guía de [marketing B2B](id:marketing-b2b)."
+    },
+    {
+      "h2": "Cómo dar seguimiento"
+    },
+    {
+      "p": "Revisa el plan cada semana, no al final del mes. Al final del mes ya no hay tiempo para corregir."
+    },
+    {
+      "tabla": {
+        "titulo": "Revisión semanal",
+        "columnas": [
+          "Semana",
+          "Meta acumulada",
+          "Vendido acumulado",
+          "Diferencia",
+          "Qué ajusto"
+        ],
+        "filas": [
+          [
+            "1",
+            "15,000",
+            "12,000",
+            "Faltan 3,000",
+            "Contestar más rápido"
+          ],
+          [
+            "2",
+            "30,000",
+            "27,500",
+            "Faltan 2,500",
+            "Promoción en día flojo"
+          ],
+          [
+            "3",
+            "45,000",
+            "46,000",
+            "Sobran 1,000",
+            "Mantener"
+          ],
+          [
+            "4",
+            "60,000",
+            "61,000",
+            "Sobran 1,000",
+            "Repetir el próximo mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los números de esta tabla son un ejemplo inventado. Lo importante es la columna de qué ajustas."
+    },
+    {
+      "h2": "Presupuesto del plan"
+    },
+    {
+      "p": "Algunas acciones cuestan dinero. Anota cuánto vas a gastar y compáralo con lo que esperas vender."
+    },
+    {
+      "tabla": {
+        "titulo": "Presupuesto de ejemplo para un mes",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Anuncios en redes",
+            "1,500 pesos"
+          ],
+          [
+            "Impresión de volantes",
+            "600 pesos"
+          ],
+          [
+            "Descuento de la promoción de martes",
+            "1,200 pesos"
+          ],
+          [
+            "Página web y dominio",
+            "Lo que pagas al mes"
+          ],
+          [
+            "Total",
+            "La suma de lo anterior"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Estos montos son un ejemplo inventado. Usa tus propios costos y precios."
+    },
+    {
+      "p": "Si el gasto se come casi toda la ganancia extra, cambia la acción. Un plan que vende más pero deja menos no sirve."
+    },
+    {
+      "h2": "Si tienes vendedores"
+    },
+    {
+      "p": "Cuando hay más de una persona vendiendo, reparte la meta. Cada quien debe saber cuánto le toca y qué acciones hace."
+    },
+    {
+      "ul": [
+        "Divide la meta según la experiencia y la zona de cada vendedor.",
+        "Da a cada uno su propia hoja de seguimiento.",
+        "Revisa los números juntos una vez por semana.",
+        "Reconoce a quien llega a su meta."
+      ]
+    },
+    {
+      "p": "Una meta repartida se cumple más fácil que una meta de todos. Cuando la meta es de todos, nadie se siente responsable."
+    },
+    {
+      "h2": "Plan de ventas por temporada"
+    },
+    {
+      "p": "Muchos negocios venden distinto cada mes. Tu plan anual debe reflejar esas subidas y bajadas."
+    },
+    {
+      "p": "Usa las ventas del año pasado para marcar tus meses fuertes y flojos. En los fuertes, asegura inventario y personal."
+    },
+    {
+      "p": "En los flojos, pon metas más bajas y empuja acciones para que regresen tus clientes. Recordatorios y promociones en días flojos ayudan."
+    },
+    {
+      "h2": "Qué hacer al cerrar el mes"
+    },
+    {
+      "p": "El último día del mes dedica media hora a revisar. Anota tres cosas en la misma hoja del plan."
+    },
+    {
+      "ol": [
+        "Cuánto vendiste contra la meta.",
+        "Qué acción trajo más clientes.",
+        "Qué vas a cambiar el mes siguiente."
+      ]
+    },
+    {
+      "p": "Con doce meses de notas tendrás tu mejor manual de ventas. Sabrás qué funciona en tu negocio y no en uno de revista."
+    },
+    {
+      "h2": "Errores comunes al hacer un plan de ventas"
+    },
+    {
+      "ul": [
+        "Poner una meta sin ver las ventas pasadas.",
+        "No calcular cuántos interesados necesitas.",
+        "Escribir acciones vagas sin responsable.",
+        "Revisar el plan sólo al final del mes.",
+        "Empujar los productos que menos dejan.",
+        "Olvidar las temporadas de tu giro."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un plan de ventas?",
+      "respuesta": "Un documento corto con tu meta de ventas y cómo lograrla. Dice cuánto, a quién, por qué canal y con qué acciones."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre plan de ventas y plan de negocios?",
+      "respuesta": "El de negocios explica todo el negocio. El de ventas sólo cómo vas a vender en un periodo."
+    },
+    {
+      "pregunta": "¿Cada cuánto se hace un plan de ventas?",
+      "respuesta": "Uno anual con detalle mensual. Revísalo cada semana."
+    },
+    {
+      "pregunta": "¿Cómo calculo mi meta de ventas?",
+      "respuesta": "Parte de tus ventas pasadas. Toma tu mejor mes reciente y súmale un crecimiento que puedas lograr."
+    },
+    {
+      "pregunta": "¿Qué es el ticket promedio?",
+      "respuesta": "Lo que gasta en promedio cada cliente. Se saca dividiendo tus ventas entre el número de ventas."
+    },
+    {
+      "pregunta": "¿Qué hago si voy abajo de la meta?",
+      "respuesta": "Revisa las tres palancas. Más interesados, mejor conversión o un ticket más alto."
+    }
+  ],
+  "relacionadas": [
+    "plan-de-negocios",
+    "analisis-foda",
+    "como-atraer-clientes",
+    "marketing-b2b",
+    "negocios-rentables",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu plan de ventas necesita un lugar donde te encuentren los interesados. Aliviane te hace la página con tu dominio.",
+    "titulo": "¿Hacemos la página que alimente tu plan de ventas?",
+    "tituloCorto": "Más interesados empiezan con una buena página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://lagrowthmachine.com/es/plan-de-ventas/",
+      "titulo": "Plan de ventas",
+      "promete": "Teoría para equipos comerciales de software; sin cuentas con un negocio pequeño"
+    },
+    {
+      "posicion": 2,
+      "url": "https://sendpulse.com/latam/support/glossary/sales-plan",
+      "titulo": "Plan de ventas",
+      "promete": "Definición de glosario; no trae plantilla ni ejemplo con números"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.benchmarkemail.com/es/blog/plan-de-ventas/",
+      "titulo": "Plan de ventas",
+      "promete": "Pasos generales; no explica cómo pasar de la meta mensual a cuántos interesados necesitas"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin cifras de terceros. Ejemplo numérico inventado y marcado. Ángulo propio: cuentas de la meta hacia atrás (meta, ticket, conversión, interesados) y plantilla de una hoja."
+}

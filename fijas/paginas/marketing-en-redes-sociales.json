@@ -1,0 +1,490 @@
+{
+  "id": "marketing-en-redes-sociales",
+  "slug": "marketing-en-redes-sociales",
+  "molde": "guia",
+  "cabeza": "marketing en redes sociales",
+  "busquedas": [],
+  "title": "Marketing en redes sociales: plan semanal para tu negocio",
+  "h1": "Marketing en redes sociales para un negocio pequeño",
+  "description": "Marketing en redes sociales es usar Facebook, Instagram o TikTok para atraer clientes. Te damos cómo elegir red, un plan semanal y qué medir. Empieza hoy.",
+  "resumen": "Cómo elegir tus redes, qué publicar cada semana y qué números medir",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El marketing en redes sociales es usar plataformas como Facebook, Instagram, TikTok o WhatsApp para que la gente conozca tu negocio y te escriba. Incluye lo que publicas, cómo contestas y los anuncios que pagas.",
+    "Para un negocio pequeño funciona mejor elegir una o dos redes y publicar con constancia. Abajo tienes cómo elegir, un plan de una semana y los números que importan."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el marketing en redes sociales"
+    },
+    {
+      "p": "Es todo lo que haces en redes para que tu negocio venda más. Publicar, contestar mensajes, colaborar con otros y pagar anuncios."
+    },
+    {
+      "p": "No se trata de tener muchos seguidores. Se trata de que las personas correctas te conozcan y te escriban."
+    },
+    {
+      "p": "Una panadería con 800 seguidores de su colonia puede vender más que una con 20,000 de todo el país. Lo que importa es que sean clientes posibles."
+    },
+    {
+      "h2": "Cómo elegir tus redes"
+    },
+    {
+      "p": "No tienes que estar en todas. Es mejor hacer bien una o dos que mal cinco."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué red conviene según tu negocio",
+        "columnas": [
+          "Red",
+          "Para qué funciona",
+          "Giros donde suele funcionar"
+        ],
+        "filas": [
+          [
+            "Facebook",
+            "Comunidad local, grupos y eventos",
+            "Restaurantes y talleres, también escuelas"
+          ],
+          [
+            "Instagram",
+            "Fotos y videos cuidados",
+            "Belleza y moda, también repostería"
+          ],
+          [
+            "TikTok",
+            "Videos cortos que enseñan o entretienen",
+            "Productos visuales y oficios"
+          ],
+          [
+            "WhatsApp",
+            "Plática directa y listas de clientes",
+            "Casi todos los negocios en México"
+          ],
+          [
+            "LinkedIn",
+            "Contactos de empresa",
+            "Servicios para otras empresas"
+          ],
+          [
+            "YouTube",
+            "Videos largos que explican",
+            "Talleres, cursos, reseñas de productos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pregunta a tus clientes qué red usan más. Su respuesta vale más que cualquier lista."
+    },
+    {
+      "p": "Si vendes a otras empresas, lee la guía de [marketing B2B](id:marketing-b2b). Ahí las redes funcionan distinto."
+    },
+    {
+      "h2": "Los cuatro tipos de publicación que necesitas"
+    },
+    {
+      "p": "Un perfil que sólo vende cansa. Uno que sólo entretiene no vende. Combina estos cuatro tipos."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de publicación",
+        "columnas": [
+          "Tipo",
+          "Qué es",
+          "Ejemplo para una taquería"
+        ],
+        "filas": [
+          [
+            "Producto",
+            "Lo que vendes con precio",
+            "Orden de pastor con precio y horario"
+          ],
+          [
+            "Detrás de cámaras",
+            "Cómo trabajas",
+            "El taquero cortando el trompo por la mañana"
+          ],
+          [
+            "Clientes",
+            "Opiniones y fotos de clientes",
+            "Una familia comiendo con su permiso"
+          ],
+          [
+            "Útil",
+            "Algo que ayuda aunque no compren",
+            "Qué salsa va mejor con cada taco"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las publicaciones de detrás de cámaras suelen generar confianza. La gente compra a quien siente cercano."
+    },
+    {
+      "h2": "Plan semanal para un negocio pequeño"
+    },
+    {
+      "p": "Este plan pide unas tres horas a la semana. Ajústalo a tu negocio y a tu tiempo."
+    },
+    {
+      "tabla": {
+        "titulo": "Plan de una semana",
+        "columnas": [
+          "Día",
+          "Qué publicar",
+          "Formato"
+        ],
+        "filas": [
+          [
+            "Lunes",
+            "Producto o servicio estrella con precio",
+            "Foto o carrusel"
+          ],
+          [
+            "Martes",
+            "Detrás de cámaras",
+            "Video corto o historia"
+          ],
+          [
+            "Miércoles",
+            "Consejo útil de tu giro",
+            "Carrusel o video corto"
+          ],
+          [
+            "Jueves",
+            "Opinión de un cliente",
+            "Foto con texto o captura con permiso"
+          ],
+          [
+            "Viernes",
+            "Oferta o recordatorio del fin de semana",
+            "Historia y publicación"
+          ],
+          [
+            "Sábado",
+            "Historias del día a día",
+            "Historias"
+          ],
+          [
+            "Domingo",
+            "Descanso o una historia sencilla",
+            "Historia"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Prepara las publicaciones de la semana en un solo día. Es más fácil que pensar qué subir cada mañana."
+    },
+    {
+      "p": "Toma fotos de todo lo que haces durante la semana. Así siempre tendrás material para el día que te falte una idea."
+    },
+    {
+      "p": "Usa las [plantillas para Instagram](id:plantillas-para-instagram) para que tus diseños se vean parejos."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo escribir textos que hagan escribir"
+    },
+    {
+      "p": "El texto de una publicación debe decir qué ofreces y qué hacer después. Muchos negocios olvidan lo segundo."
+    },
+    {
+      "ul": [
+        "Empieza con lo más importante en la primera línea.",
+        "Di el precio o un precio desde.",
+        "Di la zona o la ciudad.",
+        "Termina con una acción clara, como escribe por WhatsApp.",
+        "Usa pocas etiquetas, las que tu cliente sí buscaría."
+      ]
+    },
+    {
+      "p": "Ejemplo inventado para una estética. «Tinte completo desde 650 pesos en la colonia Centro. Aparta tu lugar por WhatsApp, quedan tres para el sábado.»"
+    },
+    {
+      "h2": "Contestar también es marketing"
+    },
+    {
+      "p": "Las redes son conversaciones. Un comentario sin respuesta es un cliente que se va con otro."
+    },
+    {
+      "p": "Contesta comentarios y mensajes el mismo día. Si puedes, en la primera hora."
+    },
+    {
+      "p": "Ten listas tus respuestas para las preguntas de siempre. Precio, horario, ubicación y formas de pago."
+    },
+    {
+      "p": "Si te escriben por WhatsApp, usa mensajes automáticos para no dejar a nadie sin respuesta. Lee cómo en [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "h2": "Videos cortos sin miedo a la cámara"
+    },
+    {
+      "p": "Los videos cortos suelen llegar a más gente que las fotos. Muchos dueños no los hacen por pena o por creer que necesitan equipo."
+    },
+    {
+      "p": "No necesitas salir a cuadro si no quieres. Graba tus manos trabajando, el producto terminado o el antes y después."
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas de video corto por giro",
+        "columnas": [
+          "Giro",
+          "Idea de video"
+        ],
+        "filas": [
+          [
+            "Barbería",
+            "Un corte de principio a fin en cámara rápida"
+          ],
+          [
+            "Taller mecánico",
+            "Qué revisar en tu auto antes de salir de viaje"
+          ],
+          [
+            "Florería",
+            "Cómo se arma un ramo de cumpleaños"
+          ],
+          [
+            "Tienda de ropa",
+            "Tres formas de combinar una misma prenda"
+          ],
+          [
+            "Consultorio dental",
+            "Respuesta corta a una pregunta que te hacen mucho"
+          ],
+          [
+            "Panadería",
+            "Las conchas saliendo del horno por la mañana"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Graba con el celular en vertical y con buena luz de día. Un video de quince a treinta segundos basta."
+    },
+    {
+      "p": "Pon texto en pantalla con la idea principal. Mucha gente ve los videos sin sonido."
+    },
+    {
+      "h2": "Colaboraciones con otros negocios"
+    },
+    {
+      "p": "Una forma barata de llegar a gente nueva es aliarte con negocios vecinos. Ellos tienen clientes que podrían ser tuyos."
+    },
+    {
+      "p": "Una florería y una pastelería pueden hacer una promoción juntas para el 14 de febrero. Cada una publica la oferta en sus redes."
+    },
+    {
+      "p": "Busca negocios que vendan a tu mismo cliente pero no compitan contigo. Propón algo sencillo y con fecha."
+    },
+    {
+      "h2": "Cómo manejar comentarios negativos"
+    },
+    {
+      "p": "Tarde o temprano llegará un comentario molesto. Cómo contestas lo ven todos."
+    },
+    {
+      "ul": [
+        "Contesta con calma y sin discutir en público.",
+        "Reconoce lo que sí salió mal.",
+        "Ofrece arreglarlo por mensaje privado.",
+        "No borres críticas reales, borra sólo insultos o publicidad ajena."
+      ]
+    },
+    {
+      "p": "Quien lee después juzga tu respuesta más que la queja. Un problema bien resuelto puede darte un cliente fiel."
+    },
+    {
+      "h2": "Anuncios pagados en redes"
+    },
+    {
+      "p": "Las publicaciones normales llegan sólo a una parte de tus seguidores. Los anuncios te dejan llegar a más gente de tu zona."
+    },
+    {
+      "p": "No pagues por promocionar cualquier cosa. Promociona lo que ya funcionó sin pagar."
+    },
+    {
+      "p": "Lee los pasos en [publicidad en Instagram](id:publicidad-en-instagram) y [publicidad en Facebook](id:publicidad-en-facebook)."
+    },
+    {
+      "h2": "Qué números medir"
+    },
+    {
+      "p": "Las redes dan muchos números. Sólo unos pocos te dicen si estás vendiendo."
+    },
+    {
+      "tabla": {
+        "titulo": "Números que importan",
+        "columnas": [
+          "Número",
+          "Qué te dice",
+          "Dónde lo ves"
+        ],
+        "filas": [
+          [
+            "Alcance",
+            "Cuántas personas vieron tus publicaciones",
+            "Estadísticas de la red"
+          ],
+          [
+            "Guardados y compartidos",
+            "Qué contenido les parece útil",
+            "Estadísticas de cada publicación"
+          ],
+          [
+            "Mensajes recibidos",
+            "Cuántos se interesaron de verdad",
+            "Tu bandeja y tu WhatsApp"
+          ],
+          [
+            "Clics a tu página",
+            "Cuántos quisieron saber más",
+            "Estadísticas de la red o de tu página"
+          ],
+          [
+            "Ventas que vinieron de redes",
+            "Lo que de verdad importa",
+            "Pregunta a cada cliente cómo te conoció"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los «me gusta» se ven bonitos pero dicen poco. Un video con pocos «me gusta» y diez mensajes vale más que uno viral sin ventas."
+    },
+    {
+      "p": "Pregunta siempre cómo te conoció cada cliente. Anótalo en una libreta y al mes sabrás qué red te trae ventas."
+    },
+    {
+      "h2": "Ejemplo de una repostería en Querétaro"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Paola hacía pasteles por pedido y publicaba cuando se acordaba."
+    },
+    {
+      "p": "Preguntó a sus clientas y casi todas usaban Instagram y WhatsApp. Dejó Facebook en segundo plano."
+    },
+    {
+      "p": "Empezó a publicar tres veces por semana con el plan de arriba. Los martes subía un video de cómo decoraba."
+    },
+    {
+      "p": "Los videos de decoración fueron los más guardados. Los pedidos llegaban por WhatsApp desde la liga de su perfil."
+    },
+    {
+      "p": "A los tres meses ya sabía qué días llegaban más pedidos. Movió sus ofertas a esos días."
+    },
+    {
+      "h2": "Tus redes y tu página propia"
+    },
+    {
+      "p": "Tus redes son prestadas. La plataforma puede cambiar reglas, bajar tu alcance o cerrar tu cuenta."
+    },
+    {
+      "p": "Tu página con dominio propio es tuya. Ahí ordenas precios, fotos, ubicación y formas de pago."
+    },
+    {
+      "p": "Pon la liga de tu página en todas tus redes. Lee cómo usar un solo enlace en [link en bio](id:link-en-bio)."
+    },
+    {
+      "h2": "Cuánto tiempo darle antes de juzgar"
+    },
+    {
+      "p": "Las redes no dan resultados en una semana. Necesitas al menos tres meses de constancia para ver un patrón."
+    },
+    {
+      "p": "Al final de cada mes revisa tus cinco números y compáralos con el mes anterior. Repite lo que trajo mensajes y deja lo que no."
+    },
+    {
+      "p": "Si después de tres meses no llega ningún mensaje, cambia algo grande. Puede ser la red, el tipo de contenido o la oferta."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Abrir cuentas en todas las redes y abandonarlas.",
+        "Publicar sólo ofertas sin nada útil ni cercano.",
+        "No poner precio ni ubicación.",
+        "Tardar días en contestar mensajes.",
+        "Comprar seguidores que nunca van a comprar.",
+        "Medir el éxito por «me gusta» en lugar de mensajes y ventas.",
+        "Usar fotos de banco que no muestran tu negocio real."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el marketing en redes sociales?",
+      "respuesta": "Es usar las redes para que te conozcan y te compren. Incluye publicar, contestar y pagar anuncios."
+    },
+    {
+      "pregunta": "¿En qué red social debe estar mi negocio?",
+      "respuesta": "En la que usan tus clientes. Pregúntales y empieza con una o dos."
+    },
+    {
+      "pregunta": "¿Cuántas veces a la semana debo publicar?",
+      "respuesta": "Tres a cinco veces es un buen ritmo para empezar. La constancia importa más que la cantidad."
+    },
+    {
+      "pregunta": "¿Necesito pagar anuncios en redes?",
+      "respuesta": "No al principio. Conviene cuando ya sabes qué publicación trae mensajes."
+    },
+    {
+      "pregunta": "¿Cómo sé si mis redes están vendiendo?",
+      "respuesta": "Pregunta a cada cliente cómo te conoció. Cuenta mensajes y ventas, no sólo «me gusta»."
+    },
+    {
+      "pregunta": "¿Las redes sustituyen a una página web?",
+      "respuesta": "No. Las redes atraen y la página ordena tu información en un lugar que es tuyo."
+    }
+  ],
+  "relacionadas": [
+    "marketing-digital",
+    "marketing-de-contenidos",
+    "publicidad-en-instagram",
+    "publicidad-en-facebook",
+    "plantillas-para-instagram",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus redes atraen gente, pero los precios y la ubicación se ordenan mejor en una página. Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página a la que mandarán tus redes?",
+    "tituloCorto": "Que tus redes lleven a tu propia página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.getresponse.com/es/ayuda/marketing-en-redes-sociales.html",
+      "titulo": "Marketing en redes sociales",
+      "promete": "Definición de glosario; sin plan semanal ni ejemplo de negocio local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://mailchimp.com/es/marketing-glossary/social-media-marketing/",
+      "titulo": "Social Media Marketing",
+      "promete": "Conceptos generales para marcas grandes; no ayuda a elegir red según el giro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.arsys.es/blog/como-hacer-marketing-en-redes-sociales",
+      "titulo": "¿Cómo hacer marketing en redes sociales?",
+      "promete": "Pasos de estrategia desde España; no habla de WhatsApp ni de medir mensajes y ventas"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin cifras de uso de redes en México (no se leyó fuente oficial hoy). Ángulo propio: elegir red por giro, plan semanal de 5 publicaciones, medir mensajes y ventas. Distinto de marketing-digital (G1) y de marketing-de-contenidos (G3)."
+}

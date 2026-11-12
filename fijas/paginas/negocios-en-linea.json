@@ -1,0 +1,562 @@
+{
+  "id": "negocios-en-linea",
+  "slug": "negocios-en-linea",
+  "molde": "guia",
+  "cabeza": "negocios online",
+  "busquedas": [
+    "negocios de emprendimiento",
+    "negocio digital"
+  ],
+  "title": "Negocios online: modelos, ideas y cómo empezar en México",
+  "h1": "Negocios en línea: cómo elegir uno y empezar a vender",
+  "description": "Un negocio en línea vende productos o servicios por internet. Te explicamos seis modelos, cómo cobrar y enviar en México y cómo probar tu idea.",
+  "resumen": "Los modelos de negocio en línea, cómo cobrar y enviar, y cómo probar tu idea",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un negocio en línea es uno que vende sus productos o servicios por internet. Puede ser una tienda, un servicio a distancia, cursos o contenido que se cobra.",
+    "Para empezar no necesitas mucho dinero. Necesitas un modelo claro, una forma de cobrar y un lugar donde te encuentren, como tu página o un mercado en línea."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un negocio en línea"
+    },
+    {
+      "p": "Un negocio en línea vende por internet. El cliente lo encuentra, pregunta y paga sin ir a un local."
+    },
+    {
+      "p": "No significa que todo pase en la computadora. Una pastelería que recibe pedidos por su página también es un negocio en línea."
+    },
+    {
+      "p": "Lo que cambia es dónde te encuentra el cliente. En lugar de pasar por tu calle, pasa por Google, por redes o por un mercado en línea."
+    },
+    {
+      "h2": "Los seis modelos de negocio en línea"
+    },
+    {
+      "p": "Casi todos los negocios en línea caben en uno de estos modelos. Elegir el tuyo te dice qué necesitas."
+    },
+    {
+      "tabla": {
+        "titulo": "Modelos de negocio en línea",
+        "columnas": [
+          "Modelo",
+          "Qué vendes",
+          "Ejemplo",
+          "Qué necesitas"
+        ],
+        "filas": [
+          [
+            "Producto propio",
+            "Algo que haces tú",
+            "Salsas artesanales de Oaxaca",
+            "Producción, empaque y envíos"
+          ],
+          [
+            "Reventa",
+            "Productos de otros",
+            "Accesorios para celular",
+            "Proveedor, inventario y envíos"
+          ],
+          [
+            "Servicio a distancia",
+            "Tu trabajo o tu conocimiento",
+            "Diseño de logos o contabilidad",
+            "Portafolio y forma de entregar"
+          ],
+          [
+            "Servicio local con pedidos en línea",
+            "Algo que entregas en tu ciudad",
+            "Arreglos florales a domicilio",
+            "Ruta de entrega y horarios"
+          ],
+          [
+            "Cursos y asesorías",
+            "Lo que sabes enseñar",
+            "Clases de inglés por videollamada",
+            "Programa, agenda y forma de cobro"
+          ],
+          [
+            "Contenido",
+            "Videos, textos o comunidad",
+            "Canal de recetas",
+            "Constancia y paciencia para crecer"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El modelo de contenido es el que más tarda en dejar dinero. Los servicios a distancia suelen ser los más rápidos de arrancar."
+    },
+    {
+      "h2": "Dónde vender, página propia o mercado en línea"
+    },
+    {
+      "p": "Hay tres lugares principales para vender. Cada uno tiene ventajas y costos."
+    },
+    {
+      "tabla": {
+        "titulo": "Dónde vender en línea",
+        "columnas": [
+          "Lugar",
+          "Ventaja",
+          "Desventaja"
+        ],
+        "filas": [
+          [
+            "Mercado en línea",
+            "Mucha gente ya compra ahí",
+            "Cobra comisión y compites con cientos de vendedores"
+          ],
+          [
+            "Redes sociales",
+            "Gratis y cercano",
+            "El alcance cambia y la red es dueña de tu cuenta"
+          ],
+          [
+            "Página propia",
+            "Es tuya y tú pones las reglas",
+            "Tienes que atraer a la gente"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La mayoría de negocios combina los tres. Las redes atraen, el mercado da volumen y la página da confianza."
+    },
+    {
+      "p": "Tu página propia es lo único que nadie te puede quitar. Las comisiones y reglas de un mercado cambian sin pedirte permiso."
+    },
+    {
+      "p": "Lee los pasos para vender en cada lugar en [cómo vender por internet](id:como-vender-por-internet)."
+    },
+    {
+      "h2": "Cómo probar tu idea en 30 días"
+    },
+    {
+      "p": "No inviertas en inventario ni en una tienda grande antes de saber si alguien compra. Prueba primero con poco."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Semana 1, define la oferta",
+          "texto": "Escribe qué vendes, a quién y a qué precio. Haz cinco fotos buenas."
+        },
+        {
+          "titulo": "Semana 1, arma un lugar de pedidos",
+          "texto": "Una página sencilla o una publicación con tu WhatsApp."
+        },
+        {
+          "titulo": "Semana 2, avisa a tu círculo",
+          "texto": "Manda la oferta a tus contactos y pide que la compartan."
+        },
+        {
+          "titulo": "Semana 2, publica en grupos",
+          "texto": "Comparte en grupos de compra venta de tu ciudad."
+        },
+        {
+          "titulo": "Semana 3, vende y pregunta",
+          "texto": "Pregunta a cada cliente por qué compró y qué mejorarías."
+        },
+        {
+          "titulo": "Semana 4, haz cuentas",
+          "texto": "Suma ventas, costos y horas. Decide si sigues, ajustas o cambias."
+        }
+      ]
+    },
+    {
+      "p": "Si en un mes nadie compra, no es fracaso. Es información barata que te ahorra una pérdida mayor."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo cobrar en línea en México"
+    },
+    {
+      "p": "Cobrar es donde muchos negocios en línea se atoran. Ofrece al menos dos formas de pago."
+    },
+    {
+      "tabla": {
+        "titulo": "Formas de cobro en línea",
+        "columnas": [
+          "Forma",
+          "Cómo funciona",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Transferencia",
+            "El cliente paga a tu CLABE",
+            "Clientes que ya confían en ti"
+          ],
+          [
+            "Liga de pago",
+            "El cliente paga con tarjeta en una página",
+            "Pagos a distancia con tarjeta"
+          ],
+          [
+            "Pago con QR",
+            "El cliente escanea y paga desde su app",
+            "Entregas en persona"
+          ],
+          [
+            "Pago contra entrega",
+            "Pagan al recibir",
+            "Clientes nuevos que desconfían"
+          ],
+          [
+            "Pago en tienda de conveniencia",
+            "Pagan con una referencia",
+            "Clientes sin tarjeta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cada forma tiene su costo. Revisa la tabla de comisiones del proveedor antes de elegir."
+    },
+    {
+      "p": "Lee cómo funciona en [link de pago](id:link-de-pago). Para cobros en persona, revisa [pago con QR](id:cobrar-con-qr)."
+    },
+    {
+      "h2": "Cómo enviar tus productos"
+    },
+    {
+      "p": "Si vendes productos, el envío es parte del precio. Un envío caro o lento te hace perder ventas."
+    },
+    {
+      "ul": [
+        "Compara al menos dos paqueterías con el peso y la medida real de tu paquete.",
+        "Incluye el envío en el precio o dilo claro desde el principio.",
+        "Empaca para que el producto llegue entero.",
+        "Manda la guía de rastreo al cliente por WhatsApp.",
+        "Para tu ciudad, considera entregar tú o un repartidor local."
+      ]
+    },
+    {
+      "p": "Pesa y mide tu paquete ya empacado. Las paqueterías cobran por el mayor entre peso real y peso por volumen."
+    },
+    {
+      "h2": "Costos que debes contar"
+    },
+    {
+      "p": "Un negocio en línea tiene costos aunque no tenga local. Anótalos todos para poner bien tu precio."
+    },
+    {
+      "tabla": {
+        "titulo": "Costos típicos de un negocio en línea",
+        "columnas": [
+          "Costo",
+          "Cada cuánto"
+        ],
+        "filas": [
+          [
+            "Dominio y página",
+            "Anual o mensual"
+          ],
+          [
+            "Comisiones por cobro",
+            "Por venta"
+          ],
+          [
+            "Comisión del mercado en línea",
+            "Por venta"
+          ],
+          [
+            "Empaque",
+            "Por venta"
+          ],
+          [
+            "Envío",
+            "Por venta"
+          ],
+          [
+            "Anuncios",
+            "Mensual, si los usas"
+          ],
+          [
+            "Tu tiempo",
+            "Siempre"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El tiempo es el costo que más se olvida. Contestar mensajes, empacar y llevar paquetes también es trabajo."
+    },
+    {
+      "h2": "Cómo lograr que te encuentren"
+    },
+    {
+      "p": "Un negocio en línea sin visitas es como un local en una calle cerrada. Necesitas traer gente."
+    },
+    {
+      "ol": [
+        "Ten una página propia que diga qué vendes y dónde entregas.",
+        "Usa las palabras que tu cliente escribe en Google.",
+        "Publica en redes con constancia, aunque sea dos veces por semana.",
+        "Pide reseñas y compártelas.",
+        "Prueba anuncios con poco presupuesto cuando sepas qué vende."
+      ]
+    },
+    {
+      "p": "Para el primer punto, lee [qué es un sitio web](id:que-es-un-sitio-web). Para atraer gente con contenido útil, lee [marketing de contenidos](id:marketing-de-contenidos)."
+    },
+    {
+      "h2": "Ejemplo de una tienda de salsas en Oaxaca"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Rosa hacía salsas para su familia y sus vecinos se las pedían."
+    },
+    {
+      "p": "Probó un mes vendiendo frascos a sus contactos de WhatsApp. Vendió cuarenta frascos y anotó qué sabores pedían más."
+    },
+    {
+      "p": "Con eso hizo una página con tres sabores, precios y envío en la ciudad. Para otros estados probó dos paqueterías hasta que una entregó sin romper frascos."
+    },
+    {
+      "p": "Hoy vende en su página y en un mercado en línea. La página le deja más por frasco y el mercado le da volumen."
+    },
+    {
+      "h2": "20 ideas de negocio en línea por modelo"
+    },
+    {
+      "p": "Estas ideas son puntos de partida. Elige la que se parezca a lo que ya sabes hacer."
+    },
+    {
+      "tabla": {
+        "titulo": "Ideas por modelo",
+        "columnas": [
+          "Idea",
+          "Modelo",
+          "Para quién es buena"
+        ],
+        "filas": [
+          [
+            "Salsas y mermeladas",
+            "Producto propio",
+            "Quien cocina bien y tiene receta probada"
+          ],
+          [
+            "Velas aromáticas",
+            "Producto propio",
+            "Quien disfruta hacer cosas a mano"
+          ],
+          [
+            "Joyería artesanal",
+            "Producto propio",
+            "Quien tiene buen ojo para diseño"
+          ],
+          [
+            "Ropa bordada",
+            "Producto propio",
+            "Quien sabe bordar o tiene bordadoras cerca"
+          ],
+          [
+            "Cosméticos naturales",
+            "Producto propio",
+            "Quien conoce ingredientes y permisos"
+          ],
+          [
+            "Accesorios para celular",
+            "Reventa",
+            "Quien consigue buen proveedor"
+          ],
+          [
+            "Juguetes didácticos",
+            "Reventa",
+            "Quien conoce a mamás y escuelas"
+          ],
+          [
+            "Diseño gráfico",
+            "Servicio a distancia",
+            "Quien ya diseña y tiene portafolio"
+          ],
+          [
+            "Contabilidad",
+            "Servicio a distancia",
+            "Contadoras y contadores con cédula"
+          ],
+          [
+            "Redacción de textos",
+            "Servicio a distancia",
+            "Quien escribe claro"
+          ],
+          [
+            "Edición de video",
+            "Servicio a distancia",
+            "Quien edita en celular o computadora"
+          ],
+          [
+            "Asistente virtual",
+            "Servicio a distancia",
+            "Quien es ordenada con agendas y correos"
+          ],
+          [
+            "Flores a domicilio",
+            "Servicio local con pedidos",
+            "Quien tiene proveedor de flores"
+          ],
+          [
+            "Lavado de autos a domicilio",
+            "Servicio local con pedidos",
+            "Quien tiene equipo y transporte"
+          ],
+          [
+            "Comida por encargo",
+            "Servicio local con pedidos",
+            "Quien cocina en volumen"
+          ],
+          [
+            "Clases de idiomas",
+            "Cursos y asesorías",
+            "Quien domina otro idioma"
+          ],
+          [
+            "Regularización escolar",
+            "Cursos y asesorías",
+            "Maestras y estudiantes avanzados"
+          ],
+          [
+            "Curso de repostería",
+            "Cursos y asesorías",
+            "Reposteras con experiencia"
+          ],
+          [
+            "Asesoría de imagen",
+            "Cursos y asesorías",
+            "Quien trabaja en moda o belleza"
+          ],
+          [
+            "Canal de recetas regionales",
+            "Contenido",
+            "Quien disfruta grabar y es constante"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las ideas de servicio a distancia piden poca inversión. Las de producto propio piden más tiempo de preparación pero dejan marca."
+    },
+    {
+      "h2": "Cómo atender a clientes que no te conocen"
+    },
+    {
+      "p": "Vender en línea tiene un reto extra. El cliente no te ve y no sabe si eres de confianza."
+    },
+    {
+      "ul": [
+        "Enseña tu cara o la de tu equipo en tu página y redes.",
+        "Publica opiniones reales de clientes con su permiso.",
+        "Da una dirección o al menos la ciudad desde donde envías.",
+        "Contesta rápido y con datos claros.",
+        "Ofrece pago contra entrega a clientes nuevos de tu ciudad."
+      ]
+    },
+    {
+      "p": "Un dominio propio también da confianza. Un correo como ventas@tunegocio.mx se ve más serio que uno gratuito."
+    },
+    {
+      "p": "Lee cómo tener ese correo en [correo corporativo](id:correo-corporativo)."
+    },
+    {
+      "h2": "Lo legal de un negocio en línea"
+    },
+    {
+      "p": "Vender en línea es vender. Aplican las mismas reglas que a un negocio físico."
+    },
+    {
+      "p": "Cuando tus ventas crezcan, date de alta en el SAT para poder facturar. Muchos mercados en línea te pedirán datos fiscales."
+    },
+    {
+      "p": "Si guardas datos de clientes, necesitas un aviso de privacidad. Es el texto que dice qué datos pides y para qué."
+    },
+    {
+      "p": "Si vendes comida o cosméticos, revisa los permisos sanitarios de tu producto. Las reglas cambian según el giro."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Comprar mucho inventario antes de probar la idea.",
+        "Olvidar el costo del envío y del empaque.",
+        "Depender de una sola red social.",
+        "Tardar horas en contestar mensajes.",
+        "No tener página propia ni dominio.",
+        "Copiar fotos de otros vendedores."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un negocio en línea?",
+      "respuesta": "Uno que vende por internet. El cliente lo encuentra, pregunta y paga sin ir a un local."
+    },
+    {
+      "pregunta": "¿Cuál es el negocio en línea más fácil de empezar?",
+      "respuesta": "Un servicio a distancia. Si ya sabes hacer algo, no necesitas inventario."
+    },
+    {
+      "pregunta": "¿Necesito página web para vender en línea?",
+      "respuesta": "Conviene mucho. Es lo único tuyo, mientras redes y mercados cambian sus reglas."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta empezar un negocio en línea?",
+      "respuesta": "Depende del modelo. Un servicio pide casi nada y una tienda con inventario pide más."
+    },
+    {
+      "pregunta": "¿Cómo cobro si no tengo terminal?",
+      "respuesta": "Con transferencia, liga de pago o QR. Ninguno pide terminal."
+    },
+    {
+      "pregunta": "¿Es mejor vender en un mercado en línea o en mi página?",
+      "respuesta": "Lo mejor es combinar. El mercado da volumen y tu página da margen y confianza."
+    }
+  ],
+  "relacionadas": [
+    "tienda-en-linea",
+    "como-vender-por-internet",
+    "negocios-rentables",
+    "negocios-desde-casa",
+    "link-de-pago",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Un negocio en línea necesita una dirección propia en internet. Aliviane te hace la página con tu dominio incluido.",
+    "titulo": "¿Hacemos la página de tu negocio en línea?",
+    "tituloCorto": "Tu negocio en línea necesita casa propia",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://es.shopify.com/blog/que-son-los-negocios-online",
+      "titulo": "Qué son los negocios online",
+      "promete": "Definición y modelos generales para llevar a su plataforma; sin cobros ni envíos en México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.tiendanube.com/blog/negocios-online/",
+      "titulo": "29 ideas de negocios online rentables",
+      "promete": "Lista larga sin forma de probar la idea antes de invertir"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.hostinger.com/es/tutoriales/?p=9979",
+      "titulo": "Las 30 mejores ideas de negocios online",
+      "promete": "Ideas globales que empujan su hosting; no compara vender en página propia contra mercados en línea"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin comisiones de mercados en línea ni de paqueterías (no se leyeron hoy en fuente oficial). Ángulo propio: seis modelos, cómo probar la idea en 30 días, cobro y envío en México. Distinto de negocios-desde-casa (ideas por tiempo disponible)."
+}

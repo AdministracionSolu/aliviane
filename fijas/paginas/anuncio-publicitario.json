@@ -1,0 +1,499 @@
+{
+  "id": "anuncio-publicitario",
+  "slug": "anuncio-publicitario",
+  "molde": "guia",
+  "cabeza": "anuncios publicitarios",
+  "busquedas": [
+    "anuncio publicitario qué es",
+    "anuncios publicitarios de productos",
+    "producto anuncios publicitarios",
+    "crear publicidad",
+    "como hacer una publicidad",
+    "como hacer un anuncio",
+    "dibujo de anuncios publicitarios",
+    "5 anuncios publicitarios",
+    "anuncios publicitarios fáciles"
+  ],
+  "title": "Anuncios publicitarios: qué son, partes y cómo hacer uno",
+  "h1": "Anuncio publicitario: qué es, sus partes y cómo hacerlo",
+  "description": "Un anuncio publicitario es un mensaje pagado para que la gente conozca y compre algo. Te explicamos sus partes, tipos, 6 ejemplos y cómo hacer el tuyo.",
+  "resumen": "Qué es un anuncio publicitario, sus partes, tipos, ejemplos y cómo hacerlo",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un anuncio publicitario es un mensaje que busca que la gente conozca un producto, servicio o idea y haga algo. Puede salir en redes o en la calle. También en radio, en un volante o en Google.",
+    "Todo anuncio tiene partes básicas. Lleva un título que llame la atención y una imagen. Suma un texto corto, una acción clara y los datos para encontrarte."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un anuncio publicitario"
+    },
+    {
+      "p": "Un anuncio publicitario es un mensaje hecho para convencer. Quiere que alguien conozca algo y haga una acción, como comprar, llamar o visitar."
+    },
+    {
+      "p": "Casi siempre se paga para que aparezca. Puede ser un espacio en una revista, una lona en la calle o un lugar en redes sociales."
+    },
+    {
+      "p": "Los anuncios no son sólo de grandes marcas. Un volante de una taquería o una historia de Instagram de una estética también son anuncios."
+    },
+    {
+      "h2": "Las partes de un anuncio publicitario"
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un anuncio",
+        "columnas": [
+          "Parte",
+          "Qué es",
+          "Ejemplo para una paletería"
+        ],
+        "filas": [
+          [
+            "Título o encabezado",
+            "La frase que se lee primero",
+            "Paletas de fruta natural a 20 pesos"
+          ],
+          [
+            "Imagen",
+            "Foto o dibujo que llama la atención",
+            "Paletas de mango y fresa con hielo"
+          ],
+          [
+            "Texto",
+            "Explica el beneficio en pocas palabras",
+            "Hechas cada mañana con fruta de temporada"
+          ],
+          [
+            "Llamado a la acción",
+            "Lo que quieres que haga la persona",
+            "Pásate hoy, estamos frente al parque"
+          ],
+          [
+            "Datos de contacto",
+            "Cómo encontrarte",
+            "Dirección, horario y WhatsApp"
+          ],
+          [
+            "Marca",
+            "Tu nombre y logo",
+            "Paletería La Michoacana del barrio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El título es la parte más importante. Si no atrapa en un segundo, nadie lee lo demás."
+    },
+    {
+      "h2": "Características de un buen anuncio"
+    },
+    {
+      "ul": [
+        "Dice una sola idea, no diez.",
+        "Habla de lo que gana el cliente, no de lo bueno que eres.",
+        "Se entiende rápido, aunque se vea de pasada.",
+        "Tiene una acción clara.",
+        "Es verdadero y se puede comprobar."
+      ]
+    },
+    {
+      "p": "El último punto es también una obligación legal. En México la Ley Federal de Protección al Consumidor pide que la publicidad sea veraz, comprobable y clara."
+    },
+    {
+      "p": "El artículo 32 de esa ley pide que no confunda al consumidor. Aunque cada dato sea cierto, la forma de presentarlo no debe engañar."
+    },
+    {
+      "h2": "Tipos de anuncios publicitarios"
+    },
+    {
+      "p": "Los anuncios se pueden clasificar de muchas formas. La más útil para un negocio es por el medio donde salen."
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de anuncio por medio",
+        "columnas": [
+          "Tipo",
+          "Dónde sale",
+          "Ventaja"
+        ],
+        "filas": [
+          [
+            "Impreso",
+            "Volantes, revistas, periódicos",
+            "Se puede guardar y repartir en tu zona"
+          ],
+          [
+            "Exterior",
+            "Lonas, espectaculares, letreros",
+            "Lo ve mucha gente que pasa"
+          ],
+          [
+            "Radio",
+            "Estaciones locales",
+            "Llega a quien maneja o trabaja"
+          ],
+          [
+            "Televisión",
+            "Canales abiertos o de paga",
+            "Alcance muy grande, costo alto"
+          ],
+          [
+            "Redes sociales",
+            "Facebook, Instagram, TikTok",
+            "Se puede dirigir a una zona y edad"
+          ],
+          [
+            "Buscadores",
+            "Google y otros",
+            "Sale cuando alguien busca lo que vendes"
+          ],
+          [
+            "Punto de venta",
+            "Carteles dentro del negocio",
+            "Empuja la compra en el momento"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio pequeño los más usados son volantes y lonas. También redes y buscadores. Son los que mejor se ajustan a un presupuesto chico."
+    },
+    {
+      "p": "También se clasifican por objetivo. Informar algo nuevo, convencer de comprar o recordar que existes."
+    },
+    {
+      "h2": "Cómo hacer un anuncio publicitario paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige un objetivo",
+          "texto": "Decide qué quieres que pase. Que visiten tu local, que te escriban o que compren una oferta."
+        },
+        {
+          "titulo": "Define a quién le hablas",
+          "texto": "Piensa en una persona concreta, su edad, su zona y su necesidad."
+        },
+        {
+          "titulo": "Encuentra el beneficio principal",
+          "texto": "¿Qué gana esa persona contigo? Ahorro, rapidez, sabor o comodidad."
+        },
+        {
+          "titulo": "Escribe el título",
+          "texto": "Una frase corta con el beneficio o la oferta."
+        },
+        {
+          "titulo": "Elige la imagen",
+          "texto": "Una foto real de tu producto o un dibujo claro."
+        },
+        {
+          "titulo": "Escribe el texto",
+          "texto": "Dos o tres frases que expliquen y den confianza."
+        },
+        {
+          "titulo": "Agrega la acción",
+          "texto": "Una frase que diga qué hacer, como escríbenos hoy."
+        },
+        {
+          "titulo": "Pon tus datos",
+          "texto": "Dirección, WhatsApp o página para encontrarte."
+        },
+        {
+          "titulo": "Revísalo de lejos",
+          "texto": "Míralo a dos metros o en el celular y pregunta si se entiende."
+        }
+      ]
+    },
+    {
+      "p": "Pide a alguien que no conoce tu negocio que lo vea cinco segundos. Si no puede decir qué vendes, ajústalo."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Seis ejemplos de anuncios publicitarios"
+    },
+    {
+      "p": "Estos ejemplos son inventados. Sirven para tareas escolares y para tomar ideas para tu negocio."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de anuncios",
+        "columnas": [
+          "Producto",
+          "Título",
+          "Texto",
+          "Acción"
+        ],
+        "filas": [
+          [
+            "Pan dulce",
+            "Conchas recién horneadas a las 7 de la mañana",
+            "Llévate media docena y te regalamos un bolillo",
+            "Ven hoy, Calle Juárez 12"
+          ],
+          [
+            "Clases de inglés",
+            "Habla inglés en seis meses",
+            "Grupos pequeños para niños y adultos en tu colonia",
+            "Escríbenos para tu clase de prueba"
+          ],
+          [
+            "Taller mecánico",
+            "Afinación completa en una mañana",
+            "Te entregamos el auto el mismo día con garantía",
+            "Agenda por WhatsApp"
+          ],
+          [
+            "Jugo natural",
+            "Empieza el día con energía",
+            "Jugo verde de nopal, piña y apio hecho al momento",
+            "Pide el tuyo en el mercado, local 8"
+          ],
+          [
+            "Venta de garage",
+            "Todo a mitad de precio este domingo",
+            "Muebles, ropa y juguetes en buen estado",
+            "Te esperamos de 9 a 2"
+          ],
+          [
+            "Agua purificada",
+            "Garrafón a domicilio en tu colonia",
+            "Entregamos en menos de una hora",
+            "Pide por mensaje"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fíjate que cada uno tiene una sola idea. Ninguno intenta decir todo sobre el negocio."
+    },
+    {
+      "p": "También todos dicen dónde o cómo comprar. Un anuncio sin acción deja a la persona sin saber qué hacer."
+    },
+    {
+      "h2": "Cómo dibujar un anuncio para la escuela"
+    },
+    {
+      "p": "Muchos estudiantes buscan cómo dibujar un anuncio. La estructura es la misma que la de un anuncio real."
+    },
+    {
+      "ol": [
+        "Divide tu hoja en tres partes, arriba, en medio y abajo.",
+        "Arriba escribe el título con letras grandes.",
+        "En medio dibuja el producto grande y con colores.",
+        "Abajo escribe el texto corto y la acción.",
+        "En una esquina pon el nombre de la marca y un logo sencillo."
+      ]
+    },
+    {
+      "p": "Usa pocos colores que contrasten. Un fondo claro con letras oscuras se lee mejor."
+    },
+    {
+      "h2": "Anuncios para redes sociales"
+    },
+    {
+      "p": "En redes el anuncio compite con fotos de amigos y videos. Debe llamar la atención en el primer segundo."
+    },
+    {
+      "ul": [
+        "Usa video vertical o una foto real muy clara.",
+        "Pon poco texto dentro de la imagen.",
+        "Escribe el precio o la oferta en la primera línea.",
+        "Termina con una acción y una liga a tu WhatsApp o tu página."
+      ]
+    },
+    {
+      "p": "Lee los pasos de cada plataforma en [publicidad en Instagram](id:publicidad-en-instagram) y [publicidad en Google](id:publicidad-en-google)."
+    },
+    {
+      "h2": "Frases que ayudan a vender"
+    },
+    {
+      "p": "Una buena frase puede cambiar un anuncio. Las mejores dicen algo concreto, no adjetivos vacíos."
+    },
+    {
+      "tabla": {
+        "titulo": "Frases vagas y frases concretas",
+        "columnas": [
+          "Frase vaga",
+          "Frase concreta"
+        ],
+        "filas": [
+          [
+            "La mejor calidad",
+            "Pan horneado cada mañana"
+          ],
+          [
+            "Precios increíbles",
+            "Corte de cabello a 80 pesos"
+          ],
+          [
+            "Servicio rápido",
+            "Te lo entregamos en una hora"
+          ],
+          [
+            "Atención de primera",
+            "Te contestamos por WhatsApp en minutos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si buscas más ideas, revisa las [frases para vender](id:frases-para-vender)."
+    },
+    {
+      "h2": "Cuánto cuesta un anuncio"
+    },
+    {
+      "p": "Depende del medio, el tamaño y el tiempo que dure. No hay un precio único."
+    },
+    {
+      "p": "Un volante cuesta lo que cobre la imprenta por millar. Un anuncio en redes cuesta lo que tú decidas gastar por día o en total."
+    },
+    {
+      "p": "Antes de pagar, pregunta tres cosas. Cuánta gente lo verá, en qué zona y por cuánto tiempo."
+    },
+    {
+      "p": "Compara el costo con lo que te deja una venta. Si necesitas cien ventas para pagar el anuncio, quizá no conviene."
+    },
+    {
+      "h2": "Qué colores y letras usar"
+    },
+    {
+      "p": "El diseño debe ayudar a leer, no adornar. Pocas reglas resuelven casi todo."
+    },
+    {
+      "ul": [
+        "Usa dos o tres colores de tu marca.",
+        "Pon texto oscuro sobre fondo claro o al revés.",
+        "Usa máximo dos tipos de letra.",
+        "Deja espacio libre alrededor del título.",
+        "Haz el título tres o cuatro veces más grande que el texto."
+      ]
+    },
+    {
+      "p": "Si vas a imprimir, prueba en papel antes de mandar a imprenta. Los colores cambian entre la pantalla y el papel."
+    },
+    {
+      "p": "Para un volante listo, usa el editor de [flyer](id:flyer)."
+    },
+    {
+      "h2": "De un anuncio a una campaña"
+    },
+    {
+      "p": "Un solo anuncio es una pieza. Varios anuncios con el mismo objetivo y la misma fecha forman una campaña."
+    },
+    {
+      "p": "Por ejemplo, una juguetería puede tener un volante, una lona y un anuncio en redes para Día de Reyes. Todos dicen la misma oferta."
+    },
+    {
+      "p": "Lee cómo planearla en [campaña publicitaria](id:campana-publicitaria)."
+    },
+    {
+      "h2": "Cómo saber si tu anuncio funcionó"
+    },
+    {
+      "p": "Pon algo en el anuncio que te permita medirlo. Una palabra clave, un cupón o un número de WhatsApp distinto."
+    },
+    {
+      "p": "Por ejemplo, el volante dice «menciona este volante y llévate un 10 por ciento de descuento». Cuenta cuántas personas lo mencionan."
+    },
+    {
+      "p": "Compara lo que gastaste con lo que vendiste gracias al anuncio. Si vendiste más de lo que costó, repítelo o mejóralo."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Meter demasiada información en un solo anuncio.",
+        "Olvidar los datos de contacto.",
+        "Usar letras pequeñas o colores que no se leen.",
+        "Prometer algo que no puedes cumplir.",
+        "No poner ninguna acción para el cliente.",
+        "No medir si el anuncio trajo ventas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un anuncio publicitario?",
+      "respuesta": "Es un mensaje hecho para convencer. Busca que conozcas algo y hagas una acción, como comprar o visitar."
+    },
+    {
+      "pregunta": "¿Cuáles son las partes de un anuncio publicitario?",
+      "respuesta": "Seis partes. Título, imagen y texto. Luego llamado a la acción, datos de contacto y marca."
+    },
+    {
+      "pregunta": "¿Qué tipos de anuncios publicitarios hay?",
+      "respuesta": "Siete según el medio. Impresos, exteriores y radio. También televisión y redes, más buscadores y punto de venta."
+    },
+    {
+      "pregunta": "¿Qué debe tener un buen anuncio?",
+      "respuesta": "Una sola idea clara y un beneficio. También una acción y datos verdaderos."
+    },
+    {
+      "pregunta": "¿Un anuncio puede exagerar?",
+      "respuesta": "No debe engañar. La ley pide que la publicidad sea veraz, comprobable y clara."
+    },
+    {
+      "pregunta": "¿Cómo hago un anuncio para mi negocio?",
+      "respuesta": "Con nueve pasos. Define objetivo y cliente, escribe un título con el beneficio y agrega imagen, acción y datos."
+    }
+  ],
+  "relacionadas": [
+    "publicidad-para-negocios",
+    "campana-publicitaria",
+    "frases-para-vender",
+    "flyer",
+    "marketing-digital",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Un buen anuncio necesita a dónde mandar a la gente. Aliviane te hace la página con tu dominio y tu WhatsApp.",
+    "titulo": "¿Hacemos la página a la que llevará tu anuncio?",
+    "tituloCorto": "Tu anuncio necesita un destino propio",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección al Consumidor, artículo 32 (consultado en mley.mx el 12-nov-2026)",
+      "url": "https://mley.mx/LFPC/articulo/32/"
+    },
+    {
+      "texto": "Cámara de Diputados, texto oficial de la Ley Federal de Protección al Consumidor",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://economipedia.com/definiciones/anuncio-publicitario.html",
+      "titulo": "Anuncio publicitario",
+      "promete": "Definición de diccionario; sin pasos para hacer uno ni ejemplos de negocios pequeños"
+    },
+    {
+      "posicion": 2,
+      "url": "https://psicologiaymente.com/organizaciones/tipos-anuncios-publicitarios",
+      "titulo": "Los 25 tipos de anuncios publicitarios",
+      "promete": "Clasificación larga y teórica; no ayuda a escribir el primero"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.cyberclick.es/numerical-blog/que-es-un-anuncio-publicitario-caracteristicas-ejemplos",
+      "titulo": "¿Qué es un anuncio publicitario? Características y ejemplos",
+      "promete": "Ejemplos de grandes marcas; no explica la regla de publicidad veraz en México ni da plantilla"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sirve a estudiantes (5 anuncios, dibujo de anuncios) y a negocios. Art. 32 LFPC leído en mley.mx el 12-nov-2026 (publicidad veraz, comprobable y clara). Ejemplos inventados y marcados. Distinto de publicidad-en-google/instagram (plataformas)."
+}

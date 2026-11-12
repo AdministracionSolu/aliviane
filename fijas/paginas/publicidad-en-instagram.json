@@ -1,0 +1,528 @@
+{
+  "id": "publicidad-en-instagram",
+  "slug": "publicidad-en-instagram",
+  "molde": "guia",
+  "cabeza": "anuncios instagram",
+  "busquedas": [
+    "instagram anuncios",
+    "anuncios en instagram",
+    "publicidad en instagram",
+    "publicidad instagram",
+    "publicidad con instagram",
+    "como hacer publicidad en instagram",
+    "cómo pagar publicidad en instagram"
+  ],
+  "title": "Anuncios Instagram: cómo promocionar y pagar tu publicidad",
+  "h1": "Publicidad en Instagram para tu negocio paso a paso",
+  "description": "Los anuncios de Instagram se pagan con presupuesto diario o total que tú eliges. Te explicamos cómo promocionar una publicación y qué hacer antes de pagar.",
+  "resumen": "Cómo promocionar en Instagram, cómo se paga y qué preparar antes",
+  "categoria": "Redes sociales",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para hacer publicidad en Instagram necesitas una cuenta profesional. Desde la app puedes promocionar una publicación o un reel. Ahí eliges objetivo, público, presupuesto y duración.",
+    "Pagas lo que fijas como presupuesto diario o total, y Meta revisa cada anuncio antes de mostrarlo. Para campañas más finas se usa el Administrador de anuncios de Meta."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es la publicidad en Instagram"
+    },
+    {
+      "p": "La publicidad en Instagram son publicaciones que pagas para que las vea más gente. Salen en el inicio, en historias, en reels y en explorar."
+    },
+    {
+      "p": "Llevan la etiqueta de publicidad o patrocinado. Se ven casi igual que una publicación normal."
+    },
+    {
+      "p": "Los anuncios de Instagram se manejan con las herramientas de anuncios de Meta. Es la misma empresa de Facebook y WhatsApp."
+    },
+    {
+      "h2": "Dos formas de anunciarte"
+    },
+    {
+      "p": "Hay dos caminos y los dos sirven. Uno es rápido y el otro da más control."
+    },
+    {
+      "tabla": {
+        "titulo": "Promocionar desde la app o usar el Administrador de anuncios",
+        "columnas": [
+          "Punto",
+          "Promocionar desde la app",
+          "Administrador de anuncios"
+        ],
+        "filas": [
+          [
+            "Dónde se hace",
+            "En la app de Instagram",
+            "En la computadora, en la plataforma de anuncios de Meta"
+          ],
+          [
+            "Qué anuncias",
+            "Una publicación, reel o historia ya publicada",
+            "Anuncios creados desde cero o publicaciones"
+          ],
+          [
+            "Control del público",
+            "Básico",
+            "Detallado"
+          ],
+          [
+            "Pruebas de varios anuncios",
+            "No",
+            "Sí"
+          ],
+          [
+            "Para quién",
+            "Negocio que empieza",
+            "Quien ya anuncia seguido"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si nunca te has anunciado, empieza promocionando desde la app. Cuando entiendas tus números, pasa al administrador."
+    },
+    {
+      "h2": "Qué necesitas antes de pagar"
+    },
+    {
+      "ul": [
+        "Una cuenta profesional de Instagram, de empresa o de creador.",
+        "Una forma de pago aceptada por Meta.",
+        "Una publicación que ya funcione bien sin pagar.",
+        "Un lugar a donde mandar a la gente, como WhatsApp o tu página.",
+        "Una idea clara de quién es tu cliente y dónde vive."
+      ]
+    },
+    {
+      "p": "La publicación que promocionas importa más que el presupuesto. Promociona la que ya tuvo más mensajes o guardados."
+    },
+    {
+      "p": "Si una publicación no gustó gratis, pagar no la vuelve buena. Sólo hace que más gente la ignore."
+    },
+    {
+      "h2": "Cómo promocionar una publicación desde la app"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Elige la publicación",
+          "texto": "Ve a tu perfil y abre la publicación o el reel que quieres promocionar."
+        },
+        {
+          "titulo": "Toca Promocionar",
+          "texto": "El botón aparece debajo de la publicación en cuentas profesionales."
+        },
+        {
+          "titulo": "Elige el objetivo",
+          "texto": "Puedes buscar más visitas al perfil, visitas a tu página o mensajes."
+        },
+        {
+          "titulo": "Define el público",
+          "texto": "Deja que Instagram lo elija o crea uno con lugar, edad e intereses."
+        },
+        {
+          "titulo": "Fija presupuesto y duración",
+          "texto": "Elige cuánto gastar y cuántos días dura la promoción."
+        },
+        {
+          "titulo": "Revisa y paga",
+          "texto": "Confirma la forma de pago y envía la promoción a revisión."
+        }
+      ]
+    },
+    {
+      "p": "Meta revisa cada promoción antes de mostrarla. Si no cumple sus políticas de anuncios, te avisa y no se publica."
+    },
+    {
+      "h2": "Presupuesto diario o presupuesto total"
+    },
+    {
+      "p": "Meta distingue dos formas de fijar cuánto gastas. Elige la que te dé más tranquilidad."
+    },
+    {
+      "tabla": {
+        "titulo": "Las dos formas de presupuesto",
+        "columnas": [
+          "Tipo",
+          "Cómo funciona",
+          "Cuándo usarlo"
+        ],
+        "filas": [
+          [
+            "Diario",
+            "Un promedio de gasto por día",
+            "Promociones que dejas corriendo varias semanas"
+          ],
+          [
+            "Total",
+            "Lo máximo que se gasta en toda la promoción",
+            "Una oferta con fecha de inicio y fin"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con presupuesto total sabes desde el principio cuánto te costará. Es la opción más cómoda para el primer intento."
+    },
+    {
+      "p": "El precio por resultado no es fijo. Depende de tu público, tu ciudad, la temporada y qué tan buena es la publicación."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Formatos de anuncio en Instagram"
+    },
+    {
+      "p": "Cada lugar de Instagram tiene su forma. Elige el formato según lo que quieres enseñar."
+    },
+    {
+      "tabla": {
+        "titulo": "Formatos y para qué sirven",
+        "columnas": [
+          "Formato",
+          "Dónde sale",
+          "Mejor para"
+        ],
+        "filas": [
+          [
+            "Foto",
+            "Inicio",
+            "Un producto con precio claro"
+          ],
+          [
+            "Carrusel",
+            "Inicio",
+            "Varios productos o un antes y después"
+          ],
+          [
+            "Reel",
+            "Pestaña de reels e inicio",
+            "Mostrar un proceso o un resultado en video"
+          ],
+          [
+            "Historia",
+            "Entre historias",
+            "Ofertas con fecha y botón de mensaje"
+          ],
+          [
+            "Explorar",
+            "Pestaña de explorar",
+            "Que te descubran personas nuevas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los videos verticales suelen llamar más la atención en celular. No necesitas producción cara, basta buena luz y un celular firme."
+    },
+    {
+      "h2": "Cómo elegir el público"
+    },
+    {
+      "p": "El público es a quién se le mostrará tu anuncio. Un público bien elegido gasta tu dinero en gente que sí puede comprarte."
+    },
+    {
+      "p": "Empieza por el lugar. Si atiendes en un solo local, marca un radio de pocos kilómetros alrededor."
+    },
+    {
+      "p": "Luego piensa en la edad y en los intereses. No hagas el público tan pequeño que el anuncio casi no se muestre."
+    },
+    {
+      "tabla": {
+        "titulo": "Públicos de ejemplo por giro",
+        "columnas": [
+          "Giro",
+          "Lugar",
+          "Edad",
+          "Intereses"
+        ],
+        "filas": [
+          [
+            "Barbería",
+            "Tres kilómetros del local",
+            "18 a 45",
+            "Moda masculina, futbol"
+          ],
+          [
+            "Pastelería",
+            "Toda la ciudad",
+            "25 a 55",
+            "Fiestas infantiles, repostería"
+          ],
+          [
+            "Escuela de inglés",
+            "Ciudad y municipios vecinos",
+            "16 a 40",
+            "Viajes, empleo, idiomas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Estos públicos son ejemplos inventados. Pruébalos y cambia lo que no traiga mensajes."
+    },
+    {
+      "h2": "Qué escribir en el texto del anuncio"
+    },
+    {
+      "p": "El texto acompaña a la imagen. Debe decir qué ofreces, dónde y qué hacer para obtenerlo."
+    },
+    {
+      "p": "Pon el precio o un precio desde si puedes. La gente escribe más cuando ya sabe si le alcanza."
+    },
+    {
+      "p": "Termina con una acción clara. Escríbenos por WhatsApp, aparta tu lugar o pide el catálogo."
+    },
+    {
+      "p": "Evita frases vagas como la mejor calidad. Cuenta algo concreto, como entrega el mismo día en tu colonia."
+    },
+    {
+      "h2": "A dónde mandar a la gente"
+    },
+    {
+      "p": "Este es el punto que más negocios descuidan. La gente ve el anuncio y luego no sabe qué hacer."
+    },
+    {
+      "tabla": {
+        "titulo": "Destinos posibles de un anuncio",
+        "columnas": [
+          "Destino",
+          "Ventaja",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Tu perfil",
+            "Ven tus demás publicaciones",
+            "Muchos se van sin escribir"
+          ],
+          [
+            "Mensaje directo",
+            "Conversación inmediata",
+            "Debes contestar rápido"
+          ],
+          [
+            "WhatsApp",
+            "Tu cliente ya lo usa todo el día",
+            "Ten listo tu mensaje de bienvenida"
+          ],
+          [
+            "Tu página web",
+            "Precios, ubicación y botón claro",
+            "La página debe cargar rápido en celular"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si vendes servicios con cita, WhatsApp suele funcionar bien. Si tienes catálogo o precios, una página propia ordena la información."
+    },
+    {
+      "p": "Lee cómo usar un solo enlace en tu perfil en la guía de [link en bio](id:link-en-bio)."
+    },
+    {
+      "h2": "Ejemplo de un estudio de uñas en Guadalajara"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Un estudio de uñas quiere llenar sus martes y miércoles, que son días flojos."
+    },
+    {
+      "tabla": {
+        "titulo": "Promoción de ejemplo",
+        "columnas": [
+          "Parte",
+          "Lo que eligió"
+        ],
+        "filas": [
+          [
+            "Publicación",
+            "Reel de un diseño de temporada con su precio"
+          ],
+          [
+            "Objetivo",
+            "Mensajes por WhatsApp"
+          ],
+          [
+            "Público",
+            "Mujeres de 20 a 45 años a cinco kilómetros del local"
+          ],
+          [
+            "Presupuesto",
+            "Total, por siete días"
+          ],
+          [
+            "Texto",
+            "Martes y miércoles con lugar, aparta tu cita por mensaje"
+          ],
+          [
+            "Respuesta",
+            "Mensaje de bienvenida con horarios y precios"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El reel ya había tenido muchos guardados sin pagar. Por eso lo eligió para la promoción."
+    },
+    {
+      "p": "Lo que contó al final fue cuántas citas salieron de esos mensajes. Las vistas sólo le dijeron que el anuncio se estaba mostrando."
+    },
+    {
+      "h2": "Qué medir después"
+    },
+    {
+      "p": "Instagram te da estadísticas de cada promoción. Mira primero el resultado que elegiste como objetivo."
+    },
+    {
+      "ul": [
+        "Cuántas personas vieron el anuncio.",
+        "Cuántos mensajes o visitas a la página llegaron.",
+        "Cuánto pagaste por cada mensaje o visita.",
+        "Cuántos de esos mensajes terminaron en venta."
+      ]
+    },
+    {
+      "p": "El último número no lo da Instagram. Anótalo tú en una libreta o en una hoja de cálculo."
+    },
+    {
+      "h2": "Cómo atender los mensajes que llegan"
+    },
+    {
+      "p": "Un anuncio que pide mensajes te va a llenar la bandeja. Prepárate antes de encenderlo."
+    },
+    {
+      "p": "Ten listas respuestas para las preguntas de siempre. Precio, horario, ubicación y formas de pago."
+    },
+    {
+      "p": "Contesta en minutos, no en horas. Quien escribe por un anuncio suele preguntar a varios negocios a la vez."
+    },
+    {
+      "p": "Si usas WhatsApp Business, activa un mensaje de bienvenida. Lee cómo en la guía de [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "p": "Anota de qué anuncio vino cada cliente. Así sabrás cuál promoción conviene repetir."
+    },
+    {
+      "h2": "Qué diseño funciona mejor"
+    },
+    {
+      "p": "No hay un diseño ganador para todos. Lo que suele funcionar es lo que se ve real y se entiende en un segundo."
+    },
+    {
+      "ul": [
+        "Fotos de tu producto o de tu trabajo, no de banco.",
+        "Poco texto dentro de la imagen y letra grande.",
+        "Tu cara o la de tu equipo si vendes un servicio.",
+        "Un precio o una oferta que se lea sin acercar."
+      ]
+    },
+    {
+      "p": "Prueba dos versiones de la misma idea. Deja la que traiga más mensajes, no la que más te guste."
+    },
+    {
+      "h2": "Errores comunes en anuncios de Instagram"
+    },
+    {
+      "ul": [
+        "Promocionar una publicación que no gustó sin pagar.",
+        "Elegir un público de todo el país cuando atiendes una ciudad.",
+        "Mandar mensajes y tardar horas en contestar.",
+        "Usar texto pequeño dentro de la imagen que no se lee en celular.",
+        "Cambiar todo a los dos días sin dejar que junte datos.",
+        "No poner precio ni zona en el texto del anuncio."
+      ]
+    },
+    {
+      "h2": "Instagram y Facebook en la misma campaña"
+    },
+    {
+      "p": "Una misma campaña puede salir en Instagram y en Facebook. El administrador de Meta deja elegir en qué lugares aparece."
+    },
+    {
+      "p": "Si tu cliente usa más Facebook, revisa también la guía de [publicidad en Facebook](id:publicidad-en-facebook)."
+    },
+    {
+      "p": "Para preparar tus diseños con el tamaño correcto, usa las [plantillas para Instagram](id:plantillas-para-instagram)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Necesito cuenta de empresa para anunciarme en Instagram?",
+      "respuesta": "Sí. Necesitas una cuenta profesional, de empresa o de creador, para promocionar."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta un anuncio en Instagram?",
+      "respuesta": "Lo que tú fijes. Eliges un presupuesto diario o total, y el costo por resultado cambia según tu público."
+    },
+    {
+      "pregunta": "¿Puedo gastar más de lo que puse?",
+      "respuesta": "No en el presupuesto total. Meta lo maneja como el máximo de toda la promoción."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en aprobarse un anuncio?",
+      "respuesta": "Depende. Meta revisa cada promoción antes de mostrarla, y a veces tarda más de lo esperado."
+    },
+    {
+      "pregunta": "¿Es mejor mandar a WhatsApp o a mi página?",
+      "respuesta": "Depende de lo que vendes. Para citas funciona WhatsApp, y para catálogo o precios una página."
+    },
+    {
+      "pregunta": "¿Un anuncio de Instagram me garantiza clientes?",
+      "respuesta": "No. Te da alcance, y los clientes dependen de tu oferta y de cómo atiendes."
+    }
+  ],
+  "relacionadas": [
+    "publicidad-en-facebook",
+    "link-en-bio",
+    "iconos-para-historias-destacadas",
+    "plantillas-para-instagram",
+    "marketing-en-redes-sociales",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Un anuncio de Instagram llega más lejos si manda a una página tuya. Aliviane te la hace con dominio y WhatsApp.",
+    "titulo": "¿Hacemos la página a la que mandarán tus anuncios?",
+    "tituloCorto": "Que tu anuncio lleve a tu propia página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Servicio de ayuda de Meta para empresas, presupuestos de anuncios creados en la app de Instagram (consultado el 12-nov-2026)",
+      "url": "https://es-la.facebook.com/business/help/1514927061975521"
+    },
+    {
+      "texto": "Centro de ayuda de Instagram, cómo promocionar una publicación (consultado el 12-nov-2026)",
+      "url": "https://help.instagram.com/2090822074310288"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://publer.com/blog/es/guia-de-anuncios-de-instagram/",
+      "titulo": "Guía de anuncios de Instagram",
+      "promete": "Formatos y conceptos generales; sin qué preparar antes de pagar ni ejemplo de negocio local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://mailchimp.com/es/marketing-glossary/instagram-ads/",
+      "titulo": "Anuncios de Instagram",
+      "promete": "Definición de glosario; no dice a dónde mandar a la gente ni cómo medir mensajes"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.crehana.com/blog/transformacion-digital/tipos-de-anuncios-instagram/",
+      "titulo": "Tipos de anuncios Instagram",
+      "promete": "Lista de formatos; le faltan pasos desde la app y errores comunes de un negocio pequeño"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. SIN CIFRA de presupuesto mínimo ni costo por resultado: las páginas de ayuda de Meta no cargaron completas el 12-nov-2026 (sólo se vio el título y el resumen del buscador). Se explica diario vs total y revisión previa sin montos."
+}

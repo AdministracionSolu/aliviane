@@ -1,0 +1,471 @@
+{
+  "id": "cobrar-con-qr",
+  "slug": "cobrar-con-qr",
+  "molde": "guia",
+  "cabeza": "pago con qr",
+  "busquedas": [
+    "pagar con qr",
+    "codigo qr para pagar"
+  ],
+  "title": "Pago con QR: cómo cobrar con CoDi y apps en México",
+  "h1": "Pago con QR: cómo cobrar con código QR en tu negocio",
+  "description": "Puedes cobrar con QR por CoDi de Banxico, la app de tu banco o una app de pagos. Te explicamos cada opción, comisiones con fuente y cómo ponerlo en tu caja.",
+  "resumen": "Formas de cobrar con QR en México, comisiones con fuente y cómo empezar",
+  "categoria": "Cobros",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para cobrar con QR, el cliente escanea un código con su celular y paga desde su banco o su app. En México las opciones principales son CoDi de Banxico, las apps de bancos y las apps de pagos.",
+    "Banxico dice que las operaciones por CoDi no generan comisiones adicionales. En las apps de pagos el costo depende del medio con que paga el cliente, así que revísalo en su tabla antes de empezar."
+  ],
+  "herramienta": {
+    "id": "qr",
+    "modo": "link"
+  },
+  "cuerpo": [
+    {
+      "h2": "Cómo funciona el pago con QR"
+    },
+    {
+      "p": "El pago con QR usa un código impreso o en pantalla. El cliente lo escanea con su celular y confirma el pago."
+    },
+    {
+      "p": "El dinero sale de la cuenta o la app del cliente. Llega a tu cuenta o a tu app según el sistema que uses."
+    },
+    {
+      "p": "Hay dos tipos de QR de cobro. El QR fijo se imprime una vez. El QR por venta se genera con el monto de cada compra."
+    },
+    {
+      "tabla": {
+        "titulo": "QR fijo y QR por venta",
+        "columnas": [
+          "Punto",
+          "QR fijo",
+          "QR por venta"
+        ],
+        "filas": [
+          [
+            "Cómo se hace",
+            "Lo imprimes y lo pegas en el mostrador",
+            "Lo generas en tu celular en cada cobro"
+          ],
+          [
+            "Monto",
+            "El cliente lo escribe",
+            "Ya viene con el monto"
+          ],
+          [
+            "Ventaja",
+            "No necesitas tu celular a la mano",
+            "Menos errores de captura"
+          ],
+          [
+            "Cuidado",
+            "Revisa que el monto pagado sea el correcto",
+            "Necesitas tu celular en cada venta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un puesto con mucha gente, el QR fijo es más ágil. Para montos variables, el QR por venta evita confusiones."
+    },
+    {
+      "h2": "Las opciones para cobrar con QR en México"
+    },
+    {
+      "tabla": {
+        "titulo": "Formas de cobrar con QR",
+        "columnas": [
+          "Opción",
+          "Qué necesitas",
+          "Costo según la fuente"
+        ],
+        "filas": [
+          [
+            "CoDi de Banxico",
+            "Cuenta bancaria y app con CoDi",
+            "Banxico dice que no genera comisiones adicionales"
+          ],
+          [
+            "App de tu banco",
+            "Cuenta de negocio o personal en ese banco",
+            "Revisa el contrato de tu banco"
+          ],
+          [
+            "App de pagos",
+            "Cuenta en la app de pagos",
+            "Depende del medio con que paga el cliente"
+          ],
+          [
+            "Liga de pago en QR",
+            "Una liga de pago de cualquier proveedor",
+            "La comisión de la liga de pago"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las condiciones cambian con el tiempo. Revisa siempre la tabla de costos de tu banco o app antes de empezar."
+    },
+    {
+      "h2": "CoDi, el cobro digital de Banxico"
+    },
+    {
+      "p": "CoDi es una plataforma del Banco de México. Sirve para cobrar y pagar con el celular usando QR o tecnología NFC."
+    },
+    {
+      "p": "Banxico dice que las operaciones por CoDi no generan comisiones adicionales. También dice que funciona a cualquier hora, todos los días."
+    },
+    {
+      "p": "El dinero se acredita en segundos. No esperas días para tenerlo en tu cuenta."
+    },
+    {
+      "h3": "Qué necesitas para cobrar con CoDi"
+    },
+    {
+      "ul": [
+        "Una cuenta en un banco o institución que participe en CoDi.",
+        "Una app para generar cobros, la de tu banco o la de Banxico.",
+        "Un celular con internet."
+      ]
+    },
+    {
+      "p": "Según la guía de Banxico para comercios, el QR puede ser fijo en el establecimiento. También se puede generar uno por cada venta."
+    },
+    {
+      "h3": "Pasos generales para empezar"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Revisa tu banco",
+          "texto": "Busca CoDi en la app de tu banco o pregunta en sucursal."
+        },
+        {
+          "titulo": "Activa la función",
+          "texto": "Sigue los pasos de tu app para registrar tu cuenta en CoDi."
+        },
+        {
+          "titulo": "Genera tu QR",
+          "texto": "Crea un cobro con monto o un QR fijo para imprimir."
+        },
+        {
+          "titulo": "Prueba con un cobro pequeño",
+          "texto": "Pide a un familiar que te pague diez pesos."
+        },
+        {
+          "titulo": "Pon el QR a la vista",
+          "texto": "Imprímelo grande junto a la caja con la leyenda paga con CoDi."
+        }
+      ]
+    },
+    {
+      "p": "El cliente también necesita CoDi activo en su app. Si no lo tiene, ofrécele transferencia o efectivo."
+    },
+    {
+      "h2": "Apps de pagos"
+    },
+    {
+      "p": "Las apps de pagos permiten cobrar con un QR propio. El cliente paga con saldo, tarjeta de débito o tarjeta de crédito."
+    },
+    {
+      "p": "La ayuda de una de las apps más usadas en México dice que el costo depende del medio de pago del cliente. Por eso no ponemos una cifra única."
+    },
+    {
+      "p": "Antes de abrir cuenta, busca en la app la tabla de comisiones. Mira cuánto cobran por débito, por crédito y cuándo te liberan el dinero."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas para elegir una app de pagos",
+        "columnas": [
+          "Pregunta",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "¿Cuánto cobran si el cliente paga con crédito?",
+            "Suele ser distinto de débito"
+          ],
+          [
+            "¿En cuánto tiempo puedo usar el dinero?",
+            "Algunos cobran más por liberarlo al momento"
+          ],
+          [
+            "¿Puedo pasar el dinero a mi banco sin costo?",
+            "Afecta lo que te queda al final"
+          ],
+          [
+            "¿Dan comprobante para el cliente?",
+            "El cliente lo pide para sus cuentas"
+          ],
+          [
+            "¿Puedo facturar desde ahí?",
+            "Te ahorra trabajo si tus clientes piden factura"
+          ]
+        ]
+      }
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Transferencias y QR de tu banco"
+    },
+    {
+      "p": "Muchas apps bancarias generan un QR con los datos para recibir una transferencia. El cliente lo escanea y no tiene que copiar tu CLABE."
+    },
+    {
+      "p": "Esto es útil para montos grandes o pagos de servicios. El dinero llega por transferencia y queda registrado en tu estado de cuenta."
+    },
+    {
+      "p": "Revisa en tu app si tu banco lo ofrece. El nombre cambia de banco a banco."
+    },
+    {
+      "h2": "Cobrar con QR y con liga de pago"
+    },
+    {
+      "p": "Una liga de pago es una dirección web donde el cliente paga con tarjeta. Si la conviertes en QR, el cliente la abre al escanear."
+    },
+    {
+      "p": "La herramienta de arriba hace eso. Pegas tu liga de pago y te da un QR para imprimir o mandar."
+    },
+    {
+      "p": "La herramienta no cobra ni maneja dinero. Sólo convierte la liga en QR, el cobro lo hace tu proveedor."
+    },
+    {
+      "p": "Lee cómo funcionan en la guía de [link de pago](id:link-de-pago)."
+    },
+    {
+      "h2": "Ejemplo de un puesto de jugos en Oaxaca"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Un puesto de jugos en el mercado quiere aceptar pagos sin terminal."
+    },
+    {
+      "tabla": {
+        "titulo": "Cómo lo resolvió",
+        "columnas": [
+          "Situación",
+          "Solución"
+        ],
+        "filas": [
+          [
+            "Muchos clientes por la mañana",
+            "QR fijo impreso grande en el mostrador"
+          ],
+          [
+            "Clientes que pagan con tarjeta",
+            "QR de una app de pagos"
+          ],
+          [
+            "Pedidos grandes de oficinas",
+            "Transferencia con QR de su banco"
+          ],
+          [
+            "Confirmar que sí pagaron",
+            "El cliente enseña la pantalla y él revisa su app"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Al principio sólo usaba efectivo. Ahora acepta tres formas sin comprar terminal."
+    },
+    {
+      "p": "El reto fue confirmar los pagos rápido. Activó las notificaciones de su app para ver cada abono al momento."
+    },
+    {
+      "h2": "Cómo evitar fraudes con QR"
+    },
+    {
+      "p": "El QR fijo tiene un riesgo. Alguien puede pegar su propio QR encima del tuyo."
+    },
+    {
+      "ul": [
+        "Revisa tu QR del mostrador cada mañana.",
+        "Enmícalo o ponlo detrás de un acrílico.",
+        "Pide al cliente que te enseñe la confirmación del pago.",
+        "Revisa en tu app que el abono llegó antes de entregar.",
+        "No aceptes capturas de pantalla como única prueba."
+      ]
+    },
+    {
+      "p": "Las capturas se pueden editar. La confirmación real está en tu app o tu banco."
+    },
+    {
+      "p": "Si te llega un pago dudoso, no entregues hasta verlo en tu cuenta. Explícalo con calma, un cliente honesto lo entiende."
+    },
+    {
+      "h2": "QR, terminal o efectivo"
+    },
+    {
+      "p": "Cada forma de cobro tiene su lugar. Muchos negocios combinan varias."
+    },
+    {
+      "tabla": {
+        "titulo": "Comparación general",
+        "columnas": [
+          "Forma",
+          "Ventaja",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Efectivo",
+            "Inmediato y sin comisión",
+            "Riesgo de robo y cambio"
+          ],
+          [
+            "QR",
+            "Sin comprar equipo",
+            "El cliente necesita la app correcta"
+          ],
+          [
+            "Terminal",
+            "Aceptas cualquier tarjeta",
+            "Compra del equipo y comisión por cobro"
+          ],
+          [
+            "Liga de pago",
+            "Cobras a distancia",
+            "Comisión por cobro"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si vendes mucho con tarjeta de crédito, una terminal puede convenir. Lee la guía de [terminal para cobrar con tarjeta](id:terminal-para-cobrar-con-tarjeta)."
+    },
+    {
+      "h2": "Cómo poner el QR en tu mostrador"
+    },
+    {
+      "p": "Un QR mal impreso hace filas y enojos. Cuida el tamaño, la luz y el lugar."
+    },
+    {
+      "ul": [
+        "Imprímelo de al menos diez centímetros por lado.",
+        "Ponlo a la altura del pecho, no en el piso ni en el techo.",
+        "Deja espacio blanco alrededor del código.",
+        "Escribe debajo qué app o banco acepta.",
+        "Agrega el nombre de tu negocio para que el cliente confirme a quién paga."
+      ]
+    },
+    {
+      "p": "El nombre es importante. Cuando el cliente escanea, su app le muestra a quién va el dinero y debe coincidir."
+    },
+    {
+      "p": "Prueba el QR con dos o tres celulares distintos antes de pegarlo. Uno viejo y uno nuevo bastan para saber si se lee bien."
+    },
+    {
+      "h2": "Cómo explicarle al cliente que puede pagar con QR"
+    },
+    {
+      "p": "Muchos clientes no saben que pueden pagar así. Un letrero pequeño hace la diferencia."
+    },
+    {
+      "p": "Un texto como «Paga con tu celular aquí» junto al código ayuda. Si aceptas CoDi, ponlo con letras claras."
+    },
+    {
+      "p": "Cuando alguien pregunte, enséñale una vez cómo se hace. La próxima vez lo hará solo y más rápido."
+    },
+    {
+      "p": "Si tienes página web, pon tus formas de pago ahí. El cliente llega sabiendo cómo puede pagarte."
+    },
+    {
+      "h2": "Comprobantes y control"
+    },
+    {
+      "p": "Cada pago con QR deja registro en tu app o tu banco. Aprovéchalo para llevar tus cuentas."
+    },
+    {
+      "p": "Al cierre del día, suma los cobros por QR y compáralos con tus ventas. Si no cuadra, revisa cada abono."
+    },
+    {
+      "p": "Si el cliente pide comprobante, usa una [nota de venta](id:nota-de-venta). Si pide factura, emítela con tu sistema de facturación."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cobrar con CoDi tiene comisión?",
+      "respuesta": "No, según Banxico. Su página dice que las operaciones por CoDi no generan comisiones adicionales."
+    },
+    {
+      "pregunta": "¿Cuánto cobra una app de pagos por QR?",
+      "respuesta": "Depende del medio de pago del cliente. Revisa la tabla de costos de la app antes de empezar."
+    },
+    {
+      "pregunta": "¿Necesito terminal para cobrar con QR?",
+      "respuesta": "No. Basta un QR impreso o tu celular con la app."
+    },
+    {
+      "pregunta": "¿El cliente necesita una app especial para pagarme?",
+      "respuesta": "Sí. Necesita la app que lea ese QR, como su banco con CoDi o la app de pagos."
+    },
+    {
+      "pregunta": "¿Esta herramienta cobra por mí?",
+      "respuesta": "No. Convierte tu liga de pago o tu página en QR, y el cobro lo hace tu banco o tu app."
+    },
+    {
+      "pregunta": "¿Cómo sé que el pago sí llegó?",
+      "respuesta": "Revisa tu app o tu banco. No te quedes sólo con la captura del cliente."
+    }
+  ],
+  "relacionadas": [
+    "link-de-pago",
+    "terminal-para-cobrar-con-tarjeta",
+    "generador-de-qr",
+    "nota-de-venta",
+    "nota-de-remision",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu QR de cobro puede convivir con un QR a tu página de precios. Aliviane te hace esa página con tu dominio.",
+    "aviso": "Tu QR quedó listo. Si quieres que lleve a una página con tus precios y pagos, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página con tus precios y formas de pago?",
+    "tituloCorto": "Que tus clientes vean precios antes de pagar",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Banco de México, CoDi Cobro Digital (leída el 12-nov-2026)",
+      "url": "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco-me.html"
+    },
+    {
+      "texto": "Banco de México, guía de participación en CoDi para comercios y terceros desarrolladores",
+      "url": "https://www.banxico.org.mx/sistemas-de-pago/d/%7BA21AA19F-C855-9E64-98A4-832D9A51B2B0%7D.pdf"
+    },
+    {
+      "texto": "Mercado Pago México, ¿cómo cobro con QR desde la app? (consultada el 12-nov-2026)",
+      "url": "https://www.mercadopago.com.mx/ayuda/como-hago-un-cobro-con-codigo-qr_4174"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.bbva.mx/educacion-financiera/banca-digital/productos-digitales/como-pagar-tus-productos-o-servicios-con-un-codigo-qr.html",
+      "titulo": "Cómo pagar tus productos o servicios con un código QR",
+      "promete": "Explica pagar desde su app como cliente; no explica cómo cobrar en un negocio ni compara opciones"
+    },
+    {
+      "posicion": 2,
+      "url": "https://expansion.mx/economia/2023/01/02/los-pagos-con-qr-se-rezagan-en-mexico",
+      "titulo": "Los pagos con QR se rezagan en México",
+      "promete": "Nota de 2023 sobre adopción; no sirve para empezar a cobrar"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.bbva.mx/personas/landings/cobra-y-paga-con-codi.html",
+      "titulo": "Cobra y paga con CoDi",
+      "promete": "Página de producto de un banco; no compara con apps de pagos ni da pasos para el mostrador"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. CoDi sin comisiones adicionales y 24x7 leído en banxico.org.mx el 12-nov-2026. SIN CIFRA de comisión de apps de pagos (la página de costos de Mercado Pago dio 403; su ayuda dice que depende del medio de pago). Sin cifra de terminales. Monta qr/link: QR que lleva a un link de pago o a tu página (no genera cobros)."
+}

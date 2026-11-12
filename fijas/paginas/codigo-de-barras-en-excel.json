@@ -1,0 +1,499 @@
+{
+  "id": "codigo-de-barras-en-excel",
+  "slug": "codigo-de-barras-en-excel",
+  "molde": "guia",
+  "cabeza": "códigos de barras en excel",
+  "busquedas": [
+    "codigo de barras en excel"
+  ],
+  "title": "Códigos de barras en Excel: 3 métodos y hoja de etiquetas",
+  "h1": "Cómo hacer códigos de barras en Excel",
+  "description": "Excel no trae códigos de barras de fábrica. Te enseñamos el método con fuente, cuándo falla y cómo pasar tu lista de Excel a una hoja de etiquetas en PDF.",
+  "resumen": "Tres métodos para hacer códigos de barras desde Excel y cómo imprimir etiquetas",
+  "categoria": "Formatos y documentos",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Excel no trae una función para dibujar códigos de barras. Lo más común es usar una fuente de código de barras, un complemento o pasar tu lista a un generador.",
+    "Para Code 39 basta una fuente y poner asteriscos al inicio y al final. Para EAN-13 o Code 128 conviene un generador, como el de abajo, que calcula el código completo y arma la hoja en PDF."
+  ],
+  "herramienta": {
+    "id": "codigo-barras",
+    "modo": "hoja"
+  },
+  "cuerpo": [
+    {
+      "h2": "Por qué Excel no hace códigos de barras solo"
+    },
+    {
+      "p": "Excel guarda números y textos en celdas. Un código de barras es un dibujo que sigue reglas de cada tipo."
+    },
+    {
+      "p": "Excel no trae una función que dibuje esas barras. Por eso hay que usar un truco o una herramienta aparte."
+    },
+    {
+      "p": "Hay tres caminos. Cada uno sirve para algo distinto."
+    },
+    {
+      "tabla": {
+        "titulo": "Tres métodos para hacer códigos de barras con Excel",
+        "columnas": [
+          "Método",
+          "Cómo funciona",
+          "Sirve bien para",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Fuente de código de barras",
+            "Cambias la letra de la celda por una fuente de barras",
+            "Code 39 en inventario interno",
+            "No sirve sola para EAN-13 ni Code 128"
+          ],
+          [
+            "Complemento o macro",
+            "Un programa dentro de Excel dibuja el código",
+            "Quien hace miles de códigos seguido",
+            "Algunos son de pago o piden permisos"
+          ],
+          [
+            "Generador externo",
+            "Copias tu lista de Excel y la pegas en un generador",
+            "Etiquetas listas para imprimir",
+            "Pasas los datos de un lado a otro"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para la mayoría de negocios pequeños, el tercero es el más seguro. La herramienta de arriba hace eso sin instalar nada."
+    },
+    {
+      "h2": "Método 1, la fuente de Code 39"
+    },
+    {
+      "p": "Code 39 es un tipo de código que acepta mayúsculas, números y algunos signos. Es el más fácil de hacer con una fuente."
+    },
+    {
+      "p": "La fuente Libre Barcode 39 es gratuita y de licencia abierta. La bajas de Google Fonts y la instalas en tu computadora."
+    },
+    {
+      "h3": "Pasos"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Instala la fuente",
+          "texto": "Descarga Libre Barcode 39, abre el archivo y toca instalar."
+        },
+        {
+          "titulo": "Escribe tus códigos",
+          "texto": "En la columna A pon tus códigos en mayúsculas, por ejemplo ALM-0012."
+        },
+        {
+          "titulo": "Agrega los asteriscos",
+          "texto": "En la columna B escribe la fórmula =\"*\"&A2&\"*\" y arrástrala hacia abajo."
+        },
+        {
+          "titulo": "Cambia la letra",
+          "texto": "Selecciona la columna B y elige la fuente Libre Barcode 39."
+        },
+        {
+          "titulo": "Agranda el tamaño",
+          "texto": "Sube la letra a 36 o más para que el lector la lea."
+        },
+        {
+          "titulo": "Prueba antes de imprimir",
+          "texto": "Imprime una hoja y pásala por tu lector."
+        }
+      ]
+    },
+    {
+      "p": "Los asteriscos son obligatorios en Code 39. Marcan dónde empieza y dónde termina el código."
+    },
+    {
+      "p": "Si olvidas los asteriscos, el lector no leerá nada. Es la falla más común con este método."
+    },
+    {
+      "h3": "Por qué la fuente no sirve para todos los tipos"
+    },
+    {
+      "p": "EAN-13 y Code 128 no son sólo letras con otra forma. Llevan cálculos y caracteres especiales que una fuente no hace sola."
+    },
+    {
+      "p": "EAN-13 lleva un dígito verificador y una estructura por mitades. Code 128 lleva un carácter de control calculado."
+    },
+    {
+      "p": "Con una fuente sin esos cálculos, el código se ve bien pero el lector lo rechaza. Por eso para esos tipos conviene un generador."
+    },
+    {
+      "h2": "Método 2, complementos y macros"
+    },
+    {
+      "p": "Hay complementos que agregan una función de código de barras a Excel. Algunos son gratuitos y otros de pago."
+    },
+    {
+      "p": "También se puede escribir una macro que calcule el código. Requiere saber programar en el editor de Excel."
+    },
+    {
+      "p": "Antes de instalar un complemento, revisa quién lo hace y qué permisos pide. Tu archivo puede tener precios y datos de clientes."
+    },
+    {
+      "h2": "Método 3, de Excel al generador en un minuto"
+    },
+    {
+      "p": "Este método usa tu lista de Excel y la herramienta de arriba. No instalas nada y el resultado sale en PDF."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Selecciona la columna",
+          "texto": "En Excel marca la columna con tus códigos, sin el título."
+        },
+        {
+          "titulo": "Copia",
+          "texto": "Usa copiar como siempre."
+        },
+        {
+          "titulo": "Elige el tipo arriba",
+          "texto": "En la herramienta selecciona EAN-13, Code 128 u otro tipo."
+        },
+        {
+          "titulo": "Pega en la lista",
+          "texto": "Pega en el cuadro de códigos de la hoja, uno por renglón."
+        },
+        {
+          "titulo": "Elige la medida de etiqueta",
+          "texto": "Selecciona la que coincide con tus hojas de etiquetas."
+        },
+        {
+          "titulo": "Baja el PDF",
+          "texto": "Descarga la hoja tamaño carta y mándala a imprimir."
+        }
+      ]
+    },
+    {
+      "p": "La herramienta revisa cada renglón. Si un código no sirve para el tipo elegido, te dice en qué renglón está."
+    },
+    {
+      "p": "En EAN-13 puedes pegar 12 dígitos y la herramienta calcula el verificador. Si pegas los 13, revisa que el último sea correcto."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Qué tipo de código elegir"
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de código y su uso",
+        "columnas": [
+          "Tipo",
+          "Qué acepta",
+          "Para qué se usa"
+        ],
+        "filas": [
+          [
+            "EAN-13",
+            "13 números",
+            "Productos que se venden en tiendas"
+          ],
+          [
+            "UPC-A",
+            "12 números",
+            "Productos para Estados Unidos"
+          ],
+          [
+            "EAN-8",
+            "8 números",
+            "Productos muy pequeños"
+          ],
+          [
+            "Code 128",
+            "Letras, números y signos",
+            "Inventario, folios y envíos"
+          ],
+          [
+            "Code 39",
+            "Mayúsculas, números y algunos signos",
+            "Inventario interno y gafetes"
+          ],
+          [
+            "ITF",
+            "Sólo números",
+            "Cajas de embarque"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si sólo controlas tu inventario, Code 128 es buena opción. Acepta letras y números y ocupa poco espacio."
+    },
+    {
+      "p": "Si vas a vender en cadenas comerciales, ellas te pedirán EAN-13 registrado. Ese número no lo inventas tú, se obtiene con el organismo que asigna los códigos."
+    },
+    {
+      "h2": "Cómo se calcula el dígito verificador de EAN-13"
+    },
+    {
+      "p": "El último número de un EAN-13 sirve para detectar errores de lectura. Se calcula con los primeros doce."
+    },
+    {
+      "tabla": {
+        "titulo": "Cálculo del verificador con el ejemplo 750123456789",
+        "columnas": [
+          "Paso",
+          "Qué haces",
+          "Resultado del ejemplo"
+        ],
+        "filas": [
+          [
+            "1",
+            "Suma los dígitos en posición impar",
+            "7 + 0 + 2 + 4 + 6 + 8 = 27"
+          ],
+          [
+            "2",
+            "Suma los dígitos en posición par",
+            "5 + 1 + 3 + 5 + 7 + 9 = 30"
+          ],
+          [
+            "3",
+            "Multiplica la suma par por tres",
+            "30 × 3 = 90"
+          ],
+          [
+            "4",
+            "Suma los dos resultados",
+            "27 + 90 = 117"
+          ],
+          [
+            "5",
+            "Busca cuánto falta para la siguiente decena",
+            "120 − 117 = 3"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El verificador del ejemplo es 3. El código completo queda 7501234567893."
+    },
+    {
+      "p": "Si la suma ya termina en cero, el verificador es cero. La herramienta hace este cálculo sola al pegar doce dígitos."
+    },
+    {
+      "h2": "Cómo preparar tu archivo de Excel"
+    },
+    {
+      "p": "Un archivo ordenado evita errores al imprimir. Usa una fila por producto y una columna por dato."
+    },
+    {
+      "tabla": {
+        "titulo": "Columnas recomendadas",
+        "columnas": [
+          "Columna",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Código",
+            "7501234567893"
+          ],
+          [
+            "Producto",
+            "Jabón de avena 100 g"
+          ],
+          [
+            "Precio",
+            "45"
+          ],
+          [
+            "Existencia",
+            "24"
+          ],
+          [
+            "Ubicación",
+            "Anaquel 3"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Guarda los códigos como texto, no como número. Si no, Excel puede quitar ceros al inicio o mostrarlos en notación científica."
+    },
+    {
+      "p": "Para guardarlos como texto, selecciona la columna y cambia el formato de celda a texto antes de escribir."
+    },
+    {
+      "h2": "Medidas de etiquetas para imprimir"
+    },
+    {
+      "p": "La herramienta trae medidas comunes de hojas de etiquetas tamaño carta. Mide tus etiquetas con una regla antes de elegir."
+    },
+    {
+      "tabla": {
+        "titulo": "Medidas que trae la herramienta",
+        "columnas": [
+          "Etiquetas por hoja",
+          "Medida aproximada"
+        ],
+        "filas": [
+          [
+            "10",
+            "10.2 × 5.1 cm"
+          ],
+          [
+            "21",
+            "6.4 × 3.8 cm"
+          ],
+          [
+            "30",
+            "6.7 × 2.5 cm"
+          ],
+          [
+            "80",
+            "4.4 × 1.3 cm"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Imprime al cien por ciento, sin ajustar a la página. Si la impresora reduce la hoja, las barras no caen en las etiquetas."
+    },
+    {
+      "h2": "Leer códigos de barras hacia Excel"
+    },
+    {
+      "p": "Un lector de código de barras común funciona como un teclado. Escribe el número en la celda donde está el cursor."
+    },
+    {
+      "p": "Por eso puedes usar Excel para contar inventario. Pones el cursor en la columna de códigos y vas escaneando."
+    },
+    {
+      "p": "Casi todos los lectores dan un salto de renglón después de cada código. Así el cursor baja solo a la siguiente celda."
+    },
+    {
+      "p": "Si quieres saber cuántas piezas tienes de cada código, usa la función CONTAR.SI. Cuenta cuántas veces aparece cada código en la columna."
+    },
+    {
+      "h2": "En Google Sheets"
+    },
+    {
+      "p": "En Google Sheets el método de la fuente también funciona. La familia Libre Barcode 39 se puede elegir desde el menú de fuentes."
+    },
+    {
+      "p": "Escribe la misma fórmula con asteriscos y cambia la letra de la columna. Las mismas limitaciones aplican para EAN-13 y Code 128."
+    },
+    {
+      "p": "Para imprimir etiquetas, copia la columna de Sheets y pégala en la herramienta de arriba. Funciona igual que con Excel."
+    },
+    {
+      "h2": "Ejemplo de una tienda de abarrotes en Puebla"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una tienda tiene 300 productos en Excel y quiere etiquetar su anaquel."
+    },
+    {
+      "p": "Primero separó los productos de marca, que ya traen código de fábrica. Esos no necesitan etiqueta nueva."
+    },
+    {
+      "p": "Para los productos a granel creó códigos internos en Code 128, como GRANEL-001. Los pegó en la herramienta y bajó tres hojas de 30 etiquetas."
+    },
+    {
+      "p": "Imprimió una hoja de prueba y la pasó por su lector. Cuando leyó bien, imprimió las demás."
+    },
+    {
+      "p": "Agregó una columna de código en su Excel de precios. Ahora cobra escaneando y busca precios con el código en lugar del nombre."
+    },
+    {
+      "p": "Cada vez que llega un producto nuevo a granel, le da el siguiente número de la serie. Así nunca repite un código."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Usar la fuente de Code 39 sin asteriscos.",
+        "Usar una fuente para EAN-13 sin calcular el verificador.",
+        "Dejar que Excel convierta los códigos en notación científica.",
+        "Imprimir la hoja con ajuste a página.",
+        "Imprimir cientos de etiquetas sin probar una primero.",
+        "Inventar números EAN-13 para vender en cadenas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Excel tiene una función para códigos de barras?",
+      "respuesta": "No. Necesitas una fuente, un complemento o un generador aparte."
+    },
+    {
+      "pregunta": "¿Puedo hacer códigos de barras en Excel sin instalar nada?",
+      "respuesta": "Sí, si usas un generador. Copias tu columna de Excel y la pegas en la herramienta de esta página."
+    },
+    {
+      "pregunta": "¿Por qué mi código hecho con fuente no lo lee el escáner?",
+      "respuesta": "Puede faltar el asterisco en Code 39. En EAN-13 o Code 128 la fuente sola no hace los cálculos."
+    },
+    {
+      "pregunta": "¿Qué fuente de código de barras es gratis?",
+      "respuesta": "Libre Barcode 39. Es de licencia abierta y se baja de Google Fonts."
+    },
+    {
+      "pregunta": "¿Puedo inventar un código EAN-13 para mi producto?",
+      "respuesta": "Sólo para uso interno. Para vender en cadenas necesitas un código asignado oficialmente."
+    },
+    {
+      "pregunta": "¿La hoja de etiquetas lleva marca de agua?",
+      "respuesta": "No. La hoja sale en PDF sin marca de agua y sin pedir correo."
+    }
+  ],
+  "relacionadas": [
+    "generador-de-codigo-de-barras",
+    "nota-de-remision",
+    "nota-de-venta",
+    "lista-de-precios",
+    "formato-de-cotizacion",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tus productos ya tienen código y precio. Una página con tu catálogo los enseña a quien te busca. Aliviane te la hace.",
+    "aviso": "Tu hoja de etiquetas está lista. Si quieres enseñar esos productos en tu propia página, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página con el catálogo de tu tienda?",
+    "tituloCorto": "Tus productos en tu propia página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google Fonts, familia Libre Barcode 39 (licencia abierta)",
+      "url": "https://fonts.google.com/specimen/Libre+Barcode+39"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://geekflare.com/es/generate-barcode-google-sheets-excel-tools/",
+      "titulo": "Generar códigos de barras en Google Sheets y Excel",
+      "promete": "Lista de complementos y herramientas; no explica por qué la fuente sola falla en EAN-13 y Code 128"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.datanumen.com/es/blogs/11-best-barcode-generator-tools-for-excel-free/",
+      "titulo": "Las 11 mejores herramientas generadoras de códigos de barras para Excel",
+      "promete": "Ranking de programas; no hay pasos para imprimir etiquetas en hoja carta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.nubox.com/empresas/como-hacer-codigos-de-barras-para-inventarios",
+      "titulo": "Cómo hacer códigos de barras para inventarios",
+      "promete": "Teoría de inventarios; no trae la fórmula de los asteriscos ni el cálculo del verificador"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Monta codigo-barras/hoja: pegar la columna de Excel en la lista (uno por renglón) y bajar PDF carta con medidas 5160/5167/5163. Sin fórmulas con punto y coma ni muchas comas (regla de escritura): el verificador se explica con tabla. Sin cifras de GS1."
+}

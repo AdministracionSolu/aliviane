@@ -1,0 +1,518 @@
+{
+  "id": "whatsapp-business-para-empresas",
+  "slug": "whatsapp-business-para-empresas",
+  "molde": "guia",
+  "cabeza": "whatsapp empresarial",
+  "busquedas": [],
+  "title": "WhatsApp empresarial: app Business o plataforma, cuál usar",
+  "h1": "WhatsApp empresarial: cómo elegir y configurar el de tu negocio",
+  "description": "WhatsApp para empresas tiene dos caminos, la app Business gratis y la plataforma oficial. Te ayudamos a elegir y a dejar tu perfil y catálogo listos hoy.",
+  "resumen": "Diferencias entre WhatsApp, la app Business y la plataforma, y cómo dejar tu cuenta lista",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El WhatsApp empresarial tiene dos caminos oficiales. Uno es la app WhatsApp Business, gratuita y pensada para negocios pequeños. El otro es la plataforma de WhatsApp para empresas, que se contrata con un proveedor.",
+    "Si atiendes tú o una persona, la app suele bastar. La plataforma conviene cuando varias personas contestan el mismo número o necesitas conectarlo a tus sistemas."
+  ],
+  "herramienta": {
+    "id": "whatsapp-link",
+    "modo": "qr"
+  },
+  "cuerpo": [
+    {
+      "h2": "Qué es el WhatsApp empresarial"
+    },
+    {
+      "p": "Cuando la gente dice WhatsApp empresarial, casi siempre habla de WhatsApp Business. Es la versión de WhatsApp hecha para negocios."
+    },
+    {
+      "p": "La ayuda oficial la describe como una app de descarga gratuita para negocios pequeños. Funciona en Android y en iPhone."
+    },
+    {
+      "p": "Se usa casi igual que WhatsApp normal. La diferencia está en las herramientas para atender clientes."
+    },
+    {
+      "h2": "Los tres WhatsApp que existen"
+    },
+    {
+      "tabla": {
+        "titulo": "WhatsApp normal, app Business y plataforma para empresas",
+        "columnas": [
+          "Punto",
+          "WhatsApp normal",
+          "App WhatsApp Business",
+          "Plataforma para empresas"
+        ],
+        "filas": [
+          [
+            "Para quién",
+            "Personas",
+            "Negocios pequeños",
+            "Negocios con equipo o mucho volumen"
+          ],
+          [
+            "Costo de la app",
+            "Gratis",
+            "Gratis",
+            "Se contrata con un proveedor"
+          ],
+          [
+            "Perfil de empresa",
+            "No",
+            "Sí, con dirección, horario y sitio web",
+            "Sí"
+          ],
+          [
+            "Mensajes automáticos",
+            "No",
+            "Bienvenida, ausencia y respuestas rápidas",
+            "Bots a la medida"
+          ],
+          [
+            "Catálogo",
+            "No",
+            "Sí",
+            "Sí, conectado a tus sistemas"
+          ],
+          [
+            "Varias personas en un número",
+            "Limitado",
+            "Limitado",
+            "Sí"
+          ],
+          [
+            "Dónde se usa",
+            "Celular, web y escritorio",
+            "Celular, web y escritorio",
+            "Panel del proveedor o tus sistemas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para la mayoría de negocios en México, la app Business es el punto de partida. Es gratis y se configura en una tarde."
+    },
+    {
+      "h2": "¿Mismo número para lo personal y el negocio?"
+    },
+    {
+      "p": "La ayuda oficial dice que no puedes usar el mismo número en las dos apps a la vez. Sí puedes pasar un número de una app a la otra."
+    },
+    {
+      "p": "Muchos dueños usan su número personal para el negocio al principio. Funciona, pero mezcla tu vida con tus clientes."
+    },
+    {
+      "tabla": {
+        "titulo": "Ventajas de un número sólo para el negocio",
+        "columnas": [
+          "Punto",
+          "Número personal",
+          "Número del negocio"
+        ],
+        "filas": [
+          [
+            "Horario",
+            "Te escriben a cualquier hora",
+            "Puedes poner ausencia sin afectar a tu familia"
+          ],
+          [
+            "Si alguien más atiende",
+            "Tendría tu celular personal",
+            "Le das el número del negocio"
+          ],
+          [
+            "Si vendes el negocio",
+            "El número se va contigo",
+            "El número se queda con el negocio"
+          ],
+          [
+            "Imagen",
+            "Tu foto y estado personal",
+            "Logo, horario y catálogo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si puedes, saca un chip solo para el negocio. Es una inversión pequeña que ordena mucho."
+    },
+    {
+      "h2": "Cómo configurar la app paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Instala la app",
+          "texto": "Baja WhatsApp Business de la tienda de tu celular y registra el número del negocio."
+        },
+        {
+          "titulo": "Pon nombre y logo",
+          "texto": "Usa el nombre real de tu negocio y un logo que se vea bien en círculo."
+        },
+        {
+          "titulo": "Elige la categoría",
+          "texto": "Selecciona la que mejor describa lo que vendes."
+        },
+        {
+          "titulo": "Llena el perfil",
+          "texto": "Escribe dirección, horario, correo y sitio web."
+        },
+        {
+          "titulo": "Escribe la descripción",
+          "texto": "Dos frases sobre qué haces y en qué zona atiendes."
+        },
+        {
+          "titulo": "Activa bienvenida y ausencia",
+          "texto": "Configúralas en Herramientas con textos cortos."
+        },
+        {
+          "titulo": "Crea tus respuestas rápidas",
+          "texto": "Guarda precios, ubicación y formas de pago."
+        },
+        {
+          "titulo": "Sube tu catálogo",
+          "texto": "Agrega tus productos o servicios con foto."
+        },
+        {
+          "titulo": "Ordena tus chats",
+          "texto": "Usa listas o etiquetas para separar clientes, pedidos y pendientes."
+        }
+      ]
+    },
+    {
+      "p": "El paso más olvidado es el sitio web del perfil. Es el lugar natural para tu página con precios y fotos."
+    },
+    {
+      "h2": "El perfil de empresa"
+    },
+    {
+      "p": "El perfil es lo que ve un cliente al tocar tu nombre. La ayuda oficial menciona dirección, correo y sitio web."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué poner en cada campo del perfil",
+        "columnas": [
+          "Campo",
+          "Ejemplo para una tlapalería en Saltillo"
+        ],
+        "filas": [
+          [
+            "Nombre",
+            "Tlapalería Don Beto"
+          ],
+          [
+            "Categoría",
+            "Ferretería"
+          ],
+          [
+            "Descripción",
+            "Material eléctrico, plomería y pintura. Entregamos en el centro de Saltillo."
+          ],
+          [
+            "Dirección",
+            "Calle, número y colonia completos"
+          ],
+          [
+            "Horario",
+            "Lunes a sábado de 8 a 7"
+          ],
+          [
+            "Correo",
+            "El correo del negocio"
+          ],
+          [
+            "Sitio web",
+            "Tu página con dominio propio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Este ejemplo es inventado. Cambia cada dato por los tuyos y revisa que coincidan con tu ficha de Google."
+    },
+    {
+      "h2": "El catálogo"
+    },
+    {
+      "p": "El catálogo enseña lo que vendes dentro del chat. El cliente lo ve sin salir de WhatsApp."
+    },
+    {
+      "p": "La ayuda oficial pide tres cosas por producto. Un título único, al menos una imagen y el país de origen."
+    },
+    {
+      "p": "Puedes agregar precio, descripción, liga y código de producto. La ayuda aclara que el precio sólo está disponible en algunos países."
+    },
+    {
+      "p": "Sube primero tus diez productos o servicios más pedidos. Un catálogo corto y al día vende más que uno enorme y viejo."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Herramientas para ordenar la atención"
+    },
+    {
+      "h3": "Listas y etiquetas"
+    },
+    {
+      "p": "La ayuda oficial menciona listas para organizar contactos y encontrar chats. Úsalas para separar etapas de venta."
+    },
+    {
+      "tabla": {
+        "titulo": "Listas de ejemplo para un negocio",
+        "columnas": [
+          "Lista",
+          "Para qué"
+        ],
+        "filas": [
+          [
+            "Cliente nuevo",
+            "Personas que escribieron por primera vez"
+          ],
+          [
+            "Cotización enviada",
+            "Esperan tu precio o ya lo tienen"
+          ],
+          [
+            "Pedido pagado",
+            "Falta entregar"
+          ],
+          [
+            "Entregado",
+            "Puedes pedir reseña"
+          ],
+          [
+            "Cliente frecuente",
+            "Para avisos y promociones"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa la lista de cotización enviada cada tarde. Ahí están las ventas que se enfrían si no das seguimiento."
+    },
+    {
+      "h3": "Listas de difusión"
+    },
+    {
+      "p": "Las listas de difusión mandan un mensaje a varios contactos a la vez. Cada uno lo recibe como chat privado."
+    },
+    {
+      "p": "La ayuda dice que caben hasta 256 contactos por lista. Sólo lo reciben quienes tienen tu número guardado."
+    },
+    {
+      "h3": "Mensajes automáticos"
+    },
+    {
+      "p": "La bienvenida, la ausencia y las respuestas rápidas te ahorran horas. Lee cómo configurarlas en [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "h2": "Cuándo pasar a la plataforma para empresas"
+    },
+    {
+      "p": "La plataforma se contrata a través de un proveedor autorizado por Meta. No es una app que bajas de la tienda."
+    },
+    {
+      "ul": [
+        "Varias personas deben contestar el mismo número al mismo tiempo.",
+        "Quieres un bot que consulte pedidos o citas en tu sistema.",
+        "Mandas avisos automáticos de pedido, envío o cita.",
+        "Recibes cientos de mensajes al día."
+      ]
+    },
+    {
+      "p": "Si no te ves en ninguno de esos puntos, quédate con la app. Lee más en la guía de [bot para WhatsApp](id:bot-para-whatsapp)."
+    },
+    {
+      "h2": "Usa un QR para que te escriban"
+    },
+    {
+      "p": "La herramienta de arriba crea un QR que abre tu WhatsApp con un mensaje listo. Imprímelo en tu mostrador, tus bolsas o tus tarjetas."
+    },
+    {
+      "p": "El cliente lo escanea y ya está en tu chat. No tiene que guardar tu número ni escribirlo a mano."
+    },
+    {
+      "p": "Si prefieres un QR con más opciones, usa el de [código QR para WhatsApp](id:codigo-qr-para-whatsapp)."
+    },
+    {
+      "h2": "Ejemplo de una tlapalería que se ordenó"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Don Beto atendía pedidos desde su WhatsApp personal y se le perdían."
+    },
+    {
+      "p": "Sacó un chip para el negocio y bajó WhatsApp Business. Llenó su perfil y subió sus veinte productos más pedidos."
+    },
+    {
+      "p": "Puso un QR en el mostrador y otro en sus bolsas. Creó listas de cotización enviada y pedido pagado."
+    },
+    {
+      "p": "Ahora cada tarde revisa las cotizaciones sin respuesta. Antes ni se acordaba de quién le había pedido precio."
+    },
+    {
+      "h2": "Cómo respaldar y cuidar la cuenta del negocio"
+    },
+    {
+      "p": "Tu WhatsApp guarda pedidos, datos de clientes y acuerdos. Perderlo es perder parte de tu negocio."
+    },
+    {
+      "p": "Activa la copia de seguridad de tus chats en la configuración de la app. Elige una frecuencia diaria o semanal."
+    },
+    {
+      "p": "Activa también la verificación en dos pasos. Así nadie puede registrar tu número en otro celular sin tu PIN."
+    },
+    {
+      "p": "Si alguien más atiende el WhatsApp, no le des tu PIN. Usa los dispositivos vinculados para que conteste desde su computadora."
+    },
+    {
+      "p": "Cuando esa persona deje de trabajar contigo, cierra su sesión desde tu celular. La opción está en dispositivos vinculados."
+    },
+    {
+      "h2": "WhatsApp, página web y ficha de Google juntos"
+    },
+    {
+      "p": "Tu WhatsApp no trabaja solo. La gente suele encontrarte primero en Google o en redes."
+    },
+    {
+      "p": "Lo ideal es que las tres cosas se liguen entre sí. Tu ficha de Google manda a tu página, tu página tiene botón de WhatsApp y tu perfil de WhatsApp tiene tu página."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué hace cada pieza",
+        "columnas": [
+          "Pieza",
+          "Qué resuelve"
+        ],
+        "filas": [
+          [
+            "Ficha de Google",
+            "Que te encuentren en el mapa"
+          ],
+          [
+            "Página web",
+            "Precios, fotos y confianza antes de escribir"
+          ],
+          [
+            "WhatsApp Business",
+            "La plática y el cierre de la venta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si te falta una pieza, el cliente se pierde en el camino. Revisa que todas digan el mismo horario y teléfono."
+    },
+    {
+      "h2": "Reglas de buena atención por WhatsApp"
+    },
+    {
+      "ul": [
+        "Contesta en el horario que prometes en tu perfil.",
+        "Manda precios claros, sin pedir que pregunten dos veces.",
+        "No mandes audios largos a clientes nuevos.",
+        "Confirma por escrito cada pedido con total y fecha.",
+        "Pide permiso antes de mandar promociones.",
+        "Guarda a tus clientes con nombre y lo que compraron."
+      ]
+    },
+    {
+      "p": "Un cliente bien atendido por WhatsApp regresa y te recomienda. Esa es la mejor publicidad de un negocio pequeño."
+    },
+    {
+      "h2": "Errores comunes al usar WhatsApp en el negocio"
+    },
+    {
+      "ul": [
+        "Dejar el perfil sin horario ni dirección.",
+        "Usar una foto personal en lugar del logo.",
+        "Tener precios viejos en el catálogo.",
+        "Mezclar pláticas familiares con pedidos en el mismo número.",
+        "No respaldar los chats del negocio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿WhatsApp Business es gratis?",
+      "respuesta": "Sí. La app es de descarga gratuita según la ayuda oficial de WhatsApp."
+    },
+    {
+      "pregunta": "¿Puedo tener WhatsApp normal y Business en el mismo celular?",
+      "respuesta": "Sí, con números distintos. No puedes usar el mismo número en las dos apps a la vez."
+    },
+    {
+      "pregunta": "¿Puedo pasar mi número de WhatsApp normal a Business?",
+      "respuesta": "Sí. La ayuda oficial dice que puedes mover un número de una app a la otra."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre la app Business y la API?",
+      "respuesta": "La app es gratis y para negocios pequeños. La plataforma, conocida como API, se contrata con un proveedor para equipos y sistemas."
+    },
+    {
+      "pregunta": "¿Puedo poner precios en mi catálogo?",
+      "respuesta": "Depende del país. La ayuda dice que el precio sólo está disponible en algunos países."
+    },
+    {
+      "pregunta": "¿Qué pongo en el campo de sitio web del perfil?",
+      "respuesta": "Tu página propia. Ahí el cliente ve precios, fotos y ubicación sin llenar el chat."
+    }
+  ],
+  "relacionadas": [
+    "mensajes-automaticos-whatsapp",
+    "bot-para-whatsapp",
+    "mensajes-programados-whatsapp",
+    "link-de-whatsapp",
+    "codigo-qr-para-whatsapp",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu perfil de WhatsApp Business tiene un espacio para tu sitio web. Aliviane te hace esa página con tu dominio.",
+    "aviso": "Tu QR quedó listo. Si quieres que tu perfil también lleve a tu página, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página que va en tu perfil de WhatsApp?",
+    "tituloCorto": "Llena el espacio de sitio web de tu perfil",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de WhatsApp, ¿qué es WhatsApp Business? (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/988069844889223/?locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, información sobre el catálogo (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/493359721245754/?locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar las listas de difusión (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/861663048350950/?cms_platform=android&locale=es_LA"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://clevertap.com/es/blog/whatsapp-empresarial/",
+      "titulo": "WhatsApp empresarial",
+      "promete": "Orientado a la plataforma para empresas grandes; poco para quien empieza con la app"
+    },
+    {
+      "posicion": 2,
+      "url": "https://respond.io/es/blog/whatsapp-business-app",
+      "titulo": "WhatsApp Business app",
+      "promete": "Describe la app para llevar a su producto; no trae lista de configuración ni ejemplo por giro"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.whatsapp.com/building-for-people-and-now-businesses",
+      "titulo": "Building for people and now businesses",
+      "promete": "Anuncio oficial antiguo en inglés; no explica cómo elegir entre app y plataforma"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Datos de faq.whatsapp.com leídos el 12-nov-2026: app gratis, no el mismo número en ambas apps a la vez, catálogo con título único, imagen y país de origen, precio sólo en algunos países. Sin precios de plataforma ni de Meta Verified. Monta whatsapp-link/qr. Ángulo propio: elegir y configurar la cuenta del negocio."
+}

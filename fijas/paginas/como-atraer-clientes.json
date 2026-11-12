@@ -1,0 +1,537 @@
+{
+  "id": "como-atraer-clientes",
+  "slug": "como-atraer-clientes",
+  "molde": "guia",
+  "cabeza": "como atraer clientes a mi negocio",
+  "busquedas": [],
+  "title": "Cómo atraer clientes a mi negocio: 20 acciones por etapa",
+  "h1": "Cómo atraer clientes a tu negocio paso a paso",
+  "description": "Para atraer clientes primero ubica dónde los pierdes, al encontrarte, al elegirte o al volver. Te damos 20 acciones por etapa, gratis y pagadas. Elige tres hoy.",
+  "resumen": "Dónde pierdes clientes y 20 acciones para atraer más, ordenadas por etapa",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para atraer clientes primero averigua en qué paso los pierdes. Puede ser que no te encuentren, que no te elijan, que no te escriban o que no regresen.",
+    "Cada paso tiene sus acciones. Abajo tienes 20 ordenadas por etapa, cuáles son gratis y un ejemplo de una papelería que las aplicó."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Primero averigua dónde se te van"
+    },
+    {
+      "p": "Atraer clientes no es una sola cosa. Es una cadena de pasos y en cualquiera se puede romper."
+    },
+    {
+      "p": "Si nadie te encuentra, no importa lo bueno que seas. Si te encuentran pero no te eligen, el problema es otro."
+    },
+    {
+      "tabla": {
+        "titulo": "Las cinco etapas del cliente",
+        "columnas": [
+          "Etapa",
+          "Qué pasa",
+          "Señal de que aquí pierdes clientes"
+        ],
+        "filas": [
+          [
+            "Te encuentran",
+            "La persona sabe que existes",
+            "Casi nadie pregunta ni entra"
+          ],
+          [
+            "Te eligen",
+            "Te compara y decide escribirte",
+            "Te ven pero se van con otro"
+          ],
+          [
+            "Te escriben",
+            "Hace contacto contigo",
+            "Preguntan y luego desaparecen"
+          ],
+          [
+            "Compran",
+            "Paga y recibe",
+            "Cotizas mucho y vendes poco"
+          ],
+          [
+            "Regresan",
+            "Vuelve o te recomienda",
+            "Cada mes empiezas de cero"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa en cuál etapa estás más flojo. Empieza por ahí antes de gastar en anuncios."
+    },
+    {
+      "h2": "Define a quién quieres atraer"
+    },
+    {
+      "p": "Antes de atraer clientes, decide qué clientes quieres. Querer a todo el mundo hace que tu mensaje no le hable a nadie."
+    },
+    {
+      "p": "Piensa en tus mejores clientes de hoy. Los que pagan bien, regresan y te recomiendan."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas para describir a tu cliente ideal",
+        "columnas": [
+          "Pregunta",
+          "Ejemplo para una papelería"
+        ],
+        "filas": [
+          [
+            "¿Quién es?",
+            "Mamás y papás con hijos en primaria"
+          ],
+          [
+            "¿Dónde vive o trabaja?",
+            "A diez minutos caminando de la tienda"
+          ],
+          [
+            "¿Qué necesita?",
+            "Listas escolares, impresiones y trabajos de última hora"
+          ],
+          [
+            "¿Cuándo compra más?",
+            "Agosto, fin de bimestre y entregas de proyectos"
+          ],
+          [
+            "¿Qué le preocupa?",
+            "Que no haya el material y llegar tarde"
+          ],
+          [
+            "¿Dónde busca?",
+            "Grupos de la escuela, WhatsApp y Google Maps"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con estas respuestas sabes dónde anunciarte y qué decir. Todo lo demás se acomoda alrededor de esa persona."
+    },
+    {
+      "h2": "Etapa 1, que te encuentren"
+    },
+    {
+      "h3": "1. Ten tu ficha de Google completa"
+    },
+    {
+      "p": "Mucha gente busca negocios en el mapa del celular. Tu ficha gratuita de Google es lo que aparece ahí."
+    },
+    {
+      "p": "Llena categoría, horario, fotos y teléfono. Lee los pasos en la guía de [SEO local](id:seo-local)."
+    },
+    {
+      "h3": "2. Ten una página propia"
+    },
+    {
+      "p": "Tu página aparece en Google cuando alguien busca lo que vendes en tu ciudad. Las redes rara vez salen en esas búsquedas."
+    },
+    {
+      "h3": "3. Pon un letrero que se lea desde la calle"
+    },
+    {
+      "p": "El letrero sigue trayendo clientes de a pie. Que diga qué vendes, no sólo tu nombre."
+    },
+    {
+      "p": "Agrega tu WhatsApp o un QR en el letrero. Quien pasa en auto puede tomarle foto y escribirte después."
+    },
+    {
+      "h3": "4. Publica en grupos de tu colonia"
+    },
+    {
+      "p": "Los grupos de vecinos en redes son muy activos. Publica con foto, precio y ubicación sin llenar el grupo."
+    },
+    {
+      "h3": "5. Haz alianzas con negocios vecinos"
+    },
+    {
+      "p": "Una papelería y una escuela se recomiendan entre sí. Busca negocios que atiendan a tu mismo cliente sin competir contigo."
+    },
+    {
+      "h2": "Etapa 2, que te elijan"
+    },
+    {
+      "h3": "6. Junta reseñas reales"
+    },
+    {
+      "p": "La gente compara reseñas antes de decidir. Pide una a cada cliente contento y contesta todas."
+    },
+    {
+      "p": "Lee cómo pedirlas en la guía de [reseñas de Google](id:resenas-de-google)."
+    },
+    {
+      "h3": "7. Enseña tus precios"
+    },
+    {
+      "p": "Muchos clientes se van con quien sí pone precio. Si tu precio varía, pon un precio desde."
+    },
+    {
+      "h3": "8. Usa fotos reales"
+    },
+    {
+      "p": "Las fotos de tu local, tu equipo y tus trabajos dan confianza. Las fotos de banco la quitan."
+    },
+    {
+      "h3": "9. Di qué te hace distinto"
+    },
+    {
+      "p": "Escribe en una frase por qué elegirte. Entrega el mismo día, garantía de tres meses o atención en sábado."
+    },
+    {
+      "h3": "10. Responde las dudas antes de que pregunten"
+    },
+    {
+      "p": "Pon en tu página y tu perfil las preguntas frecuentes. Horario, formas de pago, zona de entrega y garantía."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Etapa 3, que te escriban"
+    },
+    {
+      "h3": "11. Pon un botón de WhatsApp visible"
+    },
+    {
+      "p": "Mientras más fácil sea escribirte, más gente lo hace. El botón debe verse en el celular sin buscarlo."
+    },
+    {
+      "p": "Puedes crear la liga con mensaje listo en [link de WhatsApp](id:link-de-whatsapp)."
+    },
+    {
+      "h3": "12. Contesta rápido"
+    },
+    {
+      "p": "Quien pregunta suele preguntar a varios negocios a la vez. El primero que contesta bien muchas veces gana."
+    },
+    {
+      "h3": "13. Activa un mensaje de bienvenida"
+    },
+    {
+      "p": "Así nadie se queda sin respuesta aunque estés ocupado. Lee cómo en [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "h3": "14. Haz una pregunta en cada respuesta"
+    },
+    {
+      "p": "Una respuesta que termina en pregunta mantiene la plática viva. Por ejemplo, ¿para qué día lo necesitas?"
+    },
+    {
+      "h2": "Etapa 4, que compren"
+    },
+    {
+      "h3": "15. Ofrece varias formas de pago"
+    },
+    {
+      "p": "Efectivo, transferencia, tarjeta o QR. Cada forma que no aceptas es un cliente que puede irse."
+    },
+    {
+      "h3": "16. Da seguimiento a cotizaciones"
+    },
+    {
+      "p": "Muchas ventas se pierden por olvido, no por precio. Escribe dos días después de cotizar."
+    },
+    {
+      "h3": "17. Facilita la primera compra"
+    },
+    {
+      "p": "Un paquete de prueba o una primera visita con algo extra quita el miedo a probar. Cuida que no te cueste más de lo que ganas."
+    },
+    {
+      "h2": "Etapa 5, que regresen y te recomienden"
+    },
+    {
+      "h3": "18. Guarda a tus clientes con nombre"
+    },
+    {
+      "p": "Anota nombre, qué compró y cuándo. Así puedes recordarles cuando les toque volver."
+    },
+    {
+      "h3": "19. Manda recordatorios útiles"
+    },
+    {
+      "p": "Un taller recuerda la afinación y una estética el retoque de tinte. No es molestar si le sirve al cliente."
+    },
+    {
+      "h3": "20. Premia la recomendación"
+    },
+    {
+      "p": "Un descuento para quien recomienda y para el recomendado anima a correr la voz. Hazlo sencillo de entender."
+    },
+    {
+      "h2": "Promociones que atraen sin regalar tu negocio"
+    },
+    {
+      "p": "Una promoción bien pensada trae clientes nuevos. Una mal pensada sólo baja tu ganancia con los clientes de siempre."
+    },
+    {
+      "ul": [
+        "Ponle fecha de inicio y fin.",
+        "Hazla para un producto o servicio, no para toda la tienda.",
+        "Calcula cuánto ganas todavía con el descuento.",
+        "Dirígela a clientes nuevos o a días flojos.",
+        "Mide cuántos clientes nuevos llegaron por ella."
+      ]
+    },
+    {
+      "p": "Una promoción de martes para una estética llena un día flojo. Un descuento general en sábado sólo regala dinero en tu día más lleno."
+    },
+    {
+      "h2": "Aprovecha las temporadas de tu giro"
+    },
+    {
+      "p": "Cada giro tiene meses fuertes y meses flojos. Prepara tus acciones antes de que llegue la temporada."
+    },
+    {
+      "tabla": {
+        "titulo": "Temporadas de ejemplo",
+        "columnas": [
+          "Giro",
+          "Temporada fuerte",
+          "Prepárate desde"
+        ],
+        "filas": [
+          [
+            "Papelería",
+            "Regreso a clases",
+            "Junio"
+          ],
+          [
+            "Florería",
+            "14 de febrero y 10 de mayo",
+            "Un mes antes"
+          ],
+          [
+            "Juguetería",
+            "Diciembre y Día de Reyes",
+            "Octubre"
+          ],
+          [
+            "Taller mecánico",
+            "Antes de vacaciones",
+            "Dos semanas antes"
+          ],
+          [
+            "Gimnasio",
+            "Enero",
+            "Diciembre"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "En los meses flojos trabaja la etapa de regresar. Recordatorios y recomendaciones mantienen el movimiento."
+    },
+    {
+      "h2": "Acciones gratis y pagadas"
+    },
+    {
+      "tabla": {
+        "titulo": "Qué cuesta cada acción",
+        "columnas": [
+          "Acción",
+          "Costo de dinero",
+          "Costo de tiempo"
+        ],
+        "filas": [
+          [
+            "Ficha de Google",
+            "Gratis",
+            "Una tarde y una hora al mes"
+          ],
+          [
+            "Reseñas",
+            "Gratis",
+            "Pedirlas después de cada venta"
+          ],
+          [
+            "Grupos de colonia",
+            "Gratis",
+            "Media hora a la semana"
+          ],
+          [
+            "Mensajes automáticos",
+            "Gratis",
+            "Una hora para configurarlos"
+          ],
+          [
+            "Página propia",
+            "Pago único y mensual",
+            "Poco, si alguien la hace por ti"
+          ],
+          [
+            "Letrero",
+            "Pago único",
+            "Ninguno después de ponerlo"
+          ],
+          [
+            "Anuncios en redes o Google",
+            "Lo que decidas gastar",
+            "Revisar cada semana"
+          ],
+          [
+            "Programa de recomendación",
+            "El descuento que das",
+            "Llevar la cuenta"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Empieza con las gratis que te faltan. Cuando ya funcionen, suma una pagada a la vez."
+    },
+    {
+      "p": "Para anuncios, revisa la guía de [publicidad para negocios](id:publicidad-para-negocios)."
+    },
+    {
+      "h2": "Ejemplo de una papelería en Toluca"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una papelería cerca de dos escuelas vendía bien en agosto y mal el resto del año."
+    },
+    {
+      "p": "Primero revisó dónde perdía clientes. La gente sí la conocía, pero no regresaba fuera de temporada."
+    },
+    {
+      "p": "Empezó a guardar los WhatsApp de mamás que compraban listas escolares. Con su permiso, les avisaba de impresiones y monografías durante el año."
+    },
+    {
+      "p": "También hizo alianza con una escuela de regularización vecina. Cada una recomendaba a la otra."
+    },
+    {
+      "p": "En seis meses sus ventas de fuera de temporada crecieron. No gastó en anuncios, sólo atendió la etapa donde fallaba."
+    },
+    {
+      "h2": "Cómo medir si está funcionando"
+    },
+    {
+      "p": "Pregunta a cada cliente nuevo cómo te conoció. Anótalo en una libreta con la fecha."
+    },
+    {
+      "tabla": {
+        "titulo": "Hoja de registro de clientes nuevos",
+        "columnas": [
+          "Fecha",
+          "Cliente",
+          "Cómo te conoció",
+          "Compró"
+        ],
+        "filas": [
+          [
+            "2 de mayo",
+            "Diana",
+            "Google Maps",
+            "Sí"
+          ],
+          [
+            "3 de mayo",
+            "Jorge",
+            "Recomendación de Diana",
+            "Sí"
+          ],
+          [
+            "3 de mayo",
+            "Paty",
+            "Grupo de la colonia",
+            "No, preguntó precio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Al mes sabrás qué canal te trae más clientes. Pon más esfuerzo ahí y deja lo que no da nada."
+    },
+    {
+      "p": "Revisa también cuántos preguntaron y no compraron. Si son muchos, el problema está en la etapa de compra y no en atraer."
+    },
+    {
+      "p": "Repite esta revisión cada mes. Los canales cambian con las temporadas y con lo que hace tu competencia."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Gastar en anuncios cuando el problema es que no contestas rápido.",
+        "Querer atraer a todo el mundo en lugar de a tu cliente ideal.",
+        "No pedir reseñas por pena.",
+        "Esconder los precios.",
+        "Olvidarte del cliente después de la primera venta.",
+        "Probar diez cosas a la vez y no saber cuál funcionó."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cómo atraigo clientes sin gastar dinero?",
+      "respuesta": "Con tu ficha de Google, reseñas, grupos de colonia y alianzas. Todas son gratis y piden constancia."
+    },
+    {
+      "pregunta": "¿Qué hago si me ven pero no me compran?",
+      "respuesta": "Revisa precios, fotos y reseñas. Muchas veces el cliente no encontró lo que necesitaba para decidir."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tarda en notarse?",
+      "respuesta": "Algunas acciones se notan en semanas, como contestar rápido. Otras tardan meses, como las reseñas y la página."
+    },
+    {
+      "pregunta": "¿Necesito página web para atraer clientes?",
+      "respuesta": "Conviene mucho. La gente te busca en internet antes de visitarte o escribirte."
+    },
+    {
+      "pregunta": "¿Los anuncios me garantizan clientes?",
+      "respuesta": "No. Los anuncios traen visitas, y los clientes dependen de tu oferta y tu atención."
+    },
+    {
+      "pregunta": "¿Qué acción hago primero?",
+      "respuesta": "La de la etapa donde más clientes pierdes. Revisa la tabla de etapas y empieza por ahí."
+    }
+  ],
+  "relacionadas": [
+    "marketing-digital",
+    "seo-local",
+    "resenas-de-google",
+    "marketing-en-redes-sociales",
+    "publicidad-para-negocios",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Muchos clientes te buscan en internet antes de llegar. Aliviane te hace la página donde te eligen, con tu dominio.",
+    "titulo": "¿Hacemos la página donde te encontrarán tus clientes?",
+    "tituloCorto": "Que te encuentren antes que a la competencia",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://agendapro.com/blog/como-abrir-un-negocio-y-atraer-clientes/",
+      "titulo": "Cómo abrir un negocio y atraer clientes desde el primer día",
+      "promete": "Consejos para negocios de citas que llevan a su software; sin diagnóstico de dónde se pierden clientes"
+    },
+    {
+      "posicion": 2,
+      "url": "https://ahrefs.com/es/blog/como-atraer-clientes/",
+      "titulo": "Cómo atraer clientes a mi negocio (hay 4 formas)",
+      "promete": "Cuatro canales generales; poco aterrizado a un negocio de barrio en México"
+    },
+    {
+      "posicion": 3,
+      "url": "https://blog.hubspot.es/sales/como-atraer-clientes",
+      "titulo": "Cómo atraer clientes a tu negocio: 10 estrategias",
+      "promete": "Estrategias de ventas para empresas; no separa acciones gratis de pagadas ni da ejemplo"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin cifras de terceros. Ángulo propio: diagnóstico por etapa (encontrar, elegir, escribir, comprar, volver) y 20 acciones. Nunca prometer clientes."
+}

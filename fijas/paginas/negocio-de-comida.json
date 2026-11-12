@@ -1,0 +1,486 @@
+{
+  "id": "negocio-de-comida",
+  "slug": "negocio-de-comida",
+  "molde": "guia",
+  "cabeza": "negocio de comida",
+  "busquedas": [],
+  "title": "Negocio de comida: cómo empezar y costear tus platillos",
+  "h1": "Cómo poner un negocio de comida y que deje dinero",
+  "description": "Un negocio de comida deja dinero si costeas cada platillo y cuidas la merma. Te damos formatos, cómo calcular precio, permisos a revisar y cómo vender.",
+  "resumen": "Formatos de negocio de comida, costeo de platillos, permisos y cómo vender",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Para poner un negocio de comida elige un formato que puedas sostener, costea cada platillo y empieza con un menú corto. Puede ser desde casa por encargo, un puesto, una cocina sólo para entregas o un local.",
+    "La clave del dinero está en el costeo y en la merma. Abajo tienes cómo sacar el costo de un platillo, qué permisos revisar y cómo vender por WhatsApp y en tu página."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Elige el formato de tu negocio de comida"
+    },
+    {
+      "p": "No todos los negocios de comida necesitan local. Elige según tu dinero, tu tiempo y tu experiencia."
+    },
+    {
+      "tabla": {
+        "titulo": "Formatos de negocio de comida",
+        "columnas": [
+          "Formato",
+          "Qué necesitas",
+          "Ventaja",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Desde casa por encargo",
+            "Cocina limpia y forma de entregar",
+            "Casi sin inversión",
+            "Revisa uso de suelo y permisos de tu municipio"
+          ],
+          [
+            "Puesto o carrito",
+            "Equipo móvil y permiso de vía pública",
+            "Te ve mucha gente",
+            "Clima y permisos para la calle"
+          ],
+          [
+            "Cocina sólo para entregas",
+            "Cocina equipada sin comedor",
+            "Renta más baja que un local con mesas",
+            "Dependes de entregas y apps"
+          ],
+          [
+            "Local con mesas",
+            "Local, mobiliario y personal",
+            "Experiencia completa",
+            "Renta y sueldos fijos aunque no vendas"
+          ],
+          [
+            "Comida para oficinas o eventos",
+            "Cocina y transporte",
+            "Pedidos grandes y planeados",
+            "Necesitas cumplir horarios exactos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Empezar por encargo desde casa te deja probar recetas y precios con poco riesgo. Cuando tengas clientes fijos, piensa en crecer."
+    },
+    {
+      "h2": "Arma un menú corto"
+    },
+    {
+      "p": "Un menú corto vende mejor que uno largo. Menos platillos significa menos ingredientes, menos merma y servicio más rápido."
+    },
+    {
+      "ul": [
+        "Empieza con cinco a ocho platillos.",
+        "Repite ingredientes entre platillos.",
+        "Incluye uno o dos platillos estrella que te distingan.",
+        "Agrega bebidas y postres que dejen buen margen.",
+        "Prueba cada receta varias veces antes de venderla."
+      ]
+    },
+    {
+      "p": "Una taquería con cinco tipos de taco usa los mismos tortilla, cebolla, cilantro y salsas. Eso reduce compras y desperdicio."
+    },
+    {
+      "p": "Cuando tengas el menú, diséñalo con el [menú de restaurante](id:menu-de-restaurante) o súbelo como [menú digital](id:menu-digital)."
+    },
+    {
+      "h2": "Cómo costear un platillo"
+    },
+    {
+      "p": "Costear es saber cuánto te cuesta cada platillo. Sin ese número pones precios a ciegas."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Escribe la receta exacta",
+          "texto": "Anota cada ingrediente con su cantidad por porción."
+        },
+        {
+          "titulo": "Saca el costo de cada ingrediente",
+          "texto": "Divide el precio de compra entre lo que rinde."
+        },
+        {
+          "titulo": "Suma los ingredientes",
+          "texto": "Eso es el costo directo del platillo."
+        },
+        {
+          "titulo": "Agrega la merma",
+          "texto": "Suma un margen por lo que se tira, se quema o sobra."
+        },
+        {
+          "titulo": "Agrega empaque si es para llevar",
+          "texto": "Charola, bolsa, cubiertos y servilleta."
+        },
+        {
+          "titulo": "Calcula el precio",
+          "texto": "El precio debe cubrir el costo, tus gastos fijos y dejar ganancia."
+        }
+      ]
+    },
+    {
+      "h3": "Ejemplo de costeo"
+    },
+    {
+      "p": "Este es un ejemplo inventado con números redondos. Una orden de cuatro tacos de bistec para llevar."
+    },
+    {
+      "tabla": {
+        "titulo": "Costo de una orden de cuatro tacos",
+        "columnas": [
+          "Ingrediente",
+          "Cantidad",
+          "Costo"
+        ],
+        "filas": [
+          [
+            "Bistec",
+            "150 gramos",
+            "30.00"
+          ],
+          [
+            "Tortillas",
+            "4 piezas",
+            "4.00"
+          ],
+          [
+            "Cebolla y cilantro",
+            "Una porción",
+            "2.00"
+          ],
+          [
+            "Salsas",
+            "Dos porciones",
+            "3.00"
+          ],
+          [
+            "Limón",
+            "Dos piezas",
+            "2.00"
+          ],
+          [
+            "Empaque",
+            "Charola y bolsa",
+            "5.00"
+          ],
+          [
+            "Merma",
+            "Margen por desperdicio",
+            "4.00"
+          ],
+          [
+            "Costo total",
+            "",
+            "50.00"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu costo es 50 pesos, venderla en 60 apenas deja para la renta. Muchos negocios ponen el precio en dos y media o tres veces el costo de ingredientes."
+    },
+    {
+      "p": "Revisa también qué cobran negocios parecidos en tu zona. El precio debe cubrir tus costos y ser creíble para tu cliente."
+    },
+    {
+      "h2": "Cuánto necesitas vender al día"
+    },
+    {
+      "p": "Además del costo de cada platillo, tienes gastos fijos. La renta y los sueldos se pagan vendas o no. Lo mismo pasa con luz, gas, agua e internet."
+    },
+    {
+      "p": "Para saber cuánto vender, divide tus gastos fijos del mes entre lo que te deja cada platillo. Así sacas tu punto de equilibrio."
+    },
+    {
+      "tabla": {
+        "titulo": "Punto de equilibrio de ejemplo",
+        "columnas": [
+          "Dato",
+          "Monto del ejemplo"
+        ],
+        "filas": [
+          [
+            "Gastos fijos del mes",
+            "30,000 pesos"
+          ],
+          [
+            "Precio de la orden",
+            "120 pesos"
+          ],
+          [
+            "Costo de la orden",
+            "50 pesos"
+          ],
+          [
+            "Lo que deja cada orden",
+            "70 pesos"
+          ],
+          [
+            "Órdenes al mes para no perder",
+            "Unas 429"
+          ],
+          [
+            "Órdenes al día con 26 días abiertos",
+            "Unas 17"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Los números son un ejemplo inventado. Con 17 órdenes diarias el negocio no gana ni pierde, desde la 18 empieza la ganancia."
+    },
+    {
+      "p": "Si ese número te parece imposible para tu zona, ajusta antes de abrir. Baja gastos fijos, sube el precio o cambia de formato."
+    },
+    {
+      "h2": "Elige bien a tus proveedores"
+    },
+    {
+      "p": "Tus proveedores definen tu costo y tu calidad. Un proveedor que falla te deja sin platillos a media semana."
+    },
+    {
+      "ul": [
+        "Ten al menos dos proveedores para tus ingredientes principales.",
+        "Compara precios cada mes, no sólo al abrir.",
+        "Pregunta si entregan en tu negocio y a qué hora.",
+        "Revisa la calidad cada vez que recibes mercancía."
+      ]
+    },
+    {
+      "p": "Los mercados y centrales de abasto suelen tener buenos precios para volumen. Los proveedores con entrega ahorran tiempo pero pueden costar más."
+    },
+    {
+      "h2": "Controla la merma"
+    },
+    {
+      "p": "La merma es lo que compras y no vendes. Comida que se echa a perder, se quema o se tira al final del día."
+    },
+    {
+      "p": "En comida, la merma se puede comer tu ganancia sin que lo notes. Mídela una semana para saber cuánto pierdes."
+    },
+    {
+      "ul": [
+        "Anota cada día lo que tiras y su costo.",
+        "Compra lo que vas a usar en dos o tres días.",
+        "Usa primero lo que entró primero.",
+        "Aprovecha sobrantes en platillos del día siguiente cuando sea seguro.",
+        "Ajusta tus porciones con báscula, no a ojo."
+      ]
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Permisos y trámites a revisar"
+    },
+    {
+      "p": "Los permisos cambian según tu municipio, tu estado y tu formato. Antes de abrir, pregunta en tu ayuntamiento qué te piden."
+    },
+    {
+      "tabla": {
+        "titulo": "Trámites que conviene revisar",
+        "columnas": [
+          "Trámite",
+          "Dónde preguntar"
+        ],
+        "filas": [
+          [
+            "Uso de suelo o licencia de funcionamiento",
+            "Ayuntamiento de tu municipio"
+          ],
+          [
+            "Aviso o permiso sanitario",
+            "Autoridad sanitaria de tu estado"
+          ],
+          [
+            "Protección civil",
+            "Ayuntamiento, sobre todo con gas y comensales"
+          ],
+          [
+            "Permiso de vía pública",
+            "Ayuntamiento, si vendes en la calle"
+          ],
+          [
+            "Alta en el SAT",
+            "SAT, para poder facturar"
+          ],
+          [
+            "Contrato de recolección de basura",
+            "Ayuntamiento o empresa local"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "No te damos costos porque cambian mucho de un municipio a otro. Lleva una lista de preguntas y pide todo por escrito."
+    },
+    {
+      "h2": "Higiene que tus clientes notan"
+    },
+    {
+      "p": "La limpieza es parte de tu marca. Un cliente que ve una cocina sucia no regresa ni te recomienda."
+    },
+    {
+      "ul": [
+        "Lava y desinfecta superficies antes y después de cada turno.",
+        "Separa carnes crudas de alimentos listos para comer.",
+        "Guarda los alimentos fríos en refrigeración y los calientes bien calientes.",
+        "Usa cubrebocas, red o gorro y uñas cortas al cocinar.",
+        "Ten agua y jabón para lavarte las manos seguido."
+      ]
+    },
+    {
+      "p": "Si tus clientes ven tu cocina, cuídala como tu escaparate."
+    },
+    {
+      "p": "Capacita a cada persona nueva en estas reglas desde su primer día. Escríbelas en una hoja y pégala en la cocina."
+    },
+    {
+      "h2": "Cómo vender tu comida"
+    },
+    {
+      "h3": "WhatsApp"
+    },
+    {
+      "p": "Para muchos negocios de comida en México, WhatsApp es el canal principal. Ahí llegan pedidos, dudas y pagos."
+    },
+    {
+      "p": "Ten lista una respuesta rápida con el menú y precios. Usa el mensaje de ausencia para avisar tu horario."
+    },
+    {
+      "p": "Manda tu menú del día por lista de difusión a quien te lo pidió. Lee cómo en [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp)."
+    },
+    {
+      "h3": "Apps de reparto"
+    },
+    {
+      "p": "Las apps de reparto te dan clientes nuevos. A cambio cobran una comisión por pedido."
+    },
+    {
+      "p": "Antes de entrar, revisa cuánto cobran y súmalo a tu costeo. Muchos negocios tienen un precio en la app y otro en su propio canal."
+    },
+    {
+      "h3": "Tu propia página"
+    },
+    {
+      "p": "Tu página con menú, precios y botón de WhatsApp no cobra comisión por pedido. También aparece cuando alguien busca comida en tu zona."
+    },
+    {
+      "p": "Combina canales. La app te da clientes nuevos y tu página y WhatsApp te dejan atenderlos sin comisión la siguiente vez."
+    },
+    {
+      "h2": "Ejemplo de una cocina de comida corrida en León"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Doña Lupe cocinaba comida corrida para tres vecinos que trabajaban cerca."
+    },
+    {
+      "p": "Hizo un menú semanal con tres guisados por día. Costeó cada guisado y fijó un precio por comida completa."
+    },
+    {
+      "p": "Abrió una lista de difusión con oficinas cercanas. Mandaba el menú del día a las 10 de la mañana."
+    },
+    {
+      "p": "En seis meses pasó de 15 a 60 comidas diarias. Contrató ayuda para entregas y abrió una página con su menú y zona de reparto."
+    },
+    {
+      "p": "Lo que más le ayudó fue costear cada guisado desde el principio. Así supo qué platillos subir de precio y cuáles quitar del menú."
+    },
+    {
+      "h2": "Nombre y marca"
+    },
+    {
+      "p": "Un buen nombre se recuerda y se busca fácil. Revisa que no lo use otro negocio cerca de ti."
+    },
+    {
+      "p": "Si buscas ideas, usa el generador de [nombres para comida rápida](id:nombres-para-comida-rapida). Para tu imagen, revisa el [logo para restaurante](id:logo-para-restaurante)."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Abrir con un menú enorme.",
+        "Poner precios sin costear.",
+        "No medir la merma.",
+        "Olvidar el costo del empaque en pedidos para llevar.",
+        "Abrir local antes de probar las recetas con clientes.",
+        "Entrar a apps de reparto sin sumar la comisión al precio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué negocio de comida deja más dinero?",
+      "respuesta": "No hay uno solo. Deja más el que tiene buen costeo, poca merma y clientes que regresan."
+    },
+    {
+      "pregunta": "¿Cómo calculo el precio de un platillo?",
+      "respuesta": "Suma ingredientes, merma y empaque. Luego agrega gastos fijos y ganancia, y compara con tu zona."
+    },
+    {
+      "pregunta": "¿Puedo vender comida desde mi casa?",
+      "respuesta": "Sí, en muchos casos. Pregunta en tu municipio por uso de suelo y permisos sanitarios."
+    },
+    {
+      "pregunta": "¿Qué permisos necesito para un negocio de comida?",
+      "respuesta": "Depende de tu municipio y formato. Pregunta en tu ayuntamiento y en la autoridad sanitaria de tu estado."
+    },
+    {
+      "pregunta": "¿Conviene vender en apps de reparto?",
+      "respuesta": "Sirve para clientes nuevos. Suma su comisión a tu costeo antes de entrar."
+    },
+    {
+      "pregunta": "¿Cuántos platillos debe tener mi menú al empezar?",
+      "respuesta": "Entre cinco y ocho. Un menú corto baja la merma y acelera el servicio."
+    }
+  ],
+  "relacionadas": [
+    "menu-de-restaurante",
+    "menu-digital",
+    "nombres-para-comida-rapida",
+    "logo-para-restaurante",
+    "negocios-desde-casa",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu negocio de comida vende más si el menú y los precios están a un clic. Aliviane te hace la página con tu dominio.",
+    "titulo": "¿Hacemos la página con tu menú y tu WhatsApp?",
+    "tituloCorto": "Tu menú a un clic de tus clientes",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.shopify.com/es/blog/ideas-de-negocio-comida",
+      "titulo": "Ideas de negocio de comida",
+      "promete": "Ideas generales para vender en línea; sin costeo de platillos ni merma"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.crehana.com/blog/negocios/negocio-comida-rapida/",
+      "titulo": "Negocio de comida rápida",
+      "promete": "Pasos generales; no da ejemplo de costeo con pesos ni cómo vender por WhatsApp"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tiendanube.com/blog/negocios-de-comida/",
+      "titulo": "17 ideas de negocios de comida rentables",
+      "promete": "Lista de ideas; no explica permisos a revisar en México ni formatos según inversión"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin cifras de permisos, licencias ni comisiones de apps de reparto (cambian por municipio y no se leyó fuente oficial hoy): se indica a quién preguntar. Costeo con ejemplo inventado y marcado. Distinto de negocios-desde-casa y de las páginas de menú."
+}

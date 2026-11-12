@@ -1,0 +1,428 @@
+{
+  "id": "seo-local",
+  "slug": "seo-local",
+  "molde": "guia",
+  "cabeza": "seo local",
+  "busquedas": [],
+  "title": "SEO local: cómo salir en el mapa de Google en tu zona",
+  "h1": "SEO local para que te encuentren cerca de tu negocio",
+  "description": "El SEO local hace que tu negocio salga cuando alguien busca cerca de ti. Te damos los pasos, una lista de revisión y un ejemplo de un taller en Puebla.",
+  "resumen": "Pasos para salir en el mapa y en las búsquedas cercanas de tu ciudad",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El SEO local es el trabajo para que tu negocio aparezca cuando alguien busca algo cerca. Se nota en el mapa de Google y en búsquedas como «taller mecánico en Puebla».",
+    "Depende de tres cosas que Google explica en su ayuda. Qué tan relevante eres, qué tan cerca estás y qué tan popular es tu negocio."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el SEO local"
+    },
+    {
+      "p": "El SEO local es la parte del SEO que trabaja las búsquedas con lugar. Son búsquedas como «tortillería cerca de mí» o «dentista en Mérida»."
+    },
+    {
+      "p": "En esas búsquedas Google suele enseñar un mapa con tres negocios. Debajo vienen los resultados normales de páginas web."
+    },
+    {
+      "p": "El SEO local trabaja las dos cosas a la vez. Tu ficha en el mapa y tu página en los resultados."
+    },
+    {
+      "p": "Si atiendes clientes en un lugar o en una zona, esto te importa más que el SEO general. Tu cliente no te busca en todo el país, te busca en su colonia."
+    },
+    {
+      "h2": "Cómo decide Google qué negocios mostrar"
+    },
+    {
+      "p": "Google explica en la ayuda del Perfil de Negocio que usa tres criterios. Conocerlos te dice dónde poner tu tiempo."
+    },
+    {
+      "tabla": {
+        "titulo": "Los tres criterios de Google para resultados locales",
+        "columnas": [
+          "Criterio",
+          "Qué significa",
+          "Qué puedes hacer"
+        ],
+        "filas": [
+          [
+            "Relevancia",
+            "Qué tanto coincide tu negocio con lo que se buscó",
+            "Elegir bien tu categoría y describir tus servicios con palabras de cliente"
+          ],
+          [
+            "Distancia",
+            "Qué tan lejos estás de quien busca o del lugar que nombró",
+            "Poner bien tu dirección o tu zona de servicio"
+          ],
+          [
+            "Popularidad",
+            "Qué tan conocido es tu negocio dentro y fuera de internet",
+            "Juntar reseñas, menciones y ligas de tu ciudad"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La distancia no la puedes cambiar. Por eso conviene trabajar fuerte en relevancia y popularidad."
+    },
+    {
+      "p": "Un negocio a cinco cuadras puede ganarte si su ficha está completa y la tuya no. Eso pasa todos los días."
+    },
+    {
+      "h2": "Los cinco pilares del SEO local"
+    },
+    {
+      "h3": "1. Tu ficha de Google completa"
+    },
+    {
+      "p": "La ficha es lo primero que ve tu cliente en el mapa. Llena todo lo que te pide Google."
+    },
+    {
+      "p": "Pon categoría principal y horario. Agrega teléfono, fotos, servicios y la liga a tu página. Si aún no la tienes, sigue la guía de [Google Mi Negocio](id:google-mi-negocio)."
+    },
+    {
+      "h3": "2. Una página web que diga dónde estás"
+    },
+    {
+      "p": "La ficha manda a la gente a tu página. Si la página no dice tu ciudad, pierdes relevancia."
+    },
+    {
+      "p": "Tu página debe nombrar la ciudad, las colonias que atiendes y el servicio. Debe tener tu dirección escrita y un mapa."
+    },
+    {
+      "h3": "3. Nombre, dirección y teléfono iguales en todos lados"
+    },
+    {
+      "p": "Google compara los datos de tu negocio en varias páginas. Si no coinciden, le cuesta confiar en ellos."
+    },
+    {
+      "p": "Escribe tu nombre, dirección y teléfono igual en todos lados. En la ficha, la página, Facebook y directorios. Un «Av.» en un lado y «Avenida» en otro no es grave, un número distinto sí."
+    },
+    {
+      "h3": "4. Reseñas reales y contestadas"
+    },
+    {
+      "p": "Las reseñas suben tu popularidad y convencen al cliente. Pide una reseña a cada cliente contento."
+    },
+    {
+      "p": "Contesta todas, las buenas y las malas. Lee cómo pedirlas sin presionar en la guía de [reseñas de Google](id:resenas-de-google)."
+    },
+    {
+      "h3": "5. Menciones de tu ciudad"
+    },
+    {
+      "p": "Una liga desde la cámara de comercio local vale mucho. También cuentan el periódico de tu ciudad y tus proveedores."
+    },
+    {
+      "p": "No compres ligas en paquete. Busca las que un vecino de tu ciudad vería normales."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Lista de revisión de una tarde"
+    },
+    {
+      "p": "Puedes hacer esta lista en tres o cuatro horas. Marca cada punto cuando lo termines."
+    },
+    {
+      "ol": [
+        "Busca tu negocio en Google desde tu celular y anota qué sale.",
+        "Confirma que tu ficha esté verificada y a tu nombre.",
+        "Revisa que la categoría principal describa lo que más vendes.",
+        "Sube diez fotos reales del local, del equipo y de trabajos.",
+        "Escribe el horario real, con días festivos si cierras.",
+        "Pon la liga de tu página web en la ficha.",
+        "Revisa que la página tenga tu ciudad en el título.",
+        "Agrega a la página tu dirección escrita y un mapa.",
+        "Pon un botón de WhatsApp que se vea en el celular.",
+        "Compara tu nombre, dirección y teléfono en Facebook y en la ficha.",
+        "Manda un mensaje a cinco clientes recientes pidiendo reseña.",
+        "Contesta las reseñas que tengas sin respuesta."
+      ]
+    },
+    {
+      "h2": "Ejemplo de un taller mecánico en Puebla"
+    },
+    {
+      "p": "Este es un ejemplo inventado para que veas cómo se aplica. Un taller en la colonia La Paz quiere salir cuando buscan mecánico cerca."
+    },
+    {
+      "tabla": {
+        "titulo": "Antes y después del taller del ejemplo",
+        "columnas": [
+          "Punto",
+          "Antes",
+          "Después"
+        ],
+        "filas": [
+          [
+            "Categoría",
+            "Tienda de autopartes",
+            "Taller mecánico"
+          ],
+          [
+            "Fotos",
+            "Dos fotos del logo",
+            "Doce fotos del taller y trabajos"
+          ],
+          [
+            "Página web",
+            "No tenía",
+            "Landing con colonia, servicios y mapa"
+          ],
+          [
+            "Título de la página",
+            "No aplicaba",
+            "Taller mecánico en La Paz, Puebla"
+          ],
+          [
+            "Reseñas",
+            "Tres sin contestar",
+            "Veinte con respuesta del dueño"
+          ],
+          [
+            "Teléfono",
+            "Distinto en Facebook",
+            "El mismo en todos lados"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El cambio de categoría fue el más importante. Google lo mostraba a quien buscaba refacciones, no a quien buscaba reparación."
+    },
+    {
+      "p": "Ningún cambio garantiza un lugar en el mapa. Lo que sí logra es que Google entienda mejor qué haces y dónde."
+    },
+    {
+      "h2": "Si atiendes a domicilio"
+    },
+    {
+      "p": "Muchos negocios no reciben clientes en un local. Plomeros, fumigadores o pasteleras que entregan a domicilio."
+    },
+    {
+      "p": "En ese caso la ficha permite marcar una zona de servicio. Puedes ocultar tu dirección y mostrar las ciudades o colonias que atiendes."
+    },
+    {
+      "p": "Tu página debe decir las mismas zonas. Una lista de colonias escrita en texto ayuda a la relevancia."
+    },
+    {
+      "p": "No inventes oficinas en otras ciudades para salir ahí. El cliente que llega y no encuentra nada ya no regresa."
+    },
+    {
+      "h2": "Palabras que usa tu cliente local"
+    },
+    {
+      "p": "La gente busca de formas distintas en cada región. En unas ciudades dicen abarrotes y en otras tienda de la esquina."
+    },
+    {
+      "p": "Escucha cómo te piden las cosas por WhatsApp. Esas palabras van en tu página y en la descripción de tu ficha."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplos de búsquedas locales por giro",
+        "columnas": [
+          "Giro",
+          "Búsqueda típica",
+          "Qué debe decir tu página"
+        ],
+        "filas": [
+          [
+            "Dentista",
+            "dentista en Querétaro centro",
+            "Servicios, colonia y si aceptas urgencias"
+          ],
+          [
+            "Pastelería",
+            "pasteles por pedido en Tijuana",
+            "Sabores, precios desde y zonas de entrega"
+          ],
+          [
+            "Cerrajero",
+            "cerrajero 24 horas Monterrey",
+            "Horario real y tiempo de llegada"
+          ],
+          [
+            "Estética",
+            "corte de cabello Zapopan",
+            "Servicios, precios y cómo apartar cita"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para encontrar más búsquedas así, lee la guía de [palabras clave](id:palabras-clave)."
+    },
+    {
+      "h2": "Cómo medir si va funcionando"
+    },
+    {
+      "p": "La ficha de Google trae estadísticas propias. Te dice cuántas personas vieron tu ficha y cuántas pidieron ruta o llamaron."
+    },
+    {
+      "p": "Search Console es gratis y mide tu página web. Te dice con qué búsquedas apareciste y cuántos dieron clic."
+    },
+    {
+      "p": "Revisa los dos una vez al mes. Anota tres números en una hoja y compara contra el mes anterior."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué medir cada mes",
+        "columnas": [
+          "Número",
+          "Dónde lo ves",
+          "Qué te dice"
+        ],
+        "filas": [
+          [
+            "Vistas de la ficha",
+            "Perfil de Negocio",
+            "Cuánta gente te vio en el mapa"
+          ],
+          [
+            "Solicitudes de ruta",
+            "Perfil de Negocio",
+            "Cuántos pensaron en ir a tu local"
+          ],
+          [
+            "Clics a tu página",
+            "Search Console",
+            "Cuántos quisieron saber más"
+          ],
+          [
+            "Mensajes de WhatsApp",
+            "Tu celular",
+            "Cuántos te escribieron de verdad"
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Errores comunes en el SEO local"
+    },
+    {
+      "ul": [
+        "Poner palabras de más en el nombre de la ficha para salir más.",
+        "Dejar la ficha sin fotos o con fotos de banco.",
+        "Tener dos fichas del mismo negocio.",
+        "Cambiar el teléfono y olvidar actualizarlo en la ficha.",
+        "Comprar reseñas o pedir reseñas a familiares.",
+        "Mandar la ficha a una red social en lugar de a una página propia."
+      ]
+    },
+    {
+      "p": "El primero es el más común. Usa el nombre real de tu negocio, como aparece en tu letrero."
+    },
+    {
+      "h2": "Cómo pedir reseñas por WhatsApp sin incomodar"
+    },
+    {
+      "p": "El mejor momento es justo después de entregar el trabajo. El cliente está contento y tiene el celular en la mano."
+    },
+    {
+      "p": "Manda un mensaje corto con la liga directa para dejar reseña. La liga la sacas desde tu ficha de Google."
+    },
+    {
+      "p": "Un ejemplo de mensaje sería este. «Gracias por confiar en nosotros. Si te gustó el servicio, ¿nos dejas tu opinión aquí?»"
+    },
+    {
+      "p": "No ofrezcas descuentos a cambio de reseñas. La reseña debe ser libre para que valga ante el cliente que la lee."
+    },
+    {
+      "p": "Si alguien deja una mala reseña, contesta con calma y ofrece arreglarlo. Quien lee después juzga más tu respuesta que la queja."
+    },
+    {
+      "h2": "Cuánto tarda en notarse"
+    },
+    {
+      "p": "Los cambios en la ficha se publican en días. Los efectos en el mapa suelen tardar semanas."
+    },
+    {
+      "p": "Las reseñas se juntan poco a poco. Diez reseñas reales en tres meses valen más que cincuenta en una semana."
+    },
+    {
+      "p": "Piensa en el SEO local como un hábito mensual. Una hora al mes con tu ficha y tus reseñas mantiene todo al día."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el SEO local?",
+      "respuesta": "Es el SEO para búsquedas con lugar. Trabaja tu ficha de Google y tu página para que te encuentren en tu zona."
+    },
+    {
+      "pregunta": "¿Necesito página web para el SEO local?",
+      "respuesta": "Conviene mucho. La ficha sola sale en el mapa, pero la página te da relevancia y resultados normales."
+    },
+    {
+      "pregunta": "¿Puedo salir en el mapa si atiendo a domicilio?",
+      "respuesta": "Sí. La ficha permite marcar zona de servicio y ocultar tu dirección."
+    },
+    {
+      "pregunta": "¿Cuántas reseñas necesito?",
+      "respuesta": "No hay un número fijo. Importa que sean reales, recientes y contestadas por ti."
+    },
+    {
+      "pregunta": "¿Puedo poner otra ciudad en mi ficha para salir ahí?",
+      "respuesta": "No. Pon sólo lugares donde de verdad atiendes, o el cliente que llegue no te encontrará."
+    },
+    {
+      "pregunta": "¿El SEO local cuesta?",
+      "respuesta": "La ficha de Google es gratis. Pagas sólo si contratas tu página o ayuda para hacerlo."
+    },
+    {
+      "pregunta": "¿Alguien me garantiza salir primero en el mapa?",
+      "respuesta": "No. Google decide los resultados y nadie puede garantizar un lugar."
+    }
+  ],
+  "relacionadas": [
+    "google-mi-negocio",
+    "resenas-de-google",
+    "seo",
+    "palabras-clave",
+    "agencia-seo",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu ficha de Google necesita una página a la cual mandar a la gente. Aliviane te la hace con tu dominio y tu mapa.",
+    "titulo": "¿Hacemos la página que tu ficha de Google necesita?",
+    "tituloCorto": "Tu ficha de Google pide una página propia",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda del Perfil de Negocio de Google, cómo mejorar tu clasificación local",
+      "url": "https://support.google.com/business/answer/7091?hl=es-419"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.semrush.com/blog/what-is-local-seo",
+      "titulo": "Local SEO: What Is It & How to Do It",
+      "promete": "Guía larga en inglés pensada para agencias; sin ejemplos de México ni orden de prioridad para un negocio chico"
+    },
+    {
+      "posicion": 2,
+      "url": "https://ahrefs.com/seo/local-seo",
+      "titulo": "Local SEO: The Complete Guide",
+      "promete": "Explica los factores con su herramienta de pago; no trae lista de revisión de una tarde"
+    },
+    {
+      "posicion": 3,
+      "url": "https://searchengineland.com/guide/what-is-local-seo",
+      "titulo": "What is local SEO? Guide to ranking in local search results",
+      "promete": "Teoría de factores de clasificación; le falta qué escribir en la página y cómo pedir reseñas en WhatsApp"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Top 3 leído con WebSearch el 12-nov-2026 (todo en inglés). Factores relevancia, distancia y prominencia de la ayuda oficial de Google. Nunca prometer posición."
+}

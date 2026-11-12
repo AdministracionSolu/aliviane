@@ -1,0 +1,514 @@
+{
+  "id": "franquicias-baratas",
+  "slug": "franquicias-baratas",
+  "molde": "guia",
+  "cabeza": "franquicias baratas y rentables",
+  "busquedas": [
+    "franquicias rentables"
+  ],
+  "title": "Franquicias baratas y rentables: cómo elegir una segura",
+  "h1": "Franquicias baratas y rentables: qué revisar antes de pagar",
+  "description": "Una franquicia barata sólo conviene si los números y la ley la respaldan. Te explicamos la circular de oferta, los pagos a revisar y cómo hacer tus cuentas.",
+  "resumen": "Qué revisar en una franquicia barata, la circular de oferta y las cuentas antes de firmar",
+  "categoria": "Negocio",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una franquicia barata es la que pide poca inversión inicial, pero eso no la hace rentable. Lo que importa es cuánto te deja cada mes después de pagar cuotas, regalías, renta y sueldos.",
+    "En México, la ley obliga al franquiciante a darte información de su negocio por lo menos 30 días antes de firmar. Pídela, revísala y habla con otros franquiciatarios antes de pagar."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es una franquicia"
+    },
+    {
+      "p": "Una franquicia es un permiso para usar una marca y su forma de trabajar. A cambio pagas una cuota inicial y normalmente pagos periódicos."
+    },
+    {
+      "p": "La ley mexicana la define en el artículo 245 de la Ley Federal de Protección a la Propiedad Industrial. Existe franquicia cuando con la licencia de una marca se transmiten conocimientos técnicos o asistencia."
+    },
+    {
+      "p": "En palabras sencillas, compras un negocio ya probado. Te dan la marca, el método, los proveedores y la capacitación."
+    },
+    {
+      "h2": "Barata no es lo mismo que rentable"
+    },
+    {
+      "p": "Muchas listas ordenan franquicias por inversión inicial. Ese número dice cuánto pagas al entrar, no cuánto ganas después."
+    },
+    {
+      "p": "Una franquicia barata con regalías altas puede dejarte menos que un negocio propio. Una más cara con buena ubicación puede recuperarse antes."
+    },
+    {
+      "tabla": {
+        "titulo": "Lo que debes comparar",
+        "columnas": [
+          "Concepto",
+          "Qué es",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "Cuota inicial",
+            "Lo que pagas por entrar",
+            "Es el primer gasto, no el único"
+          ],
+          [
+            "Inversión total",
+            "Cuota más local, equipo, inventario y adecuaciones",
+            "Es lo que de verdad sale de tu bolsa"
+          ],
+          [
+            "Regalías",
+            "Pago periódico por usar la marca",
+            "Se descuenta cada mes de tus ventas"
+          ],
+          [
+            "Cuota de publicidad",
+            "Pago para la publicidad de la marca",
+            "Otro gasto mensual"
+          ],
+          [
+            "Plazo del contrato",
+            "Cuántos años dura",
+            "Define cuánto tiempo tienes para recuperar"
+          ],
+          [
+            "Recuperación de la inversión",
+            "En cuánto tiempo regresa tu dinero",
+            "La franquicia debe decírtelo por ley"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pide todos estos números por escrito. Si la franquicia no los da, es una señal de alerta."
+    },
+    {
+      "h2": "Lo que la ley te da derecho a saber"
+    },
+    {
+      "p": "El mismo artículo 245 dice que el franquiciante debe darte información de su negocio. Debe hacerlo por lo menos 30 días antes de firmar el contrato."
+    },
+    {
+      "p": "A ese documento se le conoce como circular de oferta de franquicia. El artículo 124 del reglamento dice qué debe incluir como mínimo."
+    },
+    {
+      "tabla": {
+        "titulo": "Información mínima según el artículo 124 del reglamento",
+        "columnas": [
+          "Tema",
+          "Qué debe decir"
+        ],
+        "filas": [
+          [
+            "Quién es",
+            "Nombre o razón social, domicilio y nacionalidad del franquiciante"
+          ],
+          [
+            "Qué ofrece",
+            "Descripción de la franquicia"
+          ],
+          [
+            "Experiencia",
+            "Antigüedad de la empresa en el giro"
+          ],
+          [
+            "Marca",
+            "Derechos de propiedad intelectual que incluye"
+          ],
+          [
+            "Pagos",
+            "Montos y conceptos que debes pagar"
+          ],
+          [
+            "Apoyo",
+            "Tipos de asistencia técnica y servicios que te dará"
+          ],
+          [
+            "Territorio",
+            "Zona donde puedes operar"
+          ],
+          [
+            "Subfranquicias",
+            "Si puedes darlas y con qué requisitos"
+          ],
+          [
+            "Confidencialidad",
+            "Qué obligaciones tienes con la información que recibes"
+          ],
+          [
+            "Origen",
+            "Si viene de un contrato maestro o similar"
+          ],
+          [
+            "Derechos y obligaciones",
+            "Lo que te toca y lo que te exigen"
+          ],
+          [
+            "Recuperación",
+            "Montos generales y tiempos de recuperación de la inversión"
+          ],
+          [
+            "Tamaño",
+            "Número de unidades propias y franquiciadas"
+          ],
+          [
+            "Historia",
+            "Unidades abiertas, reubicadas, traspasadas y cerradas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El último punto es muy revelador. Si muchas unidades cerraron, pregunta por qué."
+    },
+    {
+      "p": "Según el mismo artículo 245, si la información es falsa puedes pedir la nulidad del contrato. Para reclamar daños y perjuicios tienes un año desde la firma."
+    },
+    {
+      "h2": "Preguntas para el franquiciante"
+    },
+    {
+      "p": "Lleva estas preguntas a la reunión. Pide las respuestas por escrito."
+    },
+    {
+      "ol": [
+        "¿Cuál es la inversión total, no sólo la cuota de entrada?",
+        "¿Cuánto son las regalías y la cuota de publicidad cada mes?",
+        "¿Cuánto vende en promedio una unidad como la que me ofrecen?",
+        "¿Cuántas unidades cerraron en los últimos tres años y por qué?",
+        "¿Quién elige la ubicación y con qué estudio?",
+        "¿Qué incluye la capacitación y cuánto dura?",
+        "¿Debo comprar a proveedores obligatorios y a qué precio?",
+        "¿Qué pasa si quiero vender o cerrar antes de que termine el contrato?",
+        "¿La marca está registrada a nombre del franquiciante?",
+        "¿Me dan contacto de franquiciatarios actuales?"
+      ]
+    },
+    {
+      "p": "La pregunta nueve es clave. Revisa que la marca esté registrada ante el instituto que registra marcas en México."
+    },
+    {
+      "p": "Lee cómo funciona el registro en la guía de [cómo registrar una marca](id:como-registrar-una-marca)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Habla con otros franquiciatarios"
+    },
+    {
+      "p": "Es la mejor investigación que puedes hacer. Ellos saben lo que no dice el folleto."
+    },
+    {
+      "ul": [
+        "Pide al franquiciante una lista de unidades en operación.",
+        "Visita al menos tres, no sólo las que te recomiendan.",
+        "Pregunta cuánto tardaron en recuperar su dinero.",
+        "Pregunta qué tan útil es el apoyo de la marca.",
+        "Pregunta si volverían a comprar la franquicia."
+      ]
+    },
+    {
+      "p": "Si el franquiciante no deja que hables con otros, desconfía. Una marca sana presume a sus franquiciatarios."
+    },
+    {
+      "h2": "Cómo hacer tus propias cuentas"
+    },
+    {
+      "p": "No te quedes con las cifras del folleto. Haz tus cuentas con tus costos reales de tu ciudad."
+    },
+    {
+      "p": "Este es un ejemplo inventado con números redondos. Una franquicia de bebidas promete ventas de 120,000 pesos al mes."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuentas de ejemplo al mes",
+        "columnas": [
+          "Concepto",
+          "Monto"
+        ],
+        "filas": [
+          [
+            "Ventas",
+            "120,000"
+          ],
+          [
+            "Costo de insumos",
+            "42,000"
+          ],
+          [
+            "Renta del local",
+            "18,000"
+          ],
+          [
+            "Sueldos de dos personas",
+            "24,000"
+          ],
+          [
+            "Regalías",
+            "La que diga el contrato"
+          ],
+          [
+            "Cuota de publicidad",
+            "La que diga el contrato"
+          ],
+          [
+            "Luz, agua, gas e internet",
+            "5,000"
+          ],
+          [
+            "Lo que queda antes de regalías y publicidad",
+            "31,000"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "De esos 31,000 todavía salen regalías, publicidad e impuestos. Si te quedan 15,000 y pusiste 600,000, tardarías más de tres años en recuperar."
+    },
+    {
+      "p": "Haz la misma cuenta con ventas más bajas. Si con 90,000 de ventas pierdes dinero, el riesgo es alto."
+    },
+    {
+      "h2": "Qué tipos de franquicia suelen pedir menos inversión"
+    },
+    {
+      "p": "Sin dar montos, hay formatos que por naturaleza piden menos dinero. Revisa si alguno encaja contigo."
+    },
+    {
+      "tabla": {
+        "titulo": "Formatos con inversión más baja",
+        "columnas": [
+          "Formato",
+          "Por qué cuesta menos",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Isla o módulo en plaza",
+            "Poco espacio y poco equipo",
+            "La renta de plaza puede ser alta"
+          ],
+          [
+            "Servicio a domicilio",
+            "No necesita local",
+            "Depende mucho de tu trabajo personal"
+          ],
+          [
+            "Carrito o punto móvil",
+            "Equipo pequeño",
+            "Permisos del municipio para vender en la calle"
+          ],
+          [
+            "Servicio desde oficina pequeña",
+            "Poco inventario",
+            "Necesitas vender tú o contratar quien venda"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Estos formatos no son mejores ni peores. Sólo cambian dónde está el riesgo."
+    },
+    {
+      "h2": "Cláusulas del contrato que debes leer con lupa"
+    },
+    {
+      "p": "El contrato de franquicia suele ser largo. Pide que un abogado lo revise antes de firmar."
+    },
+    {
+      "ul": [
+        "Duración y si se renueva sola.",
+        "Territorio exclusivo o compartido.",
+        "Proveedores obligatorios y cómo se fijan sus precios.",
+        "Metas mínimas de ventas o compras.",
+        "Causas por las que te pueden quitar la franquicia.",
+        "Qué pasa con el local y el equipo si terminas.",
+        "Prohibición de abrir un negocio parecido después."
+      ]
+    },
+    {
+      "p": "La última cláusula se llama de no competencia. Puede impedirte trabajar en el mismo giro por años."
+    },
+    {
+      "p": "Pagar una revisión legal cuesta mucho menos que firmar un mal contrato. Considéralo parte de la inversión."
+    },
+    {
+      "h2": "Señales de alerta"
+    },
+    {
+      "ul": [
+        "No te dan la circular de oferta o te presionan para firmar antes de 30 días.",
+        "La marca no está registrada a nombre de quien te vende.",
+        "Prometen ganancias seguras o recuperación en pocos meses.",
+        "No te dejan hablar con otros franquiciatarios.",
+        "Hay pocas unidades propias y muchas franquiciadas recién abiertas.",
+        "El contrato castiga mucho si quieres salir."
+      ]
+    },
+    {
+      "p": "Desconfía de cualquier promesa de ganancia segura. Ningún negocio la tiene."
+    },
+    {
+      "h2": "Franquicia o negocio propio"
+    },
+    {
+      "p": "No todos necesitan una franquicia. A veces un negocio propio bien pensado deja más."
+    },
+    {
+      "tabla": {
+        "titulo": "Franquicia contra negocio propio",
+        "columnas": [
+          "Punto",
+          "Franquicia",
+          "Negocio propio"
+        ],
+        "filas": [
+          [
+            "Marca",
+            "Ya conocida",
+            "La construyes tú"
+          ],
+          [
+            "Método",
+            "Te lo dan",
+            "Lo aprendes tú"
+          ],
+          [
+            "Libertad",
+            "Sigues las reglas de la marca",
+            "Decides todo"
+          ],
+          [
+            "Pagos periódicos",
+            "Regalías y publicidad",
+            "Ninguno a terceros"
+          ],
+          [
+            "Riesgo",
+            "Menor si la marca es sana",
+            "Mayor al principio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tienes experiencia en el giro, quizá no necesitas pagar por el método. Si nunca has tenido un negocio, una franquicia seria te enseña."
+    },
+    {
+      "p": "Antes de decidir, revisa también la guía de [negocios rentables](id:negocios-rentables) y arma un [plan de negocios](id:plan-de-negocios)."
+    },
+    {
+      "h2": "Ejemplo de una decisión"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Andrea tenía ahorros y dudaba entre una franquicia de café y su propia cafetería."
+    },
+    {
+      "p": "Pidió la circular de oferta y habló con cuatro franquiciatarios. Dos estaban contentos y dos tardaron el doble de lo prometido en recuperar."
+    },
+    {
+      "p": "Hizo sus cuentas con la renta de su zona. Con regalías, la franquicia le dejaba poco margen."
+    },
+    {
+      "p": "Decidió abrir su propia cafetería pequeña. Usó lo que aprendió de las preguntas para armar su método."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Elegir sólo por la inversión inicial más baja.",
+        "Firmar sin leer la circular de oferta.",
+        "Creer las ventas del folleto sin preguntar a franquiciatarios.",
+        "No revisar el registro de la marca.",
+        "Olvidar regalías y cuota de publicidad en las cuentas.",
+        "Elegir un giro que no te gusta sólo porque suena rentable."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es una franquicia barata?",
+      "respuesta": "Una que pide poca inversión inicial. Barata no significa rentable, revisa también los pagos mensuales."
+    },
+    {
+      "pregunta": "¿Qué es la circular de oferta de franquicia?",
+      "respuesta": "Es la información que el franquiciante debe darte antes de firmar. La ley pide entregarla por lo menos 30 días antes."
+    },
+    {
+      "pregunta": "¿Qué pasa si la franquicia me dio información falsa?",
+      "respuesta": "Puedes pedir la nulidad del contrato. Para daños y perjuicios la ley da un año desde la firma."
+    },
+    {
+      "pregunta": "¿Cuál es la franquicia más rentable de México?",
+      "respuesta": "No hay una sola. Depende de tu ubicación, tus costos y los pagos del contrato."
+    },
+    {
+      "pregunta": "¿Qué son las regalías?",
+      "respuesta": "Un pago periódico a la marca por usar su nombre y método. Normalmente se calcula sobre tus ventas."
+    },
+    {
+      "pregunta": "¿Cómo sé si una franquicia es seria?",
+      "respuesta": "Revisa que la marca esté registrada y habla con otros franquiciatarios. Pide todo por escrito."
+    }
+  ],
+  "relacionadas": [
+    "negocios-rentables",
+    "plan-de-negocios",
+    "analisis-foda",
+    "negocio-de-comida",
+    "como-registrar-una-marca",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Si prefieres tu propia marca en lugar de una franquicia, también necesitas que te encuentren. Aliviane te hace la página.",
+    "titulo": "¿Tu propia marca? Hacemos su página",
+    "tituloCorto": "Tu marca propia también puede verse en grande",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ley Federal de Protección a la Propiedad Industrial, artículo 245 (texto consultado en mley.mx el 12-nov-2026)",
+      "url": "https://mley.mx/LFPPI/articulo/245/"
+    },
+    {
+      "texto": "Reglamento de la Ley Federal de Protección a la Propiedad Industrial, artículo 124 (consultado en mley.mx el 12-nov-2026)",
+      "url": "https://mley.mx/Reg_LFPPI/articulo/124/"
+    },
+    {
+      "texto": "Cámara de Diputados, texto oficial de la LFPPI",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://emprendedor.com/franquicias-mas-baratas-mexico/",
+      "titulo": "Franquicias más baratas de México",
+      "promete": "Lista de marcas con montos de inversión de la propia franquicia; sin cómo verificar ni hacer cuentas"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.mercately.com/ventas/franquicias-en-mexico",
+      "titulo": "Franquicias en México: oportunidades y consejos para invertir",
+      "promete": "Consejos generales; no explica la obligación legal de la circular de oferta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.tusbuenasnoticias.com/noticias/economia/2026/05/26/60372-cuales-son-las-franquicias-mas-rentables-en-mexico-en-2026",
+      "titulo": "Las franquicias más rentables en México en 2026",
+      "promete": "Nota con marcas y rankings; no da preguntas para el franquiciante ni ejemplo de cuentas"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. SIN CIFRAS de inversión de marcas (sólo salen de medios o de la propia franquicia). Art. 245 LFPPI y art. 124 del Reglamento leídos en mley.mx el 12-nov-2026; mley indica que su texto está pendiente de cotejo, se cita además el PDF oficial de Diputados. No se nombran marcas. Ejemplo numérico inventado y marcado."
+}

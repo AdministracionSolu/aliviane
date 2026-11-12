@@ -1,0 +1,523 @@
+{
+  "id": "que-es-un-sitio-web",
+  "slug": "que-es-un-sitio-web",
+  "molde": "guia",
+  "cabeza": "sitio web que es",
+  "busquedas": [
+    "web dinamica",
+    "pagina dinamica",
+    "paginas web dinamicas"
+  ],
+  "title": "Sitio web qué es: partes, tipos y ejemplos para negocio",
+  "h1": "Qué es un sitio web y qué tipo necesita tu negocio",
+  "description": "Un sitio web es un conjunto de páginas bajo un mismo dominio. Te explicamos sus partes, la diferencia entre estático y dinámico y cuál conviene a tu negocio.",
+  "resumen": "Qué es un sitio web, sus partes, tipos y cuál conviene a un negocio",
+  "categoria": "Página web",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un sitio web es un conjunto de páginas conectadas entre sí que comparten un mismo dominio, como tunegocio.mx. Vive en un servidor y cualquiera lo abre desde un navegador.",
+    "Para un negocio, el sitio dice quién eres y qué vendes. También cuánto cuesta y cómo contactarte. Puede ser una sola página o muchas, según lo que necesites contar."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un sitio web"
+    },
+    {
+      "p": "Un sitio web es un grupo de páginas que viven bajo una misma dirección. Esa dirección se llama dominio, por ejemplo tortasdonchuy.mx."
+    },
+    {
+      "p": "Cada página del sitio tiene su propia dirección dentro del dominio. Por ejemplo tortasdonchuy.mx/menu o tortasdonchuy.mx/contacto."
+    },
+    {
+      "p": "Las páginas se conectan con ligas. Así la persona pasa del inicio al menú y del menú al contacto."
+    },
+    {
+      "p": "Todo el sitio vive guardado en un servidor. Cuando alguien escribe tu dominio, su navegador pide las páginas y las muestra."
+    },
+    {
+      "h2": "Sitio web y página web, ¿son lo mismo?"
+    },
+    {
+      "p": "En el día a día la gente usa las dos palabras igual. Técnicamente hay una diferencia pequeña."
+    },
+    {
+      "tabla": {
+        "titulo": "Página web contra sitio web",
+        "columnas": [
+          "Término",
+          "Qué es",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Página web",
+            "Un solo documento con su dirección",
+            "La página del menú"
+          ],
+          [
+            "Sitio web",
+            "El conjunto de páginas bajo un dominio",
+            "Todo tortasdonchuy.mx"
+          ],
+          [
+            "Landing page",
+            "Un sitio o página de una sola pantalla larga con un objetivo",
+            "Página para pedir por WhatsApp"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un negocio puede tener un sitio de una sola página. En ese caso página y sitio son casi lo mismo."
+    },
+    {
+      "p": "Lee más sobre las páginas de un solo objetivo en [qué es una landing page](id:que-es-una-landing-page)."
+    },
+    {
+      "h2": "Las piezas que hacen funcionar un sitio"
+    },
+    {
+      "p": "Un sitio web necesita tres cosas para existir. Si falta una, nadie lo puede ver."
+    },
+    {
+      "tabla": {
+        "titulo": "Las tres piezas de un sitio web",
+        "columnas": [
+          "Pieza",
+          "Qué es",
+          "Comparación con un local"
+        ],
+        "filas": [
+          [
+            "Dominio",
+            "El nombre que escribes para llegar",
+            "La dirección del local"
+          ],
+          [
+            "Hosting",
+            "El servidor donde se guardan las páginas",
+            "El terreno donde está el local"
+          ],
+          [
+            "Contenido",
+            "Textos, fotos y botones",
+            "Lo que hay dentro del local"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El dominio y el hosting se pagan por separado o en paquete. El contenido lo hace quien diseña el sitio con tu información."
+    },
+    {
+      "p": "Lee qué es cada pieza en [qué es un dominio](id:que-es-un-dominio) y [qué es hosting](id:que-es-hosting)."
+    },
+    {
+      "p": "También existe el certificado de seguridad. Es lo que pone el candado junto a la dirección y la hace empezar con https."
+    },
+    {
+      "h2": "Las partes que ve el visitante"
+    },
+    {
+      "p": "Casi todos los sitios comparten una estructura. Conocerla te ayuda a pedir lo que necesitas."
+    },
+    {
+      "tabla": {
+        "titulo": "Partes de un sitio web",
+        "columnas": [
+          "Parte",
+          "Dónde está",
+          "Qué lleva"
+        ],
+        "filas": [
+          [
+            "Encabezado",
+            "Arriba",
+            "Logo, menú y a veces un botón de contacto"
+          ],
+          [
+            "Portada o inicio",
+            "La primera pantalla",
+            "Qué haces y para quién, en una frase"
+          ],
+          [
+            "Secciones",
+            "Debajo o en otras páginas",
+            "Servicios, precios, galería y opiniones"
+          ],
+          [
+            "Botón de acción",
+            "Repetido en varios lugares",
+            "WhatsApp, llamar o comprar"
+          ],
+          [
+            "Pie de página",
+            "Abajo",
+            "Dirección, horario, redes y aviso de privacidad"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La portada es la parte más importante. En pocos segundos la persona decide si se queda o se va."
+    },
+    {
+      "h2": "Sitio estático y sitio dinámico"
+    },
+    {
+      "p": "Esta diferencia sale mucho cuando buscas información. Se refiere a cómo se arma cada página al abrirla."
+    },
+    {
+      "h3": "Sitio estático"
+    },
+    {
+      "p": "Las páginas ya están hechas y guardadas. El servidor sólo las entrega tal cual a quien las pide."
+    },
+    {
+      "p": "Cargan muy rápido y tienen pocas piezas que se puedan romper. Sirven muy bien para negocios que cambian su información de vez en cuando."
+    },
+    {
+      "h3": "Sitio dinámico"
+    },
+    {
+      "p": "Las páginas se arman en el momento con datos de una base de datos. Cada visitante puede ver algo distinto."
+    },
+    {
+      "p": "Son necesarios cuando hay usuarios, carritos de compra o inventario que cambia. También cuando muchas personas editan contenido todos los días."
+    },
+    {
+      "tabla": {
+        "titulo": "Estático contra dinámico",
+        "columnas": [
+          "Punto",
+          "Estático",
+          "Dinámico"
+        ],
+        "filas": [
+          [
+            "Velocidad",
+            "Muy rápida",
+            "Depende del servidor y la base de datos"
+          ],
+          [
+            "Mantenimiento",
+            "Poco",
+            "Actualizaciones frecuentes"
+          ],
+          [
+            "Seguridad",
+            "Pocas puertas de entrada",
+            "Más piezas que cuidar"
+          ],
+          [
+            "Ejemplos",
+            "Página de un consultorio, un taller o un restaurante",
+            "Tienda con carrito, red social, banca en línea"
+          ],
+          [
+            "Para quién",
+            "La mayoría de negocios pequeños",
+            "Quien vende en línea con inventario o tiene usuarios"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un sitio estático también puede tener cosas que se mueven. Un mapa, un botón de WhatsApp o un formulario funcionan sin base de datos propia."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Tipos de sitios web según su objetivo"
+    },
+    {
+      "tabla": {
+        "titulo": "Tipos de sitio por objetivo",
+        "columnas": [
+          "Tipo",
+          "Para qué sirve",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Sitio de negocio",
+            "Presentar servicios y recibir contacto",
+            "Taller mecánico en Culiacán"
+          ],
+          [
+            "Landing page",
+            "Una sola acción, como escribir o comprar",
+            "Promoción de inscripciones de un gimnasio"
+          ],
+          [
+            "Tienda en línea",
+            "Vender con carrito y pago",
+            "Tienda de ropa con envíos"
+          ],
+          [
+            "Portafolio",
+            "Mostrar trabajos",
+            "Fotógrafa de bodas"
+          ],
+          [
+            "Blog",
+            "Publicar artículos",
+            "Nutrióloga que comparte recetas"
+          ],
+          [
+            "Sitio institucional",
+            "Informar sobre una organización",
+            "Escuela o asociación civil"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos negocios combinan tipos. Un restaurante puede tener su sitio con menú y una landing para eventos."
+    },
+    {
+      "p": "Si piensas vender con carrito, lee la guía de [tienda en línea](id:tienda-en-linea)."
+    },
+    {
+      "h2": "Qué debe tener el sitio de un negocio pequeño"
+    },
+    {
+      "p": "No necesitas muchas páginas para empezar. Necesitas que una persona encuentre lo que busca en segundos."
+    },
+    {
+      "ol": [
+        "Qué haces y en qué ciudad, en la primera pantalla.",
+        "Tus servicios o productos con precio o precio desde.",
+        "Fotos reales de tu trabajo o tu local.",
+        "Opiniones de clientes, si las tienes.",
+        "Botón de WhatsApp visible en el celular.",
+        "Dirección, mapa y horario.",
+        "Aviso de privacidad si recibes datos de clientes."
+      ]
+    },
+    {
+      "p": "Con eso un cliente puede decidir sin llamarte. Lo demás se agrega con el tiempo."
+    },
+    {
+      "h2": "Ejemplo de un sitio para una estética en Aguascalientes"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una estética quiere que las clientas aparten cita sin llamar."
+    },
+    {
+      "tabla": {
+        "titulo": "Estructura del sitio de ejemplo",
+        "columnas": [
+          "Sección",
+          "Contenido"
+        ],
+        "filas": [
+          [
+            "Portada",
+            "Estética en el centro de Aguascalientes, aparta tu cita por WhatsApp"
+          ],
+          [
+            "Servicios",
+            "Corte, tinte, peinado y uñas con precio desde"
+          ],
+          [
+            "Galería",
+            "Doce fotos de trabajos reales"
+          ],
+          [
+            "Opiniones",
+            "Cuatro reseñas de clientas con su nombre"
+          ],
+          [
+            "Ubicación",
+            "Mapa, dirección y horario"
+          ],
+          [
+            "Botón",
+            "Aparta tu cita por WhatsApp con mensaje listo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Es un sitio de una sola página. Cabe todo lo necesario y carga rápido en el celular."
+    },
+    {
+      "h2": "Cuántas páginas necesita tu sitio"
+    },
+    {
+      "p": "No hay un número correcto. Depende de cuántas cosas distintas vendes y cuánto necesita saber tu cliente."
+    },
+    {
+      "tabla": {
+        "titulo": "Tamaño del sitio según el negocio",
+        "columnas": [
+          "Negocio",
+          "Páginas sugeridas",
+          "Por qué"
+        ],
+        "filas": [
+          [
+            "Un solo servicio en una ciudad",
+            "Una página larga",
+            "Todo cabe y se lee de corrido"
+          ],
+          [
+            "Varios servicios distintos",
+            "Inicio más una página por servicio",
+            "Cada servicio se busca distinto en Google"
+          ],
+          [
+            "Varias sucursales",
+            "Inicio más una página por sucursal",
+            "Cada sucursal tiene dirección y horario propio"
+          ],
+          [
+            "Catálogo con muchos productos",
+            "Inicio, categorías y fichas",
+            "El cliente necesita filtrar"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Empezar con una página no te amarra. Cuando crezcas, se agregan páginas sin perder lo que ya tienes."
+    },
+    {
+      "h2": "Cómo saber si un sitio está bien hecho"
+    },
+    {
+      "p": "Abre tu sitio desde el celular con datos móviles. Revisa estas cinco cosas como si fueras cliente."
+    },
+    {
+      "ol": [
+        "¿Carga en pocos segundos?",
+        "¿Entiendes qué venden sin bajar?",
+        "¿Encuentras el precio o un precio desde?",
+        "¿El botón de contacto está a la vista?",
+        "¿La dirección empieza con https y tiene candado?"
+      ]
+    },
+    {
+      "p": "Si fallan dos o más, el sitio está perdiendo clientes. Lo bueno es que casi todo tiene arreglo."
+    },
+    {
+      "h2": "Cómo se crea un sitio web"
+    },
+    {
+      "p": "Hay tres caminos principales. Hacerlo tú con un constructor, programarlo o contratar a alguien."
+    },
+    {
+      "p": "Cada camino tiene su costo de tiempo y dinero. Lee los pasos en la guía de [cómo crear una página web](id:como-crear-una-pagina-web)."
+    },
+    {
+      "h2": "Por qué tener sitio si ya tienes redes sociales"
+    },
+    {
+      "p": "Las redes son de la plataforma, no tuyas. Cambian reglas, bajan tu alcance o te cierran la cuenta sin aviso."
+    },
+    {
+      "p": "Tu sitio es tuyo mientras pagues tu dominio y tu hosting. Tú decides qué se ve y cómo."
+    },
+    {
+      "p": "Además, Google muestra sitios en sus resultados. Una página de Facebook rara vez sale cuando alguien busca un servicio en tu ciudad."
+    },
+    {
+      "p": "Lo ideal es tener los dos. Las redes atraen y el sitio ordena la información para cerrar la venta."
+    },
+    {
+      "p": "Pon la liga de tu sitio en todas tus redes y en tu perfil de WhatsApp. Así cada seguidor tiene a dónde ir cuando quiere precios o ubicación."
+    },
+    {
+      "p": "También ponla en tu ficha de Google. Es una de las primeras cosas que la gente toca cuando te encuentra en el mapa."
+    },
+    {
+      "h2": "Errores comunes al hacer un sitio"
+    },
+    {
+      "ul": [
+        "Poner mucho texto y nada de precios.",
+        "Usar fotos de banco en lugar de fotos reales.",
+        "Esconder el botón de contacto al final.",
+        "Olvidar revisar cómo se ve en el celular.",
+        "Dejar información vieja de horarios o promociones.",
+        "Usar un dominio gratuito con el nombre de otra empresa."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un sitio web en pocas palabras?",
+      "respuesta": "Un conjunto de páginas bajo un mismo dominio. Se ve desde cualquier navegador."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre sitio web y página web?",
+      "respuesta": "La página es un solo documento. El sitio es el conjunto de páginas de un dominio."
+    },
+    {
+      "pregunta": "¿Qué es una página web dinámica?",
+      "respuesta": "Una página que se arma al abrirla. Toma datos de una base de datos y sirve para tiendas con carrito o sitios con usuarios."
+    },
+    {
+      "pregunta": "¿Mi negocio necesita un sitio dinámico?",
+      "respuesta": "Casi nunca al empezar. Si no vendes con carrito ni tienes usuarios, un sitio estático te basta."
+    },
+    {
+      "pregunta": "¿Qué necesito para tener un sitio web?",
+      "respuesta": "Dominio, hosting y contenido. También conviene el certificado de seguridad."
+    },
+    {
+      "pregunta": "¿Un sitio web puede ser de una sola página?",
+      "respuesta": "Sí. Muchos negocios empiezan con una sola página bien ordenada."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en hacerse un sitio web?",
+      "respuesta": "Depende del tamaño. Una landing sale en días y un sitio grande en semanas."
+    }
+  ],
+  "relacionadas": [
+    "como-crear-una-pagina-web",
+    "que-es-una-landing-page",
+    "que-es-un-dominio",
+    "que-es-hosting",
+    "tienda-en-linea",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Entender qué es un sitio web es el primer paso. El segundo es tener el tuyo. Aliviane te lo entrega con dominio.",
+    "titulo": "¿Hacemos el sitio web de tu negocio?",
+    "tituloCorto": "¿Ya sabes qué es? Ahora ten el tuyo",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.shopify.com/es/blog/que-es-un-sitio-web",
+      "titulo": "Qué es un sitio web",
+      "promete": "Definición y tipos para llevar a su tienda; poco sobre qué necesita un negocio local"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.ovhcloud.com/es/learn/what-is-website/",
+      "titulo": "¿Qué es un sitio web?",
+      "promete": "Explicación técnica de servidores; sin ejemplos de negocios ni cuánto contenido poner"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.hostinger.com/co/tutoriales/que-es-un-sitio-web/",
+      "titulo": "¿Qué es un sitio web y cómo funciona?",
+      "promete": "Tutorial general que empuja su hosting; no compara sitio de una página contra sitio completo"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Incluye web dinámica vs estática (búsquedas de la lista). Sin cifras de terceros. Top 3 leído con WebSearch el 12-nov-2026."
+}

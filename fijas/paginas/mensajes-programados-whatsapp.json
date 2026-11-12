@@ -1,0 +1,520 @@
+{
+  "id": "mensajes-programados-whatsapp",
+  "slug": "mensajes-programados-whatsapp",
+  "molde": "guia",
+  "cabeza": "mensajes programados whatsapp",
+  "busquedas": [],
+  "title": "Mensajes programados WhatsApp: qué se puede y cómo",
+  "h1": "Mensajes programados en WhatsApp: lo que sí se puede hoy",
+  "description": "WhatsApp Business deja programar difusiones comerciales y el horario del mensaje de ausencia. Te explicamos cada opción, sus límites y un calendario de avisos.",
+  "resumen": "Qué mensajes se pueden programar en WhatsApp Business y cómo organizar recordatorios",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Según la ayuda oficial de WhatsApp, lo que hoy se programa es la difusión comercial y el horario del mensaje de ausencia. Las dos opciones están en la app WhatsApp Business.",
+    "La difusión comercial tiene costo por mensaje entregado y sólo existe en algunos países. La ayuda oficial no describe una función para programar un mensaje a un solo chat."
+  ],
+  "herramienta": {
+    "id": "whatsapp-link",
+    "modo": "link"
+  },
+  "cuerpo": [
+    {
+      "h2": "Lo que sí se puede programar en WhatsApp"
+    },
+    {
+      "p": "Mucha gente busca cómo dejar un mensaje listo para que salga después. La respuesta depende de qué quieres mandar y a quién."
+    },
+    {
+      "p": "Revisamos la ayuda oficial de WhatsApp el 12 de noviembre de 2026. Esto es lo que describe hoy."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué se puede programar y qué no",
+        "columnas": [
+          "Qué quieres hacer",
+          "¿Se puede?",
+          "Dónde"
+        ],
+        "filas": [
+          [
+            "Mandar una promoción a muchos clientes en fecha y hora",
+            "Sí, con difusión comercial",
+            "WhatsApp Business, en algunos países"
+          ],
+          [
+            "Avisar que estás cerrado en ciertas horas",
+            "Sí, con mensaje de ausencia",
+            "WhatsApp Business"
+          ],
+          [
+            "Mandar un mismo texto a varios contactos ahora",
+            "Sí, con lista de difusión",
+            "WhatsApp y WhatsApp Business"
+          ],
+          [
+            "Dejar programado un mensaje a un solo cliente",
+            "La ayuda oficial no lo describe",
+            "No aparece como función"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu WhatsApp ya muestra una opción para programar un chat, úsala con las mismas reglas de abajo. Las funciones llegan poco a poco y cada app se actualiza distinto."
+    },
+    {
+      "h2": "Difusiones comerciales programadas"
+    },
+    {
+      "p": "La difusión comercial es un mensaje de marketing que mandas a muchos clientes desde WhatsApp Business. Puede llevar foto, texto y un botón."
+    },
+    {
+      "p": "La ayuda oficial dice que puedes enviarla al momento o programarla. También dice que tiene costo y que sólo está en algunos países."
+    },
+    {
+      "h3": "Pasos según la ayuda oficial"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre las difusiones",
+          "texto": "En la app toca el icono de tienda y luego Difusiones comerciales. También está en Herramientas."
+        },
+        {
+          "titulo": "Elige el público",
+          "texto": "Selecciona contactos de tus listas guardadas."
+        },
+        {
+          "titulo": "Arma el mensaje",
+          "texto": "Agrega foto o video, tu texto y si quieres un botón."
+        },
+        {
+          "titulo": "Revisa la vista previa",
+          "texto": "Toca Siguiente para ver cómo se verá el mensaje."
+        },
+        {
+          "titulo": "Programa el envío",
+          "texto": "En lugar de Enviar ahora, toca Programar y elige fecha y hora."
+        }
+      ]
+    },
+    {
+      "p": "Los botones posibles son catálogo, respuesta personalizada, llamada o sitio web. El de sitio web puede mandar a tu página."
+    },
+    {
+      "h3": "Reglas que debes conocer"
+    },
+    {
+      "tabla": {
+        "titulo": "Reglas de la difusión comercial según la ayuda oficial",
+        "columnas": [
+          "Regla",
+          "Qué dice WhatsApp"
+        ],
+        "filas": [
+          [
+            "Costo",
+            "Pagas por cada mensaje entregado, después de tus mensajes gratis"
+          ],
+          [
+            "Revisión",
+            "Meta revisa la difusión antes de que se envíe"
+          ],
+          [
+            "Conexión",
+            "Tu celular necesita internet a la hora programada"
+          ],
+          [
+            "Reintentos",
+            "Si no hay internet, reintenta tras un minuto y luego cada 10 minutos"
+          ],
+          [
+            "Demora",
+            "Suele tardar segundos, pero puede tardar hasta 3 horas"
+          ],
+          [
+            "Reembolso",
+            "Si no se entrega en 5 días, te devuelven ese mensaje"
+          ],
+          [
+            "Permiso",
+            "Debes tener permiso de tus clientes y respetar a quien pida no recibir más"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La demora de hasta tres horas importa. No programes una oferta que vence a la hora exacta del envío."
+    },
+    {
+      "h3": "Si no ves la opción en tu app"
+    },
+    {
+      "p": "La ayuda dice que la función sólo está en un número limitado de países. Puede que todavía no aparezca en tu cuenta."
+    },
+    {
+      "p": "En algunos países se llama mensajes de marketing y en otros difusiones comerciales. Busca los dos nombres en Herramientas."
+    },
+    {
+      "h3": "Qué escribir en una difusión comercial"
+    },
+    {
+      "p": "Una difusión que funciona se lee en cinco segundos. Di la oferta, la fecha y qué hacer."
+    },
+    {
+      "tabla": {
+        "titulo": "Difusiones de ejemplo por giro",
+        "columnas": [
+          "Giro",
+          "Texto de ejemplo",
+          "Botón"
+        ],
+        "filas": [
+          [
+            "Pizzería",
+            "Martes de dos por uno en pizzas medianas, sólo para recoger",
+            "Respuesta personalizada"
+          ],
+          [
+            "Óptica",
+            "Revisión de la vista sin costo esta semana al comprar tus lentes",
+            "Llamada"
+          ],
+          [
+            "Tienda de ropa",
+            "Llegó la colección de invierno, mira tallas y precios",
+            "Catálogo"
+          ],
+          [
+            "Escuela de música",
+            "Inscripciones abiertas para el curso de verano, quedan pocos lugares",
+            "Sitio web"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Estos textos son ejemplos inventados. Usa tus precios y fechas reales."
+    },
+    {
+      "p": "No mandes la misma difusión cada semana. Tus clientes dejan de abrirla y algunos pedirán no recibir más."
+    },
+    {
+      "h3": "A qué hora programarla"
+    },
+    {
+      "p": "No hay una hora mágica. Piensa a qué hora tu cliente revisa su celular con calma."
+    },
+    {
+      "p": "Para comida, una hora antes de la comida o la cena suele tener sentido. Para servicios, media mañana entre semana."
+    },
+    {
+      "p": "Prueba dos horarios distintos en dos difusiones. Mira en las estadísticas cuál tuvo más respuestas."
+    },
+    {
+      "h2": "El mensaje de ausencia con horario"
+    },
+    {
+      "p": "El mensaje de ausencia también se programa. No es una promoción, es un aviso automático cuando no estás."
+    },
+    {
+      "p": "Puedes elegir tres modos. Enviar siempre, horario personalizado o fuera del horario comercial."
+    },
+    {
+      "p": "El horario personalizado sirve para fechas concretas. Por ejemplo el puente de noviembre o tus vacaciones de Semana Santa."
+    },
+    {
+      "p": "La guía de [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp) trae los pasos y textos de ejemplo."
+    },
+    {
+      "h2": "Listas de difusión, gratis pero sin programar"
+    },
+    {
+      "p": "Las listas de difusión son grupos de contactos guardados. Mandas un mensaje y cada uno lo recibe como chat privado."
+    },
+    {
+      "tabla": {
+        "titulo": "Lo que dice la ayuda oficial de las listas de difusión",
+        "columnas": [
+          "Punto",
+          "Regla"
+        ],
+        "filas": [
+          [
+            "Máximo por lista",
+            "256 contactos"
+          ],
+          [
+            "Quién lo recibe",
+            "Sólo quien tiene tu número guardado"
+          ],
+          [
+            "Respuestas",
+            "Te llegan a ti en privado"
+          ],
+          [
+            "Dónde se crean",
+            "En el celular, no en la versión web ni de escritorio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La regla más importante es la segunda. Si el cliente no te guardó, tu mensaje no le llega."
+    },
+    {
+      "p": "Por eso conviene pedir que te guarden. Un buen momento es al entregar el primer pedido."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Calendario de recordatorios para tu negocio"
+    },
+    {
+      "p": "Si no puedes programar el envío, programa el recordatorio para ti. Una alarma en tu calendario y un texto ya escrito resuelven casi todo."
+    },
+    {
+      "p": "Usa una respuesta rápida con el texto. Cuando suene la alarma, abres el chat y la pegas en segundos."
+    },
+    {
+      "tabla": {
+        "titulo": "Calendario de ejemplo por giro",
+        "columnas": [
+          "Giro",
+          "Qué recordar",
+          "Cuándo"
+        ],
+        "filas": [
+          [
+            "Consultorio dental",
+            "Cita del día siguiente",
+            "Un día antes a las 6 de la tarde"
+          ],
+          [
+            "Taller mecánico",
+            "Servicio de afinación",
+            "Seis meses después del último"
+          ],
+          [
+            "Estética",
+            "Retoque de tinte",
+            "Cinco o seis semanas después"
+          ],
+          [
+            "Escuela de regularización",
+            "Pago de la mensualidad",
+            "Tres días antes del vencimiento"
+          ],
+          [
+            "Pastelería",
+            "Cumpleaños de clientes frecuentes",
+            "Una semana antes"
+          ],
+          [
+            "Veterinaria",
+            "Vacuna anual",
+            "Un mes antes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Estos tiempos son ejemplos. Ajústalos a lo que de verdad pasa en tu negocio."
+    },
+    {
+      "p": "Para textos de recordatorio, revisa la guía de [mensaje de recordatorio para clientes](id:mensaje-de-recordatorio-para-clientes)."
+    },
+    {
+      "h2": "Cómo armar tu sistema en una hoja"
+    },
+    {
+      "p": "No necesitas un programa caro. Una hoja de cálculo con cinco columnas basta para empezar."
+    },
+    {
+      "tabla": {
+        "titulo": "Columnas de tu hoja de recordatorios",
+        "columnas": [
+          "Columna",
+          "Ejemplo"
+        ],
+        "filas": [
+          [
+            "Cliente",
+            "Laura Gómez"
+          ],
+          [
+            "Teléfono",
+            "33 1234 5678"
+          ],
+          [
+            "Qué recordar",
+            "Retoque de tinte"
+          ],
+          [
+            "Fecha",
+            "15 de diciembre"
+          ],
+          [
+            "Hecho",
+            "Sí o no"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Revisa la hoja cada mañana. Manda los recordatorios del día y marca la columna de hecho."
+    },
+    {
+      "p": "Al mes ya sabrás cuántos clientes regresaron gracias al recordatorio. Ese número te dice si vale la pena."
+    },
+    {
+      "h2": "Apps de terceros para programar"
+    },
+    {
+      "p": "Hay aplicaciones que prometen programar mensajes en WhatsApp. Algunas piden permisos amplios sobre tu celular o tu cuenta."
+    },
+    {
+      "p": "Antes de instalar una, lee qué permisos pide y quién está detrás. Tu WhatsApp tiene los datos de todos tus clientes."
+    },
+    {
+      "p": "Si una app usa tu cuenta de formas que WhatsApp no permite, tu número puede tener problemas. Para negocios con mucho volumen existe la plataforma oficial de WhatsApp para empresas, que se contrata con proveedores autorizados."
+    },
+    {
+      "h2": "Usa una liga para que te escriban de vuelta"
+    },
+    {
+      "p": "La herramienta de arriba crea una liga de WhatsApp con mensaje listo. Ponla en tus recordatorios por correo o en tu página."
+    },
+    {
+      "p": "Por ejemplo, una veterinaria puede mandar un correo de vacuna con una liga. El cliente toca la liga y su mensaje ya dice «quiero agendar la vacuna»."
+    },
+    {
+      "p": "Así la respuesta llega ordenada y tú sabes de qué recordatorio vino."
+    },
+    {
+      "h2": "Ejemplo de una veterinaria en Mérida"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una veterinaria quiere que sus clientes no olviden la vacuna anual."
+    },
+    {
+      "p": "En su hoja anota cada vacuna con la fecha del año siguiente. Cada lunes revisa qué recordatorios tocan esa semana."
+    },
+    {
+      "p": "Para la campaña de vacunación de primavera usa una difusión comercial programada. La manda un martes a las 10 a quienes aceptaron recibir avisos."
+    },
+    {
+      "p": "Los recordatorios individuales los manda a mano con respuestas rápidas. Así combina lo masivo con lo personal."
+    },
+    {
+      "h2": "Buenas prácticas para no molestar"
+    },
+    {
+      "ul": [
+        "Manda sólo a quien aceptó recibir avisos.",
+        "No mandes más de lo que tú querrías recibir.",
+        "Di quién eres al inicio de cada mensaje.",
+        "Da una forma de dejar de recibir avisos.",
+        "Programa en horas razonables, nunca de madrugada."
+      ]
+    },
+    {
+      "p": "Un cliente molesto puede bloquearte o reportarte. Eso afecta la reputación de tu número."
+    },
+    {
+      "p": "Pide permiso de forma clara desde el primer contacto. Una pregunta como «¿quieres que te avise de promociones por aquí?» basta."
+    },
+    {
+      "p": "Anota en tu hoja quién dijo que sí. Así sabes a quién incluir en cada lista o difusión."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Se pueden programar mensajes en WhatsApp?",
+      "respuesta": "Sí, en parte. WhatsApp Business programa difusiones comerciales y el horario del mensaje de ausencia."
+    },
+    {
+      "pregunta": "¿Puedo programar un mensaje para un solo cliente?",
+      "respuesta": "No según la ayuda oficial. La revisamos el 12 de noviembre de 2026 y no lo describe, así que usa una alarma y una respuesta rápida."
+    },
+    {
+      "pregunta": "¿Las difusiones comerciales son gratis?",
+      "respuesta": "No. Según la ayuda oficial pagas por mensaje entregado después de tus mensajes gratis."
+    },
+    {
+      "pregunta": "¿Cuántos contactos caben en una lista de difusión?",
+      "respuesta": "Hasta 256 por lista, según la ayuda oficial de WhatsApp."
+    },
+    {
+      "pregunta": "¿Por qué mi lista de difusión no le llega a un cliente?",
+      "respuesta": "Porque no tiene tu número guardado. Sólo quien te guardó recibe esos mensajes."
+    },
+    {
+      "pregunta": "¿Es seguro usar apps para programar WhatsApp?",
+      "respuesta": "Depende de la app. Revisa permisos y quién la hace, porque tu cuenta guarda datos de tus clientes."
+    }
+  ],
+  "relacionadas": [
+    "mensajes-automaticos-whatsapp",
+    "mensaje-de-recordatorio-para-clientes",
+    "bot-para-whatsapp",
+    "whatsapp-business-para-empresas",
+    "link-de-whatsapp",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Un recordatorio funciona mejor si lleva a una página con tu agenda y precios. Aliviane te la hace con tu dominio.",
+    "aviso": "Tu link quedó listo. Si quieres una página que acompañe tus recordatorios, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página que acompaña tus recordatorios?",
+    "tituloCorto": "Que tus recordatorios lleven a tu página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de WhatsApp, cómo crear y enviar una difusión comercial (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/1711086883148106/?cms_platform=android&locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, información acerca de los mensajes de marketing (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/178447635241069/?locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar las listas de difusión (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/861663048350950/?cms_platform=android&locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar los mensajes de ausencia (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/2565868990219715/?locale=es_LA"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.brevo.com/es/blog/programar-mensajes-whatsapp/",
+      "titulo": "Programar mensajes WhatsApp",
+      "promete": "Mezcla respuestas automáticas con su plataforma de pago; no separa lo que hace la app gratuita"
+    },
+    {
+      "posicion": 2,
+      "url": "https://es.digitaltrends.com/sociales/whatsapp-prueba-la-programacion-de-mensajes-en-android/",
+      "titulo": "WhatsApp prueba la programación de mensajes en Android",
+      "promete": "Nota de una función en pruebas; no dice qué se puede hacer hoy"
+    },
+    {
+      "posicion": 3,
+      "url": "https://eazybe.com/es/blog/como-programar-mensajes-en-whatsapp",
+      "titulo": "Cómo programar mensajes de WhatsApp: todos los métodos",
+      "promete": "Recomienda apps de terceros sin advertir riesgos de la cuenta ni dar un calendario de uso"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sólo lo que dice faq.whatsapp.com leído el 12-nov-2026: difusión comercial programable (pago por entregado, países limitados, revisión de Meta, reintento cada 10 min hasta 10 veces, demora hasta 3 h, reembolso a 5 días), ausencia con horario, listas de difusión 256 y sólo a quien te guardó. No se recomiendan apps de terceros por nombre. Sin precio por mensaje. Ángulo propio: qué se programa hoy y calendario de recordatorios por giro."
+}

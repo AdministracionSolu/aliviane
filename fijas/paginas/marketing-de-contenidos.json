@@ -1,0 +1,535 @@
+{
+  "id": "marketing-de-contenidos",
+  "slug": "marketing-de-contenidos",
+  "molde": "guia",
+  "cabeza": "marketing de contenidos",
+  "busquedas": [],
+  "title": "Marketing de contenidos: qué es y cómo hacerlo bien",
+  "h1": "Marketing de contenidos para negocios pequeños",
+  "description": "El marketing de contenidos atrae clientes con información útil en lugar de anuncios. Te enseñamos a sacar temas de tus clientes, un calendario y cómo medirlo.",
+  "resumen": "Cómo atraer clientes con contenido útil, sacar temas y reutilizar cada pieza",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El marketing de contenidos es atraer clientes con información útil en lugar de anuncios. Guías, videos, respuestas y ejemplos que resuelven dudas de quien podría comprarte.",
+    "Funciona porque la gente busca respuestas antes de comprar. Si tu negocio contesta esas preguntas, te recuerdan y te escriben cuando están listos."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el marketing de contenidos"
+    },
+    {
+      "p": "El marketing de contenidos es enseñar en lugar de anunciar. Publicas información que le sirve a tu cliente aunque todavía no compre."
+    },
+    {
+      "p": "Un anuncio dice «compra mi pintura». Un contenido dice «cómo calcular cuántos litros necesitas para tu recámara»."
+    },
+    {
+      "p": "La persona que leyó el cálculo ya confía un poco en ti. Cuando vaya a comprar, es probable que piense en tu tienda."
+    },
+    {
+      "p": "El contenido puede ser texto, video o fotos. También audio o una herramienta. Lo que importa es que resuelva algo."
+    },
+    {
+      "h2": "Por qué le sirve a un negocio pequeño"
+    },
+    {
+      "p": "Las grandes marcas pagan anuncios todo el año. Un negocio pequeño no siempre puede."
+    },
+    {
+      "p": "El contenido bien hecho sigue trabajando meses después de publicarse. Una guía útil en tu página puede traer visitas de Google por años."
+    },
+    {
+      "p": "Además, el contenido te diferencia. Muchos negocios venden lo mismo, pero pocos explican bien."
+    },
+    {
+      "tabla": {
+        "titulo": "Anuncio contra contenido",
+        "columnas": [
+          "Punto",
+          "Anuncio",
+          "Contenido"
+        ],
+        "filas": [
+          [
+            "Qué hace",
+            "Pide la venta ahora",
+            "Ayuda primero y vende después"
+          ],
+          [
+            "Cuánto dura",
+            "Mientras pagas",
+            "Mientras siga siendo útil"
+          ],
+          [
+            "Qué genera",
+            "Visitas inmediatas",
+            "Confianza y visitas que se acumulan"
+          ],
+          [
+            "Qué cuesta",
+            "Dinero por clic o por vista",
+            "Tu tiempo o el de quien lo escriba"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Lo ideal es combinarlos. El contenido atrae y el anuncio empuja lo que ya funcionó."
+    },
+    {
+      "h2": "De dónde sacar los temas"
+    },
+    {
+      "p": "Los mejores temas ya los tienes en tu WhatsApp. Son las preguntas que tus clientes hacen una y otra vez."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Junta las preguntas",
+          "texto": "Revisa tus últimos cien mensajes y anota cada pregunta."
+        },
+        {
+          "titulo": "Agrega las del mostrador",
+          "texto": "Pregunta a quien atiende qué le preguntan más."
+        },
+        {
+          "titulo": "Busca en Google",
+          "texto": "Escribe tu producto y mira las preguntas que Google sugiere."
+        },
+        {
+          "titulo": "Ordena por frecuencia",
+          "texto": "Pon arriba las que más se repiten."
+        },
+        {
+          "titulo": "Elige una por semana",
+          "texto": "Cada pregunta se vuelve una pieza de contenido."
+        }
+      ]
+    },
+    {
+      "p": "Con cincuenta preguntas tienes temas para un año. Y cada una es algo que tus clientes de verdad quieren saber."
+    },
+    {
+      "p": "Para encontrar cómo escribe la gente esas preguntas, lee la guía de [palabras clave](id:palabras-clave)."
+    },
+    {
+      "h3": "Ejemplos de temas por giro"
+    },
+    {
+      "tabla": {
+        "titulo": "Temas de contenido por giro",
+        "columnas": [
+          "Giro",
+          "Pregunta del cliente",
+          "Pieza de contenido"
+        ],
+        "filas": [
+          [
+            "Tienda de pinturas",
+            "¿Cuánta pintura necesito?",
+            "Tabla de litros por metro cuadrado"
+          ],
+          [
+            "Taller mecánico",
+            "¿Cada cuándo cambio el aceite?",
+            "Guía por tipo de auto y uso"
+          ],
+          [
+            "Nutrióloga",
+            "¿Qué desayuno es bueno para mi hijo?",
+            "Cinco desayunos con lista de compras"
+          ],
+          [
+            "Florería",
+            "¿Qué flores duran más?",
+            "Video con cuidados de cada flor"
+          ],
+          [
+            "Despacho contable",
+            "¿Qué gastos puedo deducir?",
+            "Lista con ejemplos de comprobantes"
+          ],
+          [
+            "Escuela de idiomas",
+            "¿Cuánto tardo en hablar inglés?",
+            "Guía por niveles con horas de estudio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fíjate que ninguna pieza dice «cómprame». Pero todas dejan claro que sabes de lo tuyo."
+    },
+    {
+      "h2": "Dónde publicar tu contenido"
+    },
+    {
+      "p": "Cada lugar tiene su ventaja. Lo ideal es tener una casa principal y llevar el contenido a otros lados."
+    },
+    {
+      "tabla": {
+        "titulo": "Lugares para tu contenido",
+        "columnas": [
+          "Lugar",
+          "Ventaja",
+          "Cuidado"
+        ],
+        "filas": [
+          [
+            "Tu página web",
+            "Es tuya y Google la encuentra",
+            "Necesitas tener página propia"
+          ],
+          [
+            "Redes sociales",
+            "Llega rápido a tus seguidores",
+            "Dura poco en la pantalla"
+          ],
+          [
+            "Video largo",
+            "La gente lo busca para aprender",
+            "Pide más tiempo de grabación"
+          ],
+          [
+            "Boletín por correo",
+            "Llega directo a quien se suscribió",
+            "Necesitas juntar correos"
+          ],
+          [
+            "WhatsApp",
+            "Llega a tus clientes de siempre",
+            "No abuses de los envíos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Tu página debe ser la casa principal. Lo que publicas ahí no depende de los cambios de una red social."
+    },
+    {
+      "p": "Para enviar contenido por correo, revisa la guía de [boletín informativo](id:boletin-informativo)."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Una pieza, cinco formatos"
+    },
+    {
+      "p": "No tienes que inventar algo nuevo para cada red. Haz una pieza principal y córtala en pedazos."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo con la guía de cuánta pintura necesitas",
+        "columnas": [
+          "Formato",
+          "Cómo queda"
+        ],
+        "filas": [
+          [
+            "Guía en tu página",
+            "El texto completo con tabla de litros y ejemplos"
+          ],
+          [
+            "Carrusel en Instagram",
+            "Cinco imágenes con los pasos del cálculo"
+          ],
+          [
+            "Video corto",
+            "Un vendedor midiendo una pared y haciendo la cuenta"
+          ],
+          [
+            "Historia",
+            "Una encuesta sobre qué color van a pintar"
+          ],
+          [
+            "Mensaje de WhatsApp",
+            "La tabla con la liga a la guía completa"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Así una sola idea te da contenido para toda la semana. Y cada formato manda a la guía de tu página."
+    },
+    {
+      "h2": "Calendario de un mes"
+    },
+    {
+      "p": "Este calendario es para un negocio que dedica unas cuatro horas a la semana. Ajústalo a tu tiempo."
+    },
+    {
+      "tabla": {
+        "titulo": "Calendario de ejemplo",
+        "columnas": [
+          "Semana",
+          "Pieza principal",
+          "Derivados"
+        ],
+        "filas": [
+          [
+            "1",
+            "Guía con la pregunta más frecuente",
+            "Carrusel, video corto y mensaje a clientes"
+          ],
+          [
+            "2",
+            "Lista de errores comunes en tu giro",
+            "Tres historias y un video"
+          ],
+          [
+            "3",
+            "Caso de un cliente con su permiso",
+            "Foto de antes y después y testimonio"
+          ],
+          [
+            "4",
+            "Tabla de precios explicada",
+            "Publicación con precio desde y liga a la página"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La semana cuatro es la más comercial. Después de tres semanas de ayuda, hablar de precios cae natural."
+    },
+    {
+      "h2": "Cómo escribir contenido que se lea"
+    },
+    {
+      "ul": [
+        "Contesta la pregunta en las primeras líneas.",
+        "Usa frases cortas y palabras de tu cliente.",
+        "Pon tablas, listas y pasos numerados.",
+        "Usa fotos reales de tu negocio.",
+        "Termina con una forma de contactarte."
+      ]
+    },
+    {
+      "p": "La primera regla es la más importante. Nadie quiere leer tres párrafos para encontrar la respuesta."
+    },
+    {
+      "h2": "Cómo hacer contenido si no te gusta escribir"
+    },
+    {
+      "p": "No todos disfrutan escribir. Hay formas de hacer contenido sin sentarte horas frente a la computadora."
+    },
+    {
+      "ul": [
+        "Graba un audio contestando la pregunta y luego pásalo a texto.",
+        "Pide a un cliente que te entreviste con tres preguntas.",
+        "Graba un video corto mientras trabajas y explica lo que haces.",
+        "Usa tus respuestas de WhatsApp como borrador y ordénalas."
+      ]
+    },
+    {
+      "p": "Lo importante es la información, no que suene bonito. Tu cliente quiere saber, no leer poesía."
+    },
+    {
+      "p": "Si tienes equipo, reparte las piezas. Quien atiende el mostrador conoce las preguntas mejor que nadie."
+    },
+    {
+      "h2": "Cómo actualizar el contenido viejo"
+    },
+    {
+      "p": "Una guía de hace dos años puede tener precios o datos viejos. Revísala antes de que te cueste la confianza de un cliente."
+    },
+    {
+      "p": "Pon una fecha de revisión en cada guía. Cada seis meses abre tus guías más visitadas y corrige lo que cambió."
+    },
+    {
+      "p": "Actualizar una guía que ya recibe visitas suele rendir más que escribir una nueva. Ya tiene lectores y Google ya la conoce."
+    },
+    {
+      "h2": "Contenido para cada etapa del cliente"
+    },
+    {
+      "p": "No todos los lectores están listos para comprar. Algunos apenas descubren que tienen un problema."
+    },
+    {
+      "tabla": {
+        "titulo": "Contenido por etapa",
+        "columnas": [
+          "Etapa",
+          "Qué piensa el cliente",
+          "Contenido que le sirve"
+        ],
+        "filas": [
+          [
+            "Descubre",
+            "Algo no anda bien con mi auto",
+            "Señales de que tus frenos necesitan revisión"
+          ],
+          [
+            "Compara",
+            "¿Taller de agencia o taller de barrio?",
+            "Diferencias de precio y garantía"
+          ],
+          [
+            "Decide",
+            "¿A qué taller llevo mi auto?",
+            "Precios, opiniones y cómo agendar"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cubre las tres etapas con al menos una pieza cada una. Así acompañas al cliente desde la duda hasta la cita."
+    },
+    {
+      "h2": "Contenido y Google"
+    },
+    {
+      "p": "Cuando alguien busca una pregunta, Google intenta mostrar la mejor respuesta. Si tu guía es clara, puede salir."
+    },
+    {
+      "p": "No hay garantía de posición. Lo que sí ayuda es contestar mejor que lo que ya aparece."
+    },
+    {
+      "p": "Busca tu pregunta en Google antes de escribir. Lee las tres primeras respuestas y anota qué les falta."
+    },
+    {
+      "p": "Lee más sobre cómo trabaja Google en la guía de [SEO](id:seo)."
+    },
+    {
+      "h2": "Cómo medir si funciona"
+    },
+    {
+      "p": "El contenido tarda en dar resultados. Mide cada mes y compara contra el anterior."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué medir",
+        "columnas": [
+          "Número",
+          "Dónde se ve",
+          "Qué te dice"
+        ],
+        "filas": [
+          [
+            "Visitas a tus guías",
+            "Estadísticas de tu página",
+            "Si la gente encuentra tu contenido"
+          ],
+          [
+            "Búsquedas que te traen",
+            "Search Console",
+            "Qué preguntas contestas bien"
+          ],
+          [
+            "Guardados y compartidos",
+            "Estadísticas de redes",
+            "Qué contenido les pareció útil"
+          ],
+          [
+            "Mensajes que mencionan una guía",
+            "Tu WhatsApp",
+            "Si el contenido lleva a ventas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Pregunta a tus clientes nuevos cómo te encontraron. Si mencionan una guía, ya sabes qué tema repetir."
+    },
+    {
+      "h2": "Ejemplo de un despacho contable en Monterrey"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Un despacho pequeño recibía las mismas preguntas cada abril."
+    },
+    {
+      "p": "Escribió una guía en su página sobre qué papeles juntar para la declaración anual. La compartió en redes y por WhatsApp a sus clientes."
+    },
+    {
+      "p": "En marzo del año siguiente la guía volvió a recibir visitas. Varias personas escribieron diciendo que la habían leído."
+    },
+    {
+      "p": "El despacho actualizó la guía cada año con los cambios. Se volvió su mejor forma de conseguir clientes nuevos en temporada."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Hablar sólo de tu negocio y no de lo que le importa al cliente.",
+        "Publicar mucho un mes y nada los tres siguientes.",
+        "Copiar textos de otras páginas.",
+        "Poner todo el contenido en redes y nada en tu página.",
+        "Escribir con palabras técnicas que tu cliente no usa.",
+        "No poner cómo contactarte al final."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es el marketing de contenidos?",
+      "respuesta": "Es atraer clientes con información útil. Publicas guías, videos o respuestas en lugar de sólo anuncios."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia con la publicidad?",
+      "respuesta": "La publicidad pide la venta ahora. El contenido ayuda primero y la venta llega después."
+    },
+    {
+      "pregunta": "¿Cada cuánto debo publicar contenido?",
+      "respuesta": "Una pieza principal por semana es un buen ritmo. La constancia importa más que la cantidad."
+    },
+    {
+      "pregunta": "¿Necesito un blog para hacer marketing de contenidos?",
+      "respuesta": "No es obligatorio. Pero tener tus guías en tu página propia ayuda a que Google las encuentre."
+    },
+    {
+      "pregunta": "¿Cuánto tarda en dar resultados?",
+      "respuesta": "Meses. El contenido se acumula y sigue trayendo visitas mucho tiempo después."
+    },
+    {
+      "pregunta": "¿De dónde saco ideas de contenido?",
+      "respuesta": "De las preguntas de tus clientes. Revisa tu WhatsApp y anota lo que más te preguntan."
+    }
+  ],
+  "relacionadas": [
+    "marketing-en-redes-sociales",
+    "marketing-digital",
+    "seo",
+    "palabras-clave",
+    "boletin-informativo",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "El contenido necesita un lugar propio donde vivir y ser encontrado. Aliviane te hace la página con tu dominio.",
+    "titulo": "¿Hacemos la página donde vivirá tu contenido?",
+    "tituloCorto": "Tu contenido merece casa propia",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.getresponse.com/es/ayuda/marketing-de-contenido.html",
+      "titulo": "Marketing de contenido",
+      "promete": "Definición breve de glosario; sin método para sacar temas ni ejemplo de negocio pequeño"
+    },
+    {
+      "posicion": 2,
+      "url": "https://metricool.com/es/marketing-de-contenidos/",
+      "titulo": "Qué es el Marketing de Contenidos",
+      "promete": "Guía extensa que lleva a su herramienta; no aterriza en un taller o un consultorio"
+    },
+    {
+      "posicion": 3,
+      "url": "https://neilpatel.com/es/que-es-el-marketing-de-contenidos-una-guia-paso-a-paso/",
+      "titulo": "Qué es el Marketing de Contenidos: una guía paso a paso",
+      "promete": "Pasos pensados para blogs grandes; no dice cómo reutilizar una pieza en varios formatos"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin cifras de terceros sobre rendimiento del contenido (las del top 3 son de proveedores). Ángulo propio: sacar temas de las preguntas de WhatsApp, una pieza en cinco formatos, calendario de un mes. Distinto de marketing-en-redes-sociales (qué publicar en redes) y marketing-digital (G1)."
+}

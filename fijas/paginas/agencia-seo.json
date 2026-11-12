@@ -1,0 +1,473 @@
+{
+  "id": "agencia-seo",
+  "slug": "agencia-seo",
+  "molde": "guia",
+  "cabeza": "agencia seo",
+  "busquedas": [
+    "agencia de seo",
+    "agencias de seo",
+    "consultor seo",
+    "seo consultor",
+    "consultoria seo",
+    "especialista en seo"
+  ],
+  "title": "Agencia SEO: cómo elegir una y qué preguntarle antes",
+  "h1": "Cómo elegir una agencia SEO sin tirar tu dinero",
+  "description": "Una agencia SEO trabaja tu página para que Google la entienda. Te damos 12 preguntas para elegirla, señales de alerta y qué hacer tú antes. Revisa la lista.",
+  "resumen": "Qué hace una agencia SEO, cómo elegirla y qué preparar antes de contratar",
+  "categoria": "SEO",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Una agencia SEO es un equipo que trabaja tu página para que Google la entienda y la muestre en búsquedas sin anuncios. Puede ser una empresa o un consultor independiente.",
+    "Antes de contratar, revisa que tengas una página propia que trabajar. Pide un plan con tareas concretas y desconfía de quien te garantice un lugar en Google."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué hace una agencia SEO"
+    },
+    {
+      "p": "Una agencia SEO trabaja para que tu página aparezca en Google sin pagar anuncios. Revisa tu página, escribe textos y busca que otros sitios te mencionen."
+    },
+    {
+      "p": "El trabajo se divide en tres partes. La parte técnica de la página, el contenido y la reputación fuera de ella."
+    },
+    {
+      "p": "Una agencia no controla los resultados de Google. Lo que hace es mejorar tu página para que Google tenga motivos para mostrarla."
+    },
+    {
+      "p": "Google tiene una página de ayuda sobre cómo elegir un SEO. Ahí recomienda pedir ejemplos de trabajo y desconfiar de garantías de posición."
+    },
+    {
+      "h2": "Agencia, consultor o hacerlo tú"
+    },
+    {
+      "p": "No todos los negocios necesitan una agencia. Muchos negocios pequeños pueden avanzar solos con lo básico."
+    },
+    {
+      "tabla": {
+        "titulo": "Tres caminos para hacer SEO",
+        "columnas": [
+          "Camino",
+          "Cuándo conviene",
+          "Qué esperar"
+        ],
+        "filas": [
+          [
+            "Hacerlo tú",
+            "Negocio local con poca competencia",
+            "Tiempo tuyo cada mes y aprender lo básico"
+          ],
+          [
+            "Consultor independiente",
+            "Necesitas guía y tienes quién ejecute",
+            "Diagnóstico y plan, tú o tu equipo lo hacen"
+          ],
+          [
+            "Agencia",
+            "Competencia fuerte o muchas páginas",
+            "Equipo que ejecuta y reporta cada mes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tienes una tortillería en tu colonia, lo básico lo haces tú. Si vendes muebles a todo el país, una agencia puede tener sentido."
+    },
+    {
+      "p": "La guía de [SEO](id:seo) trae diez tareas para empezar sin ayuda. La de [SEO local](id:seo-local) cubre lo del mapa."
+    },
+    {
+      "h2": "Antes de contratar, revisa esto"
+    },
+    {
+      "p": "Una agencia trabaja sobre lo que ya tienes. Si no tienes base, pagarás meses para construirla."
+    },
+    {
+      "ul": [
+        "Ten una página web propia con tu dominio.",
+        "Ten acceso a la página y a su administración.",
+        "Ten tu ficha de Google verificada a tu nombre.",
+        "Da de alta tu página en Search Console.",
+        "Define qué vendes y en qué ciudades.",
+        "Ten un presupuesto mensual que puedas sostener seis meses."
+      ]
+    },
+    {
+      "p": "Lo de los accesos es importante. Todo debe quedar a tu nombre, no al de la agencia."
+    },
+    {
+      "p": "Si la agencia se va, tu dominio, tu página y tu ficha deben quedarse contigo. Pídelo por escrito en el contrato."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "12 preguntas para la primera junta"
+    },
+    {
+      "p": "Lleva estas preguntas impresas. Anota las respuestas de cada agencia para comparar después."
+    },
+    {
+      "ol": [
+        "¿Qué revisaron de mi página antes de esta junta?",
+        "¿Qué tareas harán el primer mes y cuáles los siguientes?",
+        "¿Quién va a trabajar mi cuenta y cuántas cuentas lleva?",
+        "¿Cómo eligen las búsquedas que vamos a trabajar?",
+        "¿Qué cambios harán dentro de mi página?",
+        "¿Escribirán textos nuevos o sólo revisarán los que tengo?",
+        "¿Cómo consiguen menciones o ligas de otros sitios?",
+        "¿Qué números me van a reportar cada mes?",
+        "¿Me darán acceso a mi Search Console y a mis estadísticas?",
+        "¿Qué pasa con mi página si termino el contrato?",
+        "¿Tienen clientes de mi giro o de mi ciudad que pueda ver?",
+        "¿Cuánto tiempo mínimo piden de contrato y por qué?"
+      ]
+    },
+    {
+      "p": "La mejor señal es que lleguen con algo ya revisado. Una agencia que no abrió tu página antes de la junta te venderá un paquete general."
+    },
+    {
+      "h2": "Señales de alerta"
+    },
+    {
+      "p": "Estas frases deberían hacerte pensarlo dos veces. Ninguna agencia seria las usa."
+    },
+    {
+      "tabla": {
+        "titulo": "Señales de alerta y por qué importan",
+        "columnas": [
+          "Lo que dicen",
+          "Por qué preocupa"
+        ],
+        "filas": [
+          [
+            "Te aseguramos la primera posición",
+            "Nadie controla los resultados de Google"
+          ],
+          [
+            "Tenemos un trato especial con Google",
+            "Google no vende posiciones orgánicas"
+          ],
+          [
+            "Te ponemos mil ligas este mes",
+            "Las ligas compradas en paquete pueden dañar tu página"
+          ],
+          [
+            "No necesitas acceso a tus cuentas",
+            "Te quedas sin control de lo tuyo"
+          ],
+          [
+            "El reporte es confidencial",
+            "Debes ver qué se hizo con tu dinero"
+          ],
+          [
+            "Resultados en una semana",
+            "El SEO tarda semanas o meses en notarse"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La garantía de posición es la más común. Google lo advierte en su propia ayuda para quien contrata SEO."
+    },
+    {
+      "h2": "Cómo comparar dos propuestas"
+    },
+    {
+      "p": "Pide las propuestas por escrito. Ponlas lado a lado en una tabla como esta."
+    },
+    {
+      "tabla": {
+        "titulo": "Tabla para comparar propuestas",
+        "columnas": [
+          "Punto",
+          "Agencia A",
+          "Agencia B"
+        ],
+        "filas": [
+          [
+            "Tareas del primer mes",
+            "",
+            ""
+          ],
+          [
+            "Búsquedas que trabajarán",
+            "",
+            ""
+          ],
+          [
+            "Textos nuevos al mes",
+            "",
+            ""
+          ],
+          [
+            "Cómo consiguen ligas",
+            "",
+            ""
+          ],
+          [
+            "Reporte mensual con qué números",
+            "",
+            ""
+          ],
+          [
+            "Plazo mínimo",
+            "",
+            ""
+          ],
+          [
+            "Precio mensual",
+            "",
+            ""
+          ],
+          [
+            "Quién es dueño de lo hecho",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una propuesta barata con tareas vagas sale cara. Paga por tareas que puedas revisar, no por promesas."
+    },
+    {
+      "h2": "Qué números pedir en el reporte"
+    },
+    {
+      "p": "Un reporte útil se lee en cinco minutos. Debe tener números de fuentes que tú también puedas abrir."
+    },
+    {
+      "ul": [
+        "Clics desde Google en Search Console, mes contra mes.",
+        "Impresiones, que son las veces que apareciste.",
+        "Búsquedas que más visitas traen.",
+        "Páginas nuevas o cambiadas ese mes.",
+        "Mensajes, llamadas o pedidos que llegaron desde la página."
+      ]
+    },
+    {
+      "p": "El último número es el que importa a tu negocio. Las visitas sin mensajes no pagan la renta."
+    },
+    {
+      "h2": "Qué hacer mientras llegan los resultados"
+    },
+    {
+      "p": "El SEO tarda. Mientras tanto, tu negocio necesita clientes."
+    },
+    {
+      "p": "Tu ficha de Google, tu WhatsApp y tus redes siguen trabajando. Si necesitas ventas rápidas, los anuncios pagados dan visitas desde el primer día."
+    },
+    {
+      "p": "Lee la diferencia entre los dos caminos en [SEO y SEM](id:seo-y-sem). Muchos negocios combinan los dos al principio."
+    },
+    {
+      "h2": "Ejemplo de un negocio que se preparó antes"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una clínica dental en León quería contratar una agencia."
+    },
+    {
+      "p": "Antes de buscarla, la dueña hizo su página, verificó su ficha y abrió Search Console. Juntó quince reseñas en dos meses."
+    },
+    {
+      "p": "Cuando habló con tres agencias, ya sabía qué tenía. Dos le ofrecieron paquetes iguales para todos."
+    },
+    {
+      "p": "La tercera llegó con una lista de cinco búsquedas de su ciudad que no aparecía. Esa fue la que contrató."
+    },
+    {
+      "h2": "Cómo se ve un trimestre de trabajo bien hecho"
+    },
+    {
+      "p": "Una agencia seria trabaja por etapas. Esta tabla es un ejemplo de cómo se reparten las tareas en tres meses."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de plan de tres meses",
+        "columnas": [
+          "Mes",
+          "Tareas",
+          "Qué deberías ver"
+        ],
+        "filas": [
+          [
+            "Primero",
+            "Revisión técnica, búsquedas elegidas y arreglos de velocidad",
+            "Un documento con hallazgos y prioridades"
+          ],
+          [
+            "Segundo",
+            "Textos nuevos o mejorados de tus servicios principales",
+            "Páginas cambiadas que puedes abrir y leer"
+          ],
+          [
+            "Tercero",
+            "Menciones locales, ficha de Google y ajustes por resultados",
+            "Lista de sitios que ya te mencionan"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si al final del primer mes no hay un documento de hallazgos, pregunta por qué. Es lo mínimo que deberías recibir."
+    },
+    {
+      "p": "El trabajo de SEO deja huella visible. Textos cambiados, páginas nuevas y ligas que puedes abrir tú mismo."
+    },
+    {
+      "h2": "Cláusulas del contrato que debes leer"
+    },
+    {
+      "p": "El contrato protege a los dos. Léelo completo antes de firmar y pregunta lo que no entiendas."
+    },
+    {
+      "ul": [
+        "Plazo mínimo y qué pasa si quieres terminar antes.",
+        "Lista de tareas incluidas cada mes.",
+        "Quién es dueño de los textos, fotos y páginas creadas.",
+        "Quién guarda las contraseñas de tu dominio y tu página.",
+        "Cada cuánto entregan reporte y en qué formato.",
+        "Qué cuesta aparte, como textos extra o diseño."
+      ]
+    },
+    {
+      "p": "La cláusula de propiedad es la más importante. Todo lo que se hace con tu dinero debe quedar a tu nombre."
+    },
+    {
+      "h2": "Cómo saber si la agencia está trabajando"
+    },
+    {
+      "p": "No necesitas saber SEO para revisar. Basta con abrir tu página y tu Search Console una vez al mes."
+    },
+    {
+      "p": "Busca cambios visibles en tu página. Si en tres meses nada cambió, algo no está pasando."
+    },
+    {
+      "p": "Abre Search Console y mira la gráfica de impresiones. Debería moverse aunque sea poco después de unos meses."
+    },
+    {
+      "p": "Pregunta por cada tarea del reporte. Una buena agencia te explica con calma qué hizo y por qué."
+    },
+    {
+      "h2": "SEO y buscadores con inteligencia artificial"
+    },
+    {
+      "p": "Muchas agencias ahora ofrecen aparecer en respuestas de asistentes con inteligencia artificial. Esos asistentes también leen páginas para contestar."
+    },
+    {
+      "p": "Lo que ayuda ahí es lo mismo que ayuda en Google. Texto claro, precios, ubicación y preguntas contestadas en tu página."
+    },
+    {
+      "p": "Desconfía de quien venda esto como algo mágico y separado. Si tu página explica bien tu negocio, ya tienes la base."
+    },
+    {
+      "h2": "Cuándo no necesitas una agencia todavía"
+    },
+    {
+      "p": "Hay momentos en que contratar SEO es adelantarse. Tu dinero rinde más en otra cosa."
+    },
+    {
+      "ul": [
+        "Si todavía no tienes página propia.",
+        "Si tu negocio atiende sólo tu colonia y tienes pocos competidores.",
+        "Si no puedes sostener el pago al menos seis meses.",
+        "Si aún no sabes qué servicio vende más."
+      ]
+    },
+    {
+      "p": "En esos casos empieza con tu ficha de Google, tus reseñas y una página clara. Cuando eso esté listo, la agencia tendrá con qué trabajar."
+    },
+    {
+      "h2": "Lo que la agencia no puede hacer por ti"
+    },
+    {
+      "p": "Hay cosas que sólo tú puedes dar. La agencia no sabe cómo hablan tus clientes ni qué te preguntan."
+    },
+    {
+      "p": "Dale esa información. Las preguntas que te hacen por WhatsApp son oro para escribir páginas."
+    },
+    {
+      "p": "Tampoco puede inventar reseñas ni fotos reales. Esas salen de tu trabajo diario con clientes."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué hace una agencia SEO?",
+      "respuesta": "Mejora tu página para que Google la entienda. Revisa la parte técnica, escribe contenido y busca menciones en otros sitios."
+    },
+    {
+      "pregunta": "¿Una agencia SEO me garantiza el primer lugar?",
+      "respuesta": "No. Nadie controla los resultados de Google, y quien lo promete está exagerando."
+    },
+    {
+      "pregunta": "¿Necesito página web antes de contratar SEO?",
+      "respuesta": "Sí. La agencia trabaja sobre tu página, y sin ella empieza de cero con tu dinero."
+    },
+    {
+      "pregunta": "¿Cuánto tarda el SEO en dar resultados?",
+      "respuesta": "Semanas para notarse y meses en búsquedas con mucha competencia. Depende de tu giro y tu ciudad."
+    },
+    {
+      "pregunta": "¿Es mejor una agencia o un consultor?",
+      "respuesta": "Depende de quién ejecute. El consultor guía y la agencia también hace el trabajo."
+    },
+    {
+      "pregunta": "¿Qué pasa con mi página si dejo a la agencia?",
+      "respuesta": "Debe quedarse contigo. Pide por escrito que dominio, página y cuentas estén a tu nombre."
+    },
+    {
+      "pregunta": "¿Aliviane hace SEO?",
+      "respuesta": "No como servicio aparte. Aliviane hace tu página rápida, con tu dominio y lista para que Google la lea."
+    }
+  ],
+  "relacionadas": [
+    "seo",
+    "seo-local",
+    "palabras-clave",
+    "seo-y-sem",
+    "slug-seo",
+    "diseno-de-paginas-web"
+  ],
+  "venta": {
+    "puente": "Una agencia SEO necesita una página sobre la cual trabajar. Aliviane te entrega esa página rápida y con tu dominio.",
+    "titulo": "¿Te hacemos la página antes de contratar SEO?",
+    "tituloCorto": "Primero la página, luego el SEO",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google Search Central, ¿necesitas un SEO?",
+      "url": "https://developers.google.com/search/docs/fundamentals/do-i-need-seo?hl=es"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.cyberclick.es/numerical-blog/agencia-seo-que-es-y-como-elegir-la-mejor",
+      "titulo": "Agencia SEO: ¿Qué es y cómo elegir la mejor?",
+      "promete": "Criterios generales de elección desde España; sin lista de preguntas para la primera junta ni qué preparar antes"
+    },
+    {
+      "posicion": 2,
+      "url": "https://seranking.com/es/agencies/agencia-seo-en-mexico/",
+      "titulo": "Agencia SEO en México",
+      "promete": "Directorio de agencias sin forma de comparar propuestas ni señales de alerta"
+    },
+    {
+      "posicion": 3,
+      "url": "https://techsy.io/es/blog/agencia-seo-tradicional-vs-ia",
+      "titulo": "Agencia SEO tradicional vs IA",
+      "promete": "Comparación de precios en euros; no aterriza en un negocio pequeño de México"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Aliviane NO vende SEO: la página orienta para contratar bien y ofrece la página web. Sin precios de agencias (no hay fuente confiable en pesos). Top 3 leído con WebSearch el 12-nov-2026."
+}

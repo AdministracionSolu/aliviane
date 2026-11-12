@@ -1,0 +1,484 @@
+{
+  "id": "publicidad-en-google",
+  "slug": "publicidad-en-google",
+  "molde": "guia",
+  "cabeza": "google anuncios",
+  "busquedas": [
+    "anuncios google",
+    "publicidad en google"
+  ],
+  "title": "Google anuncios: cómo funcionan y cómo controlar tu gasto",
+  "h1": "Publicidad en Google: cómo funcionan los anuncios para un negocio",
+  "description": "En Google Ads pagas cuando alguien da clic en tu anuncio y tú fijas el presupuesto. Te explicamos los tipos, el gasto diario y los pasos para empezar bien.",
+  "resumen": "Cómo funcionan los anuncios de Google, cómo se cobra y cómo armar la primera campaña",
+  "categoria": "Google",
+  "revisada": "2026-11",
+  "respuesta": [
+    "La publicidad en Google se hace con Google Ads. Tu anuncio sale arriba de los resultados cuando alguien busca lo que vendes, y en búsqueda pagas sólo cuando dan clic.",
+    "Tú fijas un presupuesto diario promedio. Según la ayuda de Google, un día puede gastar hasta el doble, pero en el mes no pasa de 30.4 veces ese promedio."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es la publicidad en Google"
+    },
+    {
+      "p": "Google Ads es la plataforma de anuncios de Google. Ahí creas anuncios que salen en el buscador, en YouTube, en Maps y en otros sitios."
+    },
+    {
+      "p": "En el buscador, tu anuncio aparece arriba o abajo de los resultados normales. Lleva la marca de patrocinado para que la gente sepa que es pagado."
+    },
+    {
+      "p": "La gran diferencia con el SEO es el tiempo. Un anuncio puede salir el mismo día que lo apruebas."
+    },
+    {
+      "p": "La desventaja es que las visitas se detienen cuando dejas de pagar. Por eso muchos negocios combinan anuncios con su página trabajada para Google."
+    },
+    {
+      "h2": "Cómo se cobra"
+    },
+    {
+      "p": "En los anuncios de búsqueda normalmente pagas por clic. Si nadie da clic, no pagas por ese anuncio mostrado."
+    },
+    {
+      "p": "El precio de cada clic no es fijo. Sale de una subasta entre los anunciantes que quieren la misma búsqueda."
+    },
+    {
+      "p": "Por eso no hay un precio único para todos. Un clic para abogado de divorcios en la capital cuesta distinto que uno para paletería en un pueblo."
+    },
+    {
+      "h2": "El presupuesto diario promedio"
+    },
+    {
+      "p": "Tú decides cuánto quieres gastar en promedio por día. Google lo llama presupuesto diario promedio."
+    },
+    {
+      "p": "La ayuda oficial de Google explica dos límites. Esto evita que te lleves un susto con el cobro."
+    },
+    {
+      "tabla": {
+        "titulo": "Cómo se comporta el presupuesto según la ayuda de Google",
+        "columnas": [
+          "Concepto",
+          "Qué dice Google"
+        ],
+        "filas": [
+          [
+            "Gasto de un día",
+            "Puede llegar hasta el doble de tu promedio en la mayoría de campañas"
+          ],
+          [
+            "Gasto del mes",
+            "No pasa de 30.4 veces tu promedio diario en la mayoría de campañas"
+          ],
+          [
+            "Días flojos",
+            "Algunos días gastará menos que el promedio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Un ejemplo con números redondos. Si pones 100 pesos diarios, un día puede gastar 200, pero el mes no pasa de 3,040."
+    },
+    {
+      "p": "Google usa esa libertad para gastar más los días con más búsquedas. Al final del mes el total queda dentro del límite."
+    },
+    {
+      "h2": "Tipos de anuncios de Google"
+    },
+    {
+      "tabla": {
+        "titulo": "Dónde puede salir tu anuncio",
+        "columnas": [
+          "Tipo",
+          "Dónde sale",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Búsqueda",
+            "Resultados de Google",
+            "Llegar a quien ya busca lo que vendes"
+          ],
+          [
+            "Display",
+            "Páginas y apps asociadas a Google",
+            "Que te vean quienes aún no buscan"
+          ],
+          [
+            "Video",
+            "YouTube",
+            "Contar algo con imagen y sonido"
+          ],
+          [
+            "Shopping",
+            "Pestaña de productos",
+            "Tiendas con catálogo y precios"
+          ],
+          [
+            "Máximo rendimiento",
+            "Varios lugares a la vez",
+            "Que Google reparta tu dinero por ti"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Para un negocio que empieza, búsqueda suele ser la más clara. La persona ya tiene la necesidad y te está buscando."
+    },
+    {
+      "p": "Display y video sirven más para que te conozcan. Cuestan menos por vista, pero la gente no estaba buscando comprar."
+    },
+    {
+      "h2": "Antes de crear tu primera campaña"
+    },
+    {
+      "p": "Hay tres cosas que debes tener listas. Sin ellas gastas en clics que no se vuelven clientes."
+    },
+    {
+      "ul": [
+        "Una página a dónde mandar el clic, rápida en celular.",
+        "Un botón claro para escribirte, como WhatsApp.",
+        "Una lista de búsquedas que hace tu cliente cuando ya quiere comprar."
+      ]
+    },
+    {
+      "p": "La página importa mucho. Si el anuncio dice pasteles por pedido y la página es tu portada general, la gente se va."
+    },
+    {
+      "p": "Una [landing page](id:landing-page) hecha para el anuncio repite la promesa y pide una sola acción."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo armar la primera campaña paso a paso"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Define una sola meta",
+          "texto": "Elige qué quieres que pase. Mensajes por WhatsApp, llamadas o visitas al local."
+        },
+        {
+          "titulo": "Elige pocas búsquedas",
+          "texto": "Empieza con diez o quince búsquedas muy claras. Por ejemplo, fumigación de casas en Toluca."
+        },
+        {
+          "titulo": "Agrega palabras negativas",
+          "texto": "Marca las búsquedas que no te sirven. Por ejemplo, gratis, curso o empleo."
+        },
+        {
+          "titulo": "Escribe el anuncio con tu ciudad",
+          "texto": "Di qué haces, dónde y qué ganas al escribirte. Usa las palabras de la búsqueda."
+        },
+        {
+          "titulo": "Limita la zona",
+          "texto": "Marca sólo las ciudades o el radio donde atiendes. No pagues clics de otros estados."
+        },
+        {
+          "titulo": "Pon un presupuesto que aguantes",
+          "texto": "Elige un monto que puedas sostener un mes completo sin estrés."
+        },
+        {
+          "titulo": "Revisa cada semana",
+          "texto": "Mira qué búsquedas trajeron clics y quita las que no sirven."
+        }
+      ]
+    },
+    {
+      "p": "Las palabras negativas son el paso que más dinero ahorra. Sin ellas pagas clics de gente que buscaba otra cosa."
+    },
+    {
+      "h2": "Ejemplo de una fumigadora en Toluca"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una fumigadora quiere más mensajes de casas en Toluca y Metepec."
+    },
+    {
+      "tabla": {
+        "titulo": "Campaña de ejemplo",
+        "columnas": [
+          "Parte",
+          "Lo que eligió"
+        ],
+        "filas": [
+          [
+            "Meta",
+            "Mensajes de WhatsApp"
+          ],
+          [
+            "Búsquedas",
+            "fumigación de casas Toluca, fumigar cucarachas Metepec"
+          ],
+          [
+            "Negativas",
+            "curso, empleo y gratis"
+          ],
+          [
+            "Zona",
+            "Toluca y Metepec"
+          ],
+          [
+            "Anuncio",
+            "Fumigación de casas en Toluca con visita el mismo día"
+          ],
+          [
+            "Página",
+            "Landing con precios desde, colonias y botón de WhatsApp"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Después de dos semanas, vio que muchos clics venían de «fumigación de termitas». Ella no hacía termitas, así que la agregó como negativa."
+    },
+    {
+      "p": "Ese tipo de ajuste es la mayor parte del trabajo. Revisar, quitar lo que no sirve y dejar lo que sí trae mensajes."
+    },
+    {
+      "h2": "Cómo escribir un anuncio de búsqueda"
+    },
+    {
+      "p": "Un anuncio de búsqueda tiene títulos cortos y descripciones. Google mezcla las piezas para formar el anuncio que muestra."
+    },
+    {
+      "p": "Escribe varios títulos distintos. Uno con el servicio y la ciudad, otro con el beneficio y otro con la acción."
+    },
+    {
+      "tabla": {
+        "titulo": "Piezas de un anuncio de ejemplo",
+        "columnas": [
+          "Pieza",
+          "Ejemplo para un cerrajero en Monterrey"
+        ],
+        "filas": [
+          [
+            "Título 1",
+            "Cerrajero a domicilio en Monterrey"
+          ],
+          [
+            "Título 2",
+            "Llegamos en menos de una hora"
+          ],
+          [
+            "Título 3",
+            "Escríbenos por WhatsApp ahora"
+          ],
+          [
+            "Descripción 1",
+            "Apertura de casas y autos, cambio de chapas y duplicado de llaves"
+          ],
+          [
+            "Descripción 2",
+            "Precio antes de ir, pagas al terminar el trabajo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Este ejemplo es inventado. Lo que importa es que cada pieza diga algo distinto y concreto."
+    },
+    {
+      "p": "No prometas lo que no cumples. Si dices menos de una hora y llegas en tres, la reseña lo dirá."
+    },
+    {
+      "h2": "Cómo elegir las búsquedas"
+    },
+    {
+      "p": "Piensa en lo que escribe tu cliente cuando ya quiere comprar. No en lo que escribe cuando apenas investiga."
+    },
+    {
+      "tabla": {
+        "titulo": "Búsquedas con intención de compra y sin ella",
+        "columnas": [
+          "Con intención de compra",
+          "Sin intención de compra"
+        ],
+        "filas": [
+          [
+            "cerrajero a domicilio Monterrey",
+            "cómo abrir una puerta sin llave"
+          ],
+          [
+            "pastel de tres leches a domicilio",
+            "receta de pastel de tres leches"
+          ],
+          [
+            "fumigación de casas precio",
+            "qué come una cucaracha"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las de la izquierda cuestan más por clic, pero traen gente lista. Las de la derecha traen curiosos que no compran."
+    },
+    {
+      "p": "La guía de [palabras clave](id:palabras-clave) explica cómo encontrar más búsquedas así."
+    },
+    {
+      "h2": "Cuánto tiempo dejar correr una campaña"
+    },
+    {
+      "p": "Una campaña necesita datos para saber qué funciona. Con pocos clics no puedes sacar conclusiones."
+    },
+    {
+      "p": "Déjala correr al menos dos o tres semanas antes de cambiar mucho. Ajusta palabras negativas cada semana desde el principio."
+    },
+    {
+      "p": "Si después de un mes no llega ningún mensaje, revisa la página antes que el anuncio. Muchas veces el problema está donde aterriza el clic."
+    },
+    {
+      "h2": "Anuncios de Google y tu ficha del mapa"
+    },
+    {
+      "p": "Tu ficha de Google es gratis y aparece en el mapa. Los anuncios son otro espacio, pagado."
+    },
+    {
+      "p": "Las dos cosas se ayudan. Alguien ve tu anuncio, luego ve tus reseñas en la ficha y se decide."
+    },
+    {
+      "p": "Por eso conviene tener la ficha completa antes de pagar anuncios. Lee la guía de [Google Mi Negocio](id:google-mi-negocio) para dejarla lista."
+    },
+    {
+      "h2": "Cómo medir si te conviene"
+    },
+    {
+      "p": "No midas sólo clics. Mide cuántos clics se volvieron mensajes y cuántos mensajes se volvieron ventas."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuentas básicas de tu campaña",
+        "columnas": [
+          "Número",
+          "Cómo se saca"
+        ],
+        "filas": [
+          [
+            "Costo por clic",
+            "Gasto entre clics"
+          ],
+          [
+            "Costo por mensaje",
+            "Gasto entre mensajes recibidos"
+          ],
+          [
+            "Costo por cliente",
+            "Gasto entre clientes que compraron"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si tu costo por cliente es menor que lo que te deja una venta, la campaña sirve. Si es mayor, ajusta búsquedas, anuncio o página."
+    },
+    {
+      "h2": "Qué revisar en tu página antes de pagar clics"
+    },
+    {
+      "p": "La página decide si el clic se vuelve mensaje. Revísala desde tu celular como si fueras cliente."
+    },
+    {
+      "ol": [
+        "¿Carga en menos de tres segundos con datos móviles?",
+        "¿El título repite lo que promete el anuncio?",
+        "¿Se ve el precio o un precio desde?",
+        "¿El botón de WhatsApp se ve sin bajar mucho?",
+        "¿Dice en qué ciudad o colonias atiendes?",
+        "¿Hay fotos reales de tu trabajo?"
+      ]
+    },
+    {
+      "p": "Si contestas que no a dos o más, arregla la página primero. Así cada peso de anuncio rinde más."
+    },
+    {
+      "h2": "Errores comunes al anunciarse en Google"
+    },
+    {
+      "ul": [
+        "Mandar el clic a la portada en lugar de una página del servicio.",
+        "No poner palabras negativas.",
+        "Anunciarse en todo el país cuando atiendes una ciudad.",
+        "Escribir un anuncio sin ciudad ni precio desde.",
+        "Revisar la campaña una vez al mes o nunca.",
+        "Apagar la campaña a la primera semana sin datos suficientes."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Cuánto cuesta anunciarse en Google?",
+      "respuesta": "Lo que tú decidas. Fijas un presupuesto diario promedio y en búsqueda pagas por clic."
+    },
+    {
+      "pregunta": "¿Google puede gastar más de mi presupuesto?",
+      "respuesta": "En un día sí, hasta el doble en la mayoría de campañas. En el mes no pasa de 30.4 veces tu promedio diario."
+    },
+    {
+      "pregunta": "¿Necesito página web para anunciarme en Google?",
+      "respuesta": "Conviene mucho. El clic necesita llegar a una página que repita lo que prometiste."
+    },
+    {
+      "pregunta": "¿Los anuncios de Google me garantizan ventas?",
+      "respuesta": "No. Te dan visitas, y las ventas dependen de tu página, tu precio y tu atención."
+    },
+    {
+      "pregunta": "¿Qué es mejor, anuncios o SEO?",
+      "respuesta": "Depende de tu prisa. Los anuncios dan visitas rápido y el SEO tarda, pero no cobra por clic."
+    },
+    {
+      "pregunta": "¿Puedo anunciarme sólo en mi ciudad?",
+      "respuesta": "Sí. Google Ads deja limitar la zona por ciudad o por radio."
+    }
+  ],
+  "relacionadas": [
+    "seo-y-sem",
+    "palabras-clave",
+    "google-mi-negocio",
+    "resenas-de-google",
+    "seo",
+    "landing-page"
+  ],
+  "venta": {
+    "puente": "Cada clic que pagas en Google llega a una página. Aliviane te hace esa landing con tu dominio y tu botón de WhatsApp.",
+    "titulo": "¿Hacemos la landing a la que llegarán tus anuncios?",
+    "tituloCorto": "Tus anuncios necesitan dónde aterrizar",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de Google Ads, información sobre el presupuesto diario promedio (leída el 12-nov-2026)",
+      "url": "https://support.google.com/google-ads/answer/6385083?hl=es-419"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://es.semrush.com/blog/guia-de-google-ads/",
+      "titulo": "¿Qué es la publicidad en Google? Guía de Google Ads",
+      "promete": "Guía general con cifras de costo por clic en dólares de otros mercados; sin ejemplo de un negocio local de México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://neilpatel.com/es/blog/publicidad-en-google/",
+      "titulo": "10 Buenas Ideas para la Publicidad en Google",
+      "promete": "Ideas sueltas sin cómo funciona el presupuesto ni a dónde mandar el clic"
+    },
+    {
+      "posicion": 3,
+      "url": "https://support.google.com/google-ads/answer/6123875?hl=es",
+      "titulo": "Ventajas de la publicidad online y de Google Ads",
+      "promete": "Ayuda oficial de ventajas; no dice cómo armar la primera campaña ni errores comunes"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sin costo por clic en pesos (no hay fuente oficial; depende de subasta). Regla de 2x diario y 30.4x mensual leída en la ayuda de Google Ads el 12-nov-2026. Nunca prometer ventas."
+}

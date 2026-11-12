@@ -1,0 +1,480 @@
+{
+  "id": "correo-corporativo",
+  "slug": "correo-corporativo",
+  "molde": "guia",
+  "cabeza": "correo corporativo",
+  "busquedas": [
+    "correo empresarial",
+    "correo corporativo gmail",
+    "dominio de correo electrónico"
+  ],
+  "title": "Correo corporativo: cómo tener correo con tu dominio",
+  "h1": "Correo corporativo: cómo tener un correo con el nombre de tu negocio",
+  "description": "Un correo corporativo usa tu dominio, como ventas@tunegocio.mx. Te explicamos qué necesitas, las opciones con precios con fuente y cómo configurarlo.",
+  "resumen": "Qué es un correo con dominio propio, opciones, precios con fuente y pasos para tenerlo",
+  "categoria": "Correo",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un correo corporativo es una dirección con el dominio de tu negocio, como ventas@tunegocio.mx. Se ve más serio que un correo gratuito y queda a nombre de tu empresa.",
+    "Para tenerlo necesitas un dominio propio y un servicio de correo que lo use. Puede venir con tu hosting o contratarse aparte con proveedores como Google Workspace o Microsoft 365."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un correo corporativo"
+    },
+    {
+      "p": "Un correo corporativo es un correo que termina con el dominio de tu negocio. Por ejemplo contacto@panaderialaespiga.mx en lugar de panaderialaespiga@ un correo gratuito."
+    },
+    {
+      "p": "También se le llama correo empresarial o correo con dominio. Todos significan lo mismo."
+    },
+    {
+      "p": "Quien recibe tu correo ve de inmediato el nombre de tu negocio. Eso da confianza, sobre todo a clientes empresa."
+    },
+    {
+      "h2": "Por qué tener uno"
+    },
+    {
+      "tabla": {
+        "titulo": "Correo gratuito contra correo con dominio",
+        "columnas": [
+          "Punto",
+          "Correo gratuito",
+          "Correo con tu dominio"
+        ],
+        "filas": [
+          [
+            "Imagen",
+            "Parece personal",
+            "Se ve como empresa establecida"
+          ],
+          [
+            "Propiedad",
+            "La cuenta es tuya pero el nombre es del proveedor",
+            "El dominio es tuyo y puedes cambiar de proveedor"
+          ],
+          [
+            "Varios buzones",
+            "Una cuenta por persona sin relación",
+            "Ventas, facturas y contacto bajo el mismo dominio"
+          ],
+          [
+            "Si alguien deja el negocio",
+            "Se puede llevar su cuenta",
+            "Tú controlas el buzón y lo reasignas"
+          ],
+          [
+            "Confianza de empresas",
+            "Algunas áreas de compras desconfían",
+            "Lo esperan de un proveedor"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El punto de propiedad es el más importante. Si un día cambias de proveedor de correo, tu dirección sigue siendo la misma."
+    },
+    {
+      "h2": "Qué necesitas para tenerlo"
+    },
+    {
+      "ol": [
+        "Un dominio propio, como tunegocio.mx o tunegocio.com.",
+        "Un servicio de correo que acepte tu dominio.",
+        "Acceso a la configuración del dominio para conectar el correo."
+      ]
+    },
+    {
+      "p": "Si aún no tienes dominio, revisa la guía de [comprar dominio](id:comprar-dominio). Para entender qué es, lee [qué es un dominio](id:que-es-un-dominio)."
+    },
+    {
+      "h2": "Las opciones para tener correo corporativo"
+    },
+    {
+      "tabla": {
+        "titulo": "Opciones de correo con dominio",
+        "columnas": [
+          "Opción",
+          "Cómo funciona",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "Correo incluido en tu hosting",
+            "Tu plan de hosting trae buzones",
+            "Negocios que ya tienen hosting con correo"
+          ],
+          [
+            "Google Workspace",
+            "Gmail con tu dominio, más calendario y documentos",
+            "Quien ya usa Gmail y quiere seguir igual"
+          ],
+          [
+            "Microsoft 365",
+            "Outlook con tu dominio, más programas de oficina",
+            "Quien usa Word y Excel todo el día"
+          ],
+          [
+            "Otros proveedores de correo",
+            "Servicios dedicados sólo al correo",
+            "Quien sólo necesita buzones"
+          ],
+          [
+            "Reenvío de correo",
+            "Lo que llega a tu dominio se reenvía a tu correo gratuito",
+            "Quien empieza y sólo quiere recibir"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "El reenvío es la opción más barata, pero tiene un límite. Recibes con tu dominio y casi siempre contestas desde tu correo gratuito."
+    },
+    {
+      "h2": "Precios de Google Workspace en México"
+    },
+    {
+      "p": "Revisamos la página oficial de precios para México el 12 de noviembre de 2026. Los precios son por usuario al mes, en pesos y sin impuestos."
+    },
+    {
+      "tabla": {
+        "titulo": "Planes de Google Workspace leídos el 12 de noviembre de 2026",
+        "columnas": [
+          "Plan",
+          "Precio por usuario al mes"
+        ],
+        "filas": [
+          [
+            "Business Starter",
+            "140 pesos"
+          ],
+          [
+            "Business Standard",
+            "280 pesos"
+          ],
+          [
+            "Business Plus",
+            "440 pesos"
+          ],
+          [
+            "Enterprise",
+            "Sin precio publicado, se cotiza"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La página ofrece 14 días de prueba sin costo. También menciona descuentos con compromiso de un año."
+    },
+    {
+      "p": "Los precios cambian. Revisa la página oficial antes de contratar."
+    },
+    {
+      "p": "No incluimos precios de Microsoft 365 ni de correo en hosting porque no los pudimos confirmar en su fuente hoy. Revísalos en la página oficial de cada uno."
+    },
+    {
+      "h2": "Cuántos buzones necesitas"
+    },
+    {
+      "p": "Un buzón es una cuenta con contraseña propia. Muchos proveedores cobran por buzón."
+    },
+    {
+      "p": "No necesitas un buzón por cada tarea. Puedes usar alias, que son direcciones extra que llegan al mismo buzón."
+    },
+    {
+      "tabla": {
+        "titulo": "Ejemplo de buzones y alias para un negocio de tres personas",
+        "columnas": [
+          "Dirección",
+          "Tipo",
+          "Quién lo lee"
+        ],
+        "filas": [
+          [
+            "ana@tunegocio.mx",
+            "Buzón",
+            "Ana, la dueña"
+          ],
+          [
+            "luis@tunegocio.mx",
+            "Buzón",
+            "Luis, ventas"
+          ],
+          [
+            "facturas@tunegocio.mx",
+            "Alias",
+            "Llega al buzón de Ana"
+          ],
+          [
+            "contacto@tunegocio.mx",
+            "Alias",
+            "Llega al buzón de Luis"
+          ],
+          [
+            "ventas@tunegocio.mx",
+            "Alias",
+            "Llega al buzón de Luis"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Con dos buzones y tres alias el negocio tiene cinco direcciones. Revisa si tu proveedor permite alias sin costo extra."
+    },
+    {
+      "p": "Elige direcciones fáciles de dictar por teléfono. Evita guiones, números y palabras que se escriban de varias formas."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Cómo se configura paso a paso"
+    },
+    {
+      "p": "Los pasos cambian un poco según el proveedor. Este es el orden general."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Contrata el servicio de correo",
+          "texto": "Elige proveedor y plan. Te pedirá tu dominio."
+        },
+        {
+          "titulo": "Verifica que el dominio es tuyo",
+          "texto": "El proveedor te da un código para pegar en la configuración de tu dominio."
+        },
+        {
+          "titulo": "Cambia los registros MX",
+          "texto": "Son los registros que dicen a dónde llega el correo de tu dominio."
+        },
+        {
+          "titulo": "Agrega los registros de seguridad",
+          "texto": "SPF, DKIM y DMARC ayudan a que tus correos no lleguen al correo no deseado."
+        },
+        {
+          "titulo": "Crea los buzones y alias",
+          "texto": "Da de alta a cada persona y las direcciones extra."
+        },
+        {
+          "titulo": "Configura el celular",
+          "texto": "Instala la app del proveedor o agrega la cuenta en tu app de correo."
+        },
+        {
+          "titulo": "Haz una prueba",
+          "texto": "Manda y recibe correos desde otra cuenta y revisa que no lleguen al correo no deseado."
+        }
+      ]
+    },
+    {
+      "p": "Los registros se cambian donde administras tu dominio. Puede ser tu registrador o tu proveedor de hosting."
+    },
+    {
+      "h2": "Qué son SPF, DKIM y DMARC"
+    },
+    {
+      "p": "Son tres registros que protegen tu correo. Le dicen a los demás servidores que tus correos son legítimos."
+    },
+    {
+      "tabla": {
+        "titulo": "Los tres registros de seguridad",
+        "columnas": [
+          "Registro",
+          "Qué hace",
+          "Si falta"
+        ],
+        "filas": [
+          [
+            "SPF",
+            "Dice qué servidores pueden mandar correo con tu dominio",
+            "Tus correos pueden ir al correo no deseado"
+          ],
+          [
+            "DKIM",
+            "Firma cada correo para probar que no se alteró",
+            "Menos confianza de los servidores que reciben"
+          ],
+          [
+            "DMARC",
+            "Dice qué hacer con correos que fallan las pruebas",
+            "Otros pueden suplantar tu dominio más fácil"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Tu proveedor de correo te da los valores exactos de cada registro. Sólo tienes que copiarlos en la configuración de tu dominio."
+    },
+    {
+      "p": "Si tus correos llegan al correo no deseado, revisa primero estos tres registros. Es la causa más común."
+    },
+    {
+      "h2": "Correo corporativo con Gmail"
+    },
+    {
+      "p": "Mucha gente busca cómo tener correo corporativo en Gmail. Hay dos caminos."
+    },
+    {
+      "p": "El primero es Google Workspace, que es Gmail con tu dominio y se paga por usuario. Usas la misma app de Gmail que ya conoces."
+    },
+    {
+      "p": "El segundo es configurar tu Gmail gratuito para enviar y recibir desde tu dominio. Necesitas un buzón o reenvío en otro proveedor y es más técnico."
+    },
+    {
+      "p": "Para negocios que dependen del correo, el primer camino suele dar menos problemas."
+    },
+    {
+      "h2": "Tu firma de correo"
+    },
+    {
+      "p": "Un correo con dominio se completa con una buena firma. Lleva nombre, puesto y teléfono, además de tu página y logo."
+    },
+    {
+      "p": "Puedes hacerla con el generador de [firma de correo](id:firma-de-correo). Si usas Gmail, revisa [firma de Gmail](id:firma-de-gmail)."
+    },
+    {
+      "h2": "Si buscas entrar al correo de tu trabajo"
+    },
+    {
+      "p": "Mucha gente busca correo corporativo porque quiere entrar al correo de su empresa. En ese caso no necesitas crear nada."
+    },
+    {
+      "p": "Pregunta al área de sistemas o a tu jefe qué proveedor usa la empresa. Casi siempre es Gmail de Google Workspace o Outlook de Microsoft 365."
+    },
+    {
+      "p": "Entra a la página de ese proveedor con tu correo completo y la contraseña que te dieron. Si no la tienes, sólo el administrador de la empresa puede darte una nueva."
+    },
+    {
+      "h2": "Cómo pasar tus correos viejos"
+    },
+    {
+      "p": "Si ya usabas un correo gratuito, no pierdas tu historial. La mayoría de proveedores permite importar correos de otra cuenta."
+    },
+    {
+      "ul": [
+        "Busca en tu nuevo proveedor la opción de importar o migrar correo.",
+        "Conecta tu cuenta vieja con su usuario y contraseña.",
+        "Deja que copie correos y contactos, puede tardar horas.",
+        "Configura un reenvío en la cuenta vieja por unos meses.",
+        "Avisa a tus clientes tu nueva dirección en tu firma."
+      ]
+    },
+    {
+      "p": "El reenvío temporal evita perder mensajes de quien todavía no tiene tu nueva dirección."
+    },
+    {
+      "h2": "Seguridad del correo del negocio"
+    },
+    {
+      "p": "El correo es la llave de muchas cuentas. Si alguien entra, puede cambiar contraseñas de tu banco, tu dominio o tus redes."
+    },
+    {
+      "p": "Activa la verificación en dos pasos en cada buzón. Usa contraseñas distintas y largas."
+    },
+    {
+      "p": "Desconfía de correos que piden datos o pagos urgentes. Confirma por teléfono antes de transferir dinero a un proveedor que cambió de cuenta."
+    },
+    {
+      "h2": "Ejemplo de una constructora en Hermosillo"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una constructora pequeña usaba correos gratuitos con nombres distintos."
+    },
+    {
+      "p": "Contrató su dominio y un plan de correo con dos buzones. Creó alias para cotizaciones y facturas."
+    },
+    {
+      "p": "Cuando un ingeniero dejó la empresa, la dueña reasignó su buzón al nuevo ingeniero. Los clientes siguieron escribiendo a la misma dirección."
+    },
+    {
+      "p": "Las áreas de compras de sus clientes dejaron de pedirle confirmar sus datos por teléfono. El correo con dominio les dio confianza."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Contratar correo sin tener control del dominio.",
+        "Olvidar los registros SPF, DKIM y DMARC.",
+        "Pagar un buzón por cada dirección cuando bastaba un alias.",
+        "Usar la misma contraseña en todos los buzones.",
+        "No activar la verificación en dos pasos.",
+        "Dejar buzones de exempleados sin cambiar contraseña."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué es un correo corporativo?",
+      "respuesta": "Es un correo con el dominio de tu negocio. Por ejemplo ventas@tunegocio.mx."
+    },
+    {
+      "pregunta": "¿Necesito dominio para tener correo corporativo?",
+      "respuesta": "Sí. Sin dominio propio no puedes tener correo con el nombre de tu negocio."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta Google Workspace en México?",
+      "respuesta": "Desde 140 pesos por usuario al mes sin impuestos. Así lo vimos en su página oficial el 12 de noviembre de 2026."
+    },
+    {
+      "pregunta": "¿Puedo tener correo corporativo gratis?",
+      "respuesta": "En parte. Con reenvío recibes gratis en tu correo personal, pero contestar con tu dominio suele tener costo."
+    },
+    {
+      "pregunta": "¿Por qué mis correos llegan al correo no deseado?",
+      "respuesta": "Casi siempre faltan los registros SPF, DKIM o DMARC. Pide los valores a tu proveedor de correo."
+    },
+    {
+      "pregunta": "¿Puedo usar Gmail con mi dominio?",
+      "respuesta": "Sí. La forma más directa es Google Workspace, que es Gmail con tu dominio."
+    }
+  ],
+  "relacionadas": [
+    "que-es-un-dominio",
+    "comprar-dominio",
+    "firma-de-correo",
+    "firma-de-gmail",
+    "que-es-hosting",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu correo corporativo empieza por tener dominio propio. La landing de Aliviane ya trae tu dominio incluido.",
+    "titulo": "¿Hacemos tu página con dominio propio?",
+    "tituloCorto": "Tu dominio para la página y el correo",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Google Workspace, planes y precios en México (leído el 12-nov-2026, precios en pesos sin impuestos)",
+      "url": "https://workspace.google.com/intl/es-419/pricing.html"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.godaddy.com/resources/latam/emprender/correo-corporativo-para-tu-marca",
+      "titulo": "Correo corporativo para tu marca",
+      "promete": "Ventajas generales que llevan a su servicio; sin comparar opciones ni explicar los registros del dominio"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.godaddy.com/resources/latam/stories/correo-electronico-empresarial-en-comparacion-con-el-correo-personal",
+      "titulo": "Correo corporativo versus correo personal",
+      "promete": "Comparación conceptual; no da pasos de configuración"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.neo.space/es/correo-corporativo",
+      "titulo": "Correo corporativo",
+      "promete": "Página de producto de un proveedor; no ayuda a elegir entre opciones"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Precios de Google Workspace leídos en su página de México el 12-nov-2026: Starter $140, Standard $280, Plus $440 por usuario al mes sin impuestos, prueba de 14 días. SIN CIFRA de Microsoft 365 (su página no cargó) ni de correo incluido en hosting. Mucho volumen de la cabeza es gente que quiere entrar al correo de su trabajo: la página se enfoca en quien quiere crear uno. No se promete que la landing de Aliviane incluya buzones."
+}

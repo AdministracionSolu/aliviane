@@ -1,0 +1,482 @@
+{
+  "id": "marketing-b2b",
+  "slug": "marketing-b2b",
+  "molde": "guia",
+  "cabeza": "marketing b2b",
+  "busquedas": [
+    "clientes b2b"
+  ],
+  "title": "Marketing B2B: cómo venderle a otras empresas en México",
+  "h1": "Marketing B2B: cómo conseguir empresas como clientes",
+  "description": "El marketing B2B es atraer a otras empresas como clientes. Te explicamos cómo compran, qué piden a un proveedor en México y un plan de 90 días para ganarlas.",
+  "resumen": "Cómo compran las empresas, qué piden a un proveedor y un plan para conseguirlas",
+  "categoria": "Publicidad y marketing",
+  "revisada": "2026-11",
+  "respuesta": [
+    "El marketing B2B es el que hace un negocio para venderle a otras empresas, no a personas. B2B viene del inglés y significa de empresa a empresa.",
+    "Las empresas compran distinto. Deciden entre varias personas y piden cotización formal y factura. Tardan más, pero compran en volumen y repiten."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es el marketing B2B"
+    },
+    {
+      "p": "B2B quiere decir de empresa a empresa. El marketing B2B es todo lo que haces para que otras empresas te compren."
+    },
+    {
+      "p": "Lo contrario es B2C, de empresa a consumidor. Una taquería que vende a quien pasa es B2C."
+    },
+    {
+      "p": "Si esa misma taquería vende comidas a una fábrica para sus trabajadores, eso es B2B. Cambia todo, desde cómo te encuentran hasta cómo cobras."
+    },
+    {
+      "h2": "En qué se diferencia vender a empresas"
+    },
+    {
+      "tabla": {
+        "titulo": "Vender a personas contra vender a empresas",
+        "columnas": [
+          "Punto",
+          "A personas",
+          "A empresas"
+        ],
+        "filas": [
+          [
+            "Quién decide",
+            "Una persona",
+            "Varias personas, como compras, el área que usa y finanzas"
+          ],
+          [
+            "Cuánto tarda",
+            "Minutos o días",
+            "Semanas o meses"
+          ],
+          [
+            "Qué piden",
+            "Precio y confianza",
+            "Cotización, factura, alta de proveedor y referencias"
+          ],
+          [
+            "Cómo pagan",
+            "Al momento",
+            "Muchas veces a crédito, por ejemplo a 30 días"
+          ],
+          [
+            "Cuánto compran",
+            "Una vez o pocas",
+            "En volumen y de forma repetida"
+          ],
+          [
+            "Qué los convence",
+            "Emoción y precio",
+            "Ahorro, cumplimiento y menos riesgo"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La diferencia más grande es el riesgo. Quien compra en una empresa no quiere quedar mal con su jefe."
+    },
+    {
+      "p": "Por eso las empresas valoran mucho que cumplas a tiempo. Un proveedor confiable vale más que uno barato que falla."
+    },
+    {
+      "h2": "Quiénes deciden en una compra de empresa"
+    },
+    {
+      "p": "En una empresa mediana suelen intervenir varias personas. Cada una tiene sus propias preguntas."
+    },
+    {
+      "tabla": {
+        "titulo": "Las personas detrás de una compra",
+        "columnas": [
+          "Persona",
+          "Qué le importa",
+          "Qué necesita de ti"
+        ],
+        "filas": [
+          [
+            "Quien usa el producto",
+            "Que funcione y le facilite el trabajo",
+            "Demostración o muestra"
+          ],
+          [
+            "Compras",
+            "Precio, plazos y condiciones",
+            "Cotización clara y comparable"
+          ],
+          [
+            "Finanzas",
+            "Factura y crédito",
+            "Datos fiscales y opinión de cumplimiento del SAT si la piden"
+          ],
+          [
+            "Dirección",
+            "Que valga la pena el gasto",
+            "Resumen corto del beneficio"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Si sólo convences a una persona, la venta se puede atorar en otra. Prepara material para cada una."
+    },
+    {
+      "h2": "Qué te va a pedir una empresa para comprarte"
+    },
+    {
+      "p": "Muchas empresas en México tienen un proceso de alta de proveedor. Prepara estos documentos antes de que te los pidan."
+    },
+    {
+      "ul": [
+        "Constancia de situación fiscal.",
+        "Comprobante de domicilio.",
+        "Estado de cuenta con tu CLABE.",
+        "Acta constitutiva si eres persona moral.",
+        "Identificación del representante.",
+        "Opinión de cumplimiento del SAT, si la piden.",
+        "Referencias de otros clientes empresa."
+      ]
+    },
+    {
+      "p": "Tener todo en una carpeta digital te hace ver profesional. Muchas ventas se caen porque el proveedor tardó semanas en mandar papeles."
+    },
+    {
+      "h2": "Dónde te buscan las empresas"
+    },
+    {
+      "p": "Las empresas buscan proveedores de varias formas. Conviene estar en las que usa tu tipo de cliente."
+    },
+    {
+      "tabla": {
+        "titulo": "Canales para llegar a empresas",
+        "columnas": [
+          "Canal",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Tu página web",
+            "Que te encuentren en Google y te revisen antes de llamarte"
+          ],
+          [
+            "LinkedIn",
+            "Conectar con gerentes y compradores"
+          ],
+          [
+            "Recomendaciones",
+            "La forma más fuerte de entrar a una empresa"
+          ],
+          [
+            "Cámaras y asociaciones",
+            "Conocer empresas de tu región"
+          ],
+          [
+            "Ferias y exposiciones del sector",
+            "Ver a muchos compradores en un día"
+          ],
+          [
+            "Directorios de proveedores",
+            "Aparecer cuando buscan tu giro"
+          ],
+          [
+            "Correo directo",
+            "Presentarte con quien decide"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La página web es la base de todos. Cuando alguien te recomienda, lo primero que hace la empresa es buscarte en internet."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Qué debe tener tu página para vender a empresas"
+    },
+    {
+      "p": "Tu página B2B no es igual a la de un negocio para personas. Debe responder las dudas del área de compras."
+    },
+    {
+      "ol": [
+        "Qué haces, para qué tipo de empresas y en qué región.",
+        "Clientes o sectores que ya atiendes, con permiso.",
+        "Capacidad de producción o de atención.",
+        "Tiempos de entrega reales.",
+        "Cómo pedir una cotización.",
+        "Datos de contacto con correo de tu dominio.",
+        "Fotos de tus instalaciones o de tu equipo trabajando."
+      ]
+    },
+    {
+      "p": "El correo con tu dominio importa. Un correo gratuito puede hacer dudar a un área de compras."
+    },
+    {
+      "p": "Lee cómo tenerlo en [correo corporativo](id:correo-corporativo)."
+    },
+    {
+      "h2": "La cotización como herramienta de venta"
+    },
+    {
+      "p": "En B2B la cotización es tu vendedor cuando no estás. Pasa de mano en mano dentro de la empresa."
+    },
+    {
+      "ul": [
+        "Pon tu logo, datos fiscales y contacto.",
+        "Describe cada concepto con claridad.",
+        "Separa precio, IVA y total.",
+        "Di la vigencia de la cotización.",
+        "Di tiempos de entrega y forma de pago.",
+        "Agrega una línea con el beneficio principal para el cliente."
+      ]
+    },
+    {
+      "p": "Puedes hacer una en el [formato de cotización](id:formato-de-cotizacion) y bajarla en PDF."
+    },
+    {
+      "h2": "Plan de 90 días para conseguir empresas"
+    },
+    {
+      "p": "Este plan es para un negocio pequeño que nunca ha vendido a empresas. Ajusta los tiempos a tu ritmo."
+    },
+    {
+      "tabla": {
+        "titulo": "Plan de 90 días",
+        "columnas": [
+          "Etapa",
+          "Qué hacer"
+        ],
+        "filas": [
+          [
+            "Días 1 a 15",
+            "Define tu cliente ideal, prepara tu carpeta de alta y revisa tu página"
+          ],
+          [
+            "Días 16 a 30",
+            "Haz una lista de 50 empresas de tu región que encajen"
+          ],
+          [
+            "Días 31 a 45",
+            "Busca en LinkedIn o en su página quién decide en cada una"
+          ],
+          [
+            "Días 46 a 60",
+            "Manda un correo corto y personal a cada persona"
+          ],
+          [
+            "Días 61 a 75",
+            "Da seguimiento a quien no contestó y agenda visitas"
+          ],
+          [
+            "Días 76 a 90",
+            "Manda cotizaciones y pide referencias a tus primeros clientes"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Cincuenta empresas parece poco. Pero bien elegidas y con seguimiento suelen dar más que cientos de correos masivos."
+    },
+    {
+      "h2": "Cómo escribir el primer correo"
+    },
+    {
+      "p": "El primer correo debe ser corto y hablar del cliente, no de ti. Nadie lee una presentación de tres párrafos."
+    },
+    {
+      "p": "Este es un ejemplo inventado para un taller de uniformes. «Buen día, Laura. Vi que su planta en Apodaca está contratando personal. Hacemos uniformes bordados con entrega en diez días hábiles. ¿Le mando una cotización para su próximo pedido?»"
+    },
+    {
+      "p": "Fíjate que menciona algo concreto de la empresa. Eso demuestra que no es un correo masivo."
+    },
+    {
+      "p": "Si no contesta en una semana, manda un segundo correo breve. Después de tres intentos, déjalo para el siguiente trimestre."
+    },
+    {
+      "h2": "Ejemplo de un taller de uniformes en Nuevo León"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Un taller hacía uniformes escolares y quería vender a fábricas."
+    },
+    {
+      "p": "Primero armó su carpeta de alta de proveedor y actualizó su página. Puso fotos del taller y su capacidad de producción por semana."
+    },
+    {
+      "p": "Hizo una lista de cuarenta plantas de la zona. Buscó en LinkedIn a los gerentes de recursos humanos de cada una."
+    },
+    {
+      "p": "De cuarenta correos, siete contestaron y tres pidieron cotización. Una planta hizo un pedido de prueba."
+    },
+    {
+      "p": "Cumplió en tiempo y la planta lo dio de alta como proveedor fijo. Esa planta lo recomendó con otra del mismo parque industrial."
+    },
+    {
+      "h2": "Cuánto cobrar a una empresa"
+    },
+    {
+      "p": "Venderle a una empresa no es igual que venderle a una persona. El volumen sube y también tus costos de atención."
+    },
+    {
+      "p": "Calcula cuánto te cuesta atender a una empresa. Incluye visitas, muestras y factura. También el seguimiento y la espera del pago."
+    },
+    {
+      "p": "Si te piden crédito a 30 o 60 días, ese dinero lo pones tú mientras tanto. Suma ese costo a tu precio o pide un anticipo."
+    },
+    {
+      "tabla": {
+        "titulo": "Preguntas antes de cotizar a una empresa",
+        "columnas": [
+          "Pregunta",
+          "Por qué importa"
+        ],
+        "filas": [
+          [
+            "¿Cuánto comprarán al mes?",
+            "Define si puedes dar precio por volumen"
+          ],
+          [
+            "¿A cuántos días pagan?",
+            "Define cuánto dinero debes adelantar"
+          ],
+          [
+            "¿Quién recibe la mercancía?",
+            "Evita entregas perdidas o rechazadas"
+          ],
+          [
+            "¿Qué piden en la factura?",
+            "Evita refacturar y retrasar el pago"
+          ],
+          [
+            "¿Con quién más están cotizando?",
+            "Te dice contra quién compites"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "No bajes tu precio en la primera llamada. Pregunta primero qué necesitan y luego cotiza con cuidado."
+    },
+    {
+      "h2": "Contenido que convence a empresas"
+    },
+    {
+      "p": "Las empresas investigan antes de hablar contigo. Si encuentran información útil tuya, llegan con más confianza."
+    },
+    {
+      "ul": [
+        "Una ficha técnica de tus productos en PDF.",
+        "Un caso de un cliente con números reales y su permiso.",
+        "Una guía de cómo elegir proveedor de tu giro.",
+        "Una tabla de tiempos de entrega por volumen."
+      ]
+    },
+    {
+      "p": "Ese contenido también sirve a tu vendedor. Lo manda por correo en lugar de explicar todo desde cero."
+    },
+    {
+      "p": "Lee cómo hacer contenido útil en la guía de [marketing de contenidos](id:marketing-de-contenidos)."
+    },
+    {
+      "h2": "Cuidar al cliente empresa"
+    },
+    {
+      "p": "Conseguir una empresa cuesta mucho. Perderla por descuido cuesta más."
+    },
+    {
+      "ul": [
+        "Entrega siempre en la fecha prometida o avisa antes si hay retraso.",
+        "Factura correcto a la primera.",
+        "Ten una persona fija que atienda a cada cliente.",
+        "Pregunta cada trimestre cómo puedes mejorar.",
+        "Avisa con tiempo de cambios de precio."
+      ]
+    },
+    {
+      "p": "Un cliente empresa contento renueva y te recomienda. Esa recomendación abre puertas que ningún anuncio abre."
+    },
+    {
+      "h2": "Errores comunes en marketing B2B"
+    },
+    {
+      "ul": [
+        "Mandar el mismo correo masivo a cientos de empresas.",
+        "Hablar de ti en lugar del problema del cliente.",
+        "Tardar en mandar la cotización o los papeles de alta.",
+        "No dar seguimiento después del primer correo.",
+        "Usar un correo gratuito para tratar con áreas de compras.",
+        "Aceptar crédito sin calcular si aguantas esperar el pago."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Qué significa B2B?",
+      "respuesta": "De empresa a empresa. Es cuando tu cliente es otra empresa y no una persona."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre B2B y B2C?",
+      "respuesta": "En B2B le vendes a empresas y en B2C a personas. Las empresas deciden entre varios y tardan más."
+    },
+    {
+      "pregunta": "¿Qué redes sirven para vender a empresas?",
+      "respuesta": "LinkedIn es la principal. También ayudan tu página web, el correo y las recomendaciones."
+    },
+    {
+      "pregunta": "¿Qué papeles me pide una empresa para comprarme?",
+      "respuesta": "Casi siempre constancia de situación fiscal, domicilio y cuenta bancaria. Algunas piden opinión de cumplimiento del SAT."
+    },
+    {
+      "pregunta": "¿Conviene dar crédito a una empresa?",
+      "respuesta": "Depende de tu flujo de dinero. Calcula si aguantas esperar el pago antes de aceptar."
+    },
+    {
+      "pregunta": "¿Necesito página web para vender a empresas?",
+      "respuesta": "Sí, conviene mucho. Las empresas revisan tu página antes de darte de alta."
+    }
+  ],
+  "relacionadas": [
+    "marketing-digital",
+    "plan-de-ventas",
+    "como-atraer-clientes",
+    "formato-de-cotizacion",
+    "correo-corporativo",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Una empresa revisa tu página antes de darte de alta como proveedor. Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página que revisarán tus clientes empresa?",
+    "tituloCorto": "Las empresas revisan tu página antes de comprar",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.shopify.com/br/blog/marketing-b2b",
+      "titulo": "Marketing B2B",
+      "promete": "Guía en portugués para comercio electrónico; no aplica al alta de proveedores en México"
+    },
+    {
+      "posicion": 2,
+      "url": "https://blog.hubspot.com/marketing/b2b-marketing",
+      "titulo": "B2B Marketing",
+      "promete": "Guía en inglés para equipos grandes de marketing; sin plan para un negocio de pocas personas"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.coursera.org/articles/b2b-marketing",
+      "titulo": "B2B Marketing: Definition and Strategies",
+      "promete": "Definición académica; no explica cotización, factura ni crédito a 30 días"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Top 3 leído con WebSearch el 12-nov-2026 (en inglés y portugués). Sin cifras de terceros. Ángulo propio: cómo compra una empresa en México (alta de proveedor, factura, crédito) y plan de 90 días."
+}

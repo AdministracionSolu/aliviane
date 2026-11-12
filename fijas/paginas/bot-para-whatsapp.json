@@ -1,0 +1,466 @@
+{
+  "id": "bot-para-whatsapp",
+  "slug": "bot-para-whatsapp",
+  "molde": "guia",
+  "cabeza": "bot para whatsapp",
+  "busquedas": [
+    "bots para whatsapp",
+    "whatsapp bots api"
+  ],
+  "title": "Bot para WhatsApp: opciones oficiales y cómo elegir",
+  "h1": "Bot para WhatsApp: qué opciones oficiales tiene tu negocio",
+  "description": "Un bot para WhatsApp contesta solo a tus clientes. Te explicamos las opciones oficiales, el agente con IA de Meta y cómo diseñar el flujo antes de pagar.",
+  "resumen": "Niveles de automatización en WhatsApp, del mensaje automático al bot con la plataforma oficial",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "Un bot para WhatsApp es un programa que contesta a tus clientes sin que tú escribas. Puede seguir un menú de opciones o usar inteligencia artificial.",
+    "En la app WhatsApp Business hay mensajes automáticos y, en algunos países, el agente con IA de Meta. Para bots a la medida se usa la plataforma oficial de WhatsApp para empresas a través de un proveedor."
+  ],
+  "herramienta": null,
+  "cuerpo": [
+    {
+      "h2": "Qué es un bot para WhatsApp"
+    },
+    {
+      "p": "Un bot es un programa que contesta mensajes por ti. Lee lo que escribe el cliente y responde según reglas o con inteligencia artificial."
+    },
+    {
+      "p": "Hay dos tipos principales. Los bots de menú y los bots que entienden texto libre."
+    },
+    {
+      "tabla": {
+        "titulo": "Bot de menú y bot con inteligencia artificial",
+        "columnas": [
+          "Punto",
+          "Bot de menú",
+          "Bot con inteligencia artificial"
+        ],
+        "filas": [
+          [
+            "Cómo funciona",
+            "El cliente elige opciones numeradas o botones",
+            "El cliente escribe como quiera"
+          ],
+          [
+            "Qué tan predecible es",
+            "Muy predecible",
+            "Puede contestar algo que no esperabas"
+          ],
+          [
+            "Para qué sirve",
+            "Horarios, precios, estado de un pedido",
+            "Preguntas variadas sobre tu negocio"
+          ],
+          [
+            "Cuánto trabajo pide",
+            "Diseñar bien el menú",
+            "Darle buena información y revisar sus respuestas"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Muchos bots combinan los dos. Usan un menú para lo básico y texto libre para lo demás."
+    },
+    {
+      "h2": "Los niveles de automatización en WhatsApp"
+    },
+    {
+      "p": "No todos los negocios necesitan un bot. Antes de buscar uno, revisa qué nivel te hace falta."
+    },
+    {
+      "tabla": {
+        "titulo": "Del más sencillo al más completo",
+        "columnas": [
+          "Nivel",
+          "Qué es",
+          "Dónde se configura",
+          "Para quién"
+        ],
+        "filas": [
+          [
+            "1",
+            "Mensajes de bienvenida y ausencia",
+            "App WhatsApp Business",
+            "Casi cualquier negocio pequeño"
+          ],
+          [
+            "2",
+            "Respuestas rápidas y catálogo",
+            "App WhatsApp Business",
+            "Quien repite las mismas respuestas"
+          ],
+          [
+            "3",
+            "Agente con inteligencia artificial de Meta",
+            "App WhatsApp Business, en algunos países",
+            "Quien recibe muchas preguntas variadas"
+          ],
+          [
+            "4",
+            "Bot a la medida",
+            "Plataforma oficial de WhatsApp para empresas con un proveedor",
+            "Volumen alto, varios agentes o sistemas conectados"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La mayoría de negocios pequeños resuelve mucho con los niveles 1 y 2. Son gratis y se activan en minutos."
+    },
+    {
+      "p": "La guía de [mensajes automáticos de WhatsApp](id:mensajes-automaticos-whatsapp) explica esos dos primeros niveles paso a paso."
+    },
+    {
+      "h2": "El agente con inteligencia artificial de Meta"
+    },
+    {
+      "p": "Meta tiene un servicio llamado Meta Business Agent. Su ayuda oficial lo describe como un servicio de inteligencia artificial para empresas."
+    },
+    {
+      "p": "Sirve para que el agente conteste algunas pláticas con tus clientes. Tú le enseñas sobre tu negocio y eliges cuándo responde."
+    },
+    {
+      "h3": "Disponibilidad"
+    },
+    {
+      "p": "La ayuda dice que hoy sólo está disponible en algunos países y para empresas seleccionadas. Se está liberando poco a poco."
+    },
+    {
+      "p": "Si no ves la opción en tu app, puedes anotarte en una lista de espera. La ayuda aclara que eso no garantiza acceso ni da fecha."
+    },
+    {
+      "h3": "Cómo se configura según la ayuda"
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Entra a Herramientas",
+          "texto": "En WhatsApp Business toca Herramientas y elige el agente de inteligencia artificial."
+        },
+        {
+          "titulo": "Termina en el celular",
+          "texto": "Si empezaste en la computadora, escanea el código QR para seguir en la app."
+        },
+        {
+          "titulo": "Acepta las condiciones",
+          "texto": "Toca continuar y luego aceptar."
+        },
+        {
+          "titulo": "Enséñale tu negocio",
+          "texto": "Dale información de lo que vendes, precios, horarios y políticas."
+        },
+        {
+          "titulo": "Elige cuándo contesta",
+          "texto": "En las respuestas del agente decides en qué pláticas participa."
+        }
+      ]
+    },
+    {
+      "h3": "En qué pláticas puede contestar"
+    },
+    {
+      "p": "La ayuda da varias opciones. Todas las pláticas nuevas uno a uno, las de clientes que no tienes guardados o las que llegan de anuncios."
+    },
+    {
+      "p": "También hay un modo en pausa. En ese modo no contesta, pero sigue aprendiendo de tus pláticas."
+    },
+    {
+      "h3": "Cosas que debes saber"
+    },
+    {
+      "ul": [
+        "Si lo enciendes en una plática que ya va, no contesta ahí salvo que pasen siete días sin mensajes.",
+        "Conectarlo apaga tu mensaje de bienvenida.",
+        "Es distinto del asistente de Meta que te ayuda a ti con tareas de tu negocio.",
+        "En algunas situaciones las respuestas del agente pueden no estar disponibles."
+      ]
+    },
+    {
+      "p": "Lo de la bienvenida es importante. Si dependes de tu saludo automático, decide cuál de los dos quieres usar."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Bots a la medida con la plataforma oficial"
+    },
+    {
+      "p": "Para bots más completos existe la plataforma oficial de WhatsApp para empresas. Mucha gente la conoce como la API de WhatsApp."
+    },
+    {
+      "p": "No se usa desde la app del celular. Se conecta a programas de atención, tiendas en línea o sistemas internos."
+    },
+    {
+      "p": "Casi siempre se contrata a través de un proveedor autorizado por Meta. El proveedor te da el panel para armar el bot y atender pláticas."
+    },
+    {
+      "tabla": {
+        "titulo": "Cuándo tiene sentido la plataforma oficial",
+        "columnas": [
+          "Situación",
+          "¿Conviene?"
+        ],
+        "filas": [
+          [
+            "Atiendes tú solo y recibes pocos mensajes",
+            "No, la app basta"
+          ],
+          [
+            "Varias personas contestan el mismo número",
+            "Sí, la app tiene límites para equipos"
+          ],
+          [
+            "Quieres que el bot consulte pedidos en tu sistema",
+            "Sí"
+          ],
+          [
+            "Mandas avisos de pedido o de cita a muchos clientes",
+            "Sí"
+          ],
+          [
+            "Sólo quieres saludar y dar horarios",
+            "No, usa la bienvenida"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La plataforma tiene costos por conversación o por mensaje y lo que cobre el proveedor. Pide la tarifa por escrito antes de firmar."
+    },
+    {
+      "h2": "Cuidado con los bots no oficiales"
+    },
+    {
+      "p": "Hay programas que conectan un bot a tu WhatsApp normal con trucos. Por ejemplo, simulando la versión web en una computadora."
+    },
+    {
+      "p": "Esos métodos no son los que WhatsApp ofrece para empresas. Tu número puede tener restricciones si WhatsApp detecta un uso que no permite."
+    },
+    {
+      "p": "Si tu negocio depende de ese número, no lo arriesgues. Elige la app o la plataforma oficial."
+    },
+    {
+      "h2": "Diseña tu bot en papel antes de pagar"
+    },
+    {
+      "p": "La falla más cara es pagar un bot sin saber qué debe hacer. Primero dibuja las pláticas en una hoja."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Junta tus preguntas reales",
+          "texto": "Revisa tus últimos cien chats y anota qué te preguntan más."
+        },
+        {
+          "titulo": "Agrúpalas",
+          "texto": "Junta las parecidas. Por ejemplo precio, horario, ubicación y pedidos."
+        },
+        {
+          "titulo": "Escribe la mejor respuesta",
+          "texto": "Una respuesta corta y correcta para cada grupo."
+        },
+        {
+          "titulo": "Define cuándo entra una persona",
+          "texto": "Decide qué preguntas siempre las contestas tú."
+        },
+        {
+          "titulo": "Prueba con un cliente de confianza",
+          "texto": "Pídele que te escriba como cliente y mira qué falla."
+        }
+      ]
+    },
+    {
+      "p": "Si tus preguntas caben en cinco o seis grupos, quizá respuestas rápidas te alcanzan. Si son decenas, un bot empieza a tener sentido."
+    },
+    {
+      "h2": "Ejemplo de menú para una pizzería"
+    },
+    {
+      "p": "Este es un ejemplo inventado de bot de menú. Una pizzería en Hermosillo recibe muchos pedidos por la noche."
+    },
+    {
+      "tabla": {
+        "titulo": "Menú de ejemplo",
+        "columnas": [
+          "Opción",
+          "Qué responde el bot"
+        ],
+        "filas": [
+          [
+            "1. Ver menú y precios",
+            "Manda la liga de su página con el menú"
+          ],
+          [
+            "2. Hacer un pedido",
+            "Pide nombre, dirección y qué pizza quiere"
+          ],
+          [
+            "3. Horario y ubicación",
+            "Da el horario y el mapa"
+          ],
+          [
+            "4. Estado de mi pedido",
+            "Pasa la plática a una persona"
+          ],
+          [
+            "5. Hablar con alguien",
+            "Avisa que una persona contesta en minutos"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Fíjate que el estado del pedido lo atiende una persona. El bot no sabe dónde va el repartidor si no está conectado a nada."
+    },
+    {
+      "p": "Un buen bot sabe cuándo pasar la plática. Dejar a un cliente atrapado en un menú es peor que no tener bot."
+    },
+    {
+      "h2": "Preguntas para el proveedor antes de contratar"
+    },
+    {
+      "p": "Si decides ir por la plataforma oficial, compara al menos dos proveedores. Lleva estas preguntas por escrito."
+    },
+    {
+      "ol": [
+        "¿Son proveedor autorizado por Meta para la plataforma de WhatsApp?",
+        "¿Cuánto cobran ustedes al mes y cuánto cobra Meta por mensaje?",
+        "¿Puedo usar mi número actual o necesito uno nuevo?",
+        "¿Cuántas personas pueden contestar desde el mismo número?",
+        "¿Quién arma el bot, ustedes o yo?",
+        "¿Puedo bajar mis pláticas y contactos si me cambio de proveedor?",
+        "¿Qué pasa con mi número si dejo de pagar?"
+      ]
+    },
+    {
+      "p": "La pregunta del número es clave. Pasar un número a la plataforma puede cambiar cómo lo usas en la app del celular."
+    },
+    {
+      "p": "Pide que te expliquen ese cambio antes de mover tu número principal. Algunos negocios prueban primero con un número nuevo."
+    },
+    {
+      "h2": "Cuándo no conviene un bot"
+    },
+    {
+      "p": "Un bot no siempre mejora la atención. Hay negocios donde estorba más de lo que ayuda."
+    },
+    {
+      "ul": [
+        "Si recibes pocos mensajes al día y los contestas tú en minutos.",
+        "Si cada cliente necesita una cotización distinta y personal.",
+        "Si tus clientes son mayores y prefieren hablar con una persona.",
+        "Si no tienes tiempo de revisar lo que contesta el bot."
+      ]
+    },
+    {
+      "p": "En esos casos invierte en respuestas rápidas bien escritas y en contestar pronto. La rapidez humana sigue vendiendo mucho."
+    },
+    {
+      "h2": "Qué debe tener cualquier bot"
+    },
+    {
+      "ul": [
+        "Un saludo que diga que es un asistente automático.",
+        "Una opción visible para hablar con una persona.",
+        "Respuestas cortas que quepan en la pantalla del celular.",
+        "Ligas a tu página para precios y fotos.",
+        "Revisión semanal de las pláticas para corregir respuestas."
+      ]
+    },
+    {
+      "p": "La revisión semanal es lo que separa un bot útil de uno molesto. Lee lo que contestó y corrige lo que salió mal."
+    },
+    {
+      "h2": "Bot y página web trabajan juntos"
+    },
+    {
+      "p": "Un bot no reemplaza tu página. Le sirve a la página y la página le sirve a él."
+    },
+    {
+      "p": "El bot contesta rápido y manda la liga con el detalle. La página enseña fotos, precios y ubicación sin llenar el chat de mensajes."
+    },
+    {
+      "p": "Si aún no tienes página, empieza por ella. Lee qué lleva en [página web para negocio](id:pagina-web-para-negocio)."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Puedo tener un bot en WhatsApp gratis?",
+      "respuesta": "En parte. La app WhatsApp Business trae mensajes automáticos gratis, pero un bot a la medida tiene costo."
+    },
+    {
+      "pregunta": "¿Qué es Meta Business Agent?",
+      "respuesta": "Es el servicio de inteligencia artificial de Meta para empresas en WhatsApp. Contesta pláticas con lo que le enseñas de tu negocio."
+    },
+    {
+      "pregunta": "¿Meta Business Agent está en México?",
+      "respuesta": "Depende de tu cuenta. La ayuda dice que está en algunos países para empresas seleccionadas, y hay lista de espera."
+    },
+    {
+      "pregunta": "¿Necesito la API para tener un bot?",
+      "respuesta": "Para un bot a la medida, sí. Se usa la plataforma oficial a través de un proveedor autorizado."
+    },
+    {
+      "pregunta": "¿Me pueden bloquear el número por usar un bot?",
+      "respuesta": "Puede pasar con bots no oficiales. Usa la app o la plataforma oficial para cuidar tu número."
+    },
+    {
+      "pregunta": "¿Un bot reemplaza a una persona?",
+      "respuesta": "No. Contesta lo repetido y debe pasar la plática a una persona cuando hace falta."
+    }
+  ],
+  "relacionadas": [
+    "mensajes-automaticos-whatsapp",
+    "mensajes-programados-whatsapp",
+    "whatsapp-business-para-empresas",
+    "link-de-whatsapp",
+    "acortar-link",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Un bot contesta mejor si puede mandar a una página con precios y fotos. Aliviane te hace esa página con tu dominio.",
+    "titulo": "¿Hacemos la página a la que tu bot mandará clientes?",
+    "tituloCorto": "Tu bot necesita una página a la cual mandar",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de WhatsApp, cómo configurar Meta Business Agent (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/1153795669452207/?cms_platform=web&locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar los mensajes de bienvenida (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/501866148528310/?locale=es_LA"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.tiendanube.com/blog/bot-para-whatsapp/",
+      "titulo": "Chatbot para WhatsApp: guía para crearlo sin código",
+      "promete": "Empuja su propio bot para tiendas; no explica el agente oficial de Meta ni los riesgos de bots no oficiales"
+    },
+    {
+      "posicion": 2,
+      "url": "https://www.infobip.com/es/blog/bot-para-whatsapp",
+      "titulo": "Bot para WhatsApp: cómo automatizar conversaciones",
+      "promete": "Pensado para empresas grandes con la plataforma; no hay camino para un negocio pequeño"
+    },
+    {
+      "posicion": 3,
+      "url": "https://www.kommo.com/es/blog/chatbot-whatsapp/",
+      "titulo": "Chatbot para WhatsApp: la guía completa",
+      "promete": "Guía de su producto; sin cómo diseñar el menú en papel ni cuándo no conviene un bot"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Sólo lo que dice faq.whatsapp.com leído el 12-nov-2026 sobre Meta Business Agent (algunos países, empresas seleccionadas, lista de espera, opciones de respuesta, 7 días de inactividad, apaga la bienvenida). Sin precios de la plataforma ni de proveedores. Sin nombres de proveedores. Ángulo propio: niveles de automatización y diseño del flujo."
+}

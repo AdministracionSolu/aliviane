@@ -1,0 +1,495 @@
+{
+  "id": "mensajes-automaticos-whatsapp",
+  "slug": "mensajes-automaticos-whatsapp",
+  "molde": "guia",
+  "cabeza": "mensajes automáticos whatsapp",
+  "busquedas": [
+    "mensajes automáticos whatsapp business",
+    "respuesta automatica whatsapp",
+    "mensaje automático whatsapp",
+    "mensaje automático whatsapp business"
+  ],
+  "title": "Mensajes automáticos WhatsApp: bienvenida y ausencia",
+  "h1": "Mensajes automáticos de WhatsApp Business paso a paso",
+  "description": "WhatsApp Business trae mensaje de bienvenida, de ausencia y respuestas rápidas. Te damos los pasos oficiales y 18 textos listos para tu negocio. Actívalos hoy.",
+  "resumen": "Cómo activar bienvenida, ausencia y respuestas rápidas, con textos de ejemplo",
+  "categoria": "WhatsApp",
+  "revisada": "2026-11",
+  "respuesta": [
+    "WhatsApp Business trae tres herramientas para contestar sin escribir cada vez. El mensaje de bienvenida, el mensaje de ausencia y las respuestas rápidas.",
+    "Las tres se configuran en la pestaña Herramientas de la app. Abajo tienes los pasos según la ayuda oficial de WhatsApp y textos listos para copiar."
+  ],
+  "herramienta": {
+    "id": "whatsapp-link",
+    "modo": "link"
+  },
+  "cuerpo": [
+    {
+      "h2": "Las tres herramientas automáticas de WhatsApp Business"
+    },
+    {
+      "p": "La app gratuita WhatsApp Business trae tres funciones para contestar más rápido. No necesitas pagar ni instalar nada aparte."
+    },
+    {
+      "tabla": {
+        "titulo": "Qué hace cada herramienta",
+        "columnas": [
+          "Herramienta",
+          "Cuándo sale",
+          "Para qué sirve"
+        ],
+        "filas": [
+          [
+            "Mensaje de bienvenida",
+            "Cuando alguien te escribe por primera vez o tras 14 días sin plática",
+            "Saludar y dar lo básico de inmediato"
+          ],
+          [
+            "Mensaje de ausencia",
+            "Cuando tú decides, por horario o siempre",
+            "Avisar que no estás y cuándo contestas"
+          ],
+          [
+            "Respuestas rápidas",
+            "Cuando tú las eliges con una diagonal",
+            "Pegar textos que repites todo el día"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Las dos primeras se envían solas. Las respuestas rápidas las mandas tú, pero sin volver a escribirlas."
+    },
+    {
+      "p": "Las tres viven en la pestaña Herramientas de la app. En algunos celulares está en Configuración y luego Herramientas para la empresa."
+    },
+    {
+      "h2": "Cómo activar el mensaje de bienvenida"
+    },
+    {
+      "p": "Estos son los pasos de la ayuda oficial de WhatsApp para Android y iPhone."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre Herramientas",
+          "texto": "En la app de WhatsApp Business, entra a la pestaña Herramientas y toca Mensaje de bienvenida."
+        },
+        {
+          "titulo": "Actívalo",
+          "texto": "Enciende la opción Enviar mensaje de bienvenida."
+        },
+        {
+          "titulo": "Escribe tu texto",
+          "texto": "Toca el mensaje para editarlo y luego toca Guardar."
+        },
+        {
+          "titulo": "Elige destinatarios",
+          "texto": "Toca Destinatarios y elige a quién le llega."
+        }
+      ]
+    },
+    {
+      "p": "Las opciones de destinatarios son cuatro. Todos y los que no están en tu libreta. También todos excepto algunos o sólo algunos."
+    },
+    {
+      "p": "Para la mayoría de negocios conviene «los que no están en la libreta». Así tus clientes de siempre no reciben el saludo cada vez."
+    },
+    {
+      "h3": "La regla de los 14 días"
+    },
+    {
+      "p": "El mensaje de bienvenida sólo llega a quien te escribe por primera vez. También llega a quien no te ha escrito en 14 días."
+    },
+    {
+      "p": "Si un cliente te escribió hace una semana, no lo recibirá otra vez. Esto evita que tus clientes frecuentes vean el saludo diario."
+    },
+    {
+      "h3": "Por qué a veces no se envía"
+    },
+    {
+      "p": "La ayuda oficial da varias causas. Revísalas en este orden."
+    },
+    {
+      "ol": [
+        "Revisa si tienes conectado el agente de inteligencia artificial de Meta. Conectarlo apaga el mensaje de bienvenida.",
+        "Revisa tus destinatarios. Las opciones de excepciones pueden dejar fuera a quien quieres saludar.",
+        "Recuerda la regla de los 14 días.",
+        "Apaga la opción, espera un momento y vuelve a encenderla.",
+        "Actualiza la app y reinicia el celular."
+      ]
+    },
+    {
+      "p": "Tu celular necesita internet para enviarlo. Si el teléfono está apagado, el mensaje sale cuando vuelva la conexión."
+    },
+    {
+      "h2": "Cómo activar el mensaje de ausencia"
+    },
+    {
+      "p": "El mensaje de ausencia avisa que no puedes contestar en ese momento. Estos son los pasos oficiales."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre Herramientas",
+          "texto": "Entra a la pestaña Herramientas y toca Mensaje de ausencia."
+        },
+        {
+          "titulo": "Actívalo",
+          "texto": "Enciende Enviar mensaje de ausencia."
+        },
+        {
+          "titulo": "Escribe tu texto",
+          "texto": "Toca el mensaje, edítalo y toca Guardar."
+        },
+        {
+          "titulo": "Programa cuándo sale",
+          "texto": "Toca Programar y elige una de las tres opciones."
+        },
+        {
+          "titulo": "Elige destinatarios",
+          "texto": "Toca Destinatarios y elige a quién le llega."
+        }
+      ]
+    },
+    {
+      "tabla": {
+        "titulo": "Opciones de horario del mensaje de ausencia",
+        "columnas": [
+          "Opción",
+          "Qué hace",
+          "Cuándo usarla"
+        ],
+        "filas": [
+          [
+            "Enviar siempre",
+            "Contesta a toda hora mientras esté activo",
+            "Vacaciones o días cerrados"
+          ],
+          [
+            "Horario personalizado",
+            "Contesta sólo en las fechas y horas que marques",
+            "Un evento, un puente o una mudanza"
+          ],
+          [
+            "Fuera del horario comercial",
+            "Contesta sólo cuando tu negocio está cerrado",
+            "El uso diario de casi todos los negocios"
+          ]
+        ]
+      }
+    },
+    {
+      "p": "La tercera opción sólo aparece si pusiste tu horario en el perfil de empresa. Llénalo primero en Ajustes y perfil de empresa."
+    },
+    {
+      "p": "Los destinatarios tienen las mismas cuatro opciones que la bienvenida. Todos, no guardados, todos excepto algunos o sólo algunos."
+    },
+    {
+      "h2": "Cómo crear respuestas rápidas"
+    },
+    {
+      "p": "Las respuestas rápidas son textos guardados que pegas con un atajo. Sirven para precio, ubicación, formas de pago y horarios."
+    },
+    {
+      "pasos": [
+        {
+          "titulo": "Abre Herramientas",
+          "texto": "Toca Respuestas rápidas."
+        },
+        {
+          "titulo": "Crea una nueva",
+          "texto": "Toca el botón de agregar y escribe el texto."
+        },
+        {
+          "titulo": "Ponle atajo",
+          "texto": "Escribe una palabra corta, por ejemplo precios o ubicacion."
+        },
+        {
+          "titulo": "Úsala en un chat",
+          "texto": "Escribe la diagonal y elige la respuesta de la lista."
+        }
+      ]
+    },
+    {
+      "p": "La ayuda oficial dice que puedes guardar hasta 50 respuestas rápidas. También dice que en la versión web no se admiten archivos en ellas."
+    },
+    {
+      "p": "La app crea algunas respuestas sola con datos de tu perfil. Por ejemplo tu horario y tu dirección."
+    },
+    {
+      "venta": true
+    },
+    {
+      "h2": "Textos listos para copiar por giro"
+    },
+    {
+      "p": "Estos textos son ejemplos. Cámbialos con tus datos reales antes de usarlos."
+    },
+    {
+      "h3": "Bienvenida"
+    },
+    {
+      "tabla": {
+        "titulo": "Mensajes de bienvenida de ejemplo",
+        "columnas": [
+          "Giro",
+          "Texto"
+        ],
+        "filas": [
+          [
+            "Taquería",
+            "Hola, gracias por escribir a Tacos El Güero. Nuestro menú y precios están en la liga de abajo. ¿Para recoger o a domicilio?"
+          ],
+          [
+            "Estética",
+            "Hola, bienvenida a Estética Rosy. Dime qué servicio buscas y qué día te acomoda."
+          ],
+          [
+            "Taller mecánico",
+            "Hola, gracias por escribir. Dinos marca, modelo y año de tu auto para darte precio."
+          ],
+          [
+            "Consultorio",
+            "Hola, gracias por contactar al consultorio. Para cita dinos tu nombre y el día que prefieres."
+          ],
+          [
+            "Tienda de ropa",
+            "Hola, bienvenida. Aquí está nuestro catálogo con tallas y precios. ¿Qué buscas hoy?"
+          ],
+          [
+            "Escuela de regularización",
+            "Hola, gracias por escribir. Dinos el grado y la materia de tu hijo para darte horarios."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Una buena bienvenida hace una pregunta. Así la persona sabe qué contestar y la plática avanza."
+    },
+    {
+      "h3": "Ausencia"
+    },
+    {
+      "tabla": {
+        "titulo": "Mensajes de ausencia de ejemplo",
+        "columnas": [
+          "Situación",
+          "Texto"
+        ],
+        "filas": [
+          [
+            "Fuera de horario",
+            "Gracias por escribir. Abrimos de lunes a sábado de 9 a 7. Te contestamos a primera hora."
+          ],
+          [
+            "Domingo",
+            "Hoy descansamos. Mañana a las 9 te contestamos en orden de llegada."
+          ],
+          [
+            "Vacaciones",
+            "Estamos de vacaciones hasta el lunes 6. Deja tu mensaje y te contestamos al volver."
+          ],
+          [
+            "Hora de comida",
+            "Salimos a comer y regresamos a las 4. Tu mensaje ya quedó guardado."
+          ],
+          [
+            "Día festivo",
+            "Hoy cerramos por día festivo. Mañana te atendemos en horario normal."
+          ],
+          [
+            "Mucha demanda",
+            "Hoy tenemos muchos pedidos. Te contestamos en cuanto podamos, gracias por esperar."
+          ]
+        ]
+      }
+    },
+    {
+      "p": "Di siempre cuándo vas a contestar. Un «estamos ocupados» sin hora deja al cliente sin saber si esperar."
+    },
+    {
+      "h3": "Respuestas rápidas"
+    },
+    {
+      "tabla": {
+        "titulo": "Respuestas rápidas útiles",
+        "columnas": [
+          "Atajo",
+          "Texto"
+        ],
+        "filas": [
+          [
+            "precios",
+            "Nuestros precios están en esta liga. Si buscas algo especial, dime y te cotizo."
+          ],
+          [
+            "ubicacion",
+            "Estamos en la calle y número de tu negocio. Aquí va el mapa."
+          ],
+          [
+            "pago",
+            "Aceptamos efectivo, transferencia y tarjeta. Para transferencia te paso los datos."
+          ],
+          [
+            "envio",
+            "Entregamos en tu zona en un día. El costo depende de tu colonia."
+          ],
+          [
+            "gracias",
+            "Gracias por tu compra. Si te gustó, nos ayudas mucho con una reseña aquí."
+          ],
+          [
+            "cita",
+            "Para apartar tu cita necesito nombre, servicio y día que prefieres."
+          ]
+        ]
+      }
+    },
+    {
+      "h2": "Usa una liga con mensaje para empezar la plática"
+    },
+    {
+      "p": "La herramienta de arriba arma una liga de WhatsApp con un mensaje ya escrito. La pones en tu página, en tu perfil o en un QR."
+    },
+    {
+      "p": "Cuando el cliente toca la liga, abre tu chat con el texto listo. Eso le quita el trabajo de pensar qué escribir."
+    },
+    {
+      "p": "Si combinas la liga con tu bienvenida, la plática empieza ordenada. El cliente dice qué quiere y tu bienvenida le contesta lo básico."
+    },
+    {
+      "p": "Para más usos de la liga, lee la guía de [link de WhatsApp](id:link-de-whatsapp)."
+    },
+    {
+      "h2": "Ejemplo de un día con mensajes automáticos"
+    },
+    {
+      "p": "Este es un ejemplo inventado. Una pastelería en Morelia abre de 10 a 8."
+    },
+    {
+      "p": "A las 11 de la noche, una clienta nueva escribe por un pastel. Recibe el mensaje de ausencia con el horario y la liga del catálogo."
+    },
+    {
+      "p": "Al día siguiente, la dueña abre el chat y usa la respuesta rápida de precios. Luego confirma el pedido con la respuesta de pago."
+    },
+    {
+      "p": "La clienta no esperó a ciegas y la dueña no escribió todo desde cero. Ese es el valor real de estas herramientas."
+    },
+    {
+      "h2": "Qué no pueden hacer estas herramientas"
+    },
+    {
+      "p": "Las herramientas de la app contestan con un texto fijo. No entienden lo que escribe el cliente ni eligen qué decir."
+    },
+    {
+      "p": "Si quieres un menú con opciones o respuestas que dependan de la pregunta, eso ya es un bot. Lee la guía de [bot para WhatsApp](id:bot-para-whatsapp)."
+    },
+    {
+      "p": "Si lo que quieres es mandar recordatorios en fechas, eso es otra cosa. Lee la guía de [mensajes programados de WhatsApp](id:mensajes-programados-whatsapp)."
+    },
+    {
+      "h2": "Errores comunes"
+    },
+    {
+      "ul": [
+        "Bienvenidas tan largas que nadie las lee completas.",
+        "Ausencia activa en horario de trabajo por olvido.",
+        "Horario del perfil distinto al del mensaje de ausencia.",
+        "Respuestas rápidas con precios viejos.",
+        "Prometer contestar en minutos y tardar horas.",
+        "No poner ninguna pregunta en la bienvenida."
+      ]
+    },
+    {
+      "p": "Revisa tus textos cada vez que cambies precios u horario. Ponte un recordatorio al inicio de cada temporada fuerte, como diciembre o el regreso a clases. Un mensaje automático con datos viejos genera más preguntas."
+    }
+  ],
+  "faqs": [
+    {
+      "pregunta": "¿Los mensajes automáticos de WhatsApp son gratis?",
+      "respuesta": "Sí. La bienvenida, la ausencia y las respuestas rápidas vienen en la app gratuita de WhatsApp Business."
+    },
+    {
+      "pregunta": "¿Puedo poner mensajes automáticos en WhatsApp normal?",
+      "respuesta": "No. Estas herramientas sólo están en la app WhatsApp Business."
+    },
+    {
+      "pregunta": "¿Por qué no se envía mi mensaje de bienvenida?",
+      "respuesta": "Puede ser la regla de los 14 días. También los destinatarios elegidos o el agente de inteligencia artificial de Meta conectado."
+    },
+    {
+      "pregunta": "¿Cuántas respuestas rápidas puedo guardar?",
+      "respuesta": "Hasta 50, según la ayuda oficial de WhatsApp."
+    },
+    {
+      "pregunta": "¿Puedo programar el mensaje de ausencia sólo de noche?",
+      "respuesta": "Sí. Usa la opción fuera del horario comercial después de poner tu horario en el perfil."
+    },
+    {
+      "pregunta": "¿El mensaje automático funciona con el celular apagado?",
+      "respuesta": "No. El celular necesita conexión a internet para enviarlo."
+    },
+    {
+      "pregunta": "¿Puedo poner una liga en el mensaje de bienvenida?",
+      "respuesta": "Sí. Puedes pegar la liga de tu página o tu catálogo dentro del texto."
+    }
+  ],
+  "relacionadas": [
+    "mensajes-programados-whatsapp",
+    "bot-para-whatsapp",
+    "whatsapp-business-para-empresas",
+    "link-de-whatsapp",
+    "mensaje-de-recordatorio-para-clientes",
+    "pagina-web-para-negocio"
+  ],
+  "venta": {
+    "puente": "Tu mensaje de bienvenida puede mandar a tu página con precios y fotos. Aliviane te la hace con tu dominio.",
+    "aviso": "Tu link ya está listo. Si quieres una página que lleve a ese WhatsApp, Aliviane te la hace con tu dominio.",
+    "titulo": "¿Hacemos la página que acompaña a tu WhatsApp?",
+    "tituloCorto": "Que tu bienvenida mande a tu propia página",
+    "trabajos": [
+      "laola",
+      "comprafin",
+      "makatea"
+    ]
+  },
+  "fuentes": [
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar los mensajes de bienvenida (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/501866148528310/?locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar los mensajes de ausencia (leída el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/2565868990219715/?locale=es_LA"
+    },
+    {
+      "texto": "Ayuda de WhatsApp, cómo usar las respuestas rápidas (consultada el 12-nov-2026)",
+      "url": "https://faq.whatsapp.com/2740839775981177/?locale=es_ES"
+    }
+  ],
+  "serp": [
+    {
+      "posicion": 1,
+      "url": "https://www.brevo.com/es/blog/mensajes-automaticos-whatsapp/",
+      "titulo": "Mensajes automáticos WhatsApp",
+      "promete": "Mezcla la app con su plataforma de pago; los pasos de la app quedan en segundo plano"
+    },
+    {
+      "posicion": 2,
+      "url": "https://zenvia.com/es/blog/autoresponder-whatsapp/",
+      "titulo": "Auto responder para WhatsApp: ejemplos de mensajes",
+      "promete": "Ejemplos genéricos sin regla de los 14 días ni opciones de destinatarios"
+    },
+    {
+      "posicion": 3,
+      "url": "https://sinch.com/es/blog/mensaje-automatico-en-whatsapp/",
+      "titulo": "Mensaje automático en WhatsApp",
+      "promete": "Empuja la API; no trae textos por giro de negocio mexicano"
+    }
+  ],
+  "creada": "2026-11-12",
+  "actualizado": "2026-11-12",
+  "publicacion": null,
+  "nota": "G3, 12-nov. Pasos y reglas (14 días, destinatarios, horario, Meta Business Agent apaga la bienvenida, 50 respuestas rápidas) leídos en faq.whatsapp.com el 12-nov-2026. Monta whatsapp-link/link para que el cliente arme su liga con mensaje. Ángulo propio: configurar las tres herramientas de la app y textos por giro (programados = calendario y difusiones; bot = niveles de automatización)."
+}
