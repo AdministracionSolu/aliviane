@@ -1,0 +1,4 @@
+# Sólo lo interpreta Netlify.
+# Liga corta del laboratorio de redes (13-nov-2026): la función redes-ir de Playground anota el
+# clic y manda a la página con sus UTM. Proxy (200): quien da clic sólo ve aliviane.mx.
+/r/*   https://paijaiknxbtpjipnyhnh.supabase.co/functions/v1/redes-ir/:splat   200!
