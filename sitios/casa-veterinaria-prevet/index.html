@@ -37,6 +37,7 @@ h1.n-m{font-size:clamp(50px,8.4vw,124px)}h1.n-l{font-size:clamp(38px,5.6vw,84px)
 .lema{margin:22px 0 0;font-size:clamp(19px,1.8vw,23px);font-weight:600;max-width:28em}
 .estado{margin:14px 0 0;font-weight:600;font-size:16px}
 .estado::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;background:#4fd36b;margin-right:8px;vertical-align:1px}
+.estado.cerrado::before{background:#e0533f}
 .botones{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
 .boton{display:inline-block;padding:15px 24px;border-radius:min(var(--rb,var(--r)),999px);font-weight:700;text-decoration:none;font-size:17px}
 .boton.lleno{background:var(--acento);color:var(--sobre)}.boton.borde{border:2px solid currentColor}
@@ -281,7 +282,7 @@ if(location.protocol==="https:"&&!localStorage.getItem("aliviane-yo"))navigator.
     const f=x=>{const h=Math.floor(x/60)%24,mm=x%60,h12=h%12||12;return (h12===1?'a la ':'a las ')+h12+(mm?':'+String(mm).padStart(2,'0'):'')+(h===0?' de la noche':h<12?' de la mañana':h<20?' de la tarde':' de la noche')};
     const ab=hoy.find(([a,b])=>mi>=a&&mi<b);
     const el=document.querySelector('[data-estado]'), r=document.querySelector('[data-estado2]');
-    if(el){el.textContent=ab?(ab[0]===0&&ab[1]>=1440?'Abierto ahora · las 24 horas':'Abierto ahora · cierra '+f(ab[1])):'Cerrado ahora'; el.hidden=false;}
+    if(el){el.textContent=ab?(ab[0]===0&&ab[1]>=1440?'Abierto ahora · las 24 horas':'Abierto ahora · cierra '+f(ab[1])):'Cerrado ahora'; el.classList.toggle('cerrado',!ab); el.hidden=false;}
     if(r){r.textContent=ab?'Abierto':'Cerrado'; r.classList.toggle('cerrado',!ab); r.hidden=false;}
   }
   const t=document.querySelector('[data-tira]');
