@@ -24,7 +24,7 @@ Siguen: `/herramientas/leer-qr-wifi/`, `/comparar/precios-de-hostinger/`, `/herr
 
 Ventana de cupo: se libera el 15-nov de ~00:09 a ~00:30.
 
-## 2026-11-14 (ronda del 14-nov, hecha el 15-nov; ejemplosignsolu, `/u/4/`, ~01:16–01:40 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+## 2026-11-14 (ronda del 14-nov, hecha el 15-nov; ejemplosignsolu, `/u/4/`, ~01:02–01:10 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
 
 Orden: lo que seguía del lote 1 y luego `LISTA_CONSTRUIR.csv` por `volumen_mexico`. Casi todo ya está en Google (no se pidió, no gasta): `/herramientas/leer-qr-wifi/`, `/comparar/precios-de-hostinger/`, `/herramientas/buscar-dominio/`, `/herramientas/paleta-de-colores/`, `/guias/analisis-foda/`, `/guias/mision-y-vision/`, `/guias/acortar-link/`, `/guias/google-mi-negocio/`, `/herramientas/generador-de-codigo-de-barras/`, `/herramientas/tarjetas-de-presentacion/`, `/guias/marketing-digital/`, `/herramientas/slogan/`, `/herramientas/nota-de-remision/`, `/herramientas/flyer/`, `/herramientas/banner/`, `/guias/negocios-rentables/`, `/guias/isotipo-imagotipo-logotipo/`, `/guias/que-es-una-landing-page/`, `/herramientas/crear-logo-gratis/`, `/herramientas/crear-logo-con-ia/`, `/plantillas/formato-de-cotizacion/`, `/guias/plan-de-negocios/`, `/plantillas/orden-de-compra/`, `/guias/seo-y-sem/`. Comprobante: aviso verde en las 10.
 
@@ -41,4 +41,4 @@ Orden: lo que seguía del lote 1 y luego `LISTA_CONSTRUIR.csv` por `volumen_mexi
 
 Siguen: `/herramientas/letrero-abierto-cerrado/` (no está en Google) y el resto de `LISTA_CONSTRUIR.csv` por volumen. El tope de la cuenta sigue sin medir (10 sin «Cuota superada»).
 
-Ventana de cupo: se libera el 16-nov de ~01:16 a ~01:40.
+Ventana de cupo: se libera el 16-nov de ~01:02 a ~01:10.
