@@ -42,3 +42,22 @@ Orden: lo que seguía del lote 1 y luego `LISTA_CONSTRUIR.csv` por `volumen_mexi
 Siguen: `/herramientas/letrero-abierto-cerrado/` (no está en Google) y el resto de `LISTA_CONSTRUIR.csv` por volumen. El tope de la cuenta sigue sin medir (10 sin «Cuota superada»).
 
 Ventana de cupo: se libera el 16-nov de ~01:02 a ~01:10.
+
+## 2026-11-16 (ejemplosignsolu, `/u/4/`, ~10:44–10:57 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+Ronda de mañana a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexico`, sin lo ya pedido. Ya estaban en Google (no se pidieron, no gastan): `/guias/comprar-dominio/`, `/guias/ideas-de-negocio/`, `/guias/imprimir-tarjetas-de-presentacion/`, `/guias/sitios-de-google/`, `/guias/formato-de-factura/`, `/guias/agencia-de-marketing-digital/`, `/herramientas/folleto/`, `/guias/tienda-en-linea/`, `/guias/como-vender-por-internet/`, `/plantillas/ejemplos-de-landing-page/`. Comprobante: aviso verde en las 10 (en dos el primer clic dio «Se ha producido un error» y el segundo entró). El tope de la cuenta sigue sin medir.
+
+- 2026-11-16 · https://www.aliviane.mx/herramientas/paleta-de-colores-gris/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/letrero-abierto-cerrado/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/combinaciones-de-colores/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/paleta-de-colores-cafe/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/aviso-de-privacidad/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/logo-para-marca-de-ropa/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/logo-minimalista/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/nombres-para-tiendas-de-ropa/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/nombres-para-restaurantes/ · no estaba en Google
+- 2026-11-16 · https://www.aliviane.mx/herramientas/portada-de-facebook/ · no estaba en Google
+
+Siguen: `/herramientas/paleta-de-colores-azul/`, `/herramientas/favicon/`, `/herramientas/volantes/`, `/herramientas/letreros-para-negocios/`… por volumen.
+
+Ventana de cupo: se libera el 17-nov de ~10:44 a ~10:57.
