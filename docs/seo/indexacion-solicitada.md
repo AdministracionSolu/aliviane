@@ -61,3 +61,22 @@ Ronda de mañana a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexico
 Siguen: `/herramientas/paleta-de-colores-azul/`, `/herramientas/favicon/`, `/herramientas/volantes/`, `/herramientas/letreros-para-negocios/`… por volumen.
 
 Ventana de cupo: se libera el 17-nov de ~10:44 a ~10:57.
+
+## 2026-11-17 (ejemplosignsolu, `/u/4/`, ~14:27–14:39 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+Ronda de mediodía a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexico`, sin lo ya pedido. Ya estaban en Google (no se pidieron, no gastan): `/herramientas/paleta-de-colores/`, `/herramientas/favicon/`, `/herramientas/volantes/`, `/herramientas/letreros-para-negocios/`, `/herramientas/nota-de-venta/`, `/guias/palabras-clave/`, `/herramientas/flyer-informativo/`, `/herramientas/lona-publicitaria/`, `/herramientas/iconos-para-historias-destacadas/`. Relleno (4): las de más volumen ya en Google y nunca pedidas. Comprobante: aviso verde en las 10 (`horario-de-atencion`: el primer clic dio «Se ha producido un error», el segundo entró). El tope de la cuenta sigue sin medir.
+
+- 2026-11-17 · https://www.aliviane.mx/herramientas/tarjeta-de-presentacion-digital/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/herramientas/paleta-de-colores-azul/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/herramientas/horario-de-atencion/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/herramientas/paleta-de-colores-beige/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/herramientas/nombres-para-polleria/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/herramientas/tarjetas-de-presentacion-para-abogados/ · no estaba en Google
+- 2026-11-17 · https://www.aliviane.mx/guias/acortar-link/ · fija (ya estaba en Google)
+- 2026-11-17 · https://www.aliviane.mx/guias/google-mi-negocio/ · fija (ya estaba en Google)
+- 2026-11-17 · https://www.aliviane.mx/herramientas/generador-de-codigo-de-barras/ · fija (ya estaba en Google)
+- 2026-11-17 · https://www.aliviane.mx/herramientas/tarjetas-de-presentacion/ · fija (ya estaba en Google)
+
+Siguen: el resto de `LISTA_CONSTRUIR.csv` por volumen (`/herramientas/cupon-de-descuento/`, `/herramientas/tarjeta-de-lealtad/`, `/herramientas/recibo-de-renta/`…).
+
+Ventana de cupo: se libera el 18-nov de ~14:27 a ~14:39.
