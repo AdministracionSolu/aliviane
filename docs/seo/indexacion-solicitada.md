@@ -80,3 +80,22 @@ Ronda de mediodía a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexi
 Siguen: el resto de `LISTA_CONSTRUIR.csv` por volumen (`/herramientas/cupon-de-descuento/`, `/herramientas/tarjeta-de-lealtad/`, `/herramientas/recibo-de-renta/`…).
 
 Ventana de cupo: se libera el 18-nov de ~14:27 a ~14:39.
+
+## 2026-11-18 (ejemplosignsolu, `/u/4/`, ~14:25–14:36 CDMX) · 10 pedidas · entraron 10 · «Cuota superada» 3 veces entre 14:26 y 14:31 (no gasta; la ventana de ayer se liberaba de a poco)
+
+Ronda de mediodía a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexico`, sin lo ya pedido. Ya estaban en Google (no se pidieron, no gastan): `/herramientas/cupon-de-descuento/`, `/herramientas/tarjeta-de-lealtad/`, `/herramientas/lista-de-precios/`, `/herramientas/terminos-y-condiciones/`, `/guias/link-en-bio/`, `/guias/boletin-informativo/`, `/guias/link-de-pago/`. Relleno (8): las de más volumen ya en Google y nunca pedidas. Comprobante: aviso verde en las 10.
+
+- 2026-11-18 · https://www.aliviane.mx/herramientas/recibo-de-renta/ · no estaba en Google
+- 2026-11-18 · https://www.aliviane.mx/herramientas/orden-de-servicio/ · no estaba en Google
+- 2026-11-18 · https://www.aliviane.mx/guias/marketing-digital/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/herramientas/slogan/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/guias/analisis-foda/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/herramientas/nota-de-remision/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/guias/mision-y-vision/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/herramientas/flyer/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/herramientas/banner/ · fija (ya estaba en Google)
+- 2026-11-18 · https://www.aliviane.mx/guias/isotipo-imagotipo-logotipo/ · fija (ya estaba en Google)
+
+Siguen: el resto de `LISTA_CONSTRUIR.csv` por volumen (`/guias/traslado-de-dominio/`, `/guias/hosting-en-mexico/`, `/guias/mensaje-de-recordatorio-para-clientes/`…) y, de relleno, `/guias/negocios-rentables/`, `/guias/que-es-una-landing-page/`, `/herramientas/crear-logo-gratis/`…
+
+Ventana de cupo: se libera el 19-nov de ~14:25 a ~14:36.
