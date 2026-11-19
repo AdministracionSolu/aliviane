@@ -685,8 +685,8 @@
             <label><span>Correo <i>(opcional)</i></span><input name="correo" type="email" autocomplete="email"></label>
           </div>
           <div class="dos">
-            <label>¿Qué día?<select name="dia"><option>Hoy</option><option selected>Mañana</option><option>Esta semana</option><option>La próxima semana</option></select></label>
-            <label><span>¿A qué hora? <i>(hora del centro)</i></span><select name="hora"><option>9:00 a. m.</option><option>9:30 a. m.</option><option selected>10:00 a. m.</option><option>10:30 a. m.</option><option>11:00 a. m.</option><option>11:30 a. m.</option><option>12:00 p. m.</option><option>12:30 p. m.</option><option>1:00 p. m.</option><option>1:30 p. m.</option><option>2:00 p. m.</option><option>2:30 p. m.</option><option>3:00 p. m.</option><option>3:30 p. m.</option><option>4:00 p. m.</option><option>4:30 p. m.</option><option>5:00 p. m.</option><option>5:30 p. m.</option><option>6:00 p. m.</option><option>6:30 p. m.</option></select></label>
+            <label>¿Qué día?<select name="dia" id="demo-dia"><option>Mañana</option><option>Esta semana</option><option>La próxima semana</option></select></label>
+            <label><span>¿A qué hora? <i>(hora del centro)</i></span><select name="hora" id="demo-hora"><option>10:30 a. m.</option><option>12:00 p. m.</option><option>1:30 p. m.</option><option>4:00 p. m.</option><option>5:30 p. m.</option></select></label>
           </div>
           <label><span>¿Algo que debamos saber? <i>(opcional)</i></span><textarea name="comentario" rows="3"></textarea></label>
           <button class="boton" type="submit">Agendar mi demo <span class="flecha">→</span></button>
@@ -715,6 +715,41 @@
   document.querySelectorAll('.a-meet').forEach(a => {
     if (MEET_URL) { a.href = MEET_URL; a.hidden = false; }
   });
+  // Horarios de demo: entre semana desde las 10:00, fin de semana desde las 11:00, hasta las 6:30 p. m. (CDMX).
+  // Cada día se ocultan horarios al azar (fijos por fecha, no cambian al recargar) para que no se vea todo libre.
+  (() => {
+    const selDia = document.getElementById('demo-dia'), selHora = document.getElementById('demo-hora');
+    const ahora = () => {
+      const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Mexico_City', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' })
+        .formatToParts(new Date()).map(x => [x.type, x.value]));
+      return { fecha: new Date(Date.UTC(+p.year, +p.month - 1, +p.day)), min: +p.hour * 60 + +p.minute };
+    };
+    const azar = (semilla) => { let h = 2166136261; for (const c of semilla) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+      return () => { h = Math.imul(h ^ (h >>> 15), 2246822507); h = Math.imul(h ^ (h >>> 13), 3266489909); h ^= h >>> 16; return (h >>> 0) / 4294967296; }; };
+    const hora = (m) => { const h = Math.floor(m / 60), mm = m % 60, h12 = h % 12 || 12; return `${h12}:${String(mm).padStart(2, '0')} ${h < 12 ? 'a. m.' : 'p. m.'}`; };
+    const DIAS = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
+    const MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+    const { fecha: hoy, min: ahoraMin } = ahora();
+    const opciones = [];
+    for (let k = 0; opciones.length < 6 && k < 10; k++) {
+      const f = new Date(hoy.getTime() + k * 864e5), dow = f.getUTCDay();
+      const inicio = (dow === 0 || dow === 6) ? 11 * 60 : 10 * 60, fin = 18 * 60 + 30;
+      const r = azar('aliviane-' + f.toISOString().slice(0, 10));
+      let libres = [];
+      for (let m = inicio; m <= fin; m += 30) if (r() > 0.5) libres.push(m);
+      if (libres.length < 3) libres = [inicio + 60, inicio + 210, fin - 60];
+      if (k === 0) libres = libres.filter(m => m >= ahoraMin + 120);
+      if (!libres.length) continue;
+      const nombre = `${DIAS[dow]} ${f.getUTCDate()} ${MESES[f.getUTCMonth()]}`;
+      const etiqueta = k === 0 ? `Hoy, ${nombre}` : k === 1 ? `Mañana, ${nombre}` : nombre[0].toUpperCase() + nombre.slice(1);
+      opciones.push({ etiqueta, libres });
+    }
+    if (!opciones.length) return;
+    selDia.innerHTML = opciones.map(o => `<option>${o.etiqueta}</option>`).join('');
+    const pintar = () => { const o = opciones[selDia.selectedIndex]; selHora.innerHTML = o.libres.map(m => `<option>${hora(m)}</option>`).join(''); };
+    selDia.addEventListener('change', pintar);
+    pintar();
+  })();
   // Solicitud de demo: se guarda en Netlify y llega por correo
   const forma = document.getElementById('form-demo');
   forma.addEventListener('submit', async (e) => {
