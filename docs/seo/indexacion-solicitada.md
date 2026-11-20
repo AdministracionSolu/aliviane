@@ -99,3 +99,20 @@ Ronda de mediodía a petición de Diego. `LISTA_CONSTRUIR.csv` por `volumen_mexi
 Siguen: el resto de `LISTA_CONSTRUIR.csv` por volumen (`/guias/traslado-de-dominio/`, `/guias/hosting-en-mexico/`, `/guias/mensaje-de-recordatorio-para-clientes/`…) y, de relleno, `/guias/negocios-rentables/`, `/guias/que-es-una-landing-page/`, `/herramientas/crear-logo-gratis/`…
 
 Ventana de cupo: se libera el 19-nov de ~14:25 a ~14:36.
+
+## 2026-11-20 (ejemplosignsolu, `/u/4/`, ~10:25–10:29 CDMX) · 9 pedidas · entraron 8 · «Cuota superada» en la 9ª (10:29)
+
+Ronda de mañana a petición de Diego (el 19-nov no hubo ronda; no se recupera). `LISTA_CONSTRUIR.csv` por `volumen_mexico`, sin lo ya pedido: de las 20 de más volumen sólo `/guias/seo-y-sem/` salía «no está en Google»; las otras 19 ya estaban en Google. Relleno (7): las de más volumen ya en Google y nunca pedidas. `/guias/negocios-rentables/` no mostró el botón «Solicitar indexación» (no se pidió). La 9ª (`/herramientas/crear-logo-gratis/`) dio «Cuota superada»: tope medido hoy ~8-9 (el primer clic de `seo-y-sem` no abrió diálogo y quizá contó). Comprobante: aviso verde en las 8.
+
+- 2026-11-20 · https://www.aliviane.mx/guias/seo-y-sem/ · no estaba en Google
+- 2026-11-20 · https://www.aliviane.mx/herramientas/paleta-de-colores/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/pagina-web-para-negocio/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/herramientas/crear-qr-con-imagen/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/diseno-de-paginas-web/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/guias/que-es-una-landing-page/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/herramientas/qr-wifi/ · fija (ya estaba en Google)
+- 2026-11-20 · https://www.aliviane.mx/guias/que-es-hosting/ · fija (ya estaba en Google)
+
+Siguen: `/herramientas/crear-logo-gratis/` (dio cuota), `/guias/negocios-rentables/` (reintentar), `/herramientas/crear-logo-con-ia/`, `/plantillas/formato-de-cotizacion/`, `/guias/plan-de-negocios/`…
+
+Ventana de cupo: se libera el 21-nov de ~10:25 a ~10:29.
