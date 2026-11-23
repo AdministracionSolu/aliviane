@@ -116,3 +116,22 @@ Ronda de mañana a petición de Diego (el 19-nov no hubo ronda; no se recupera).
 Siguen: `/herramientas/crear-logo-gratis/` (dio cuota), `/guias/negocios-rentables/` (reintentar), `/herramientas/crear-logo-con-ia/`, `/plantillas/formato-de-cotizacion/`, `/guias/plan-de-negocios/`…
 
 Ventana de cupo: se libera el 21-nov de ~10:25 a ~10:29.
+
+## 2026-11-23 (cuenta ejemplosignsolu, `/u/4/`, ~10:15–10:40 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+Ronda de mañana a petición de Diego (21 y 22-nov sin ronda registrada). `LISTA_CONSTRUIR.csv` por `volumen_mexico`, sin lo ya pedido; las 10 salían «no está en Google», sin relleno. Las demás inspeccionadas ya estaban en Google y no se pidieron. Comprobante: aviso verde en las 10.
+
+- 2026-11-23 · https://www.aliviane.mx/guias/valores-de-una-empresa/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/herramientas/firma-de-correo/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/herramientas/logo-para-restaurante/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/herramientas/logo-para-camisetas/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/herramientas/letras-para-logo/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/guias/negocios-desde-casa/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/herramientas/paleta-de-colores-naranja/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/guias/codigo-de-barras-en-excel/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/plantillas/plantillas-para-instagram/ · no estaba en Google
+- 2026-11-23 · https://www.aliviane.mx/guias/bot-para-whatsapp/ · no estaba en Google
+
+Siguen: `/herramientas/logo-para-unas/`, `/herramientas/logo-para-barberia/`, `/herramientas/poster/`.
+
+Ventana de cupo: se libera el 24-nov desde ~10:40.
