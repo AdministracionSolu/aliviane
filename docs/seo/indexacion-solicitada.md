@@ -135,3 +135,22 @@ Ronda de mañana a petición de Diego (21 y 22-nov sin ronda registrada). `LISTA
 Siguen: `/herramientas/logo-para-unas/`, `/herramientas/logo-para-barberia/`, `/herramientas/poster/`.
 
 Ventana de cupo: se libera el 24-nov desde ~10:40.
+
+## 2026-11-24 (ejemplosignsolu, `/u/4/`, ~10:40–10:51 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+Ronda de mañana a petición de Diego. De las que seguían y las nunca inspeccionadas, por `volumen_mexico`, ya estaban en Google (no se pidieron): `/herramientas/logo-para-barberia/`, `/herramientas/poster/`, `/guias/terminal-para-cobrar-con-tarjeta/`, `/guias/slug-seo/`, `/guias/publicidad-para-negocios/`, `/guias/frases-para-vender/`, `/guias/frases-de-emprendedores/`, `/guias/como-registrar-una-marca/`, `/guias/como-emprender-un-negocio/`, `/guias/campana-publicitaria/`, `/guias/resenas-de-google/`, `/guias/publicidad-en-facebook/`, `/paginas-web/publicidad-para-unas/`, `/guias/publicidad-en-instagram/`. Sólo 1 de 15 faltaba; el resto es relleno con las páginas de servicio y las fijas de más volumen. Comprobante: aviso verde en las 10.
+
+- 2026-11-24 · https://www.aliviane.mx/herramientas/logo-para-unas/ · no estaba en Google
+- 2026-11-24 · https://www.aliviane.mx/pagina-web-para-negocio/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/landing-page/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/diseno-de-paginas-web/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/guias/negocios-rentables/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/herramientas/crear-logo-gratis/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/herramientas/crear-logo-con-ia/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/plantillas/formato-de-cotizacion/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/guias/plan-de-negocios/ · fija (ya estaba en Google)
+- 2026-11-24 · https://www.aliviane.mx/plantillas/orden-de-compra/ · fija (ya estaba en Google)
+
+Siguen (nunca inspeccionadas, 45): `/guias/agencia-seo/`, `/herramientas/paleta-de-colores-tierra/`, `/herramientas/nombres-para-tiendas/`, `/herramientas/logo-para-constructora/`, `/herramientas/logo-3d/`, `/guias/publicidad-en-google/`, `/guias/negocios-en-linea/`.
+
+Ventana de cupo: se libera el 25-nov desde ~10:51.
