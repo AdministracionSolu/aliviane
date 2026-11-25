@@ -154,3 +154,22 @@ Ronda de mañana a petición de Diego. De las que seguían y las nunca inspeccio
 Siguen (nunca inspeccionadas, 45): `/guias/agencia-seo/`, `/herramientas/paleta-de-colores-tierra/`, `/herramientas/nombres-para-tiendas/`, `/herramientas/logo-para-constructora/`, `/herramientas/logo-3d/`, `/guias/publicidad-en-google/`, `/guias/negocios-en-linea/`.
 
 Ventana de cupo: se libera el 25-nov desde ~10:51.
+
+## 2026-11-25 (ejemplosignsolu, `/u/4/`, ~13:00–13:35 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+Ronda de mañana a petición de Diego. De las que seguían sin inspeccionar, ya estaban en Google (no se pidieron): `/guias/agencia-seo/`, `/herramientas/paleta-de-colores-tierra/`, `/herramientas/nombres-para-tiendas/`. Ninguna faltaba; relleno con las fijas de más `volumen_mexico` no pedidas en 14 días. Comprobante: aviso verde en las 10.
+
+- 2026-11-25 · https://www.aliviane.mx/plantillas/ejemplos-de-paginas-web/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/comprar-dominio/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/ideas-de-negocio/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/imprimir-tarjetas-de-presentacion/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/certificado-ssl/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/sitios-de-google/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/formato-de-factura/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/dominio-y-hosting/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/guias/agencia-de-marketing-digital/ · fija (ya estaba en Google)
+- 2026-11-25 · https://www.aliviane.mx/herramientas/folleto/ · fija (ya estaba en Google)
+
+Siguen (sin inspeccionar): `/herramientas/logo-para-constructora/`, `/herramientas/logo-3d/`, `/guias/publicidad-en-google/`, `/guias/negocios-en-linea/`.
+
+Ventana de cupo: se libera el 26-nov desde ~13:35.
