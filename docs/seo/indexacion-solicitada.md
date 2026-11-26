@@ -173,3 +173,20 @@ Ronda de mañana a petición de Diego. De las que seguían sin inspeccionar, ya 
 Siguen (sin inspeccionar): `/herramientas/logo-para-constructora/`, `/herramientas/logo-3d/`, `/guias/publicidad-en-google/`, `/guias/negocios-en-linea/`.
 
 Ventana de cupo: se libera el 26-nov desde ~11:35.
+
+## 2026-11-26 (cuenta ejemplosignsolu, `/u/4/`) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+(ronda de mañana; los seis sitios entre ~11:45 y ~12:45 CDMX, en orden SignSolú → Makatea → Comprafin → La Ola → Solú → Aliviane). Fijas por `volumen_mexico`: se inspeccionaron 16; ya estaban en Google y no se pidieron `/herramientas/generador-de-qr/`, `/herramientas/codigo-qr-para-whatsapp/`, `/guias/modelo-canvas/`, `/herramientas/recibo-de-pago/`, `/guias/seo/`, `/herramientas/link-de-whatsapp/`, `/herramientas/qr-de-instagram/`, `/herramientas/nombres-para-empresas/`, `/herramientas/xml-de-factura/`, `/herramientas/menu-de-cafeteria/`, `/herramientas/combinaciones-de-colores/`, `/herramientas/paleta-de-colores-cafe/`. Se pidieron las 4 que no estaban y 6 del informe Páginas → «Descubierta: actualmente sin indexar». El aviso de `/guias/que-es-un-dominio/` llegó tarde (se vio junto con el de la siguiente).
+
+- [x] `/guias/que-es-un-dominio/` · fija (aviso tardío)
+- [x] `/guias/como-crear-una-pagina-web/` · fija
+- [x] `/guias/pagina-de-facebook-para-negocio/` · fija
+- [x] `/herramientas/qr-de-facebook/` · fija
+- [x] `/guias/correo-corporativo/` · descubierta sin indexar
+- [x] `/guias/whatsapp-business-para-empresas/` · descubierta sin indexar
+- [x] `/herramientas/firma-de-gmail/` · descubierta sin indexar
+- [x] `/herramientas/logo-animado/` · descubierta sin indexar
+- [x] `/herramientas/logo-para-equipo-de-futbol/` · descubierta sin indexar
+- [x] `/herramientas/catalogo-digital/` · descubierta sin indexar (pedida el 14-nov, seguía fuera)
+
+Ventana de cupo: se libera el 27-nov desde ~12:45 CDMX (la ronda de mañana debe ir después de esa hora).
