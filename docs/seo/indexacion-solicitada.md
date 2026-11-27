@@ -190,3 +190,20 @@ Ventana de cupo: se libera el 26-nov desde ~11:35.
 - [x] `/herramientas/catalogo-digital/` · descubierta sin indexar (pedida el 14-nov, seguía fuera)
 
 Ventana de cupo: se libera el 27-nov desde ~12:45 CDMX (la ronda de mañana debe ir después de esa hora).
+
+## 2026-11-27 (cuenta ejemplosignsolu, `/u/4/`, ~12:56–13:09 CDMX) · 10 pedidas · entraron 10 · sin «Cuota superada»
+
+(ronda de mañana; orden SignSolú → Makatea → Comprafin → La Ola → Solú → Aliviane). Se inspeccionaron primero las 4 que ayer quedaron «sin inspeccionar» (`/herramientas/logo-para-constructora/`, `/herramientas/logo-3d/`, `/guias/publicidad-en-google/`, `/guias/negocios-en-linea/`): las 4 ya estaban en Google y no se pidieron. Luego el informe Páginas → «Descubierta: actualmente sin indexar» (18 URLs), menos las 10 pedidas ayer: quedaban 8 y las 8 decían «no está en Google». Relleno con 2 fijas de volumen nunca pedidas (ya estaban en Google). Comprobante: aviso verde en las 10.
+
+- [x] `/herramientas/nombres-para-barberia/` · descubierta sin indexar
+- [x] `/herramientas/nombres-para-comida-rapida/` · descubierta sin indexar
+- [x] `/herramientas/nombres-para-tienda-de-variedades/` · descubierta sin indexar
+- [x] `/herramientas/paleta-de-colores-blanco/` · descubierta sin indexar
+- [x] `/herramientas/paleta-de-colores-elegante/` · descubierta sin indexar
+- [x] `/herramientas/paleta-de-colores-lila/` · descubierta sin indexar
+- [x] `/herramientas/portada-de-facebook/` · descubierta sin indexar (pedida el 16-nov, seguía fuera)
+- [x] `/herramientas/lector-qr/` · descubierta sin indexar (pedida el 14-nov, seguía fuera)
+- [x] `/herramientas/paleta-de-colores-amarillo/` · fija (ya estaba en Google)
+- [x] `/herramientas/paleta-de-colores-frios/` · fija (ya estaba en Google)
+
+Ventana de cupo: se libera el 28-nov desde ~13:09 CDMX.
