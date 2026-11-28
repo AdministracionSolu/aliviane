@@ -207,3 +207,20 @@ Ventana de cupo: se libera el 27-nov desde ~12:45 CDMX (la ronda de mañana debe
 - [x] `/herramientas/paleta-de-colores-frios/` · fija (ya estaba en Google)
 
 Ventana de cupo: se libera el 28-nov desde ~13:09 CDMX.
+
+## 2026-11-28 (cuenta ejemplosignsolu, `/u/4/`, ~12:52–13:07 CDMX) · 10 pedidas · entraron 10 · 3 «Cuota superada» (12:52, 12:55 y 12:57; la ventana de ayer se liberó hasta las ~12:59)
+
+(ronda de mañana; orden SignSolú → Makatea → Comprafin → La Ola → Solú → Aliviane). Informe «Descubierta: actualmente sin indexar» (18 URLs, datos del 22-nov): las 10 que muestra se pidieron el 26 y el 27-nov (se saltan, regla de 3 días). Las candidatas nunca pedidas del sitemap que se inspeccionaron ya están en Google. Se llenó con fijas en el orden de `ORDEN_PUBLICACION.md` (servicio primero). Todas «fija (ya estaba en Google)». Comprobante: aviso verde en las 10 (por script). Ojo: hubo 3 clics con «Cuota superada» antes de que se liberara la ventana; ninguno entró.
+
+- [x] `/pagina-web-para-negocio/` · fija (ya estaba en Google)
+- [x] `/landing-page/` · fija (ya estaba en Google)
+- [x] `/diseno-de-paginas-web/` · fija (ya estaba en Google)
+- [x] `/herramientas/generador-de-qr/` · fija (ya estaba en Google)
+- [x] `/herramientas/crear-qr-con-imagen/` · fija (ya estaba en Google)
+- [x] `/herramientas/codigo-qr-para-whatsapp/` · fija (ya estaba en Google)
+- [x] `/guias/que-es-hosting/` · fija (ya estaba en Google)
+- [x] `/plantillas/ejemplos-de-paginas-web/` · fija (ya estaba en Google)
+- [x] `/guias/certificado-ssl/` · fija (ya estaba en Google)
+- [x] `/guias/dominio-y-hosting/` · fija (ya estaba en Google)
+
+Ventana de cupo: se libera el 29-nov desde ~12:52 CDMX (la mayoría desde ~12:59).
